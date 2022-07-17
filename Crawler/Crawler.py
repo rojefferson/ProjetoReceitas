@@ -32,8 +32,8 @@ def decodeSite(url):
     return result.content.decode()
 
 def getSoup(url):
-    soup = BeautifulSoup(decodeSite(url), "html.parser")
-    return soup
+    return BeautifulSoup(decodeSite(url), "html.parser")
+    
 
 def salvarArquivo(url,dominio,texto):
     guid = str(uuid.uuid4())
@@ -44,24 +44,46 @@ def salvarArquivo(url,dominio,texto):
     f.write(str(texto.encode('utf-8')))
     f.close()
 
-def navegacao(pagina, tamanhoArvore,dominio):  
-    paginaText = decodeSite(pagina)
-    if not existeUrl(pagina):
-        salvarArquivo(pagina,dominio,paginaText)
+##def navegacao(paginapai, pagina, tamanhoArvore,dominio):    
+    # if existeUrl(pagina):
+    #     return
+    # if not  existeUrl(pagina):
+    #     paginaText = decodeSite(pagina)
+    #     salvarArquivo(pagina,dominio,paginaText) 
+    # if tamanhoArvore <= 0:
+    #   return
+     
+    # print(paginapai,' - ',pagina,' - ',tamanhoArvore) 
+     
+    # soup1 = getSoup(pagina)
+    # listAncora1 = soup1.find_all('a', href=True)
+    # for site in listAncora1:
+    #     if dominio == pegarDominio(site["href"]) and pagina != paginapai  :
+    #         navegacao(paginapai,site["href"], tamanhoArvore - 1 ,dominio)
     
-    if tamanhoArvore <= 0:
-         return
-        
-    listAncora = soup.find_all('a', href=True)
-    for site in listAncora:
-        if dominio == pegarDominio(site["href"]):
-            navegacao(site["href"], tamanhoArvore - 1,dominio)
+def navegacao2(paginapai,pagina,tamanhoArvore):
+    if tamanhoArvore > 2:
+        return
+    soup1 = getSoup(pagina)
+    listAncora1 = soup1.find_all('a', href=True)
+    existeUrlBase = existeUrl(pagina)
+    for site in listAncora1:
+        url = site["href"]
+        if not existeUrlBase:
+            navegacao2(pagina,url,tamanhoArvore + 1)
 
+    print(paginapai,' - ',pagina,' - ',tamanhoArvore)
+    if not  existeUrlBase:
+        paginaText = decodeSite(pagina)
+        salvarArquivo(pagina,dominio,paginaText) 
+    
 def criarPasta(dominio):
     path = os.path.join(config['PastaRaiz'],"Crawler",dominio)
     if not os.path.exists(path):
         os.mkdir(path)
 
+
+#os.remove( os.path.join(config['PastaRaiz'],'lista.json'))
 for site in config['Paginas']:
     soup = getSoup(site)
     dominio = pegarDominio(site)
@@ -71,6 +93,7 @@ for site in config['Paginas']:
    
     for subSite in listAncora:
         if dominio == pegarDominio(subSite["href"]):
-            navegacao(subSite["href"], 0,dominio)
-        salvarLista()
+            navegacao2('vazio',subSite["href"],0)
+           ## print(subSite["href"])
+    salvarLista()
 
