@@ -1,3 +1,5 @@
 {
-    "PastaRaiz" : "C:/ProjetoRI" 
+    "PastaRaiz" : "C:/ProjetoRI",
+    "TamanhoArvore" : 20,
+    "Paginas" : ["https://vovopalmirinha.com.br"]
 }
