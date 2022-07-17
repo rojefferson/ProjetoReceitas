@@ -24,7 +24,6 @@ def navegacao(pagina, tamanhoArvore):
 
 pass
 
-
 for site in config['Paginas']:
     soup = decodeSite(site)
     listAncora = soup.find_all('a', href=True)
