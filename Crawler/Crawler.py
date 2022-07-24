@@ -1,3 +1,4 @@
+from ast import For
 from base64 import decode
 from genericpath import exists
 import json
@@ -8,9 +9,12 @@ import uuid
 from urllib.parse import urlparse
 from fake_useragent import UserAgent
 import os
+import re
 
-config = json.load(open(os.path.join(os.getcwd(),"..","config.json") ))
+config = json.load(open(os.path.join(os.getcwd(),"config.json") ))
 bancoSite = []
+
+tentativasSite = 5
 
 def salvarLista():
     with open( os.path.join(config['PastaRaiz'],'lista.json'), 'w') as filehandle:
@@ -26,14 +30,25 @@ def pegarDominio(url):
     return urlparse(url).netloc.split(".")[0]
 
 def decodeSite(url):
-    ua = UserAgent()
-    header = {'User-Agent': str(ua.chrome)}
-    result = req.get(url, headers=header)
-    return result.content.decode()
+    if url == "#primary":
+        return ""
+    try:
+        ua = UserAgent()
+        header = {'User-Agent': str(ua.chrome)}
+        retorno  =""      
+        for t in range(tentativasSite):
+         result = req.get(url, headers=header)
+         if result.status_code == 200: 
+            retorno = result.content.decode()
+            break
+
+        return retorno
+    except:
+        return ""
 
 def getSoup(url):
     return BeautifulSoup(decodeSite(url), "html.parser")
-    
+
 
 def salvarArquivo(url,dominio,texto):
     guid = str(uuid.uuid4())
@@ -44,56 +59,54 @@ def salvarArquivo(url,dominio,texto):
     f.write(str(texto.encode('utf-8')))
     f.close()
 
-##def navegacao(paginapai, pagina, tamanhoArvore,dominio):    
-    # if existeUrl(pagina):
-    #     return
-    # if not  existeUrl(pagina):
-    #     paginaText = decodeSite(pagina)
-    #     salvarArquivo(pagina,dominio,paginaText) 
-    # if tamanhoArvore <= 0:
-    #   return
-     
-    # print(paginapai,' - ',pagina,' - ',tamanhoArvore) 
-     
-    # soup1 = getSoup(pagina)
-    # listAncora1 = soup1.find_all('a', href=True)
-    # for site in listAncora1:
-    #     if dominio == pegarDominio(site["href"]) and pagina != paginapai  :
-    #         navegacao(paginapai,site["href"], tamanhoArvore - 1 ,dominio)
-    
-def navegacao2(paginapai,pagina,tamanhoArvore):
-    if  len(bancoSite) > 1000:
-        return
-    soup1 = getSoup(pagina)
+
+def navegacao2(paginapai,pagina):
+   
+    if paginapai == pagina or pagina == "#primary" or  len(bancoSite) > 1000 or existeUrl(pagina):
+        return 
+
+    paginaText = decodeSite(pagina)
+    salvarArquivo(pagina,dominio,paginaText) 
+
+    print(str(len(bancoSite)) + " - " + paginapai + " - " + pagina)
+
+    soup1 = BeautifulSoup(paginaText, "html.parser")
     listAncora1 = soup1.find_all('a', href=True)
-    existeUrlBase = existeUrl(pagina)
+    
     for site in listAncora1:
         url = site["href"]
-        if not existeUrlBase:
-            navegacao2(pagina,url,tamanhoArvore + 1)
-
-    print(paginapai,' - ',pagina,' - ',tamanhoArvore)
-    if not  existeUrlBase:
-        paginaText = decodeSite(pagina)
-        salvarArquivo(pagina,dominio,paginaText) 
+        if  pegarDominio(url) == pegarDominio(paginapai):
+            navegacao2(pagina,url)
+                 
     
 def criarPasta(dominio):
     path = os.path.join(config['PastaRaiz'],"Crawler",dominio)
     if not os.path.exists(path):
         os.mkdir(path)
 
+def is_valid_url(url):
+    regex = re.compile(
+        r'^https?://'  # http:// or https://
+        r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+[A-Z]{2,6}\.?|'  # domain...
+        r'localhost|'  # localhost...
+        r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})' # ...or ip
+        r'(?::\d+)?'  # optional port
+        r'(?:/?|[/?]\S+)$', re.IGNORECASE)
+    return url is not None and regex.search(url)
 
 #os.remove( os.path.join(config['PastaRaiz'],'lista.json'))
 for site in config['Paginas']:
     soup = getSoup(site)
     dominio = pegarDominio(site)
-    criarPasta(dominio)
+   ## criarPasta(dominio)
 
-    listAncora = soup.find_all('a', href=True)
+    listAncora =  filter(lambda x: is_valid_url(x["href"]), soup.find_all('a', href=True))
    
     for subSite in listAncora:
         if dominio == pegarDominio(subSite["href"]):
-          ##  navegacao2('vazio',subSite["href"],0)
-           print(subSite["href"])
+            navegacao2(site,subSite["href"])
+    
+    print(bancoSite)
+    
     #salvarLista()
 
