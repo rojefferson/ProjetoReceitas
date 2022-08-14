@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<meta name='robots' content='noindex, follow' />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link media="all" href="https://www.comidaereceitas.com.br/wp-content/cache/autoptimize/css/autoptimize_21b044c488350d741dbf572db0601193.css" rel="stylesheet" /><title>Especiais - Comida e Receitas</title>
+<meta name="description" content="Especiais - No Comida e Receitas você encontra as melhores receitas, além de diversos textos e dicas culinárias!" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Especiais - Comida e Receitas" />
+<meta property="og:description" content="Especiais - No Comida e Receitas você encontra as melhores receitas, além de diversos textos e dicas culinárias!" />
+<meta property="og:url" content="https://www.comidaereceitas.com.br/receitas/especiais" />
+<meta property="og:site_name" content="Comida e Receitas" />
+<meta property="og:image" content="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-1200x675-min.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="675" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@comidaereceitas" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.comidaereceitas.com.br/#organization","name":"Comida e Receitas","url":"https://www.comidaereceitas.com.br/","sameAs":["https://www.instagram.com/comidaereceitasoficial/","https://br.pinterest.com/comidaereceitas/","https://www.youtube.com/user/comidaereceitas","https://www.facebook.com/comidaereceitas","https://twitter.com/comidaereceitas"],"logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.comidaereceitas.com.br/#/schema/logo/image/","url":"https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-CeR-transp-512px.png","contentUrl":"https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-CeR-transp-512px.png","width":512,"height":512,"caption":"Comida e Receitas"},"image":{"@id":"https://www.comidaereceitas.com.br/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://www.comidaereceitas.com.br/#website","url":"https://www.comidaereceitas.com.br/","name":"Comida e Receitas","description":"Receitas para o dia a dia e grandes ocasiões","publisher":{"@id":"https://www.comidaereceitas.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.comidaereceitas.com.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"CollectionPage","@id":"https://www.comidaereceitas.com.br/receitas/especiais","url":"https://www.comidaereceitas.com.br/receitas/especiais","name":"Especiais - Comida e Receitas","isPartOf":{"@id":"https://www.comidaereceitas.com.br/#website"},"description":"Especiais - No Comida e Receitas você encontra as melhores receitas, além de diversos textos e dicas culinárias!","breadcrumb":{"@id":"https://www.comidaereceitas.com.br/receitas/especiais#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.comidaereceitas.com.br/receitas/especiais"]}]},{"@type":"BreadcrumbList","@id":"https://www.comidaereceitas.com.br/receitas/especiais#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://www.comidaereceitas.com.br/"},{"@type":"ListItem","position":2,"name":"Especiais"}]}]}</script>
+<link rel="alternate" type="application/rss+xml" title="Feed para Comida e Receitas &raquo;" href="https://www.comidaereceitas.com.br/feed" />
+<link rel="https://api.w.org/" href="https://www.comidaereceitas.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://www.comidaereceitas.com.br/wp-json/wp/v2/categories/34" />
+
+<script async crossorigin="anonymous" data-type="lazy" data-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9381876397958621"></script>
+
+
+<script async data-type="lazy" data-src="//securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+var aAreas=new Array("legumes-e-verduras","massas","molhos-e-cremes","saladas","salgados","sopas-e-caldos","sufles","tortas-salgadas","aves","carnes","crustaceos","peixes","arroz","microondas","ovos","paes-e-lanches","biscoitos-e-bolachas","bolos","doces-e-sobremesas","musses","paves","pudins","sorvetes","tortas-doces","bebidas-e-sucos","dicas","especiais","glossario","materias","regionais","internacionais","maquina-de-pao","fritadeira-sem-oleo");
+var nLen=aAreas.length;
+var sSite=document.location.protocol+"//www.comidaereceitas.com.br";
+var sAddress=document.location.href;
+var sCategoria="";
+for(var i=0; i<nLen; i++){
+  if (sAddress.indexOf("/"+aAreas[i]+"/") != -1){
+    sCategoria=aAreas[i];
+  };
+};    
+</script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+</script>
+<script>
+googletag.cmd.push(function() {
+
+var Arroba_Topo = googletag.sizeMapping().
+addSize([768, 0], [[336, 280], [300, 250]]). //tablet
+addSize([320, 0], [[300, 250], [320, 100]]). //mobile
+addSize([0, 0], [320, 50]). //other
+build();
+ 
+var Sky_Grande = googletag.sizeMapping().
+addSize([768, 0], [[300, 600], [160, 600], [300, 250], [250, 250]]). //tablet
+addSize([320, 0], [300, 250]). //mobile
+addSize([0, 0], [320, 50]). //other
+build();
+ 
+var SuperBanner = googletag.sizeMapping().
+addSize([768, 0], [728, 90]). //tablet
+addSize([0, 0], [320, 50]). //other
+build();
+
+googletag.defineSlot('/33497130/CR_Arroba_Topo_ROS', [[336, 280], [300, 250]], 'div-gpt-ad-1355869589195-1').defineSizeMapping(Arroba_Topo).addService(googletag.pubads());
+googletag.defineSlot('/33497130/CR_Sky_Grande_ROS', [[300, 600], [300, 250], [160, 600], [250, 250]], 'div-gpt-ad-1355869589195-6').defineSizeMapping(Sky_Grande).addService(googletag.pubads());
+//googletag.defineSlot('/33497130/CR_SuperBanner_ROS', [[728, 90], [320, 50]], 'div-gpt-ad-1355869589195-4').defineSizeMapping(SuperBanner).addService(googletag.pubads());
+googletag.defineSlot('/33497130/lojinha', [300, 600], 'div-gpt-ad-1614241349504-0').addService(googletag.pubads());
+googletag.defineSlot('/33497130/selo', [300, 90], 'div-gpt-ad-1614241349504-2').addService(googletag.pubads());
+googletag.defineSlot('/33497130/336x280-yt', [336, 280], 'div-gpt-ad-1614241349504-1').addService(googletag.pubads());
+if (sCategoria.length > 0) {googletag.pubads().setTargeting("CR-categ",sCategoria);}
+if (sAddress == sSite+"/" || sAddress == sSite+"/index.php") {googletag.pubads().setTargeting("CR-pagina","home");} else {googletag.pubads().setTargeting("CR-pagina","internas");}
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>
+
+<script data-type="lazy" data-src="data:text/javascript;base64,DQooZnVuY3Rpb24oaSxzLG8sZyxyLGEsbSl7aVsnR29vZ2xlQW5hbHl0aWNzT2JqZWN0J109cjtpW3JdPWlbcl18fGZ1bmN0aW9uKCl7KGlbcl0ucT1pW3JdLnF8fFtdKS5wdXNoKGFyZ3VtZW50cyl9LGlbcl0ubD0xKm5ldyBEYXRlKCk7YT1zLmNyZWF0ZUVsZW1lbnQobyksbT1zLmdldEVsZW1lbnRzQnlUYWdOYW1lKG8pWzBdO2EuYXN5bmM9MTthLnNyYz1nO20ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYSxtKX0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnLy93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vYW5hbHl0aWNzLmpzJywnZ2EnKTtnYSgnY3JlYXRlJywgJ1VBLTIwMjg3NDAtMjMnLCAnYXV0bycpO2dhKCdzZW5kJywgJ3BhZ2V2aWV3Jyk7DQo="></script>
+
+<script data-type="lazy" data-src="data:text/javascript;base64,KGZ1bmN0aW9uKHcsZCxzLGwsaSl7d1tsXT13W2xdfHxbXTt3W2xdLnB1c2goeydndG0uc3RhcnQnOg0KbmV3IERhdGUoKS5nZXRUaW1lKCksZXZlbnQ6J2d0bS5qcyd9KTt2YXIgZj1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdLA0Kaj1kLmNyZWF0ZUVsZW1lbnQocyksZGw9bCE9J2RhdGFMYXllcic/JyZsPScrbDonJztqLmFzeW5jPXRydWU7ai5zcmM9DQonaHR0cHM6Ly93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20vZ3RtLmpzP2lkPScraStkbDtmLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGosZik7DQp9KSh3aW5kb3csZG9jdW1lbnQsJ3NjcmlwdCcsJ2RhdGFMYXllcicsJ0dUTS1UTTg0VEozJyk7"></script>
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Comida e Receitas",
+  "url" : "https://www.comidaereceitas.com.br",
+  "logo": "https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-CeR-transp-512px.png",
+  "sameAs" : [ "https://www.facebook.com/comidaereceitas",
+    "https://twitter.com/comidaereceitas",
+  "https://www.youtube.com/comidaereceitas",
+  "https://www.pinterest.com/comidaereceitas"]
+}
+</script>
+<link rel="icon" href="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/cropped-logo-CeR-transp-512px-2-420x420.png" sizes="32x32" />
+<link rel="icon" href="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/cropped-logo-CeR-transp-512px-2-420x420.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/cropped-logo-CeR-transp-512px-2-420x420.png" />
+<meta name="msapplication-TileImage" content="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/cropped-logo-CeR-transp-512px-2-420x420.png" />
+</head>
+<body class="archive category category-especiais category-34 wp-custom-logo wp-embed-responsive post-image-below-header post-image-aligned-right generate-columns-activated right-sidebar nav-below-header separate-containers fluid-header active-footer-widgets-0 nav-aligned-left header-aligned-left dropdown-hover" itemtype="https://schema.org/Blog" itemscope>
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627" /><fefuncg type="table" tablevalues="0 0.49803921568627" /><fefuncb type="table" tablevalues="0 0.49803921568627" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0 1" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1" /><fefuncg type="table" tablevalues="0 0.27843137254902" /><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0" /><fefuncg type="table" tablevalues="0 0.64705882352941" /><fefuncb type="table" tablevalues="0 1" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1" /><fefuncg type="table" tablevalues="0 0.94901960784314" /><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0.44705882352941 0.4" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1" /><fefuncg type="table" tablevalues="0 0.66274509803922" /><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TM84TJ3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=305492601008210&ev=PageView&noscript=1" /></noscript>
+<a class="screen-reader-text skip-link" href="#content" title="Pular para o conteúdo">Pular para o conteúdo</a> <header class="site-header" id="masthead" aria-label="Site" itemtype="https://schema.org/WPHeader" itemscope>
+<div class="inside-header grid-container grid-parent">
+<div class="site-logo">
+<a href="https://www.comidaereceitas.com.br/" title="Comida e Receitas" rel="home">
+<img class="header-image is-logo-image" alt="Comida e Receitas" src="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-v3.png" title="Comida e Receitas" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-v3.png 1x, https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-v3.png 2x" width="231" height="82" />
+</a>
+</div> </div>
+</header>
+<nav class="main-navigation sub-menu-right" id="site-navigation" aria-label="Primary" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+<div class="inside-navigation grid-container grid-parent">
+<div class="custom-search"><form method="get" class="search-form" action="https://www.comidaereceitas.com.br/">
+<label>
+<span class="screen-reader-text">Pesquisar por:</span>
+<input type="search" class="search-field" placeholder="Achar receitas" value="" name="s" title="Pesquisar por:">
+</label>
+<input type="submit" class="search-submit" value="Pesquisar"></form>
+</div> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<span class="gp-icon icon-menu-bars"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Menu</span> </button>
+<div id="primary-menu" class="main-nav"><ul id="menu-top-menu" class="menu sf-menu"><li id="menu-item-102799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102799"><a href="/">Início</a></li>
+<li id="menu-item-102801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102801"><a href="/receitas/dicas">Dicas</a></li>
+<li id="menu-item-102802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102802"><a href="/receitas/materias">Matérias</a></li>
+<li id="menu-item-102874" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-102874"><a href="/receitas/especiais" aria-current="page">Especiais</a></li>
+<li id="menu-item-102875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102875"><a href="/receitas/regionais">Regionais</a></li>
+<li id="menu-item-102876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102876"><a href="/receitas/internacionais">Internacionais</a></li>
+</ul></div> </div>
+</nav>
+<div class="site grid-container container hfeed grid-parent" id="page">
+<div class="site-content" id="content">
+<div class="content-area grid-parent mobile-grid-100 grid-70 tablet-grid-70" id="primary">
+<main class="site-main" id="main">
+<div class="generate-columns-container"> <header class="page-header" aria-label="Page">
+<h1 class="page-title">
+Especiais </h1>
+</header>
+<article id="post-75423" class="post-75423 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/faceis.html" rel="bookmark">Fáceis</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/faceis.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2014/05/ovo_frito-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Ovo frito" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2014/05/ovo_frito-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2014/05/ovo_frito.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas fáceis Amanteigados de maizena Biscoitos e Bolachas Arroz temperado Arroz Bife acebolado Carnes Bife acebolado com maionese Carnes Bife &#8230; <a title="Fáceis" class="read-more" href="https://www.comidaereceitas.com.br/especiais/faceis.html" aria-label="More on Fáceis">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-75399" class="post-75399 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/liquidificador.html" rel="bookmark">Liquidificador</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/liquidificador.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2014/05/Empadao_liquidoo-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Empadão de liquidificador" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2014/05/Empadao_liquidoo-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2014/05/Empadao_liquidoo.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de liquidificador Bolo de banana de liquidificador especialBolos Bolo de laranja de liquidificadorBolos Bolo de liquidificadorBolos Bolo mármore de &#8230; <a title="Liquidificador" class="read-more" href="https://www.comidaereceitas.com.br/especiais/liquidificador.html" aria-label="More on Liquidificador">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-71854" class="post-71854 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/dia-das-bruxas-halloween.html" rel="bookmark">Dia das bruxas &#8211; halloween</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/dia-das-bruxas-halloween.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2013/10/cupcake_fantasminha-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Cupcake fantasminha" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2013/10/cupcake_fantasminha-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2013/10/cupcake_fantasminha.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas para o dia das bruxas &#8211; Halloween Biscoito divertido especial Biscoitos e Bolachas Biscoito halloween Biscoitos e Bolachas Bolo &#8230; <a title="Dia das bruxas &#8211; halloween" class="read-more" href="https://www.comidaereceitas.com.br/especiais/dia-das-bruxas-halloween.html" aria-label="More on Dia das bruxas &#8211; halloween">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-70852" class="post-70852 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/light.html" rel="bookmark">Light</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/light.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2013/09/mousse_moranga_lightee-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Mousse de morango com catupiry light" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2013/09/mousse_moranga_lightee-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2013/09/mousse_moranga_lightee.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas light Ambrosia light Doces e Sobremesas Beijinho de coco light Doces e Sobremesas Biscoito crocante light Biscoitos e Bolachas &#8230; <a title="Light" class="read-more" href="https://www.comidaereceitas.com.br/especiais/light.html" aria-label="More on Light">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-70653" class="post-70653 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/bolos.html" rel="bookmark">Bolos</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/bolos.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/Bolo_nha_bentaaa-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Bolo Nha Benta" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/Bolo_nha_bentaaa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/Bolo_nha_bentaaa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de bolos Bolo caseiro Bolos Bolo cremoso de chocolate Bolos Bolo de banana recheado Bolos Bolo de batata doce &#8230; <a title="Bolos" class="read-more" href="https://www.comidaereceitas.com.br/especiais/bolos.html" aria-label="More on Bolos">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-70626" class="post-70626 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/bacalhau.html" rel="bookmark">Bacalhau</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/bacalhau.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/Bolinho_bacalhau_recheadaaa-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Bolinho de bacalhau recheado" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/Bolinho_bacalhau_recheadaaa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/Bolinho_bacalhau_recheadaaa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de bacalhau Açorda de bacalhauPeixes Arroz com bacalhauArroz Arroz com bacalhau simplesArroz Arroz de bacalhau ao fornoArroz Bacalhau à &#8230; <a title="Bacalhau" class="read-more" href="https://www.comidaereceitas.com.br/especiais/bacalhau.html" aria-label="More on Bacalhau">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-70376" class="post-70376 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/rapidas-15-minutos.html" rel="bookmark">Rápidas &#8211; 15 minutos</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/rapidas-15-minutos.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/bolinho_arroz_temperadoo-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Bolinho de arroz temperado" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/bolinho_arroz_temperadoo-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2013/08/bolinho_arroz_temperadoo.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas r&aacute;pidas com preparo em 15 minutos Arroz com brócolis e amêndoasArroz Arroz vietnamitaArroz Bala de gelatina dietDoces e Sobremesas &#8230; <a title="Rápidas &#8211; 15 minutos" class="read-more" href="https://www.comidaereceitas.com.br/especiais/rapidas-15-minutos.html" aria-label="More on Rápidas &#8211; 15 minutos">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-67639" class="post-67639 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/diabeticos.html" rel="bookmark">Diabéticos</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/diabeticos.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2013/04/Bolo_milhoaoaoa-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Bolo de milho verde (diabéticos)" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2013/04/Bolo_milhoaoaoa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2013/04/Bolo_milhoaoaoa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas para diabéticos Alfajor de doce de leite Biscoitos e Bolachas Apfelstrudel diet Tortas Doces Berinjela ao forno com atum &#8230; <a title="Diabéticos" class="read-more" href="https://www.comidaereceitas.com.br/especiais/diabeticos.html" aria-label="More on Diabéticos">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-64279" class="post-64279 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/drinks-famosos.html" rel="bookmark">Drinks famosos</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/drinks-famosos.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2012/12/alexander95-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Alexander" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2012/12/alexander95-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2012/12/alexander95.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de drinks famosos AlexanderBebidas e sucos AmericanoBebidas e sucos BarracudaBebidas e sucos Batida de cocoBebidas e sucos Batida espanholaBebidas &#8230; <a title="Drinks famosos" class="read-more" href="https://www.comidaereceitas.com.br/especiais/drinks-famosos.html" aria-label="More on Drinks famosos">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-57546" class="post-57546 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/dia-das-maes.html" rel="bookmark">Dia das mães</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/dia-das-maes.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2012/04/Alfakoraaa-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Alfajor" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2012/04/Alfakoraaa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2012/04/Alfakoraaa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas para o dia das mães Abobrinha com molho branco Legumes e Verduras Alfajor Biscoitos e Bolachas Arroz de forno &#8230; <a title="Dia das mães" class="read-more" href="https://www.comidaereceitas.com.br/especiais/dia-das-maes.html" aria-label="More on Dia das mães">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-35773" class="post-35773 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/ano-novo.html" rel="bookmark">Ano novo</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/ano-novo.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2010/06/Cheesecake_morangaaa-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Cheesecake de morango" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2010/06/Cheesecake_morangaaa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2010/06/Cheesecake_morangaaa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de ano novo Amarula Bebidas e sucos Batida de coco Bebidas e sucos Charlotte de morangos Doces e Sobremesas &#8230; <a title="Ano novo" class="read-more" href="https://www.comidaereceitas.com.br/especiais/ano-novo.html" aria-label="More on Ano novo">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-34653" class="post-34653 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/panetone.html" rel="bookmark">Panetone</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/panetone.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2007/11/panetone-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Foto: Restaurante Camauê" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2007/11/panetone-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2007/11/panetone.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de panetone Mini panetoneDoces e Sobremesas Mini panetone com chocolate, amêndoas e tâmarasDoces e Sobremesas Mini panetone recheadoDoces e &#8230; <a title="Panetone" class="read-more" href="https://www.comidaereceitas.com.br/especiais/panetone.html" aria-label="More on Panetone">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-34199" class="post-34199 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/natal.html" rel="bookmark">Natal</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/natal.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2010/05/Chester_molho_catupiryyy-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Foto: Catupiry" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2010/05/Chester_molho_catupiryyy-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2010/05/Chester_molho_catupiryyy.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de natal Selecionamos algumas receitas para deixar seu Natal ainda mais gostoso, além disso, confira também nossas receitas para &#8230; <a title="Natal" class="read-more" href="https://www.comidaereceitas.com.br/especiais/natal.html" aria-label="More on Natal">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-32131" class="post-32131 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/festa-junina.html" rel="bookmark">Festa junina</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/festa-junina.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/maca-do-amor-420x280-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Foto: Fabricia Miani" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/maca-do-amor-420x280-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/maca-do-amor-420x280.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de comidas juninas para sua festa! Algodão doce especial Doces e Sobremesas Amendoim praliné (festa junina) Microondas Arroz doce &#8230; <a title="Festa junina" class="read-more" href="https://www.comidaereceitas.com.br/especiais/festa-junina.html" aria-label="More on Festa junina">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<article id="post-30962" class="post-30962 post type-post status-publish format-standard has-post-thumbnail hentry category-especiais generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-33" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header" aria-label="Conteúdo">
+<h2 class="entry-title" itemprop="headline"><a href="https://www.comidaereceitas.com.br/especiais/ovos-de-pascoa.html" rel="bookmark">Ovos de páscoa</a></h2> <div class="entry-meta">
+<span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">Por <span class="fn n author-name" itemprop="name">Comida e Receitas</span></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://www.comidaereceitas.com.br/especiais/ovos-de-pascoa.html">
+<img width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2010/03/ovinhos_chocolate-250x167.jpg" class="attachment-250x167x1 size-250x167x1 wp-post-image" alt="Foto: Pixabay" loading="lazy" itemprop="image" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2010/03/ovinhos_chocolate-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2010/03/ovinhos_chocolate.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" />
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Receitas de ovos de páscoa Cesta de ovo de chocolate com ovinhos Doces e Sobremesas Coelhinho de chocolate trufado Doces &#8230; <a title="Ovos de páscoa" class="read-more" href="https://www.comidaereceitas.com.br/especiais/ovos-de-pascoa.html" aria-label="More on Ovos de páscoa">Leia mais</a></p>
+</div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Categorias </span><a href="https://www.comidaereceitas.com.br/receitas/especiais" rel="category tag">Especiais</a></span> </footer>
+</div>
+</article>
+<nav id="nav-below" class="paging-navigation" aria-label="Archive Page">
+<span class="screen-reader-text">Navegação de post</span>
+<div class="nav-previous">
+<span class="gp-icon icon-arrow"><svg viewbox="0 0 330 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z" /></svg></span> <span class="prev" title="Anterior"><a href="https://www.comidaereceitas.com.br/receitas/especiais/page/2">Post mais antigas</a></span>
+</div>
+<div class="nav-links"><span aria-current="page" class="page-numbers current"><span class="screen-reader-text">Page</span>1</span>
+<a class="page-numbers" href="https://www.comidaereceitas.com.br/receitas/especiais/page/2"><span class="screen-reader-text">Page</span>2</a>
+<a class="next page-numbers" href="https://www.comidaereceitas.com.br/receitas/especiais/page/2">>></a></div> </nav>
+</div> </main>
+</div>
+<div class="widget-area sidebar is-right-sidebar grid-30 tablet-grid-30 grid-parent" id="right-sidebar">
+<div class="inside-right-sidebar">
+<aside id="custom_html-19" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1614241349504-0' style='width: 300px; height: 600px; margin:0 auto;'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1614241349504-0'); });
+		</script>
+</div></div></aside><aside id="custom_html-4" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1355869589195-6' class='no-print'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1355869589195-6'); });
+</script>
+</div></div></aside><aside id="widget_tptn_pop-3" class="widget inner-padding tptn_posts_list_widget"><h2 class="widget-title">Mais vistas recentes</h2><div class="tptn_posts_daily  tptn_posts_widget tptn_posts_widget3"><ul><li><a href="https://www.comidaereceitas.com.br/bebidas-e-sucos/moscow-mule-tradicional.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2022/02/moscou_mule-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Moscow Mule tradicional" title="Moscow Mule tradicional" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/bebidas-e-sucos/moscow-mule-tradicional.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Moscow Mule tradicional</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/carnes/moela-de-frango-na-pressao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2020/03/moela_pressao-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Moela de frango na pressão" title="Moela de frango na pressão" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/carnes/moela-de-frango-na-pressao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Moela de frango na pressão</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/legumes-e-verduras/repolho-refogado.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/Repolho_refogaaa-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Repolho refogado" title="Repolho refogado" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/Repolho_refogaaa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/Repolho_refogaaa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/legumes-e-verduras/repolho-refogado.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Repolho refogado</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/paes-e-lanches/pao-de-queijo-com-polvilho-azedo.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2008/06/Pao_queijo_polvilhooo-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Pão de queijo com polvilho azedo" title="Pão de queijo com polvilho azedo" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2008/06/Pao_queijo_polvilhooo-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2008/06/Pao_queijo_polvilhooo.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/paes-e-lanches/pao-de-queijo-com-polvilho-azedo.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Pão de queijo com polvilho azedo</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/massas/espaguete-com-camarao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2011/01/Espaguete_camaraos-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Espaguete com camarão" title="Espaguete com camarão" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2011/01/Espaguete_camaraos-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2011/01/Espaguete_camaraos.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/massas/espaguete-com-camarao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Espaguete com camarão</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/carnes/costelinha-de-porco-frita.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2009/01/Costelinha_porco_fritaa-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Costelinha de porco frita" title="Costelinha de porco frita" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2009/01/Costelinha_porco_fritaa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2009/01/Costelinha_porco_fritaa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/carnes/costelinha-de-porco-frita.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Costelinha de porco frita</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/legumes-e-verduras/feijao-tropeiro-tradicao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2020/05/feijao_tropeiro_tradicao-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Feijão tropeiro tradição" title="Feijão tropeiro tradição" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/legumes-e-verduras/feijao-tropeiro-tradicao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Feijão tropeiro tradição</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/arroz/arroz-com-camarao-e-alho.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2018/07/arroz_camarao_alho-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Arroz com camarão e alho" title="Arroz com camarão e alho" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2018/07/arroz_camarao_alho-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2018/07/arroz_camarao_alho.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/arroz/arroz-com-camarao-e-alho.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Arroz com camarão e alho</span></a></span></li></ul><div class="tptn_clear"></div></div><br /></aside><aside id="widget-newsletter" class="widget inner-padding widget_block"><form action="https://sendy.comidaereceitas.com.br/sendy/subscribe" method="POST" accept-charset="utf-8">
+<p>Receba receitas por e-mail:</p>
+<p><input type="email" name="email" id="email" class="inputbox center" required placeholder="Insira seu e-mail"></p>
+<div style="display:none;"><label for="hp">HP</label><br><input type="text" name="hp" id="hp"></div>
+<input type="hidden" name="list" value="THo2Wj3B7qhj2A1m9X2wUg">
+<input type="hidden" name="subform" value="yes">
+<input type="submit" name="submit" id="submit" value="Assinar" class="button">
+</form></aside> </div>
+</div>
+</div>
+</div>
+<div class="site-footer footer-bar-active footer-bar-align-center">
+<footer class="site-info" aria-label="Site" itemtype="https://schema.org/WPFooter" itemscope>
+<div class="inside-site-info grid-container grid-parent">
+<div class="footer-bar">
+<aside id="custom_html-8" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><div id="social-media-icons">
+<a href="https://www.facebook.com/comidaereceitas" target="_blank" title="Facebook" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-facebook-4-32.png" class="social-icon" alt="Facebook" height="32" width="32" loading="lazy"></a>
+<a href="https://www.twitter.com/comidaereceitas" target="_blank" title="Twitter" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-twitter-4-32.png" class="social-icon" alt="Twitter" height="32" width="32" loading="lazy"></a>
+<a href="https://www.youtube.com/c/ComidaeReceitasTV?sub_confirmation=1" target="_blank" title="Youtube" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-youtube-9-32.png" class="social-icon" alt="Youtube" height="32" width="32" loading="lazy"></a>
+<a href="https://br.pinterest.com/comidaereceitas/" target="_blank" title="Pinterest" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-pinterest-4-32.png" class="social-icon" alt="Pinterest" height="32" width="32" loading="lazy"></a>
+<a href="https://www.instagram.com/comidaereceitasoficial/" target="_blank" title="Instagram" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-instagram-4-32.png" class="social-icon" alt="Instagram" height="32" width="32" loading="lazy"></a>
+<a href="mailto:info@comidaereceitas.com.br?subject=Contato" title="Contato" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-email-10-32.png" class="social-icon" alt="E-mail" height="32" width="32" loading="lazy"></a>
+</div></div></aside> </div>
+<div class="copyright-bar">
+&copy; 2007 - 2022 <a href="/">Comida e Receitas</a> </div>
+</div>
+</footer>
+</div>
+<script data-cfasync="false" type="text/javascript" id="clever-core">
+    /* <![CDATA[ */
+    (function (document, window) {
+        var a, c = document.createElement("script"), f = window.frameElement;
+        c.id = "CleverCoreLoader60697";
+        c.src = "//scripts.cleverwebserver.com/e598039f4c6732496509b03ffa20546c.js";
+        c.async = !0;
+        c.type = "text/javascript";
+        c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+        c.setAttribute("data-callback", "put-your-callback-macro-here");
+        try {
+            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+        } catch (e) {
+            a = !1;
+        }
+        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+        a.parentNode.insertBefore(c, a);
+    })(document, window);
+    /* ]]> */
+</script>
+<script>
+  function shr_click(width, height, shrurl) {
+      var leftPosition, topPosition;
+      leftPosition = (window.screen.width / 2) - ((width / 2) + 10);
+      topPosition = (window.screen.height / 2) - ((height / 2) + 50);
+      var windowFeatures = "status=no,height=" + height + ",width=" + width + ",resizable=yes,left=" + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY=" + topPosition + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no";
+      u=location.href;
+      t=document.title;
+      window.open(shrurl,'sharer', windowFeatures);
+      return false;
+  }
+
+  
+  var playYTDiv = document.getElementsByClassName('pL');
+  if (playYTDiv.length) {
+    playYTDiv[0].addEventListener('click', function(){
+      ga('send', 'event', 'Youtube', 'Play video', 'from '+location.pathname);
+    }, false);
+  }
+</script>
+<script id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><script id='kk-star-ratings-js-extra'>
+var kk_star_ratings = {"action":"kk-star-ratings","endpoint":"https:\/\/www.comidaereceitas.com.br\/wp-admin\/admin-ajax.php","nonce":"790a0dda2e"};
+</script>
+<!--[if lte IE 11]>
+<script src='https://www.comidaereceitas.com.br/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.1.3' id='generate-classlist-js'></script>
+<![endif]-->
+<script id='generate-menu-js-extra'>
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script type="text/javascript" id="flying-scripts">const loadScriptsTimer=setTimeout(loadScripts,5000*1000);const userInteractionEvents=["mouseover","keydown","touchstart","touchmove","wheel"];userInteractionEvents.forEach(function(event){window.addEventListener(event,triggerScriptLoader,{passive:!0})});function triggerScriptLoader(){loadScripts();clearTimeout(loadScriptsTimer);userInteractionEvents.forEach(function(event){window.removeEventListener(event,triggerScriptLoader,{passive:!0})})}
+function loadScripts(){document.querySelectorAll("script[data-type='lazy']").forEach(function(elem){elem.setAttribute("src",elem.getAttribute("data-src"))})}</script>
+<script defer src="https://www.comidaereceitas.com.br/wp-content/cache/autoptimize/js/autoptimize_5b20f73a295500a4257b719c15259691.js"></script></body>
+</html>
+
+
