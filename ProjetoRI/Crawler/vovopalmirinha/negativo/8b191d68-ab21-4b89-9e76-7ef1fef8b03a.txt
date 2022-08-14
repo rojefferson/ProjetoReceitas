@@ -1,0 +1,2392 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html class="ie ie8" lang="pt-BR"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9" lang="pt-BR"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="pt-BR"> <!--<![endif]-->
+
+<head>
+
+
+<meta charset="UTF-8" />
+<meta name="verification" content="feb6671508c2a172ab22abf1ef0055ca" />
+<title>Receitas da Vovó Palmirinha - Página Inicial</title>
+
+
+
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="pingback" href="https://vovopalmirinha.com.br/xmlrpc.php" />
+	
+<link rel="shortcut icon" href="https://vovopalmirinha.com.br/new/wp-content/uploads/2016/06/favicon.png" />	
+
+
+	
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Receitas da Vovó Palmirinha. Aprenda a fazer deliciosos pratos de forma rápida e muito fácil, e com o toque especial da Vovó Pamirinha. Envie sua receita." />
+	<link rel="canonical" href="https://vovopalmirinha.com.br/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Receitas da Vovó Palmirinha - Página Inicial" />
+	<meta property="og:description" content="Receitas da Vovó Palmirinha. Aprenda a fazer deliciosos pratos de forma rápida e muito fácil, e com o toque especial da Vovó Pamirinha. Envie sua receita." />
+	<meta property="og:url" content="https://vovopalmirinha.com.br/" />
+	<meta property="og:site_name" content="Vovó Palmirinha" />
+	<meta property="article:modified_time" content="2021-09-10T15:09:42+00:00" />
+	<meta name="twitter:card" content="summary" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Vovó Palmirinha &raquo;" href="https://vovopalmirinha.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Vovó Palmirinha &raquo;" href="https://vovopalmirinha.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Vovó Palmirinha &raquo; Receitas da Vovó Palmirinha" href="https://vovopalmirinha.com.br/receitas-da-vovo-palmirinha/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vovopalmirinha.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://vovopalmirinha.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://vovopalmirinha.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://vovopalmirinha.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://vovopalmirinha.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-core-css-css'  href='https://vovopalmirinha.com.br/wp-content/plugins/photoswipe-masonry/photoswipe-dist/photoswipe.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pswp-skin-css'  href='https://vovopalmirinha.com.br/wp-content/plugins/photoswipe-masonry/photoswipe-dist/default-skin/default-skin.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,400Italic,600,700|Roboto+Slab|Merriweather:300italic&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-core-css'  href='https://vovopalmirinha.com.br/wp-content/themes/smart-mag/style.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-responsive-css'  href='https://vovopalmirinha.com.br/wp-content/themes/smart-mag/css/responsive.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo-css'  href='https://vovopalmirinha.com.br/wp-content/themes/smart-mag/css/prettyPhoto.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-font-awesome-css'  href='https://vovopalmirinha.com.br/wp-content/themes/smart-mag/css/fontawesome/css/font-awesome.min.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css'  href='https://vovopalmirinha.com.br/wp-content/plugins/newsletter/style.css?ver=7.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='https://vovopalmirinha.com.br/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css'  href='https://vovopalmirinha.com.br/?__custom_css=1&#038;ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://vovopalmirinha.com.br/wp-content/plugins/jetpack/css/jetpack.css?ver=10.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/plugins/photoswipe-masonry/photoswipe-dist/photoswipe.min.js?ver=5.8.1' id='photoswipe-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/plugins/photoswipe-masonry/photoswipe-masonry.js?ver=5.8.1' id='photoswipe-masonry-js-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/plugins/photoswipe-masonry/photoswipe-dist/photoswipe-ui-default.min.js?ver=5.8.1' id='photoswipe-ui-default-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/plugins/photoswipe-masonry/masonry.pkgd.min.js?ver=5.8.1' id='photoswipe-masonry-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/plugins/photoswipe-masonry/imagesloaded.pkgd.min.js?ver=5.8.1' id='photoswipe-imagesloaded-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/themes/smart-mag/js/jquery.prettyPhoto.js?ver=5.8.1' id='pretty-photo-smartmag-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-207729047-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["vovopalmirinha.com.br"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-207729047-1", {"anonymize_ip":true});
+gtag("config", "G-SHWG3CVLE3");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://vovopalmirinha.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://vovopalmirinha.com.br/wp-json/wp/v2/pages/425" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vovopalmirinha.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://vovopalmirinha.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel='shortlink' href='https://vovopalmirinha.com.br/' />
+<link rel="alternate" type="application/json+oembed" href="https://vovopalmirinha.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvovopalmirinha.com.br%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://vovopalmirinha.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvovopalmirinha.com.br%2F&#038;format=xml" />
+<script type="text/javascript">
+var pma_template_Url = 'https://vovopalmirinha.com.br';var pma_plugin_Url = 'https://vovopalmirinha.com.br/wp-content/plugins';</script><meta name="generator" content="Site Kit by Google 1.41.0" />
+
+<!-- This site is optimized with the Schema plugin v1.7.9.2 - https://schema.press -->
+<script type="application/ld+json">[{"@context":"http:\/\/schema.org\/","@type":"WPHeader","url":"https:\/\/vovopalmirinha.com.br","headline":"Vovó Palmirinha","description":"Vovó Palmirinha"},{"@context":"http:\/\/schema.org\/","@type":"WPFooter","url":"https:\/\/vovopalmirinha.com.br","headline":"Vovó Palmirinha","description":"Vovó Palmirinha","copyrightYear":"2013"}]</script>
+
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.2 - https://schema.press -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Person","@id":"https:\/\/vovopalmirinha.com.br#person","name":"Vovó Palmirinha","url":"https:\/\/vovopalmirinha.com.br"}</script>
+
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.2 - https://schema.press -->
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://vovopalmirinha.com.br",
+                "name": "Home"
+            }
+        }
+    ]
+}</script>
+
+
+<!-- Google AdSense snippet added by Site Kit -->
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2389448122557016" crossorigin="anonymous" type="text/javascript"></script>
+<script type="text/javascript">
+(adsbygoogle = window.adsbygoogle || []).push({"google_ad_client":"ca-pub-2389448122557016","enable_page_level_ads":true,"tag_partner":"site_kit"});
+</script>
+
+<!-- End Google AdSense snippet added by Site Kit -->
+<link rel="icon" href="https://vovopalmirinha.com.br/wp-content/uploads/2018/01/cropped-casa-vovo-palmirinha-logobovo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://vovopalmirinha.com.br/wp-content/uploads/2018/01/cropped-casa-vovo-palmirinha-logobovo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://vovopalmirinha.com.br/wp-content/uploads/2018/01/cropped-casa-vovo-palmirinha-logobovo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://vovopalmirinha.com.br/wp-content/uploads/2018/01/cropped-casa-vovo-palmirinha-logobovo-270x270.png" />
+<style type="text/css" id="wp-custom-css">.no-display, .main-featured .row{
+	opacity: 1 !important;
+}</style>	
+<!--[if lt IE 9]>
+<script src="https://vovopalmirinha.com.br/wp-content/themes/smart-mag/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<script>
+	 jQuery(document).ready(function(){
+
+                var fonte = 16;
+                jQuery('#aumenta_fonte').click(function(){
+                    if (fonte<24){
+                        fonte = fonte+1;
+                        jQuery('.itensReceita').css({'font-size' : fonte+'px'});
+                    }
+                });
+                jQuery('#reduz_fonte').click(function(){
+                    if (fonte>9){
+                        fonte = fonte-1;
+                        jQuery('.itensReceita').css({'font-size' : fonte+'px'});
+                    }
+                });
+      });
+</script>
+<script data-ad-client="ca-pub-2389448122557016" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+
+
+<body data-rsssl=1 class="home page-template page-template-page-blocks page-template-page-blocks-php page page-id-425 page-builder right-sidebar full has-featured has-nav-dark has-nav-full">
+<!-- ManyChat -->
+<script src="//widget.manychat.com/217915348260609.js" async="async">
+</script>
+
+	<!-- Facebook Pixel Code -->
+	<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '232944967433293');
+	  fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	  src="https://www.facebook.com/tr?id=232944967433293&ev=PageView&noscript=1"
+	/></noscript>
+<!-- End Facebook Pixel Code -->
+<div class="main-wrap header-custom">
+
+	
+	
+	<div class="top-bar">
+
+		<div class="wrap">
+			<section class="top-bar-content cf">
+			
+								<div class="trending-ticker">
+					<a href="https://facebook.com/vovopalmirinha" target="_blank"><img src="https://vovopalmirinha.com.br/wp-content/themes/smart-mag/images/facebook.png" width="22" height="22"></a>
+					<a href="https://twitter.com/vovopalmirinha" target="_blank"><img src="https://vovopalmirinha.com.br/wp-content/themes/smart-mag/images/twitter.png" width="22" height="22"></a>
+					<a href="https://www.snapchat.com/add/vovopalmirinha" target="_blank" title="Adicione vovopalmirinha no Snapchat"><img src="https://vovopalmirinha.com.br/wp-content/themes/smart-mag/images/snapchat.png" width="22" height="22"></a>
+					<a href="https://instagram.com/vovopalmirinha" target="_blank"><img src="https://vovopalmirinha.com.br/wp-content/themes/smart-mag/images/instagram.png" width="22" height="22"></a>
+					<a href="https://br.pinterest.com/vovopalmirinha/" target="_blank"><img src="https://vovopalmirinha.com.br/wp-content/themes/smart-mag/images/vovopalmirinha-logo-pintarest-3.png" width="22" height="22"></a>
+				</div>
+				
+									
+					
+		<div class="search">
+			<form role="search" action="https://vovopalmirinha.com.br/" method="get">
+				<input type="text" name="s" class="query live-search-query" value="" placeholder="faça uma busca..."/>
+				<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+			</form>
+		</div> <!-- .search -->					
+				
+							<div class="textwidget"></div>
+						
+			</section>
+		</div>
+		
+	</div>
+	
+
+		<div id="main-head" class="main-head">
+		
+		<div class="wrap customheightTopo">
+			
+			
+			<header class="default">
+			
+				
+				
+														<div class="right topoAds">
+						
+						<div class="adsps" style="margin-top: 20px; display: table; float: right; width: 728px; height: 90px;">
+							
+							<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2389448122557016"
+								 crossorigin="anonymous"></script>
+							<!-- Header - TOP -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:728px;height:90px"
+								 data-ad-client="ca-pub-2389448122557016"
+								 data-ad-slot="9430729008"></ins>
+							<script>
+								 (adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+							
+						</div>
+						
+						<style>.adsps .adsbygoogle{height: 90px !important; }</style>
+						
+												<!--<a href="http://www.ficavaiterbolo.com/?src=banner_Top" rel="noopener" target="_blank" style="margin-top: 20px; display: table; float: right;"><img class="alignnone size-full wp-image-3754" src="https://www.vovopalmirinha.com.br/wp-content/uploads/2018/09/vovo-palmirinha-bolos-topo.jpeg" alt="" width="728" height="90" /></a> -->
+						
+					</div>
+										
+								<div style="clear:all;"></div>
+				<div class="title">
+					<div class="logovovo" style="position:relative; float:left;">		<a href="https://vovopalmirinha.com.br/" title="Vovó Palmirinha" rel="home" class>
+		
+														
+								
+				<img src="https://www.vovopalmirinha.com.br/wp-content/uploads/2016/07/logo-4.png" class="logo-image" alt="Vovó Palmirinha"  />
+					 
+						
+		</a></div>
+					<div class="redesSociaisTopo" style="position:relative; float:right;">
+						<script type="text/javascript">
+							//<![CDATA[
+							if (typeof newsletter_check !== "function") {
+							window.newsletter_check = function (f) {
+							    var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
+							    if (!re.test(f.elements["ne"].value)) {
+							        alert("Email inválido");
+							        return false;
+							    }
+							    for (var i=1; i<20; i++) {
+							    if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
+							        alert("");
+							        return false;
+							    }
+							    }
+							    if (f.elements["ny"] && !f.elements["ny"].checked) {
+							        alert("You must accept the privacy statement");
+							        return false;
+							    }
+							    return true;
+							}
+							}
+							//]]>
+							</script>
+							<form method="post" action="https://www.vovopalmirinha.com.br/?na=s" onsubmit="return newsletter_check(this)">
+									<input class="newsletter-email" placeholder="digite seu email" type="email" name="ne" size="30" required>
+									<input class="newsletter-submit" type="submit" value="Ir"/>
+							</form>
+					</div>
+					
+				</div>
+				
+			</header>
+				
+							
+		</div>
+	
+		
+<div class="navigation-wrap cf">
+
+	<nav class="navigation cf nav-full nav-dark">
+	
+		<div class="wrap">
+		
+			<div class="mobile" data-type="classic" data-search="1">
+				<a href="#" class="selected">
+					<span class="text">Navegar</span><span class="current"></span> <i class="hamburger fa fa-bars"></i>
+				</a>
+			</div>
+			
+			<div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="menu"><li id="menu-item-2608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-425 current_page_item menu-item-2608"><a href="https://vovopalmirinha.com.br/" aria-current="page">Home</a></li>
+<li id="menu-item-2609" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-cat-25 menu-item-2609"><a href="https://vovopalmirinha.com.br/receitas/receitas/">Receitas</a>
+
+<div class="mega-menu row">
+
+	<div class="col-3 sub-cats">
+		
+		<ol class="sub-nav">
+				<li id="menu-item-2610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-27 menu-item-2610"><a href="https://vovopalmirinha.com.br/receitas/receitas/aves/">Aves</a></li>
+	<li id="menu-item-2611" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-28 menu-item-2611"><a href="https://vovopalmirinha.com.br/receitas/receitas/bebidas/">Bebidas</a></li>
+	<li id="menu-item-2612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-29 menu-item-2612"><a href="https://vovopalmirinha.com.br/receitas/receitas/bolos/">Bolos</a></li>
+	<li id="menu-item-2613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-30 menu-item-2613"><a href="https://vovopalmirinha.com.br/receitas/receitas/carnes/">Carnes</a></li>
+	<li id="menu-item-2614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-31 menu-item-2614"><a href="https://vovopalmirinha.com.br/receitas/receitas/doces/">Doces</a></li>
+	<li id="menu-item-2615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-33 menu-item-2615"><a href="https://vovopalmirinha.com.br/receitas/receitas/lanches/">Lanches</a></li>
+	<li id="menu-item-2616" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-34 menu-item-2616"><a href="https://vovopalmirinha.com.br/receitas/receitas/massas/">Massas</a></li>
+	<li id="menu-item-2617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-36 menu-item-2617"><a href="https://vovopalmirinha.com.br/receitas/receitas/peixes/">Peixes</a></li>
+		</ol>
+	
+	</div>
+
+
+	<div class="col-9 extend">
+	<section class="col-6 featured">
+		
+				
+		<span class="heading">Em destaque</span>
+		
+		<div class="highlights">
+		
+					
+			<article>
+					
+				<a href="https://vovopalmirinha.com.br/whoppie/" title="Whoppie" class="image-link">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/07/vovo-palmirinha-whoppie-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Whoppie" />				</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2018-07-25T12:40:19+00:00" itemprop="datePublished" class="meta-item">25 de julho de 2018</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/whoppie/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2><a href="https://vovopalmirinha.com.br/whoppie/" title="Whoppie">Whoppie</a></h2>
+				
+								
+			</article>
+			
+				
+		</div>
+	
+	</section>  
+
+	<section class="col-6 recent-posts">
+	
+		<span class="heading">Últimas receitas</span>
+			
+				
+		<div class="posts-list">
+	
+						
+			<div class="post">
+				<a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/294572556_120855770666630_8827353952553808861_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Bombocado de Canjiquinha" />				
+								
+				</a>
+				
+				<div class="content">
+				
+								<div class="cf listing-meta meta above">
+					
+				<time datetime="2022-07-20T15:11:34+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+											
+					<a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/">Bombocado de Canjiquinha</a>
+					
+																					
+				</div>
+			</div>
+			
+						
+			<div class="post">
+				<a href="https://vovopalmirinha.com.br/creme-de-tapioca/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/292101737_1771519746529129_5878622518604655325_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Creme de Tapioca" />				
+								
+				</a>
+				
+				<div class="content">
+				
+								<div class="cf listing-meta meta above">
+					
+				<time datetime="2022-07-20T15:02:47+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/creme-de-tapioca/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+											
+					<a href="https://vovopalmirinha.com.br/creme-de-tapioca/">Creme de Tapioca</a>
+					
+																					
+				</div>
+			</div>
+			
+						
+			<div class="post">
+				<a href="https://vovopalmirinha.com.br/minicuscuz-de-sardinha-e-legumes/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/290269138_322406786772174_2604984660944920517_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Minicuscuz de sardinha e legumes" />				
+								
+				</a>
+				
+				<div class="content">
+				
+								<div class="cf listing-meta meta above">
+					
+				<time datetime="2022-07-20T14:55:36+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/minicuscuz-de-sardinha-e-legumes/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+											
+					<a href="https://vovopalmirinha.com.br/minicuscuz-de-sardinha-e-legumes/">Minicuscuz de sardinha e legumes</a>
+					
+																					
+				</div>
+			</div>
+			
+						
+		</div>
+		
+	</section>
+	</div>
+</div>
+			</li>
+<li id="menu-item-2627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2627"><a href="https://vovopalmirinha.com.br/vovo-palmirinha/">Vovó Palmirinha</a></li>
+<li id="menu-item-2625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2625"><a href="https://vovopalmirinha.com.br/envie-sua-receita/">Envie sua receita</a></li>
+<li id="menu-item-2628" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-40 menu-item-2628"><a href="https://vovopalmirinha.com.br/receitas/dicas-da-vovo/">Dicas da Vovó</a></li>
+<li id="menu-item-2626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2626"><a href="https://vovopalmirinha.com.br/contato/">Contato</a></li>
+<li id="menu-item-3756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3756"><a href="https://ficavaiterbolo.com/?src=menu">CURSO ONLINE FICA VAI TER BOLO</a></li>
+</ul></div>			
+				
+		</div>
+		
+	</nav>
+
+		
+</div>		
+	</div>
+
+		
+ 	
+			<div class="breadcrumbs-wrap">
+			
+			<div class="wrap">
+						</div>
+			
+		</div>
+		
+
+<div class="breadcrumbs-wrap" style="display: none;">
+			
+	<div class="wrap">
+
+		<div class="breadcrumbs">
+
+			<span class="location">Você está aqui:</span>
+
+			<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<a itemprop="url" href="https://vovopalmirinha.com.br/">
+					<span itemprop="title">Home</span>
+				</a>
+			</span>
+
+			<span class="delim">&raquo;</span>
+
+			<span class="current">Receitas da Vovó Palmirinha</span>
+
+		</div>			
+
+	</div>
+	
+</div>
+
+	
+	<div class="main-featured">
+		<div class="wrap cf">
+		
+		<div class="row">
+			<div class="slider frame flexslider col-8" data-animation="fade" data-animation-speed="600" data-slide-delay="5000">
+				<ul class="slides">
+				
+									
+					<li>
+						<a href="https://vovopalmirinha.com.br/whoppie/" class="image-link"><img width="702" height="336" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/07/vovo-palmirinha-whoppie-702x336.jpg" class="attachment-main-slider size-main-slider wp-post-image" alt="Whoppie" loading="lazy" title="" /></a>					
+	
+												
+						<a href="https://vovopalmirinha.com.br/receitas/receitas/doces/" class="cat cat-title cat-31">Doces</a>
+						
+						<div class="caption">
+
+							
+							
+							<h3><a href="https://vovopalmirinha.com.br/whoppie/" title="Whoppie">Whoppie</a></h3>
+	
+						</div>					
+						
+					</li>
+					
+									
+					<li>
+						<a href="https://vovopalmirinha.com.br/rosquinha-colorida/" class="image-link"><img width="702" height="336" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/07/vovo-palmirinha-rosquinha-colorida-1-702x336.jpg" class="attachment-main-slider size-main-slider wp-post-image" alt="Rosquinha colorida" loading="lazy" title="" /></a>					
+	
+												
+						<a href="https://vovopalmirinha.com.br/receitas/receitas/doces/" class="cat cat-title cat-31">Doces</a>
+						
+						<div class="caption">
+
+							
+							
+							<h3><a href="https://vovopalmirinha.com.br/rosquinha-colorida/" title="Rosquinha colorida">Rosquinha colorida</a></h3>
+	
+						</div>					
+						
+					</li>
+					
+									
+					<li>
+						<a href="https://vovopalmirinha.com.br/pao-de-mel-com-chocolate-branco/" class="image-link"><img width="702" height="336" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/07/vovo-palmirinha-pao-de-mel-com-chocolate-branco-1-702x336.jpg" class="attachment-main-slider size-main-slider wp-post-image" alt="Pão de mel com chocolate branco" loading="lazy" title="" /></a>					
+	
+												
+						<a href="https://vovopalmirinha.com.br/receitas/receitas/doces/" class="cat cat-title cat-31">Doces</a>
+						
+						<div class="caption">
+
+							
+							
+							<h3><a href="https://vovopalmirinha.com.br/pao-de-mel-com-chocolate-branco/" title="Pão de mel com chocolate branco">Pão de mel com chocolate branco</a></h3>
+	
+						</div>					
+						
+					</li>
+					
+									
+					<li>
+						<a href="https://vovopalmirinha.com.br/biscoito-de-corujas-e-coracoes/" class="image-link"><img width="702" height="336" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/07/vovo-palmirinha-rosquinha-colorida-702x336.jpg" class="attachment-main-slider size-main-slider wp-post-image" alt="Biscoito de corujas e corações" loading="lazy" title="" /></a>					
+	
+												
+						<a href="https://vovopalmirinha.com.br/receitas/receitas/doces/" class="cat cat-title cat-31">Doces</a>
+						
+						<div class="caption">
+
+							
+							
+							<h3><a href="https://vovopalmirinha.com.br/biscoito-de-corujas-e-coracoes/" title="Biscoito de corujas e corações">Biscoito de corujas e corações</a></h3>
+	
+						</div>					
+						
+					</li>
+					
+									
+					<li>
+						<a href="https://vovopalmirinha.com.br/barquinha-de-chocolate-com-docinhos/" class="image-link"><img width="702" height="336" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/06/barquinha-de-chocolate-com-docinhos-702x336.jpg" class="attachment-main-slider size-main-slider wp-post-image" alt="Barquinha de chocolate com docinhos" loading="lazy" title="" /></a>					
+	
+												
+						<a href="https://vovopalmirinha.com.br/receitas/receitas/doces/" class="cat cat-title cat-31">Doces</a>
+						
+						<div class="caption">
+
+							
+							
+							<h3><a href="https://vovopalmirinha.com.br/barquinha-de-chocolate-com-docinhos/" title="Barquinha de chocolate com docinhos">Barquinha de chocolate com docinhos</a></h3>
+	
+						</div>					
+						
+					</li>
+					
+							
+				</ul>
+				
+				<div class="pages" data-number="5">
+				
+									<a href="#"></a>
+									<a href="#"></a>
+									<a href="#"></a>
+									<a href="#"></a>
+									<a href="#"></a>
+								
+				</div>
+				
+				
+			</div> <!-- .flexslider -->
+		
+			<div class="blocks col-4">
+			
+			<!-- <a href="https://www.vovopalmirinha.com.br/desafio/"><img src="https://www.vovopalmirinha.com.br/wp-content/uploads/2018/04/352-339-BANNER-DESAFIO.jpg" style="width: 100%; margin: 0 auto;"></a> -->
+
+						
+								
+				<article class="large">
+					 
+									 <span class="cat cat-title cat-31"><a href="https://vovopalmirinha.com.br/receitas/receitas/doces/">Doces</a></span>
+									 
+					 <a href="https://vovopalmirinha.com.br/copinho-napolitano/" class="image-link"><img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/06/copinho-napolitano-351x185.jpg" class="attachment-main-block size-main-block wp-post-image" alt="Copinho napolitano" loading="lazy" title="" /></a>
+					 
+					 <h3><a href="https://vovopalmirinha.com.br/copinho-napolitano/" title="Copinho napolitano">Copinho napolitano</a></h3>
+					
+				</article>
+				
+				
+								
+				<article class="small">
+					 
+									 
+					 <a href="https://vovopalmirinha.com.br/enroladinho-de-peito-de-peru/" class="image-link"><img width="168" height="137" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/06/enroladinho-de-peito-de-peru-1-168x137.jpg" class="attachment-slider-small size-slider-small wp-post-image" alt="Enroladinho de peito de peru" loading="lazy" title="" /></a>
+					 
+					 <h3><a href="https://vovopalmirinha.com.br/enroladinho-de-peito-de-peru/" title="Enroladinho de peito de peru">Enroladinho de peito de peru</a></h3>
+					
+				</article>
+				
+				
+								
+				<article class="small last">
+					 
+									 
+					 <a href="https://vovopalmirinha.com.br/minihamburguer/" class="image-link"><img width="168" height="137" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/06/minihamburguer-168x137.jpg" class="attachment-slider-small size-slider-small wp-post-image" alt="Minihamburguer" loading="lazy" title="" /></a>
+					 
+					 <h3><a href="https://vovopalmirinha.com.br/minihamburguer/" title="Minihamburguer">Minihamburguer</a></h3>
+					
+				</article>
+				
+				
+								
+				
+		</div>
+			
+		</div> <!-- .row -->
+
+		
+		</div> <!--  .wrap  -->
+	</div>
+
+
+<div class="main wrap cf">
+
+	<div class="row">
+		<div class="col-8 main-content">
+			
+			
+			<div id="post-425" class="page-content post-425 page type-page status-publish">
+
+					
+						
+					
+			
+		
+					
+							
+				<div class="row cf highlights-box"><div class="column half">
+
+	<section class="highlights">
+				
+				
+		
+				
+				
+						
+			<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/empada-cremosa-de-frango/" title="Empada cremosa de frango" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2017/09/Empada-cremosa-de-frango-Rodrigo-Moreira-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Empada cremosa de frango" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2017-09-06T11:38:04+00:00" itemprop="datePublished" class="meta-item">6 de setembro de 2017</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/empada-cremosa-de-frango/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/empada-cremosa-de-frango/" title="Empada cremosa de frango">Empada cremosa de frango</a></h2>
+				
+								
+								
+			</article>
+			
+								
+			<ul class="block posts">
+			
+				
+				
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/bolinha-com-2-queijos-e-bacon/" title="Bolinha com 2 queijos e bacon" class="title">
+						Bolinha com 2 queijos e bacon					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/escondidinho-com-creme-de-milho/" title="Escondidinho com creme de milho" class="title">
+						Escondidinho com creme de milho					</a>
+					
+						
+				</li>
+			
+					
+			 </ul> 			
+		
+	</section>
+	
+	</div><div class="column half">
+
+	<section class="highlights">
+				
+				
+		
+				
+				
+						
+			<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/leitoa-pururuca-com-farofa-especial/" title="Leitoa à pururuca com farofa especial" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2017/05/leitoa-a-pururuca-com-farofa-especial-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Leitoa à pururuca com farofa especial" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2017-05-31T11:59:54+00:00" itemprop="datePublished" class="meta-item">31 de maio de 2017</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/leitoa-pururuca-com-farofa-especial/#comments"><i class="fa fa-comments-o"></i> 1</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/leitoa-pururuca-com-farofa-especial/" title="Leitoa à pururuca com farofa especial">Leitoa à pururuca com farofa especial</a></h2>
+				
+								
+								
+			</article>
+			
+								
+			<ul class="block posts">
+			
+				
+				
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/cupim-de-panela/" title="Cupim de panela" class="title">
+						Cupim de panela					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/torta-de-estrogonofe-de-lombo/" title="Torta de estrogonofe de lombo" class="title">
+						Torta de estrogonofe de lombo					</a>
+					
+						
+				</li>
+			
+					
+			 </ul> 			
+		
+	</section>
+	
+	</div></div>
+
+	<div class="row cf highlights-box"><div class="column half">
+
+	<section class="highlights">
+				
+				
+		
+				
+				
+						
+			<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/empada-cremosa-de-frango/" title="Empada cremosa de frango" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2017/09/Empada-cremosa-de-frango-Rodrigo-Moreira-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Empada cremosa de frango" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2017-09-06T11:38:04+00:00" itemprop="datePublished" class="meta-item">6 de setembro de 2017</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/empada-cremosa-de-frango/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/empada-cremosa-de-frango/" title="Empada cremosa de frango">Empada cremosa de frango</a></h2>
+				
+								
+								
+			</article>
+			
+								
+			<ul class="block posts">
+			
+				
+				
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/bolinha-com-2-queijos-e-bacon/" title="Bolinha com 2 queijos e bacon" class="title">
+						Bolinha com 2 queijos e bacon					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/escondidinho-com-creme-de-milho/" title="Escondidinho com creme de milho" class="title">
+						Escondidinho com creme de milho					</a>
+					
+						
+				</li>
+			
+					
+			 </ul> 			
+		
+	</section>
+	
+	</div><div class="column half">
+
+	<section class="highlights">
+				
+				
+		
+				
+				
+						
+			<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/leitoa-pururuca-com-farofa-especial/" title="Leitoa à pururuca com farofa especial" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2017/05/leitoa-a-pururuca-com-farofa-especial-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Leitoa à pururuca com farofa especial" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2017-05-31T11:59:54+00:00" itemprop="datePublished" class="meta-item">31 de maio de 2017</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/leitoa-pururuca-com-farofa-especial/#comments"><i class="fa fa-comments-o"></i> 1</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/leitoa-pururuca-com-farofa-especial/" title="Leitoa à pururuca com farofa especial">Leitoa à pururuca com farofa especial</a></h2>
+				
+								
+								
+			</article>
+			
+								
+			<ul class="block posts">
+			
+				
+				
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/cupim-de-panela/" title="Cupim de panela" class="title">
+						Cupim de panela					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/torta-de-estrogonofe-de-lombo/" title="Torta de estrogonofe de lombo" class="title">
+						Torta de estrogonofe de lombo					</a>
+					
+						
+				</li>
+			
+					
+			 </ul> 			
+		
+	</section>
+	
+	</div></div>
+
+
+<section class="news-focus">
+
+		
+	<div class="section-head prominent heading cat-text-25">
+		<a href="https://vovopalmirinha.com.br/receitas/receitas/" title="Receitas">Receitas</a>
+	
+					
+						<ul class="subcats">
+	
+				<li><a href="#" class="active" data-id="0">TODAS</a></li>
+				
+									<li><a href="#" data-id="28">Bebidas</a></li>
+									<li><a href="#" data-id="31">Doces</a></li>
+									<li><a href="#" data-id="33">Lanches</a></li>
+									<li><a href="#" data-id="25">Receitas</a></li>
+							</ul>
+						
+			</div>
+	
+		
+		
+	<div class="row news-0 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/" title="Bombocado de Canjiquinha" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/294572556_120855770666630_8827353952553808861_n-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Bombocado de Canjiquinha" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2022-07-20T15:11:34+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/" title="Bombocado de Canjiquinha">Bombocado de Canjiquinha</a></h2>
+				
+								
+				<div class="excerpt">
+									</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/creme-de-tapioca/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/292101737_1771519746529129_5878622518604655325_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Creme de Tapioca" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-07-20T15:02:47+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/creme-de-tapioca/" title="Creme de Tapioca">
+							Creme de Tapioca</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/minicuscuz-de-sardinha-e-legumes/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/290269138_322406786772174_2604984660944920517_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Minicuscuz de sardinha e legumes" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-07-20T14:55:36+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/minicuscuz-de-sardinha-e-legumes/" title="Minicuscuz de sardinha e legumes">
+							Minicuscuz de sardinha e legumes</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/bolo-bem-casado/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/06/286785475_434469781912432_157718313595709259_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Bolo Bem-Casado" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-06-15T18:16:03+00:00" itemprop="datePublished" class="meta-item">15 de junho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/bolo-bem-casado/" title="Bolo Bem-Casado">
+							Bolo Bem-Casado</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/quiche-de-palmito-com-tomate-cereja/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/06/285316007_1057539861518060_7058206048216807038_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Quiche de palmito com tomate cereja" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-06-15T17:42:10+00:00" itemprop="datePublished" class="meta-item">15 de junho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/quiche-de-palmito-com-tomate-cereja/" title="Quiche de palmito com tomate cereja">
+							Quiche de palmito com tomate cereja</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+		
+	<div class="row news-28 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/champanhota/" title="Champanhota" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/suco-de-pessego-1-1-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Champanhota" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-06-07T14:56:46+00:00" itemprop="datePublished" class="meta-item">7 de junho de 2016</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/champanhota/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/champanhota/" title="Champanhota">Champanhota</a></h2>
+				
+								
+				<div class="excerpt">
+					<p>Bata tudo no liquidificador. Sirva gelado.</p>
+				</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/frape-de-coco-com-banana/"><img width="1" height="1" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/Frapê-de-banana-com-leite-de-coco.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Frapê de Coco com Banana" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2016-06-07T14:49:36+00:00" itemprop="datePublished" class="meta-item">7 de junho de 2016</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/frape-de-coco-com-banana/" title="Frapê de Coco com Banana">
+							Frapê de Coco com Banana</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/suco-diet-de-abacaxi-com-cenoura-e-hortela/"><img width="1" height="1" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/suco-de-abacaxi-cenoura-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Suco Diet de Abacaxi com Cenoura e Hortelã" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2016-06-07T14:47:59+00:00" itemprop="datePublished" class="meta-item">7 de junho de 2016</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/suco-diet-de-abacaxi-com-cenoura-e-hortela/" title="Suco Diet de Abacaxi com Cenoura e Hortelã">
+							Suco Diet de Abacaxi com Cenoura e Hortelã</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/cafe-gelado-2/"><img width="1" height="1" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/cafe-gelado-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Café Gelado" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2016-06-07T14:44:17+00:00" itemprop="datePublished" class="meta-item">7 de junho de 2016</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/cafe-gelado-2/" title="Café Gelado">
+							Café Gelado</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/limonada-suica-da-palmirinha/"><img width="1" height="1" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/Limonada-Suiça.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Limonada Suíça da Palmirinha" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2016-06-07T14:40:38+00:00" itemprop="datePublished" class="meta-item">7 de junho de 2016</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/limonada-suica-da-palmirinha/" title="Limonada Suíça da Palmirinha">
+							Limonada Suíça da Palmirinha</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+		
+	<div class="row news-31 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/bolo-bem-casado/" title="Bolo Bem-Casado" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/06/286785475_434469781912432_157718313595709259_n-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Bolo Bem-Casado" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2022-06-15T18:16:03+00:00" itemprop="datePublished" class="meta-item">15 de junho de 2022</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/bolo-bem-casado/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/bolo-bem-casado/" title="Bolo Bem-Casado">Bolo Bem-Casado</a></h2>
+				
+								
+				<div class="excerpt">
+									</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/muffins-branco-e-preto/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/06/280454385_119814460715911_850706505542314248_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Muffins Branco e Preto" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-06-15T16:49:53+00:00" itemprop="datePublished" class="meta-item">15 de junho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/muffins-branco-e-preto/" title="Muffins Branco e Preto">
+							Muffins Branco e Preto</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/beijinho-de-coco-3/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-10.26.49-110x96.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Beijinho de coco" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-03-16T14:51:12+00:00" itemprop="datePublished" class="meta-item">16 de março de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/beijinho-de-coco-3/" title="Beijinho de coco">
+							Beijinho de coco</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/bolinho-de-chuva/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2020/03/vovo-palmirinha-bolinho-de-chuva-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Bolinho de Chuva" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2020-03-20T15:00:43+00:00" itemprop="datePublished" class="meta-item">20 de março de 2020</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/bolinho-de-chuva/" title="Bolinho de Chuva">
+							Bolinho de Chuva</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/bolo-de-limao/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2020/03/vovo-palmirinha-bolo-de-limao-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Bolo de Limão" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2020-03-20T11:42:34+00:00" itemprop="datePublished" class="meta-item">20 de março de 2020</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/bolo-de-limao/" title="Bolo de Limão">
+							Bolo de Limão</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+		
+	<div class="row news-33 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/enroladinho-de-peito-de-peru/" title="Enroladinho de peito de peru" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/06/enroladinho-de-peito-de-peru-1-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Enroladinho de peito de peru" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2018-06-08T14:20:08+00:00" itemprop="datePublished" class="meta-item">8 de junho de 2018</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/enroladinho-de-peito-de-peru/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/enroladinho-de-peito-de-peru/" title="Enroladinho de peito de peru">Enroladinho de peito de peru</a></h2>
+				
+								
+				<div class="excerpt">
+									</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/minihamburguer/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/06/minihamburguer-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Minihamburguer" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2018-06-08T14:18:09+00:00" itemprop="datePublished" class="meta-item">8 de junho de 2018</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/minihamburguer/" title="Minihamburguer">
+							Minihamburguer</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/caldo-de-milho-com-frango/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/05/Caldo-de-milho-com-frango-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Caldo de milho com frango" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2018-05-16T10:00:09+00:00" itemprop="datePublished" class="meta-item">16 de maio de 2018</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/caldo-de-milho-com-frango/" title="Caldo de milho com frango">
+							Caldo de milho com frango</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/rosca-de-batata-doce-com-frango/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/05/Rosca-de-batata-doce-com-frango-1-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Rosca de batata-doce com frango" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2018-05-14T19:17:44+00:00" itemprop="datePublished" class="meta-item">14 de maio de 2018</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/rosca-de-batata-doce-com-frango/" title="Rosca de batata-doce com frango">
+							Rosca de batata-doce com frango</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/pao-de-churros-com-doce-de-leite/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2018/05/Pão-de-churros-com-doce-de-leite-1-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Pão de churros com doce de leite" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2018-05-14T19:15:52+00:00" itemprop="datePublished" class="meta-item">14 de maio de 2018</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/pao-de-churros-com-doce-de-leite/" title="Pão de churros com doce de leite">
+							Pão de churros com doce de leite</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+		
+	<div class="row news-25 highlights">
+
+		<div class="column half blocks">
+		
+					<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/" title="Bombocado de Canjiquinha" class="image-link" itemprop="url">
+					<img width="351" height="185" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/294572556_120855770666630_8827353952553808861_n-351x185.jpg" class="image wp-post-image" alt="" loading="lazy" title="Bombocado de Canjiquinha" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2022-07-20T15:11:34+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/" title="Bombocado de Canjiquinha">Bombocado de Canjiquinha</a></h2>
+				
+								
+				<div class="excerpt">
+									</div>
+				
+			</article>
+			
+					
+		</div>
+		
+		
+		<ul class="column half block posts-list thumb">
+
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/creme-de-tapioca/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/292101737_1771519746529129_5878622518604655325_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Creme de Tapioca" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-07-20T15:02:47+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/creme-de-tapioca/" title="Creme de Tapioca">
+							Creme de Tapioca</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/minicuscuz-de-sardinha-e-legumes/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/07/290269138_322406786772174_2604984660944920517_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Minicuscuz de sardinha e legumes" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-07-20T14:55:36+00:00" itemprop="datePublished" class="meta-item">20 de julho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/minicuscuz-de-sardinha-e-legumes/" title="Minicuscuz de sardinha e legumes">
+							Minicuscuz de sardinha e legumes</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/bolo-bem-casado/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/06/286785475_434469781912432_157718313595709259_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Bolo Bem-Casado" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-06-15T18:16:03+00:00" itemprop="datePublished" class="meta-item">15 de junho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/bolo-bem-casado/" title="Bolo Bem-Casado">
+							Bolo Bem-Casado</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+						
+				<li>
+				
+					<a href="https://vovopalmirinha.com.br/quiche-de-palmito-com-tomate-cereja/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/06/285316007_1057539861518060_7058206048216807038_n-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Quiche de palmito com tomate cereja" />
+																					
+					</a>
+					
+					<div class="content">
+
+									<div class="cf listing-meta above">
+					
+				<time datetime="2022-06-15T17:42:10+00:00" itemprop="datePublished" class="meta-item">15 de junho de 2022</time>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/quiche-de-palmito-com-tomate-cereja/" title="Quiche de palmito com tomate cereja">
+							Quiche de palmito com tomate cereja</a>
+							
+													
+													
+					</div>
+					
+				</li>
+			
+					
+				
+		</ul>
+			
+				
+	</div>
+	
+			
+</section><div class="row cf builder">
+			
+		
+					
+							<div class="column builder one-1">
+							
+			
+				
+					
+			<div class="a-widget">
+			
+				<div style="margin-bottom:30px;">
+<script type="text/javascript">
+<!--
+descrColor="000000";titleColor="000000";urlColor="A6A6A6";borderColor="FFFFFF";bgColor="FFFFFF";altColor="FFFFFF";coddisplaysupplier="69b26eea0bad42f3aa9139b663bac999";formatId="1";numads="4";type="1";
+-->
+</script>
+<script type="text/javascript" src="//adrequisitor-af.lp.uol.com.br/uolaf.js"></script></div>			
+			</div>
+		
+				
+					
+			 </div> 			
+					
+					</div>
+			
+		
+				
+			
+		
+					
+							
+				<div class="row cf highlights-box three-col"><div class="column one-third">
+
+	<section class="highlights">
+				
+					
+			<div class="section-head cat-text-31">
+				<a href="https://vovopalmirinha.com.br/receitas/receitas/doces/">Doces</a>
+			</div>
+							
+				
+		
+				
+				
+						
+			<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/bolo-bem-casado/" title="Bolo Bem-Casado" class="image-link" itemprop="url">
+					<img width="214" height="140" src="https://vovopalmirinha.com.br/wp-content/uploads/2022/06/286785475_434469781912432_157718313595709259_n-214x140.jpg" class="image wp-post-image" alt="" loading="lazy" title="Bolo Bem-Casado" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2022-06-15T18:16:03+00:00" itemprop="datePublished" class="meta-item">15 de junho de 2022</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/bolo-bem-casado/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/bolo-bem-casado/" title="Bolo Bem-Casado">Bolo Bem-Casado</a></h2>
+				
+								
+								
+			</article>
+			
+								
+			<ul class="block posts">
+			
+				
+				
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/muffins-branco-e-preto/" title="Muffins Branco e Preto" class="title">
+						Muffins Branco e Preto					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/beijinho-de-coco-3/" title="Beijinho de coco" class="title">
+						Beijinho de coco					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/bolinho-de-chuva/" title="Bolinho de Chuva" class="title">
+						Bolinho de Chuva					</a>
+					
+						
+				</li>
+			
+					
+			 </ul> 			
+		
+	</section>
+	
+	</div><div class="column one-third">
+
+	<section class="highlights">
+				
+					
+			<div class="section-head cat-text-28">
+				<a href="https://vovopalmirinha.com.br/receitas/receitas/bebidas/">Bebidas</a>
+			</div>
+							
+				
+		
+				
+				
+						
+			<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/champanhota/" title="Champanhota" class="image-link" itemprop="url">
+					<img width="214" height="140" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/suco-de-pessego-1-1-214x140.jpg" class="image wp-post-image" alt="" loading="lazy" title="Champanhota" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-06-07T14:56:46+00:00" itemprop="datePublished" class="meta-item">7 de junho de 2016</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/champanhota/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/champanhota/" title="Champanhota">Champanhota</a></h2>
+				
+								
+								
+			</article>
+			
+								
+			<ul class="block posts">
+			
+				
+				
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/frape-de-coco-com-banana/" title="Frapê de Coco com Banana" class="title">
+						Frapê de Coco com Banana					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/suco-diet-de-abacaxi-com-cenoura-e-hortela/" title="Suco Diet de Abacaxi com Cenoura e Hortelã" class="title">
+						Suco Diet de Abacaxi com Cenoura e Hortelã					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/cafe-gelado-2/" title="Café Gelado" class="title">
+						Café Gelado					</a>
+					
+						
+				</li>
+			
+					
+			 </ul> 			
+		
+	</section>
+	
+	</div><div class="column one-third">
+
+	<section class="highlights">
+				
+					
+			<div class="section-head cat-text-24">
+				<a href="https://vovopalmirinha.com.br/receitas/receitas/acompanhamentos/">Acompanhamentos</a>
+			</div>
+							
+				
+		
+				
+				
+						
+			<article itemscope itemtype="http://schema.org/Article">
+					
+				<a href="https://vovopalmirinha.com.br/salada-de-maionese/" title="Salada de Maionese" class="image-link" itemprop="url">
+					<img width="214" height="140" src="https://vovopalmirinha.com.br/wp-content/uploads/2020/01/vovo-palmirinha-salada-maionese-214x140.jpg" class="image wp-post-image" alt="" loading="lazy" title="Salada de Maionese" itemprop="image" />					
+										
+									</a>
+				
+							<div class="cf listing-meta meta above">
+					
+				<time datetime="2020-01-17T12:19:24+00:00" itemprop="datePublished" class="meta-item">17 de janeiro de 2020</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/salada-de-maionese/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+						
+				<h2 itemprop="name headline"><a href="https://vovopalmirinha.com.br/salada-de-maionese/" title="Salada de Maionese">Salada de Maionese</a></h2>
+				
+								
+								
+			</article>
+			
+								
+			<ul class="block posts">
+			
+				
+				
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/beringela-gratinada/" title="BERINGELA GRATINADA" class="title">
+						BERINGELA GRATINADA					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/carne-com-quiabo-e-batata/" title="Carne com quiabo e batata" class="title">
+						Carne com quiabo e batata					</a>
+					
+						
+				</li>
+			
+				
+					
+			
+				<li>
+			
+						
+					<i class="fa fa-angle-right"></i>
+					<a href="https://vovopalmirinha.com.br/rocambole-de-carne-moida-2/" title="Rocambole de carne moída" class="title">
+						Rocambole de carne moída					</a>
+					
+						
+				</li>
+			
+					
+			 </ul> 			
+		
+	</section>
+	
+	</div></div>
+
+<div class="row cf builder">
+			
+		
+					
+							<div class="column builder one-1">
+							
+			<h3 class="widget-title">Conheça a Vovó Palmirinha</h3>			<div class="textwidget"><div>
+<p style="margin-top:20px;">Palmira Nery da Silva Onofre nasceu em 29 de junho de 1931, em Bauru, cidade do interior de São Paulo. Ainda na infância, começou a escrever sua história repleta de lutas. Aos seis anos, por conta de dificuldades familiares, foi adotada por uma francesa, com quem aprendeu uma maravilhosa receita de pudim de leite condensado.</p>
+<p style="margin-top:20px;">Já casada e com três filhas, novas batalhas: a coragem de se separar do marido e criar as meninas sozinha. Foi quando Palmirinha percebeu que poderia ganhar mais dinheiro com seus sonhos… Deliciosos sonhos recheados de creme.</p>
+<p style="margin-top:20px;">Seguindo sua intuição empreendedora, começou então a cozinhar para fora – o que, coincidentemente, fez com que ela em 1994 participasse de um programa de televisão. No meio da atração, os telespectadores já ligavam para comprar as empadinhas que Palmirinha estava mostrando.</p>
+<p><a href="https://vovopalmirinha.com.br/vovo-palmirinha/" style="color:#cf76bf; font-weight:bold;">+ conheça a biografia da Vovó</a></p>
+</div>
+</div>
+				
+			<div class="textwidget post-content">
+				<h3 class="widget-title">Revistas da Vovó Palmirinha</h3>			</div>
+			
+				
+			<div class="textwidget post-content">
+				<div class="totalRevistas"><div class="revista"><p><img class="imagem-responsiva no-display appear" src="https://vovopalmirinha.com.br/wp-content/uploads/2019/11/vovo-palmirinha-receitas-para-festas.jpg" /></p><p style="margin-top: 20px;">Receitas para Festas. Mais de 100 receitas especiais!</p></div><div class="revista"><p><img class="imagem-responsiva no-display appear" src="https://vovopalmirinha.com.br/wp-content/uploads/2019/09/bolos-no-potinho-da-vovo-palmirinha.jpg" /></p><p style="margin-top: 20px;">Bolos no Potinho da Vovó Palmirinha, todas com foto!</p></div><div class="revista"><p><img class="imagem-responsiva no-display appear" src="https://vovopalmirinha.com.br/wp-content/uploads/2019/08/tortas-liquidificador.jpg" /></p><p style="margin-top: 20px;">Torta portuguesa, Mais de 70 receitinhas irresistíveis, todas com foto!</p></div></div>			</div>
+			
+					
+			 </div> 			
+					
+					</div>
+			
+		
+		
+
+			</div>
+			
+		</div>
+		
+					
+		
+		
+		<aside class="col-4 sidebar" data-sticky="1">
+		
+					<div class="theiaStickySidebar">
+			
+				<ul>
+				<li class="buscaSidebar">
+					<h3 class="widgettitle" style="margin-bottom:20px;">Busque receitas</h3>
+					<p style="font-size:14px; color:#cecece; margin-bottom:20px; margin-top:0;">Digite um termo abaixo e ache uma receita para aquele momento especial.</p>
+					
+		<div class="search">
+			<form role="search" action="https://vovopalmirinha.com.br/" method="get">
+				<input type="text" name="s" class="query live-search-query" value="" placeholder="faça uma busca..."/>
+				<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+			</form>
+		</div> <!-- .search -->				</li>	
+				<li id="text-6" class="widget widget_text">			<div class="textwidget"><p><!--<a href="http://www.ficavaiterbolo.com/?src=banner_Lat" target="_blank" rel="noopener"><img loading="lazy" class="alignnone size-full wp-image-3753" src="https://www.vovopalmirinha.com.br/wp-content/uploads/2018/09/vovo-palmirinha-bolos-sidebar2.jpg" alt="" width="300" height="300" srcset="https://vovopalmirinha.com.br/wp-content/uploads/2018/09/vovo-palmirinha-bolos-sidebar2.jpg 300w, https://vovopalmirinha.com.br/wp-content/uploads/2018/09/vovo-palmirinha-bolos-sidebar2-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
+</a>--></p>
+</div>
+		</li>
+<li id="text-5" class="widget widget_text">			<div class="textwidget"><p><!--<a href="https://www.vovopalmirinha.com.br/casavovopalmirinha/">
+<img src="https://www.vovopalmirinha.com.br/wp-content/uploads/2017/12/banner-sidebar.jpg" />
+</a>--></p>
+</div>
+		</li>
+<li id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2389448122557016"
+				 crossorigin="anonymous"></script>
+				<!-- sidebar1 -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-2389448122557016"
+					 data-ad-slot="4809420735"
+					 data-ad-format="auto"
+					 data-full-width-responsive="true"></ins>
+				<script>
+					 (adsbygoogle = window.adsbygoogle || []).push({});
+				</script></div></li>
+<li id="categories-2" class="widget widget_categories"><h3 class="widgettitle">Categorias de Receitas</h3><form action="https://vovopalmirinha.com.br" method="get"><label class="screen-reader-text" for="cat">Categorias de Receitas</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Selecionar categoria</option>
+	<option class="level-0" value="24">Acompanhamentos</option>
+	<option class="level-0" value="26">Aperitivos</option>
+	<option class="level-0" value="27">Aves</option>
+	<option class="level-0" value="28">Bebidas</option>
+	<option class="level-0" value="29">Bolos</option>
+	<option class="level-0" value="30">Carnes</option>
+	<option class="level-0" value="40">Dicas da Vovó</option>
+	<option class="level-0" value="31">Doces</option>
+	<option class="level-0" value="32">Entradas</option>
+	<option class="level-0" value="33">Lanches</option>
+	<option class="level-0" value="34">Massas</option>
+	<option class="level-0" value="42">Natal</option>
+	<option class="level-0" value="36">Peixes</option>
+	<option class="level-0" value="37">Pratos Festivos</option>
+	<option class="level-0" value="25">Receitas</option>
+	<option class="level-0" value="39">Revistas</option>
+	<option class="level-0" value="35">Risotos</option>
+	<option class="level-0" value="1">Sem categoria</option>
+	<option class="level-0" value="38">Sopas</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</li>
+	
+			<li id="bunyad-tabbed-recent-widget-1" class="widget tabbed">	
+			<ul class="tabs-list">
+			
+								
+				<li class="active">
+					<a href="#" data-tab="1">Receitas Mais Lidas</a>
+				</li>
+				
+								
+			</ul>
+			
+			<div class="tabs-data">
+									
+				<ul class="tab-posts active posts-list" id="recent-tab-1">
+				
+								
+						
+					<li>
+					
+						<a href="https://vovopalmirinha.com.br/pudim-facil-de-leite-em-po/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/pudim-3-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Pudim Fácil de Leite em Pó" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-06-30T17:37:49+00:00" itemprop="datePublished" class="meta-item">30 de junho de 2016</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/pudim-facil-de-leite-em-po/#comments"><i class="fa fa-comments-o"></i> 22</a></span>					
+			</div>
+								
+							<a href="https://vovopalmirinha.com.br/pudim-facil-de-leite-em-po/" title="Pudim Fácil de Leite em Pó">
+								Pudim Fácil de Leite em Pó</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="https://vovopalmirinha.com.br/tirando-a-acidez-do-molho/"><img width="1" height="1" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/molho-de-tomate-caseiro-004.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Tirando a acidez do molho" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-06-07T14:17:41+00:00" itemprop="datePublished" class="meta-item">7 de junho de 2016</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/tirando-a-acidez-do-molho/#comments"><i class="fa fa-comments-o"></i> 20</a></span>					
+			</div>
+								
+							<a href="https://vovopalmirinha.com.br/tirando-a-acidez-do-molho/" title="Tirando a acidez do molho">
+								Tirando a acidez do molho</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+						
+					<li>
+					
+						<a href="https://vovopalmirinha.com.br/bolo-de-chocolate-simples/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/05/bolo-chocolate-simples-1-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Bolo de Chocolate simples" />	
+																									
+						</a>
+						
+						<div class="content">
+						
+										<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-05-31T19:37:51+00:00" itemprop="datePublished" class="meta-item">31 de maio de 2016</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/bolo-de-chocolate-simples/#comments"><i class="fa fa-comments-o"></i> 18</a></span>					
+			</div>
+								
+							<a href="https://vovopalmirinha.com.br/bolo-de-chocolate-simples/" title="Bolo de Chocolate simples">
+								Bolo de Chocolate simples</a>
+								
+															
+																																								
+						</div>
+					
+					</li>
+					
+										
+									
+				</ul>
+							
+			</div>
+			
+			</li>
+		
+		<li id="facebook-like-box" class="widget widget_flb"><h3 class="widgettitle">Facebook da Vovó Palmirinha</h3><iframe src="https://www.facebook.com/plugins/fan.php?id=217915348260609&amp;width=300&amp;connections=1&amp;stream=true&amp;header=false&amp;locale=pt_BR" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:300px; height:250px"></iframe></li>
+
+		<li id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="widgettitle">Últimas receitas Adicionadas</h3>
+		<ul>
+											<li>
+					<a href="https://vovopalmirinha.com.br/palmirinha-aos-91-voce-sabe-que-esta-velha-mas-eu-nao-me-sinto-assim/">Palmirinha, aos 91: &#8216;Você sabe que está velha, mas eu não me sinto assim&#8217;</a>
+									</li>
+											<li>
+					<a href="https://vovopalmirinha.com.br/bombocado-de-canjiquinha/">Bombocado de Canjiquinha</a>
+									</li>
+											<li>
+					<a href="https://vovopalmirinha.com.br/creme-de-tapioca/">Creme de Tapioca</a>
+									</li>
+											<li>
+					<a href="https://vovopalmirinha.com.br/minicuscuz-de-sardinha-e-legumes/">Minicuscuz de sardinha e legumes</a>
+									</li>
+											<li>
+					<a href="https://vovopalmirinha.com.br/bolo-bem-casado/">Bolo Bem-Casado</a>
+									</li>
+					</ul>
+
+		</li>
+		
+				</ul>
+				
+		
+			</div>
+			
+			
+		
+		</aside>
+		
+			
+	</div> <!-- .row -->
+</div> <!-- .main -->
+
+	
+		
+	
+	<footer class="main-footer">
+	
+			<div class="wrap">
+		
+					<ul class="widgets row cf">
+				
+		<li class="widget col-4 bunyad-about">			<h3 class="widgettitle">Sobre a Vovó Palmirinha</h3>		
+			<div class="about-widget">
+			
+						
+			<p>Palmira Nery da Silva Onofre nasceu em 29 de junho de 1931, em Bauru, cidade do interior de São Paulo. Ainda na infância, começou a escrever sua história repleta de lutas.</p>
+			
+			</div>
+		
+		</li>		
+					<li class="widget col-4 popular-posts">			<h3 class="widgettitle">Receitas Populares</h3>			
+			<ul class="posts-list">
+							<li>
+				
+					<a href="https://vovopalmirinha.com.br/pudim-facil-de-leite-em-po/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/pudim-3-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Pudim Fácil de Leite em Pó" />					
+																					
+					</a>
+					
+					<div class="content">
+					
+									<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-06-30T17:37:49+00:00" itemprop="datePublished" class="meta-item">30 de junho de 2016</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/pudim-facil-de-leite-em-po/#comments"><i class="fa fa-comments-o"></i> 22</a></span>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/pudim-facil-de-leite-em-po/" title="Pudim Fácil de Leite em Pó">
+							Pudim Fácil de Leite em Pó</a>
+							
+													
+																			
+					</div>
+				
+				</li>
+							<li>
+				
+					<a href="https://vovopalmirinha.com.br/tirando-a-acidez-do-molho/"><img width="1" height="1" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/06/molho-de-tomate-caseiro-004.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Tirando a acidez do molho" />					
+																					
+					</a>
+					
+					<div class="content">
+					
+									<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-06-07T14:17:41+00:00" itemprop="datePublished" class="meta-item">7 de junho de 2016</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/tirando-a-acidez-do-molho/#comments"><i class="fa fa-comments-o"></i> 20</a></span>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/tirando-a-acidez-do-molho/" title="Tirando a acidez do molho">
+							Tirando a acidez do molho</a>
+							
+													
+																			
+					</div>
+				
+				</li>
+							<li>
+				
+					<a href="https://vovopalmirinha.com.br/bolo-de-chocolate-simples/"><img width="110" height="96" src="https://vovopalmirinha.com.br/wp-content/uploads/2016/05/bolo-chocolate-simples-1-110x96.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" title="Bolo de Chocolate simples" />					
+																					
+					</a>
+					
+					<div class="content">
+					
+									<div class="cf listing-meta meta above">
+					
+				<time datetime="2016-05-31T19:37:51+00:00" itemprop="datePublished" class="meta-item">31 de maio de 2016</time><span class="meta-item comments"><a href="https://vovopalmirinha.com.br/bolo-de-chocolate-simples/#comments"><i class="fa fa-comments-o"></i> 18</a></span>					
+			</div>
+							
+						<a href="https://vovopalmirinha.com.br/bolo-de-chocolate-simples/" title="Bolo de Chocolate simples">
+							Bolo de Chocolate simples</a>
+							
+													
+																			
+					</div>
+				
+				</li>
+						</ul>
+			
+			</li>		
+		<li class="widget col-4 widget_text"><h3 class="widgettitle">Clique para adicionar no Snapchat</h3>			<div class="textwidget"><div style="text-align:center;"><a href="https://www.snapchat.com/add/vovopalmirinha" target="_blank" rel="noopener"><img src="https://www.vovopalmirinha.com.br/wp-content/themes/smart-mag/images/snapcode.png"></a></div></div>
+		</li>			</ul>
+				
+		</div>
+	
+		
+			<div class="lower-foot">
+			<div class="wrap">
+		
+						
+			<div class="widgets">
+							<div class="textwidget">Copyright &copy; 2016 <a href="#">Vovó Palmirinha</a>. Desenvolvido por <a href="https://www.agenciablank.com.br" target="_blank" rel="noopener">Blank Agência Criativa</a>.
+
+
+</div>
+		<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-2635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2635"><a href="https://vovopalmirinha.com.br/vovo-palmirinha/">Vovó Palmirinha</a></li>
+<li id="menu-item-2636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2636"><a href="https://vovopalmirinha.com.br/receitas/dicas-da-vovo/">Dicas da Vovó</a></li>
+<li id="menu-item-2633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="https://vovopalmirinha.com.br/envie-sua-receita/">Envie sua receita</a></li>
+<li id="menu-item-2634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2634"><a href="https://vovopalmirinha.com.br/contato/">Contato</a></li>
+</ul></div>			</div>
+			
+					
+			</div>
+		</div>		
+		
+	</footer>
+	
+</div> <!-- .main-wrap -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80660131-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+(function() {
+    window.PinIt = window.PinIt || { loaded:false };
+    if (window.PinIt.loaded) return;
+    window.PinIt.loaded = true;
+    function async_load(){
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "http://assets.pinterest.com/js/pinit.js";
+        var x = document.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.attachEvent)
+        window.attachEvent("onload", async_load);
+    else
+        window.addEventListener("load", async_load, false);
+})();
+</script>
+			<!-- Root element of PhotoSwipe. Must have class pswp. -->
+			<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+			    <!-- Background of PhotoSwipe.
+			         Its a separate element, as animating opacity is faster than rgba(). -->
+			    <div class="pswp__bg"></div>
+
+			    <!-- Slides wrapper with overflow:hidden. -->
+			    <div class="pswp__scroll-wrap">
+
+			        <!-- Container that holds slides.
+			                PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+			        <div class="pswp__container">
+			            <!-- dont modify these 3 pswp__item elements, data is added later on -->
+			            <div class="pswp__item"></div>
+			            <div class="pswp__item"></div>
+			            <div class="pswp__item"></div>
+			        </div>
+
+			        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+			        <div class="pswp__ui pswp__ui--hidden">
+
+			            <div class="pswp__top-bar">
+
+			                <!--  Controls are self-explanatory. Order can be changed. -->
+
+			                <div class="pswp__counter"></div>
+
+			                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+			                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+			                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+			                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+			                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+			                <!-- element will get class pswp__preloader--active when preloader is running -->
+			                <div class="pswp__preloader">
+			                    <div class="pswp__preloader__icn">
+			                      <div class="pswp__preloader__cut">
+			                        <div class="pswp__preloader__donut"></div>
+			                      </div>
+			                    </div>
+			                </div>
+			            </div>
+
+			            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+			                <div class="pswp__share-tooltip"></div>
+			            </div>
+
+			            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+			            </button>
+
+			            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+			            </button>
+
+			            <div class="pswp__caption">
+			                <div class="pswp__caption__center"></div>
+			            </div>
+
+			          </div>
+
+			        </div>
+
+			</div><script type='text/javascript' src='https://vovopalmirinha.com.br/wp-includes/js/comment-reply.min.js?ver=5.8.1' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/vovopalmirinha.com.br\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='bunyad-theme-js-extra'>
+/* <![CDATA[ */
+var Bunyad = {"ajaxurl":"https:\/\/vovopalmirinha.com.br\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/themes/smart-mag/js/bunyad-theme.js?ver=2.6.2' id='bunyad-theme-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/themes/smart-mag/js/jquery.flexslider-min.js?ver=2.6.2' id='flex-slider-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.min.js?ver=2.6.2' id='sticky-sidebar-js'></script>
+<script type='text/javascript' src='https://vovopalmirinha.com.br/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: vovopalmirinha.com.br @ 2022-08-14 02:15:27 by W3 Total Cache
+-->
