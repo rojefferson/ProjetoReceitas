@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '7907',
+            cRay: '73a6562c5af0275b',
+            cHash: 'ced8d64640d753e',
+            cUPMDTk: "\/receita\/760-panqueca-de-carne-moida.html?__cf_chl_tk=VMD16yiUnOrU0j9vSukH0S_U2PWX_fND9SpcYmgZkLs-1660444940-0-gaNycGzNB70",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvNzYwLXBhbnF1ZWNhLWRlLWNhcm5lLW1vaWRhLmh0bWw=',
+                ra: 'TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfOF8zKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMjcuMC4xNDUzLjkzIFNhZmFyaS81MzcuMzY=',
+                rm: 'R0VU',
+                d: 'DSUq7+9r08Xn3yLUECaaZF+3VFlrbpw0w1DxscfRH6O6Zy3zL1oe0WT6CaDsPIsHwCTfhr50Xzwu6cAjzYr2c7QiMxKJmg1nVXHmEuI/2dDt6EzAxBOfEeZKG8AQo0OkOcMRlkcDEB3ZdV8DUT5PZkbmeaMjJvwVNqWksVu0Ve0605LQZuDmdUe8QBPARRVenk1oQD8sMMsOy8Qq/FZouC20J1MqKzQ8kZWu5UV+EFq87nztjrwlTg+ZF2Z8VbaveAVyCQsDWGuVxvKy3jfuKkQm1q963Nin4U5m2jBKTHZIo9ecY+1Q5rpnUrcAqoep+hEsmrzS9k66Q6v+ONPd8AIMH7DYEKASaD1/OZOA6YS5cXurgYn1TWWyWWZrrhOO9zginAUB6IAX9CsFe9FGC0S1O5LOgX+n0AR5DLdcwDRo3BnVVkbwzJmaryrWQUZgp6j+71grea0d8qanGCdTZOyKGW5vmBrZaI2oM4zbb376alcCFvI1FndA2IaGpjw7PVJ/msS438Bse5A6m9fBhVlno/NCch4O/5V0OWlWy7adZVR5j6iaZVOkGLgiDcQz5iN0kH4mZp26n0Xj32qAVXlpJJRpLNLjWXuZrdGLM4ded6b47VX9PGn30Edsc/vaCx2CAR5fssEvkB4m/5gDWw==',
+                t: 'MTY2MDQ0NDk0MC4yNTUwMDA=',
+                m: 'ow+4Ik2Ydkmwt2LjjggIeZN2RdEQDxOxHq34DX3ehxY=',
+                i1: 'aRifS8dP/ifOsm/nTVbEPg==',
+                i2: 'bscSGHuw7KYSaFvak1zYhA==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'YkUgUIdCJkLP9C+PRxM0CFQ8BN14zzr6z0IhE9kIlyY=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a6562c5af0275b')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/760-panqueca-de-carne-moida.html?__cf_chl_f_tk=VMD16yiUnOrU0j9vSukH0S_U2PWX_fND9SpcYmgZkLs-1660444940-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="ynNj4Ol4OKc8kSqt38CBOYer..8Xw9AUes2wo2RfbaE-1660444940-0-AXJ19skF4OReNqjRtC2O0ps_ph5_5Huxj6DdNu5cCCvPrabh3cAwsddwUBNLiL0SGNjc0-jqMNAETzNRkps1GyAYqZLYwRGR2KkoIHltjpmJE7PZyCMev24z2ojUGn3KhXnaklKwcWemoqT9KifqZakWqq1A3PV_K43PliC1yGr51aIPDH5DpuhZQEhu0rd1N-ALEq-zyrcKy4RzmmzoW7mg-u6dcfYFkKuE8xNSMMrB63ZICAgR4t-SCl-1aQILW8xMkNWQFFrQnN9dxWhzmn5G55SrO-JBoHGQrbRlIohFX0xAVRoUqYrgffJi0-GVTLcDNqXKKmJb6oCSmhdgLoRi5x7QWhV8gRi3mozX3JCy5eZ7RUIJkDyJ9u8RWF7EU3CfAIEjJNrlz7cEMZ6bil_kQxmG0ykp33unO5v2kppcWvj3DLzBfVGecEeyKRBhv2a7YRu3qWU7l8MSbsAmyVlXzRz6hjjMzY7R9lkaQOkJYS5wXIb2taNkSTAD1pPWTTX4jLg1dVO4ZN49rgrwMIUtzYAUjlXjnsKD0Ym3E1ShpsUDSwS1cq4Ml2qaoNRcpB5Zs0PmmJFsfbc4JRrUDaQjo5cymVwxrVhMxdi3qhQ-oXEp_tY9dt49yafXpInilMfUVGBitLp2IVL4ICje9I1epVVMaFw-GpvwEwA0AK3qD1jw09kCQf8_P_PqIlnkbbzMSPJ1KbUB5hzMDliKnQ0Ni7wQCGdfmsNKWR19lks1Xb4Of_dHEPBNTQjWFLzgES3RWob9YBt14dpu2SYqR4M" />
+            <input type="hidden" name="r" value="iOkLWg9VLluh1w7hs1ghgj3NEa_nU_d886B7sc8cRRw-1660444940-0-AReVEcEUOauUMjvtacKe+dglAA89uAGA7PX/AlV+9u9ZxyxIAre6pMH7JBW6Jhgd8vwj6gSUyQtdVyp0D2R+18SfYsbbSzEgiaiuEs2JaEZDDit6OaFh4ZVvRxnHQZv7dFnfAWBeaKs2fo6KmSgwTSMwVHuE+2YelQ54KB+tqJWDRg7/RRlTg18cGIn3BIIF6HsFpF3H6YWrCTEMExaMYNXgpVjYoC+W7cIcSXHHziBDXdwJwoyWtObRRymKyO9B/lxz31c6R1Tf6vUuze6NWo1ly61UqHWCO+StqL5cMKeQ7Y7If/+kC8HkcOhVCm4lZSC2+oO7vVSSWPuoq9aIzNkrJdtQAamrAiFIadbZRKTM/fBTVWtcnHyCaVrhZQ0eyyDv6RqKvL8NPOYLxEiIRK3G+Xp5pfK4y79EHsIcGBHoM4XJPy6JBS5QdXVCVINrK/WQkft54+xqhKEgv7liaSKwkUAOsFxP9ri47xbPpVav7sfqSzRPhBwwhy84eyTJj8AIN5Uvqvceelo6MbZwKWIydFbTsSF1XLQQ18/K/KgasrIUALwJvIuAJ+zWsOVgIrx/V0lfSHj6u895QsWsFDGweTxTcEdvqeHVeX0h+8jpL9ejJMMjw6DTPJ0W9OT6gd/dfJmLoBC49+1tGrbCf/aqimADtAgp+BCEnwXNOJ0tKoS0MYBQc3RoJrj8Cuqb8lQ91A9Ufci4XTb9uUO6Z30hg+O9z3Pdht4/AGsklkyevxkjrlFPvwI4m7q2oaONpALyulRqJlVyL6eXuN5ZUXbdzJlLF41jy86uyxCexmmkmq5dS4lUiFdihrnAHOLWhpAwUMTVHF3yGYqzD1zfhNomjkNJqfYOgLjKnuqFZtXPmHx1RPl98Y5rf1866uqZ3TXEJa1w5zqLlKs77FB1eKR7EVNC52i+2cp7DAOVtuZjxl5mcE+zt9HiuuqjjS0TuLke5bJ58jsm8oKVH50SjWQjK7dnIIPnyh+tRjHv9BJkD3I8EEuOSUNrjR3Of+joOed6T3wHS2MttH+dJSTF1pEQPvHTnaVrnHzfULY/hWf8cyJimYYBMbTz1K4quY1WZO0Pqs0guraN+LK6hFnE2hADQYzZNaN4uC15EKJIXoSuCl3ZVGO/ParDTPcRubXZk4xyRbbPxKG749JYyxA72ghIj+MnnL1udWKhCbzlap44SgmjPCVEjAS15N7E3k66zA1s6AyuYDGv0lpJfi6Fb9Mk0e7+REOg7rNr3wVdACgKu2RKCP6uF3u1c7mZ/lFstTE4EmFcmzPH6lbeiinOOd6l11O49dJnLLZp12kmAL6dCVTPdy314B/mXdYnqYIyBejql6R1j1HOnLVckMy6SiG8vM470MVlYX1UYC+VvOg5xlYtLdGy5Crqoexp9LfH4cYnV7R790q3tNtVdmKrpuKEOeDP9kdYTUVMn4qLnDNhELHgGBvTPaapZywo5ccdDHHN+BAFTeoD6L6tknQA1GAuFGOdpoObZ0lBaSMhIdtikbzL89jFOMocIhy8cJNBzhfcRioBVb+QdcUjBQ3Tq3uN8xEL+1CHPaxP2J4cb7QcBwbec1TnO6yCwYFL6Ja2hu3QVu0X6nVflbvtGIqQVmHQGUBErtDisBoCRws9RZLtORvmKVZ4QX67YAtgXYH/dc8QqsbQeWa8MvC9bhUfrZjmQjD0XiZm1J43i5zi28A1tetFctXu1Xk+WXeUJni0ZIk/E1dfOklEOavZ09QSZNPXFQ+x7ucI/+onK5lERRaoVIfqJ4u2dEnpYU8oRLjhj7PtrIzp9eSCbzaD/FZLVvzn1dBTedr32cwu1QJQ8P9YF2l+WM8MFE5nmPPAaemQussdLYOIZ48ZoVCUkP54g77d8XPRHrj/u+QRS5fhhaL3Qj25i/8PHgQu9f+2eWLypQ=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a6562c5af0275b');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a6562c5af0275b';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/760-panqueca-de-carne-moida.html?__cf_chl_rt_tk=VMD16yiUnOrU0j9vSukH0S_U2PWX_fND9SpcYmgZkLs-1660444940-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a6562c5af0275b</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

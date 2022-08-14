@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '31548',
+            cRay: '73a65eed9b74e074',
+            cHash: '5fa9d8e06ab955f',
+            cUPMDTk: "\/categorias\/1004-carnes?__cf_chl_tk=jX.yOMDwWkE_MqqkBPlkinmjsTJ.tsFPRGX0sKnSnaA-1660445298-0-gaNycGzNB9E",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL2NhdGVnb3JpYXMvMTAwNC1jYXJuZXM=',
+                ra: 'TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNDEuMC4yMjI3LjAgU2FmYXJpLzUzNy4zNg==',
+                rm: 'R0VU',
+                d: 'tOudkdEBVStunGV+L32DH1AM7PkKbVDDeVqm0PYBJNimGlLFosrVABX1L2mzBpjTyyMUKx8MGC8e/1WPo+pxpxinmbT90GBRsA/QGC9OhkG6YoOA/YCNUeu1jlWCXv9zRHhBk2StnfgRKg/rg2RzKl3rkDx4X200aLSUCVcEYa8OWIwkqTXkSnjBXJAquqn4d7waZtq9tSxE7J3XjraLzdaDvoeDsKdvMLGpAxWAL/qEGVU0S1LgEMvpCav/miqbqL+0fh8l216U3tjFsqQ1q94gCplIW4oq9EOsXyMiJa7U0puOC7NjsjpcHT9lS7ADbFHCG0K5dt5x9EXjQVczebLXxL7lHuoiiNJbcXc4W5sFYvchtinPUCE3QJUZcabRfSjINat0PZ7Esa7jaqROsWePyWiRU2zzAZfEtMBwB9UjH0fmYrrMwJnSBe75SRHXmqHkZPM/v32TD6SUqwFxVkxI/qLxilZT8ZPPZ37V+2zbiAtT/1Ay/nI1SZ1btfoPcaxMWw3HnVJkVu+BZUYwEIC+wkeDjBuO+i4Ih+5V+8U0x8k7sU7bPgWRr1HFSNTTJST5cFyII5VoT0zOuVzn8O/7RNgw+BIlmoQL1gQfLkhqpYkG5aY1oSvZ3XXojvRlxVV3cQwUjKXKkXHC4GrpzQ==',
+                t: 'MTY2MDQ0NTI5OC44MTcwMDA=',
+                m: '1ec7KCqFOFvgTmvKNDfy2LMdFnHaF9E1aISsbZNKYo0=',
+                i1: 'F+Wr67nO+EaqLA0GCsAhvg==',
+                i2: 'lUpEgVdgNVF9ZbT6lwkL+w==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: '03EKvqOovXVNfQIJsXy+XB/glpZkRIELG2S+OsztPfU=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a65eed9b74e074')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/categorias/1004-carnes?__cf_chl_f_tk=jX.yOMDwWkE_MqqkBPlkinmjsTJ.tsFPRGX0sKnSnaA-1660445298-0-gaNycGzNB9E" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="bRp4lmOxSc0DYoGeVpoWM4ebWl7cuDkmY0YHAfJ5ihY-1660445298-0-AYcZu2BlMlj50EnfgQ-Avn6JW6KT3bknmJdXMmbxYGNaigAEjETrMlKXFy5LbuHx0zejr_hK-3Cm3r6xU4YxDtlRvPr3_MkLUZdnVDMmAaGyaL_8iK7gSGQ1lKOyb7_xczFE0yHL03tQL7Kuy-aICno0p1npd1vpsAMS6akrzXkZX6hAqMRj99_iILYly1TMrBke-jnqQWgoDWRNcbSL8Kg0QJqXrWTHFunoXuEo--2ujSwDxWVZqAHRBo7223hItrCPrkgObMgwEDtg5Bi2ZZbmiX3ixpNyDkFC7Z0HMSA8tb-AKe_F7jI3EjVhDlAyRMM2qXomQ6piLv0FPS7xftegmzjJlSG8RagJlkl-iz-MnftoNwXn-kZsmLCqXNfNK3S3rEdHNR9xXk-_abLZndF4gIP3rmv47Txfrx6A64gBk91xNGucbcmFo9LNXbLOlCvR4F_Yka55DXV9nkx20WhwzNhfN9v3NNkR8zfFzuQ4xTwzVJwliGoD5I7XfSE8XgFvLGTeKmVr3MYGADVz8aBKQYJqi14YULhzf_n-vaeso3vNLE5N3giH9dgCEV8It6BfXJb1uVQfYTLlQQ9OWTmjE5GvkDGnHJqDPiVF552hSOAqF0Scc9uS_xrIWGhLxfaeS-A6lubtHHMb4k-GeXsJzVI1drTjdZVzeL0ILD3BWBl0bHo7VlwUE6BvbUHGsurWOCdWBb5-cMVb1OC4H4lGmH86zk9RCnyE4W_IlWO3" />
+            <input type="hidden" name="r" value="XxaDJmCt6TFPlpMqgNxGk8c8QvrUj46bxpJvx9hcD_Y-1660445298-0-AeeUmewP8tFVVBWP+xCUtcP0Fixus3P2YtlmJBmVuxYhuxp5YDXzjzq3+YJxuZ7vz8Fd5WpapiqocEDfoCMdxiulKpgGhrat5AbaussO7CS59pw7IK/E64qCLKpOgJyEJDtCSAiuYbL8lO0jt157GmYMfVutmYKUnWVmsNcPHNrIq1hqSKxqvBvMnhqZDuu5si7SdL+sHg8MzWjNI0gDacAI6rTnshidUaaYCjL9NA/TlRtv4L19Us2WW0tC6SNYwYNYKOoIbNMXTnpbL0jyjT3X/C5UKwrdg+emlO7wj3qalGmVrwFzb2ro+/ahuzp6YECli0lny+AppMfhM93Ywyh0AKZpG0YZtbI+oQy5EGHUZMVqTBjl86hfztzDCNMTcliy5ZlU+weVvpR1D9Q/LTctz7WJay2oegUGv5J4wYNzjZFIi6DoF3fJrIHAdgGRZj10H7oGFCAfkXLOeceVh7P5Sorl9xhtzYw5u320kPytr9fj9i/n3BO1AHjbPd8QiyuO220ze5iX7ghNdvlDK5QsUPPVJngV7En3jIOb/hhSMGo+fcdkqMwkivekTMR7yFohTEfdf4FBRsHxbOoBpFs8xILfeJNiAmE8v305Rci1a/HfqNy9kjGZJiDE+6Szr5iUwZYAPmRIFDcc+WOEqxIOoMHzrRymPNKDDGkfAW+RiRH2r/dyWz0cGhUrpCu01dBPuRN8J6/RPKWEoc4sd9w4k1gr3KbTkU5eXepZXCb7ERFi+QKD0+LAh6mUMfhoPo0zptsmnFz78ZcGrXKMY2vP/AbYq1fTQZv0ydVoj2lVr1vGwUT0UTmmP6tj52viUur24qc3g70F4rpdIyoeLYb/sNyiAz+OC0J/olm69bHoCBeMjwRZjlQvoENHNYw9/7paGBKfRAO92VOpwMutEG2MlsFSjLuHAiZHqwC6QZyniPgS1TTp053Qnzw4yydM45LspaiBWqvy8NZaPoCKvslOR4ppKLkSx89wuZbbc6ppRcZ1QTxqKyuRkWK5+9lG7+Gq7CGmNnTSsKNRfHeJ5u0AiPep9y/L+7Xq4nG0v81i4cB/97hqaKamAbITKUwut7jRT/z0Tk1zQMMyw8yE5sWy+hB5k/9Qid7ikGNTLWEcF3zmak6sQN9AAF71V2KXSLaN/P4+g2XVmmdrQn1ORHE4ubOHRsuB/p34T1AMbjJGuQ7b+OOiP4quQp8k1m/8ucCaewPFSdmoigXmi3ls78FWA6HiUT1wCoh/JcXutc+pSLFJyn64KFonyHR/tUwTRsM5mvOg0NEzaqYcKxqEkkAES6ZYLCsP+wf5iXaXSuFWANf7dmaEwoW1bJtaFWp8KLa6xOzrOBS7v28nswRqFW1gqy7633V9/pHoNYoYbYgNhkpWes/So7gdoKz/jY240L+I0KlR/oAw7M/Q6kQlwPMfLYzbvAhLBkpCM3I5BaBX59HpzNqgO0VYI9pQ1P08VNCI5Xd5NInm9T4Kfm3UtP6HWnSNs0s62js7YCguqdIJzEZCPKNNR26n7Oq3feFQO6GcvVtW+jMf/mMdhoLPTYJTi3PvtRwD5oVNN2skHo7xHGZJduO9ZDBcO5rpiM2L0nLna3vbl1zdVu31NbSiUxCorBdbmoUzXwBgjecd2ZxhAAKO2bU2l6DrBey3uNXZYTnqKYOD2/jRvtg/EXBmh8DkO44UqzvlTmwIsUCP9aE6PB/cPi4+eX3N8/cE1wWtWTaddeAzYs35qxhN7tjtl4qBZfiyfENsWzipPyMT42A2pbT7UmjynL5dwiThYpuIwNCATt3IQEYIf2hsUj5XJcyp6J4wEaqE9JYxRJJEGTHQVu9Tx6pT/yqPS4k13aQgncSTx8WzsjYId3T4XVGtSFg94MQkLWvogKmiyNjdLyOOpRg6QpSXTM5NgFcjnjtCnAiOhH+Gf33+R1eFkf2W3MI="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a65eed9b74e074');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a65eed9b74e074';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/categorias\/1004-carnes?__cf_chl_rt_tk=jX.yOMDwWkE_MqqkBPlkinmjsTJ.tsFPRGX0sKnSnaA-1660445298-0-gaNycGzNB9E" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a65eed9b74e074</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

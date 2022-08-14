@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '58783',
+            cRay: '73a6600faba6cf8e',
+            cHash: 'a93df95b5cd3ea5',
+            cUPMDTk: "\/categorias\/1037-doces-e-sobremesas?__cf_chl_tk=kFhMuNDxNFTxxkBkz4D7SsDEfAe37tFRP336BXY1uAs-1660445345-0-gaNycGzNB70",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL2NhdGVnb3JpYXMvMTAzNy1kb2Nlcy1lLXNvYnJlbWVzYXM=',
+                ra: 'TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfOV8wKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMzIuMC4xNjY0LjMgU2FmYXJpLzUzNy4zNg==',
+                rm: 'R0VU',
+                d: '1nvNLBXqaC88yGyC3CbLkoosfOBE+C9LlvQvAWqnzAGPMHgvSDLihQ4I3cbg9bJcccXhHPOxfU9QhQe3d1lxA5df/P0B3rJwMiI7c2EdpNqf0w2TqHZJyQlWJwXig5u1LLZJ6ltJC09v3vf1GajtqZMlmP/Lryou3YZsd/Bn45FlTLWz//Bly4WBtlqNAmDrYH6g/Sf8l/3ZkJoCHNLcUvCT/oEPDb2bh+fkjAoEAIFpHe8IiIcqC6UG/gAcUqIwawQqQhP9wqCCryivFGKw/+aozXQTPnb2apjvVxTle11SP/c1TfI77eO49AzQKqz+0JyNNEmO7wO2FkeAE+IiysgMIEpG7j/dXpH+guc7I0zmh7D+WJuQSxMNpwibszMd/ftcO+95tBcvzR4scFHBVcjOq8Eh8wEzNKMAFcSoI42KXV9R9Kxjdct8Q1WMP+haOf/us4su2rGlBpmQ3PpjU1CTQTFO/6hiQgj5DMkYfeLWI7bitKVpgNJo+1gIwtg+uaEXm26Qb5lRXLvnTxWPWBQ508GQXvl0dtoABWstGrDIintmvVAny78NvrbTCUT/e1tGzYFzg8dMeeJzYKSdYhCSc7OfKpuCuxRxhYyeLaf25TK8y+31S3fkAX1wOyBbvAXpDXr5zKHBbYKdZNYW0w==',
+                t: 'MTY2MDQ0NTM0NS4yMzUwMDA=',
+                m: '+7KX96bU9IBX1KWslTHLGTAxwQYCDAQsWk9ctFc9Hmo=',
+                i1: '3PxtcR4ymbOwm+A/TBjP9Q==',
+                i2: 'fCdZshQd54Az4+MTyeF3lw==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'WQj3GQhXnkmMEBjr/Poqqj232tXrNYQtsq7g4vijTck=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a6600faba6cf8e')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/categorias/1037-doces-e-sobremesas?__cf_chl_f_tk=kFhMuNDxNFTxxkBkz4D7SsDEfAe37tFRP336BXY1uAs-1660445345-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="rh7vGyWi2I4hmA9TlLkhuu6qhzF2NcbobYrpEeNuQT4-1660445345-0-ARLxRIBS2Qi1qjJu2WBsPmRJyE3c7ebU3yEOOJ1PNvBHs19sOJehutWHXgPg65Ive3ECfOOAtq6MC09UPObtPGtIKu-D_OnhaVLgZZiy3r00dr_3li2eMsVQ5T2QHD_jfKp4ctYva2sXJ2OvESd_RWu-z-Kq1E-6_ptFaQqo10ouCibS34CzFiMvKoH8R1TnsAHEpOjoPRvqgb3gQZydXDuFyTyKVLWVJsuhgQc5zKMejKEfCfJnsJe_730BnvIF_46zQZamn9y2w1hLiVfdcvCDXn2OE2NiOC_U70eq8MWlAX7VYFZF97fURwUMyWLM2JznKadmTYUiqzlDpxBCAy2rz0m4RpYeEQ0Isjwll6oqOME63nSBrQdLLG0VcV3susVTwLsYeLTsl6qQV4sTXFrwS1wJd1lmgAW0tivAfqWbpvGmi6SbRdVYng9T1jEDocX1YrZGVAAAbb7txMX9pNoYD5cd4jFFcIVEz0859zx8WvPIWNEFuBi-rtZ6GuupUCY6h9wigB1rrHw5x3QtU-LxoWN34UZ5o4qYi2ZxwFWgYAuG2vsAdN0kB-yF-Xcv-TGbMfp_I4rocoR0SGrQaJg0SxJwNuuJt0NY83HAjTeXBq1FbL_VIkF_TrJhNQYsQ2zb7TUIPoEgtQulqrmf-Nj0AfqpeMkCVRnI7fxhpskbT0sdnR07tiUb9Jz4GQ6E7PpI6Q0w2_35FUwoRj7kozPPnYZBEitAkJMhCaXJhpCDcqHBD_-KqqxpgTdzkJeqZ4eByi8itzy_3zSJ8KQdnAs" />
+            <input type="hidden" name="r" value="zLlUCdsen4qPbDDripbSO7x1Zbc7Xd1XP5d6zAPIqTM-1660445345-0-AclistA+Scw9a1Xdbz5ST2XQxeo/JDChx6PKRI8U4oZS+IeqqSf3velzpGljfw0ksibMsmpZe+YQZdlC2HW+7KkiYS29IHfi8kTw4mT3W7y35iyvjAfE/G6lp7o/fhe8QaXgfhhXpTBhfirtHQZ9aC0MaB/X/D8omZnIm+pf5FDTndLNz7lZokMBvfj+O35SxRcnUL4KsJvatShVgcOsC0hTsRpRdv10G9EcBMpd1XW0QlVDcA5dSDKmRAbnxNs/sW7yt++eMk3+nQZUxSitu/vKpuxOpergEG6B4It7PiyYsACqmzcCAZk1KgKH1NEXEupyYDCuI8fqLRiqaWlQUyM6N9n3CaBos4NQuT7BFM0V5cIEcmJ6UeKxq7q1MCTkKSvHrQFnn7tJptnHn1u093osR3foPuqfALu7dr7O5Ds7q18reVFxOWpSE68G6QTfzkZpvx/N9z1Cix9N6p60odsLSjsBNXBASeTtBU9rF7RSi4ShUV84/+TZsZN46qI7c3nR+XJGbCt+U7JSlUuBpE9bOVT49jItL/7SjgivViDkkxDj/d03/ecZOTuezajAM+pabpzH0XUjdhxRV3/fWkzcZnJ9tQjagcA+Ck0B7SZT4+6e9j0BQTtM/RvW/NwdN3axwVPbTnUeVBMUvIunXXXdFhSe9aMuFbDu1Ibdt3wT6rwCckc957NCIUihkUY+vTDVGvx46F6+FciDKTOsRfryQdaRw6+IsjEyjRHQsrMsBlxmINHBnkcPXa1dwqn5RzA7Yj8llzdUN+XVccnkSttgYH5fqeumXNHkirhrjtm5svyEELys15yFcETBs08yglRK9p1FKgpLAAUrepi/BC8mSVgusDtMvqxLpnAiSC4ft+9Z+eIamFQizLAeKN3ocHRLJ3TdKtF4foyUkZX7zpE8HK4gMLy7SlOSD6JkO3iezHVMr7kWZhFFgvJFxQsV0IrHNyRP+tJ5Rz0Cv3dYK+U3DXzko0OrjJWoMJplg88C+eho5nkIPTxcn25xjYxbCIZk+bUanmN6MbddzFGv1L2F/KZRX+RLixYzGSD0K9tgBxdwpcUlKodp+I8zVKfStpVL4hw00QlqO2/IF8tGqvFbV+Rwroc0vLyACqKV1A0msDrPw8oSHFXwP3yT/UeF1rM2JnFh+gObwgEejBJUElBtj9Oz1eWhoOIfFj7U2nzPoMTX+aamz6pTJ6tWFPjdG042gI7Wfs8k4n4talA9B4H+YRKW9Yu2w6v32FyljI92ZjphVEDjyJsxvDuBbY3jwW9For0v/wXAcOC4ZDcCJAAhHZ7NcuQ2566nhY/w/iBcz4WICzWvvetffrbiH/ewejHO6VlEZ4ny+0dBj5JQvSfwCNpJ2r6xtdVYk7OaQlFOTVqvD7r2Y91MyqmyVBxvBY0uunccVWDithjN17c4yJIawl+HCwGnColQYWKtx+KtR6sRM8XZw3pw3QqaLBWBBvAtDM2kF8sNgwlFiJXF2JLKksNHmXpykVrfd5UTh1JEmaghsyCvbqidPegMClB1qgEELEmpep8CRIWWD8EttNe/0dvoNT/PvWSrndmEmGj3sJmihedi1rU+ACIjpj3XqttHeSYuZzoUl3WAgJ0iIB/VCIejzNtpFzpyXdijQskJNnoeLX9CCfVAwCobScXt3YoTkREEgtXyT7kI6cXPckDgNPgSW7EOjs/r3Ey6QqJPENrT9MiRTPiifngnxZdqDMng2dVRJUbuCBexGbj0wrrbl7P9o3OzU6mx9wxdXD/jqKkFtDJdc21XR02m4crslmE2udPRJ1e2AyvzO0ta+OJsGaAiQeaZ5X7jsg09uGk4DqGa0UOT0j8qhsOwrvLJKtNrAgox6Hsi/9SAYYUmHLSysqEcWXQ4Dd7RromZQw+tNnvRaTgn0nAfn3VLE7VZLg=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a6600faba6cf8e');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a6600faba6cf8e';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/categorias\/1037-doces-e-sobremesas?__cf_chl_rt_tk=kFhMuNDxNFTxxkBkz4D7SsDEfAe37tFRP336BXY1uAs-1660445345-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a6600faba6cf8e</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '64252',
+            cRay: '73a660f8fab2cf9e',
+            cHash: 'afc7a6e5cf3631e',
+            cUPMDTk: "\/categorias\/1334-alimentacao-saudavel?__cf_chl_tk=Fy3lYgasDTzYEQAs1.bsJeyWeY8HTtrLrXkCqbeTwZQ-1660445382-0-gaNycGzNB70",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL2NhdGVnb3JpYXMvMTMzNC1hbGltZW50YWNhby1zYXVkYXZlbA==',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzQxLjAuMjIyNy4wIFNhZmFyaS81MzcuMzY=',
+                rm: 'R0VU',
+                d: 'boeAk33dniZvN+DYx2bcbtGsKUL+6+HPXAob3vIw6g7Q0MacLQQu9tEuzqAOSnLLY+6M5R5CpUX/GjV4mGSF6T6deBZRYAK3auvZ+Pj2vR3Pn9VChQPJhFEK5jwp6emZJ9twKYsaoEjBuM3goJo4iE2A2Be58WBCoCWboaSLrm7l5UYgpekyYzYsSp4sHOfxtwpamPscZXqchx6WLqwphay6ULEMGyZy8UiUO/LygSLhbL97GIOUJszRNl+ge9OCwOotuLmWUhFB+I2HxGg6MlhYreIRBDg/Y3The/k4krDDNEUkVm4mAilPexJH9Lw6Ag6bxBuaKn0zQ0UOXzdXFzxWfIUokkUGbQ9VCctXgNP2Ul55OxnBQ395Eh4Gjx/UWzIv3Xr2Ue+9NtKpon/06kyxI47yQbkiTo8Oeoi3UmwlIn4p8uGRJF8Z0CNWddj0sYiNEmZtla/T1sISMqYfP36AGVjvBl5cOvbODLNpDhq7/kVzv2Km/j+I1T54ObarwNCgST/JZ2eRDtEIiT6P2c0edBjAzT9SJT8DLagXoeFZsqkv+hPe2jl1AWVQIEED7AYIsd2IIsfe9BFgWgFkvzAehjJdIr+JRXXiZb+FspBs0zumqUSKk1GAcqKZ8hnA/GWnrL19dT9eu7Ucb3OFLA==',
+                t: 'MTY2MDQ0NTM4Mi41NjYwMDA=',
+                m: '7M9T4O7j2VMz0h723O8KqPnkRq7x7EP2qskBR8ZzyUE=',
+                i1: 'zAAr5W5B6bPwW/eyksmYTg==',
+                i2: 'opKvsltXjTfkcHxKPNpMaA==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'RwFIP5IEucourINw4a9wF8dGoRtFoSw/eNCGCtnKJJI=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a660f8fab2cf9e')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/categorias/1334-alimentacao-saudavel?__cf_chl_f_tk=Fy3lYgasDTzYEQAs1.bsJeyWeY8HTtrLrXkCqbeTwZQ-1660445382-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="slyUBCB0bl0o7GaQ_hlxuDByLY6vnEjIUQ5IlAAgdlU-1660445382-0-AZr3odBlCkkKanu2G1jFaOgIxZPtmSI59QeyJYpfoxeGfnRx-xwIMJ_zWzM_bI8sqTnM3dP_cniZtl4qetsk3J0aYBJnbTbPmiKTpI0mYpKez-88lIOpRFBnXCCvtniTFhQqdOGvSGkafg9OB9hGBwlM7aOErvoygVSdX5dOoA0i7fVCMfRJGqCDYys0bwdGOf274ggAD_Yas0w_jpexfIAWpN_Z3kMrkLn5pyT39pxxhi3RqoLVcvtJJbCW-A64FETRYnG2cvoksqg-lvOVrDXawtVG7iQEUx2Z19o0kTd_1hvrEu7RdI839vPF5prnBrnnBq8Zg1_eSoK0GEEyYFmPCDOHOlW5aILLToERMmskmOyM1R7WxcYw8dqdGSMMrEoBb7301t0G2DUWjrY1EVWNA5HI4HKsaMy7Qjg4SxKXGL5NhHw_VG1ZElat3n74mbTsKh-mxGsEYLmYnyOHxt8-dQcaBXv1qdl34lH0yNeDB_R_p8CVwR-x8FCMVHerdWeOIBbb4-Ucv4J9VkwMmyzH8xiUt9PkWI0z1_Lw1LmzFEl2o7LdKhW80Vtad-3qUxG6CrBNznajV1zqQ4TfsEyRZv9PcMcey1wHr-N79vkhlIGLyhRaY4T0JoOgpDXpyBGoR-iNKFQgxw3gumoSPUX2yDtamtE54eeDBhUTKsSAJQRiqtIP3dRQk76LuBnKNz6nmxb1Cnoct4Jhmt7UG6VrjfgaqFiOueu0ngewCNxHFmpMZWwS5YTnw3u4nfhUzKqXCAXguwMMcGwp6tTrWog" />
+            <input type="hidden" name="r" value="Zjh9HeC3n0OYiq2rZyuZ3AyXXefegwEx6zTqaISoPJg-1660445382-0-ATF193OmnXPz7I2o9j7eE5Jonc0SoLkkzFr2ulM910H7M/j/ffTupiA3eWYTzzOzzR6Rh/SxxuHoBtGUzum8Y8DOjruSmmeg8SD91eCdgteIdBUocHIY9XaXlRohM4vjslOijuSs/SxVrhszuGIeZc148lo+AGgnQ3SVSmjxqXxMyLrR901h8h5jHArY3Z6Kcx4pPWUoUPo2obzA0/DDkS2OcIajV8WZ9MVTciJU9XUL9UZIsXKrgQDKM+sRzfaUU5J8J2irFk5WKZ5NET6JZ1KBURwo65TgkMNt+x8wYpKc6EWhypOfu30RnvU73yUWJbL6sOxi+kVPA4xTC2JDLwl1eiNwDzAtRQL9mO949jquSeKr+VYKwSvB4wvvtjCIZI2iBzpEFgFdEbY3IeFPnH7ZOFjuxZURWM6N35vaLsEE/gtOzmFtaY4K9z6G5pagXrfj97iW2uR/56YfUGNSqA+9DLeVNwJatUiXOQAAl4iPyOMa3ptGID6nwOOewp+HiXKGBivTd6MPDwHBbZb5D44kWCeYOTFHvRkaX4gjpqX7CAYkkf/2yoan+/eY309tXAdx2DG9IkKV/fVz94q8YL5uukKaQtMTvQBQZVOzAytdlJqu7hQ9my7ah336JZO162d1J4ho7zq3p78U0LN3x5CXEcajwM/HC1oD3kdin0eexhBH6F0ok+UdwTYFR48DVSaPZ/LnPbbI/DO+TRKQ3AldvIKBmhLVR1Pdj4/DJod7g4kJgnkpw43HF95HGLGzPDwtoHvE7rVQf3St0CHzlz3+aIIjC6V0ffzuIiPJto4YRPfbpR2Eo7Jq5+KPNFBy1ayg/KwpCBMXZTDTg+1u90sSSv33WheQqWQUeHgOxkXMU6ZPPVEPVkC41Qcu4Ad7omSP6/XM2J4jOo5pi3M424muUmvN2Pv7PtOy/VPjlH8vHgU99N1Mw5R/ulgnLpfVlrnaDF6wAalS9gFGJCf6xZkW0KCFQmLRaM1xhcBrV81kE3YAir+O45VQ4i9YMAj01PCdw0mdZlux4B1TxEpzCgNfaHrJ9iyZu1TXxaws1uARipHXtUbd0hjtvxttzIvWXxy5QH96DfTD2qsHbLISxkqtNYEr4oWc0f3tPcT8nuxogt3aqTNkHM9TAKBfyAfCb+L4ujYwzL7lc9Jj5KzB50ybQRQqPnz8KH7/c9CuFevtDESnLgWgao0P3Su+NDsFNIrCAtXFoHy4kudloNehrN4dtAzlAh7B+Ox/B4NVdp23HP3cy7N0W7pa5E3PQa/WMYVLB+ZKuUsvYjln7LJ85mKPodK4lODsNv/CPhZNT7pf3nKq16oAx8lvNamCGBN0dcSt7zDf3isq8oroopKr+h1qoMsnZ7wBr01NJ4i79Cb6BF1a7VO2+v0KYlV9wcSru71hFmHBGiQ0EFHRMT01bil1ErDh4y9Rm5tYE/5lvThcIN7oZYO2OfAWcIQzqlnCBGKgm3FESV3pwLje2IId+BB6M8x/AQGmfK3de7px3vF6FZ9UqAfs4SYJ/gWzfq2PsRahX3JEBUu22oEfkygjW+PFkV9ZKlq9YzncdnLYEc7xY8Bd5VpLFwStfqKhGk4Qv3IfjpWVjlstwWZMyby5jTZXtt6dtoU3sOIN9AyjHD7S9mvOBNiSPuTR9GmS192sv+D0ktfABlYxQ+tm/h437EA04tldIMQvEzJ8HKeNZXBTFWvuoeJhB0LylC7lhgMPYT4hSEw8t9XcaaARBGoagTZwkXOE0qjYYDiPenJEnb7svg2+nkTBtDzKXGaB/VnhMy12gkPEuI0ANK5ytTQOiSAe+pWllsUwnLbvXy7WpbKnBwiCZhmiq7yZbO2YNrwK13t8Thd+OOcdcXHZb3U1FK8sS2Y4Ta4P7X/WcQT9MzWVXyH4Me8Doo2ccv2vs8TWbg=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a660f8fab2cf9e');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a660f8fab2cf9e';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/categorias\/1334-alimentacao-saudavel?__cf_chl_rt_tk=Fy3lYgasDTzYEQAs1.bsJeyWeY8HTtrLrXkCqbeTwZQ-1660445382-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a660f8fab2cf9e</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '91268',
+            cRay: '73a657248c632745',
+            cHash: 'c61a285da156024',
+            cUPMDTk: "\/receita\/1106-camarao-na-moranga.html?__cf_chl_tk=ijI3YXZz6cKCmJTuLxfv0hTAq89QtE5Iwo_4iEvNagQ-1660444979-0-gaNycGzNB70",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvMTEwNi1jYW1hcmFvLW5hLW1vcmFuZ2EuaHRtbA==',
+                ra: 'TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfOF8wKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMzIuMC4xNjY0LjMgU2FmYXJpLzUzNy4zNg==',
+                rm: 'R0VU',
+                d: 'L57rnGNpKxgw7QACq4X7FuC0IkNm9P/SPs8OVf7ujA11f1wgh20rofFLU/c1HkJKOtDqzc95O6O/O0N22H0RaTKaBxFnDv75BB2qMLTn//zfe83Y/XgHqlPe0a5drQQ65Mow4WdmDnrjT8SPI5I1h29u6EC3KqR5NlTS1JPsN0wpAiLU0eIKHXio+e5e6HehXPsP/auSVUug+FYp09Fg6qCNZ7AOALlaHMlm6NqAVH9kpusEWXXhKReWxMeDwFodBxobmee0Pjy5mVip4UaFnNhGl+ZI/FJgmmUG97LHAh0UWIBSvrD+hZVsTqZXrZjToZaNi8FiSBf+w/dLRz30NJ+ZAXfQNSBpjdy2csY/Aq+txU1hRQB5xvXA546ZgkoQKry6i8OJNldk2c+xJhO/kN7qmdqmQXcW0we3ZwSu82mp575f6vBz3BEwYE42IDmGV92K2lRNmcTK6Xw5mPc0CNfyUKOW30TW2HT0f6/cJRSGoBj03wVurI+rJ8WlgG6QObK8cb7ai/1uDaEMpNBSSqyGvtGKTDWSWcwJxR6F/jHuqXj2w82uy9xbEfjfbwz1eJxoWYUyve2dDQAJbP5KCOMEUz3W54ItPNvJoMmlBqUYzyO3ryIsFuqfyPF5JoIuUX8cdRK0anL9EY+0EtHXog==',
+                t: 'MTY2MDQ0NDk3OS45NDkwMDA=',
+                m: 'yoc9YOkzgo1Sz2si+wzMNLHVHsfMXMX5xsC56dRQWvg=',
+                i1: 'PXm5CZiY4SLiQHQEGui8NQ==',
+                i2: 'gVVNlNWuH5/AujZ6PWOquA==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'ABaJdo0ZUJJ24uQ5mCdj2JQYxS9BnIVTJMpdl+9lUeE=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a657248c632745')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/1106-camarao-na-moranga.html?__cf_chl_f_tk=ijI3YXZz6cKCmJTuLxfv0hTAq89QtE5Iwo_4iEvNagQ-1660444979-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="kGH.xoiQ8hBq5jaFuQJLFODicKSG7OF3M.pq3qJslZI-1660444979-0-AU5i_ZjaE-C1-G80Fc3_AR9ggeUzgZVVq3qctPtlZYCYZ9Euaem2Wv3EiYADG-EhqEpYPPdjGancFEDWJZiQWuhoe8fRLoW2lfAVb4X0OswX06vPsMKWx6Z7DyV6c3D9NOXnLxBo414i_jV1rMFtDN0MB7WqLdu4JTR5JRImfAPjB_utbyj0eavt3krlqTeLePLGzysq1SepLxU2Q4kK7odkOB3lZhnIYvqyXaTlMtIULcm1I7YiQtyjp0y00d27-rBdaIzUAEsdTj7DAyHEyi8KCrSrhsV7KJql4kxGIv6_NMPYbK3Z3kvzX0KYP8a9Y6or5jlf_xrJRGh6u3L2BFuTqAmlhJ3RdCSy294ZG8teFagHK5mCvsz29qs94GDhBIoFVOKqd-pPXzOFCMArwZxvjT7e8COP-dYAqXkYaIwD10yD5wThoe-9ZSrdOh97JWtF97pW9DFoXnfiqWdRbR7T82IsuWd8V2xJXBzBmKazxTA7hbROyv8_KsdTWttp1JPpYM2IMmtiR40OcOJqd95MS0NKLSGDq8078USW2Jnipfu_J8Mv6Ron0h_4rwHE0AsvyvhQiTrniDJttMQqPbIqzqnXbphHG4vUfQ-od4WsW8a0K4tdp3aALhkQURk9TZXnXhxLFKIIhjGdxafhRJsSCdft0iriRJuiwXdcoCB921_9KpW8lxDCX_jHmhw-6ULKMJ8i5hR2JcSOXqEwFkzyXMml9YhZc-M0z964vNzP2dGtiHSDEcJdt5Uzl4XUUG4PBp8Ce7SZmqpfOIrzszw" />
+            <input type="hidden" name="r" value="a4iHbFEoXvFhzRnueNMHYqGXpfxGmwTziLfE2v_xXww-1660444979-0-AcjMcetlB/XVAV8DoOuzZ7dk8LDx1PeaLyOYv7PzkKyNB2LiU7uU7/IzprnncV+n9dyAeLmKc3cAPuTsrjcmwXuoin2KSH/dhsoomWP7FevV8h+VLvurA1lMdh0fBAr5xXpULku7aaf6frji7mNIeggTGO7zWd/S9bBaqKQdefAPvXyY3xYUqlgqfudiIRKwB6D3NbAUTUZT8085nBG6bCZhLVMR8Qx+P7peHZU8eopGR/9Q+vU8R4MGTosnFs/VnjXKedI6JMLB1Rbq4wF2Mbr9/Yrco4VnvxF6PoyJ3kZ3FbsayMfD23wkerdzy4SBM6CCnWWnlHYRxKWtiFJwMmTI2yeGiGTBY2OeodSXRFtqo1N1K1i97PMTfvF3j34am+Uk5W2A6hy/WO4t44BHOyVnEGkP1l9UStgxX/0MflXzXjtrbdnK/9DNcG5Kxif8Z/zQVhl9xXRxD+ZDOpqIzMu1nBGGM6ccT/Z4RssCtTeBYtJXGxt8kQrGrrKFOlbkKaD+mKsbIp+f2Cd5YU8KcwtDNwQ5dhcam4rlgvqPKr3RCTojug+FpL0e9+FFtzttkaDd/YlwiebGyef29c/u0squmPjKZFRxYjm2VNx7ZfrkLoweeigHEdNiL/BCWA6q9u0MoIvN5FsBAXlDRHdVw/Q3g/A32BUHHdMBhh2e2U8TT0W7SpYHjp6cVt5kp19nTpKYH9QUyD4geqNHkXyq24uDL3BLpL9vUsGFT2ItPTqwht8y/cFsTVjOlglpQX02BXqluTCEMZdkbrBZ+WyH7QhoUciCKONaSRWMv7w2ZfJTDZniXfoYe4RhjVN/qHDGkejAAf1g0xMRPQpt9X+b3EhEBsqddeWHsnw7tx+vpS3+QN0uL1D4memd1b+liMd7BwfnbxiAyWIz9HhXP354t7sApcRRbBqtCNrBMxLYD/zrcCdkV/auW9uV0CgkD1zTe5zBD1tRNPrbFgfekrd6UqPhaOuwGlSvF3dwSMUjOvyo/rFm7yEJmAutkbV5Sh7seUVg2z0dit+N90BhYP76NUJlReR079wdaep0vtJdL1HADhpQqdZqENn8AXhWHK8Sxx7bw24BF7/1TGTNd0tLvzsOrpOzbPlJ163znqWgVviguy6xR4MvMeZNyX3gl5I8emG238RYhMymrhfPiKoYhlz12j+hWgIMKOTCwAVrNbVHoq5DfFuWujAb/p+CM6WGjToZp1i0k2bUxAHyo31o24kqnAt6oi3ClnFz4wO5P7NDFFyUm+mcvPxN0PpombJruAAgsAZE0ufh9Nu/G4g61bz95DbDu73Y6xCG3IBI6nipMdjyqe+B8lpuNUqvadVYBeYsPqp7n2Nt6hSD8TCn4b4F2zh/QKos3k9pEiSWAryCxnB3F7/f6udKRXcN0FOBALuYF1LsS8RoQpNVLswWAUIz8ggr0PEk4ikKCM4LzXf6QFMWqM4PalRiImW8lGxZTSSKa+4tSJ7RQBmLGXSXv8yrmhMvCiWqssJhe1ynPfjQusYLhGrZLDijMQSpCJ3dK+yJdYuhvzCntYv1jQY08n1O2o7dZ3L/OSlocMZfmth17YHc/nCG3mJvBMCA+MGfgUCd6SWAeRiOnF06cVwuLADgDjquqyyuFh1y5SqgnxVZyzhDWcVHL92etE+g6YVZHHe2FPiTFQwt1n2JFv7IXgZl5QsqfOpWaqJYqRFkMiKvXsiVJ4urP/EvHitPlfQtktKCqaXyVw8hLJH3IFDH7xl4YwnPAtzE5y0vEGe2QdhwPsXqGU2BwpSMF0TNa/dnSGaXJWqDn/PEtXio7Cf6+lVisdSPPjtJBhMpW4FUg56WjWLjCiCXe3kfFdWF7WmEXiNMb+18V6/UkVxVh+h9WXqEVpBDI2HU9pMj4CmHOJfO6WGLjwVCb4CR/NP4U2FJRQ=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a657248c632745');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a657248c632745';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/1106-camarao-na-moranga.html?__cf_chl_rt_tk=ijI3YXZz6cKCmJTuLxfv0hTAq89QtE5Iwo_4iEvNagQ-1660444979-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a657248c632745</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
