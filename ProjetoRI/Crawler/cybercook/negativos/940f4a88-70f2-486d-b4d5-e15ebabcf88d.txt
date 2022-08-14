@@ -1,0 +1,729 @@
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta content="pt-br" name="LANGUAGE" /><meta property="fb:app_id" content="2070469239688157"><title>As melhores receitas de Carnes | CyberCook</title><meta name="description" content="Veja nossa seleção das melhores receitas de Carnes que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! "><link rel="canonical" href="https://cybercook.com.br/receitas/carnes"/><link rel="next" href="https://cybercook.com.br/receitas/carnes?pagina=2"/><meta property="og:title" content="As melhores receitas de Carnes | CyberCook" /><meta property="og:description" content="Veja nossa seleção das melhores receitas de Carnes que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! " /><meta property="og:type" content="article" /><meta property="og:site_name" content="CyberCook" /><meta property="og:locale" content="pt_BR" /><meta property="og:image" content="https://img.cybercook.com.br/imagens/receitas/730/strogonoff-1.jpg" /><link rel="preconnect" href="https://storage.googleapis.com" crossorigin /><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin /><link rel="preconnect" href="https://cdn.ampproject.org" crossorigin /><link rel="preconnect" href="https://img.cybercook.com.br" /><link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" /><link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet"><link rel="stylesheet" href="/css/search.css"><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/swiper.min.css"><link rel="stylesheet" href="/css/recipe.css"><style>
+    .header__image--teamcook {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        min-height: 250px;
+    }
+
+    .header__image--teamcook #social-share {
+        bottom: 20px;
+        position: absolute;
+    }
+</style><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P23XW9L');</script><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/font-awesome.css"><link href="https://fonts.googleapis.com/css?family=Kadwa|Noto+Sans|Lato&display=swap" rel="stylesheet"><script type="application/ld+json">{ "@context":"https://schema.org", "@type":"ItemList", "itemListElement":[ { "@type": "ListItem", "position": "1", "url": "https://cybercook.com.br/receitas/carnes/strogonoff-1730" },{ "@type": "ListItem", "position": "2", "url": "https://cybercook.com.br/receitas/carnes/receita-de-escondidinho-maravilhoso-1757" },{ "@type": "ListItem", "position": "3", "url": "https://cybercook.com.br/receitas/carnes/receita-de-kibe-assado-1787" },{ "@type": "ListItem", "position": "4", "url": "https://cybercook.com.br/receitas/carnes/carne-moida-com-requeijao-11344" },{ "@type": "ListItem", "position": "5", "url": "https://cybercook.com.br/receitas/carnes/carne-assada-797" },{ "@type": "ListItem", "position": "6", "url": "https://cybercook.com.br/receitas/carnes/strogonoff-de-carne-1014" },{ "@type": "ListItem", "position": "7", "url": "https://cybercook.com.br/receitas/carnes/carne-de-panela-3134" },{ "@type": "ListItem", "position": "8", "url": "https://cybercook.com.br/receitas/carnes/receita-de-estrogonofe-de-carne-moida-11348" },{ "@type": "ListItem", "position": "9", "url": "https://cybercook.com.br/receitas/carnes/feijoada-776" },{ "@type": "ListItem", "position": "10", "url": "https://cybercook.com.br/receitas/carnes/lombo-assado-11631" },{ "@type": "ListItem", "position": "11", "url": "https://cybercook.com.br/receitas/carnes/bife-a-parmegiana-8348" },{ "@type": "ListItem", "position": "12", "url": "https://cybercook.com.br/receitas/carnes/vaca-atolada-1723" },{ "@type": "ListItem", "position": "13", "url": "https://cybercook.com.br/receitas/carnes/receita-de-abobrinhas-recheadas-com-carne-moida-12564" },{ "@type": "ListItem", "position": "14", "url": "https://cybercook.com.br/receitas/carnes/almondega-no-microondas-11137" },{ "@type": "ListItem", "position": "15", "url": "https://cybercook.com.br/receitas/carnes/receita-de-carne-moida-com-creme-de-cebola-3356" },{ "@type": "ListItem", "position": "16", "url": "https://cybercook.com.br/receitas/carnes/receita-de-bife-de-figado-acebolado-2671" },{ "@type": "ListItem", "position": "17", "url": "https://cybercook.com.br/receitas/carnes/receita-de-lombo-recheado-12622" },{ "@type": "ListItem", "position": "18", "url": "https://cybercook.com.br/receitas/carnes/picanha-no-forno-1680" },{ "@type": "ListItem", "position": "19", "url": "https://cybercook.com.br/receitas/carnes/almoco-de-domingo-em-1-hora-e-muito-sossego-14246" },{ "@type": "ListItem", "position": "20", "url": "https://cybercook.com.br/receitas/carnes/receita-de-arroz-carreteiro-gaucho-853" },{ "@type": "ListItem", "position": "21", "url": "https://cybercook.com.br/receitas/carnes/pernil-assado-2990" },{ "@type": "ListItem", "position": "22", "url": "https://cybercook.com.br/receitas/carnes/kibe-cru-11859" },{ "@type": "ListItem", "position": "23", "url": "https://cybercook.com.br/receitas/carnes/receita-de-bolo-de-carne-com-legumes-3109" },{ "@type": "ListItem", "position": "24", "url": "https://cybercook.com.br/receitas/carnes/receita-de-bolinhos-de-carne-para-criancas-2563" },{ "@type": "ListItem", "position": "25", "url": "https://cybercook.com.br/receitas/carnes/rocambole-de-carne-moida-1891" },{ "@type": "ListItem", "position": "26", "url": "https://cybercook.com.br/receitas/carnes/arroz-carreteiro-1863" },{ "@type": "ListItem", "position": "27", "url": "https://cybercook.com.br/receitas/carnes/bife-de-panela-2673" },{ "@type": "ListItem", "position": "28", "url": "https://cybercook.com.br/receitas/carnes/receita-de-strogonoff-de-carne-14165" },{ "@type": "ListItem", "position": "29", "url": "https://cybercook.com.br/receitas/carnes/file-mignon-ao-molho-madeira-4236" },{ "@type": "ListItem", "position": "30", "url": "https://cybercook.com.br/receitas/carnes/receita-de-bife-a-milanesa-suculento-8332" },{ "@type": "ListItem", "position": "31", "url": "https://cybercook.com.br/receitas/carnes/receita-de-carne-moida-com-chips-ao-forno-1725" },{ "@type": "ListItem", "position": "32", "url": "https://cybercook.com.br/receitas/carnes/receita-de-carne-cozida-na-cerveja-3112" },{ "@type": "ListItem", "position": "33", "url": "https://cybercook.com.br/receitas/carnes/picadinho-11330" },{ "@type": "ListItem", "position": "34", "url": "https://cybercook.com.br/receitas/carnes/receita-de-puchero-11731" },{ "@type": "ListItem", "position": "35", "url": "https://cybercook.com.br/receitas/carnes/receita-de-almondegas-a-napolitana-8478" },{ "@type": "ListItem", "position": "36", "url": "https://cybercook.com.br/receitas/carnes/receita-de-porpeta-ao-molho-341" },{ "@type": "ListItem", "position": "37", "url": "https://cybercook.com.br/receitas/carnes/almondegas-12467" },{ "@type": "ListItem", "position": "38", "url": "https://cybercook.com.br/receitas/carnes/receita-de-assado-rapido-2890" },{ "@type": "ListItem", "position": "39", "url": "https://cybercook.com.br/receitas/carnes/receita-de-kafta-no-espeto-para-petisco-2662" },{ "@type": "ListItem", "position": "40", "url": "https://cybercook.com.br/receitas/carnes/receita-de-bolinho-de-carne-2447" } ]}</script><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ googletag.cmd.push(function() {
+ // Interstitial
+ interstitial = googletag.defineOutOfPageSlot('/1762418/cybercook_interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL)
+ .setTargeting('position', 'interstitial');
+ if(interstitial) {
+ interstitial.addService(googletag.pubads());
+ }
+ googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+ //
+ var id = event.slot.getSlotId().getDomId();
+ if (id =='banner-120x60-area' && !event.isEmpty) {
+ let banner = document.querySelector('#banner-120x60-area')
+ banner.classList.remove('hide-lg')
+ banner.classList.remove('hide-sm')
+ }
+ if ((id == 'banner-1x1-2-area' && event.lineItemId != null) || (window.innerWidth < 1300)) {
+ var widesky = document.querySelector('#banner-160x600-area');
+ var widesky2 = document.querySelector('#banner-160x600-2-area');
+ if(widesky2 != null && widesky != null){
+ widesky.parentNode.removeChild(widesky);
+ widesky2.parentNode.removeChild(widesky2);
+ }
+ }
+ // Box recomenda
+ if (id == 'banner-360x200-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x200-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ if (id == 'banner-360x375-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x375-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ });
+ googletag.pubads().enableLazyLoad();
+ googletag.pubads().setTargeting('keyword', ["cat_carnes"]);
+ googletag.pubads().enableAsyncRendering();
+ });
+</script><link rel="apple-touch-icon" sizes="57x57" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-180x180.png"><link rel="icon" type="image/png" sizes="192x192" href="https://cybercook-assets.storage.googleapis.com/favicon/android-icon-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-32x32.png"><link rel="icon" type="image/png" sizes="96x96" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-96x96.png"><link rel="icon" type="image/png" sizes="16x16" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-16x16.png"><meta name="msapplication-TileImage" content="https://cybercook-assets.storage.googleapis.com/ms-icon-144x144.png"><link rel="manifest" href="https://cybercook-assets.storage.googleapis.com/favicon/manifest.json"><meta name="theme-color" content="#1B785E"><meta name="msapplication-TileColor" content="#1B785E"><script async src="https://www.googletagmanager.com/gtag/js?id=UA-5891106-1"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5891106-1', { 'optimize_id': 'GTM-M2BZR4N'});
+</script><script src="/js/vendor.js"></script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P23XW9L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+ window.fbAsyncInit = function() {
+   FB.init({
+     appId      : '2070469239688157',
+     xfbml      : true,
+     version    : 'v3.2'
+   });
+   FB.AppEvents.logPageView();
+ };
+
+ (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script><div class="container bg--white" id="cc-container"><div class="ads--super super_superior txt-center"><div id="banner-728x90-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-area'); }); </script></div></div><div id="app-header"><app-topo logo="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" menu="{&quot;itens&quot;:&quot;[{\&quot;label\&quot;:\&quot;P\u00e1gina Inicial\&quot;,\&quot;url\&quot;:\&quot;\/\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;hide-lg\&quot;}},{\&quot;label\&quot;:\&quot;Receitas\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu--teamcook\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Tipos de prato\&quot;,\&quot;url\&quot;:\&quot;\&quot;},{\&quot;label\&quot;:\&quot;Saladas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/saladas\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;\&quot;}},{\&quot;label\&quot;:\&quot;Legumes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/legumes\&quot;},{\&quot;label\&quot;:\&quot;Carnes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/carnes\&quot;},{\&quot;label\&quot;:\&quot;Aves\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\&quot;},{\&quot;label\&quot;:\&quot;Massas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\&quot;},{\&quot;label\&quot;:\&quot;Peixes e frutos do mar\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/peixes-e-frutos-do-mar\&quot;},{\&quot;label\&quot;:\&quot;Doces\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\&quot;},{\&quot;label\&quot;:\&quot;Risotos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/risotos\&quot;},{\&quot;label\&quot;:\&quot;Bebidas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bebidas\&quot;},{\&quot;label\&quot;:\&quot;Molhos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/molhos\&quot;},{\&quot;label\&quot;:\&quot;Sopas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sopas\&quot;},{\&quot;label\&quot;:\&quot;Bolos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\&quot;},{\&quot;label\&quot;:\&quot;Lanches\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\&quot;},{\&quot;label\&quot;:\&quot;P\u00e3es\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/paes\&quot;},{\&quot;label\&quot;:\&quot;Aperitivos e antepastos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aperitivos-e-antepastos\&quot;},{\&quot;label\&quot;:\&quot;Acompanhamentos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/acompanhamentos\&quot;},{\&quot;label\&quot;:\&quot;Mais Receitas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\&quot;}]},{\&quot;label\&quot;:\&quot;Blog CyberCook\&quot;,\&quot;url\&quot;:\&quot;\/blog\&quot;},{\&quot;label\&quot;:\&quot;Receitas de Outono\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-de-outono?origem=menu\&quot;},{\&quot;label\&quot;:\&quot;V\u00eddeos\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Receitas com V\u00eddeo\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-com-video\&quot;},{\&quot;label\&quot;:\&quot;Nosso canal no YouTube \&quot;,\&quot;url\&quot;:\&quot;https:\/\/www.youtube.com\/c\/CyberCookReceitasComoFazer\/\&quot;}]},{\&quot;label\&quot;:\&quot;+Sugest\u00f5es\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Pizza\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/massa-de-pizza-527\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Cenoura\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/receita-de-bolo-de-cenoura-13975\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Chocolate\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-chocolate-molhadinho-12969\&quot;},{\&quot;label\&quot;:\&quot;Bolinho de Chuva\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/como-fazer-bolinho-de-chuva-13561\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Fub\u00e1\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-fuba-1677\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Milho\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-milho-1641\&quot;},{\&quot;label\&quot;:\&quot;Brigadeiros\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/brigadeiros\&quot;},{\&quot;label\&quot;:\&quot;Fricass\u00ea de Frango\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\/receita-de-fricasse-de-frango-14641\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Anivers\u00e1rio\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-aniversario-108462\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Banana\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-banana-13977\&quot;},{\&quot;label\&quot;:\&quot;Panquecas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\/receita-de-panquecas-1582\&quot;},{\&quot;label\&quot;:\&quot;Pudim de Leite Condensado\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/pudim-de-leite-condensado-8595\&quot;},{\&quot;label\&quot;:\&quot;Sobremesa\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sobremesa\&quot;},{\&quot;label\&quot;:\&quot;Torta de Liquidificador\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/torta-de-liquidificador-1857\&quot;},{\&quot;label\&quot;:\&quot;Cuscuz Paulista\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/cuscuz-paulista-9078\&quot;}]},{\&quot;label\&quot;:\&quot;Envie sua receita\&quot;,\&quot;url\&quot;:\&quot;\/cadastrar-receita\&quot;}]&quot;}"></app-topo></div><div class="recipe--scroll grid-sm-12 grid-lg-12" ><div class="content grid-lg-8 grid-sm-12"><section class="grid-lg-12"><header class="grid-sm-12 mb10"><section class="breadcrumb mt10 mb10 mr10 ml10 printable--none"><ul  id="crumbs"><li><a class="link black" href="/">Início</a> /
+        </li><li><a class="link black" href="/receitas">Receitas</a> /
+        </li><li class="l mr5"><span class="current txt-bold">Carnes</span></li></ul></section><div class="header-search-filter mt20"><h1 class="txt-large desk-txt-large txt-center font-serif">Carne</h1><p class="font-serif txt-center txt-medium mb20">7988 receitas</p><div id="social-share"
+        class="grid-lg-12 grid-sm-12 pos-relative mb15"><app-social-share class="social-share-aligment" align="txt-right" pt="true" tt="true" fb="true" wa="true" /></div><div id="horizontal-scroll"><app-horizontal-scroll content="&lt;p&gt;Para o &lt;strong&gt;almoço de domingo&lt;/strong&gt; ou para fazer um &lt;strong&gt;hamburguer caseiro&lt;/strong&gt;, o &lt;strong&gt;CyberCook&lt;/strong&gt; tem todos os tipo de &lt;strong&gt;receita com carnes&lt;/strong&gt;! Difícil mesmo vai ser escolher entre a &lt;strong&gt;receita de rocambole de carne&lt;/strong&gt;, &lt;strong&gt;filé à parmegiana&lt;/strong&gt; ou &lt;strong&gt;como fazer almondega&lt;/strong&gt;! Você está prestes a conhecer &lt;strong&gt;receitas deliciosas&lt;/strong&gt;, aproveite!&lt;/p&gt;" /></div></div><style>
+@media (max-width: 1023px) {
+    #social-share {
+        padding-right: 8px;
+    }
+}
+
+#social-share .social-share-aligment {
+    justify-content: flex-end !important;
+}
+</style><h2 class="txt-center txt-normal"><b>As melhores receitas de carne</b></h2></header><div class="main grid-sm-12 grid-lg-12"><div class=""><section class="list grid-sm-12"><div
+        class="grid-sm-12 list-container  "><div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/strogonoff-1730"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/730/strogonoff-1-120x120.jpg" alt="Strogonoff"
+                        title="Strogonoff" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/strogonoff-1730" title="Strogonoff" class="black">
+                    Strogonoff </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Debora Vieira</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        363
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-escondidinho-maravilhoso-1757"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/757/escondidinho-7-120x120.jpeg" alt="Escondidinho Maravilhoso"
+                        title="Escondidinho Maravilhoso" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-escondidinho-maravilhoso-1757" title="Escondidinho Maravilhoso" class="black">
+                    Escondidinho Maravilhoso </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Yara </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        295
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-kibe-assado-1787"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/787/kibe-assado-120x120.jpeg" alt="Receita de Kibe Assado"
+                        title="Receita de Kibe Assado" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-kibe-assado-1787" title="Receita de Kibe Assado" class="black">
+                    Receita de Kibe Assado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Bell Rezende</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        223
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/carne-moida-com-requeijao-11344"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/344/carne-moida-com-requeijao-1-120x120.jpg" alt="Carne Moída com Requeijão"
+                        title="Carne Moída com Requeijão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/carne-moida-com-requeijao-11344" title="Carne Moída com Requeijão" class="black">
+                    Carne Moída com Requeijão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        141
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/carne-assada-797"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/797/carne-assada-1-120x120.jpg" alt="Carne Assada"
+                        title="Carne Assada" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/carne-assada-797" title="Carne Assada" class="black">
+                    Carne Assada </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Heloise Almeida</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        147
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/strogonoff-de-carne-1014"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/800/strogonoff-de-cogumelos-sem-lactose-120x120.jpeg" alt="Strogonoff de Carne"
+                        title="Strogonoff de Carne" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/strogonoff-de-carne-1014" title="Strogonoff de Carne" class="black">
+                    Strogonoff de Carne </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Luciana de Souza</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        103
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/carne-de-panela-3134"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/134/carne-de-panela-2-120x120.jpeg" alt="Carne de Panela"
+                        title="Carne de Panela" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/carne-de-panela-3134" title="Carne de Panela" class="black">
+                    Carne de Panela </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        105
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-estrogonofe-de-carne-moida-11348"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/348/estrogonofe-de-carne-moida-3-120x120.jpg" alt="Estrogonofe de Carne Moída"
+                        title="Estrogonofe de Carne Moída" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-estrogonofe-de-carne-moida-11348" title="Estrogonofe de Carne Moída" class="black">
+                    Estrogonofe de Carne Moída </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        71
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/feijoada-776"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/776/feijoada-120x120.jpeg" alt="Feijoada"
+                        title="Feijoada" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/feijoada-776" title="Feijoada" class="black">
+                    Feijoada </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Luiz Lapetina</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        69
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/lombo-assado-11631"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/631/lombo-assado-1-120x120.jpg" alt="Lombo Assado"
+                        title="Lombo Assado" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/lombo-assado-11631" title="Lombo Assado" class="black">
+                    Lombo Assado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        71
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/bife-a-parmegiana-8348"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/348/bife-a-parmegiana-4-120x120.jpeg" alt="Bife à Parmegiana"
+                        title="Bife à Parmegiana" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/bife-a-parmegiana-8348" title="Bife à Parmegiana" class="black">
+                    Bife à Parmegiana </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        63
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/vaca-atolada-1723"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/723/vaca-atolada-3-120x120.jpeg" alt="Vaca Atolada"
+                        title="Vaca Atolada" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/vaca-atolada-1723" title="Vaca Atolada" class="black">
+                    Vaca Atolada </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Bell Rezende</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        52
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-abobrinhas-recheadas-com-carne-moida-12564"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/564/abobrinhas-recheadas-com-carne-moida-4-120x120.jpeg" alt="Abobrinhas Recheadas com Carne Moída"
+                        title="Abobrinhas Recheadas com Carne Moída" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/carnes/receita-de-abobrinhas-recheadas-com-carne-moida-12564" title="Abobrinhas Recheadas com Carne Moída" class="black">
+                    Abobrinhas Recheadas com Carne Moída </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        56
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/almondega-no-microondas-11137"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/137/almondega-no-microondas-120x120.jpg" alt="Almôndega no Microondas"
+                        title="Almôndega no Microondas" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/almondega-no-microondas-11137" title="Almôndega no Microondas" class="black">
+                    Almôndega no Microondas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        58
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-carne-moida-com-creme-de-cebola-3356"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/356/carne-moida-com-creme-de-cebola-120x120.jpg" alt="Carne Moída com Creme de Cebola"
+                        title="Carne Moída com Creme de Cebola" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-carne-moida-com-creme-de-cebola-3356" title="Carne Moída com Creme de Cebola" class="black">
+                    Carne Moída com Creme de Cebola </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Simone Dian</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        57
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-bife-de-figado-acebolado-2671"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/671/bife-de-figado-acebolado-1-120x120.jpeg" alt="Bife de Fígado Acebolado"
+                        title="Bife de Fígado Acebolado" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-bife-de-figado-acebolado-2671" title="Bife de Fígado Acebolado" class="black">
+                    Bife de Fígado Acebolado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Itaci </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        58
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-lombo-recheado-12622"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/622/lombo-recheado-120x120.jpeg" alt="Lombo Recheado"
+                        title="Lombo Recheado" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-lombo-recheado-12622" title="Lombo Recheado" class="black">
+                    Lombo Recheado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        45
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/picanha-no-forno-1680"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/680/picanha-no-forno-1-120x120.jpg" alt="Picanha no Forno"
+                        title="Picanha no Forno" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/picanha-no-forno-1680" title="Picanha no Forno" class="black">
+                    Picanha no Forno </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Wilson Batista</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        54
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/almoco-de-domingo-em-1-hora-e-muito-sossego-14246"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/246/almoco-de-domingo-em-1-hora-e-muito-sossego-1-120x120.jpeg" alt="Almoço de Domingo em 1 hora e muito sossego"
+                        title="Almoço de Domingo em 1 hora e muito sossego" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/carnes/almoco-de-domingo-em-1-hora-e-muito-sossego-14246" title="Almoço de Domingo em 1 hora e muito sossego" class="black">
+                    Almoço de Domingo em 1 hora e muito sossego </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        46
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-arroz-carreteiro-gaucho-853"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/853/arroz-carreteiro-completo-2-120x120.jpeg" alt="Arroz Carreteiro Gaúcho"
+                        title="Arroz Carreteiro Gaúcho" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-arroz-carreteiro-gaucho-853" title="Arroz Carreteiro Gaúcho" class="black">
+                    Arroz Carreteiro Gaúcho </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Wagner Antunes</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        45
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/pernil-assado-2990"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/990/pernil-assado-120x120.jpeg" alt="Pernil Assado"
+                        title="Pernil Assado" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/pernil-assado-2990" title="Pernil Assado" class="black">
+                    Pernil Assado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        41
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/kibe-cru-11859"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/859/kibe-cru-1-120x120.jpg" alt="Kibe Cru"
+                        title="Kibe Cru" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/kibe-cru-11859" title="Kibe Cru" class="black">
+                    Kibe Cru </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        37
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-bolo-de-carne-com-legumes-3109"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/109/bolo-de-carne-com-legumes-4-120x120.jpg" alt="Bolo de Carne com Legumes"
+                        title="Bolo de Carne com Legumes" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-bolo-de-carne-com-legumes-3109" title="Bolo de Carne com Legumes" class="black">
+                    Bolo de Carne com Legumes </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        39
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-bolinhos-de-carne-para-criancas-2563"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/563/bolinhos-de-carne-para-criancas-1-120x120.jpeg" alt="Bolinhos de Carne para Crianças"
+                        title="Bolinhos de Carne para Crianças" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-bolinhos-de-carne-para-criancas-2563" title="Bolinhos de Carne para Crianças" class="black">
+                    Bolinhos de Carne para Crianças </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        28
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/rocambole-de-carne-moida-1891"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/891/rocambole-de-carne-moida-3-120x120.jpeg" alt="Rocambole de Carne Moída"
+                        title="Rocambole de Carne Moída" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/rocambole-de-carne-moida-1891" title="Rocambole de Carne Moída" class="black">
+                    Rocambole de Carne Moída </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Sandra Maria</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        36
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/arroz-carreteiro-1863"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/863/arroz-carreteiro-2-120x120.jpeg" alt="Arroz Carreteiro"
+                        title="Arroz Carreteiro" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/arroz-carreteiro-1863" title="Arroz Carreteiro" class="black">
+                    Arroz Carreteiro </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Itaci </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        34
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/bife-de-panela-2673"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/673/bife-de-panela-1-120x120.jpg" alt="Bife de Panela"
+                        title="Bife de Panela" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/bife-de-panela-2673" title="Bife de Panela" class="black">
+                    Bife de Panela </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        38
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-strogonoff-de-carne-14165"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/165/strogonoff-de-carne-7-120x120.jpeg" alt="Strogonoff de Carne"
+                        title="Strogonoff de Carne" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-strogonoff-de-carne-14165" title="Strogonoff de Carne" class="black">
+                    Strogonoff de Carne </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Nivia Lopes</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        38
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/file-mignon-ao-molho-madeira-4236"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/236/file-mignon-ao-molho-madeira-1-120x120.png" alt="Filé Mignon ao Molho Madeira"
+                        title="Filé Mignon ao Molho Madeira" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/file-mignon-ao-molho-madeira-4236" title="Filé Mignon ao Molho Madeira" class="black">
+                    Filé Mignon ao Molho Madeira </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Margareth Komiyama</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        32
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-bife-a-milanesa-suculento-8332"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/332/bife-a-milanesa-120x120.jpg" alt="Bife à Milanesa Suculento"
+                        title="Bife à Milanesa Suculento" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-bife-a-milanesa-suculento-8332" title="Bife à Milanesa Suculento" class="black">
+                    Bife à Milanesa Suculento </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        33
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-carne-moida-com-chips-ao-forno-1725"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/725/carne-moida-com-chips-ao-forno-120x120.jpg" alt="Carne Moída com Chips ao Forno"
+                        title="Carne Moída com Chips ao Forno" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-carne-moida-com-chips-ao-forno-1725" title="Carne Moída com Chips ao Forno" class="black">
+                    Carne Moída com Chips ao Forno </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Vanda Staffa</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        35
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-carne-cozida-na-cerveja-3112"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/112/carne-cozida-na-cerveja-120x120.jpg" alt="Carne Cozida na Cerveja"
+                        title="Carne Cozida na Cerveja" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-carne-cozida-na-cerveja-3112" title="Carne Cozida na Cerveja" class="black">
+                    Carne Cozida na Cerveja </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        35
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/picadinho-11330"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/330/picadinho-120x120.jpeg" alt="Picadinho"
+                        title="Picadinho" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/picadinho-11330" title="Picadinho" class="black">
+                    Picadinho </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Claudete Drumond</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        20
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-puchero-11731"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/731/puchero-120x120.jpeg" alt="Puchero"
+                        title="Puchero" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-puchero-11731" title="Puchero" class="black">
+                    Puchero </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        31
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-almondegas-a-napolitana-8478"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/478/almondegas-a-napolitana-4-120x120.jpeg" alt="Almôndegas a Napolitana"
+                        title="Almôndegas a Napolitana" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-almondegas-a-napolitana-8478" title="Almôndegas a Napolitana" class="black">
+                    Almôndegas a Napolitana </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        26
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-porpeta-ao-molho-341"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/341/porpeta-ao-molho-120x120.jpeg" alt="Porpeta ao Molho"
+                        title="Porpeta ao Molho" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-porpeta-ao-molho-341" title="Porpeta ao Molho" class="black">
+                    Porpeta ao Molho </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Luiz Lapetina</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        30
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/almondegas-12467"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/467/almondegas-120x120.jpeg" alt="Almôndegas"
+                        title="Almôndegas" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/almondegas-12467" title="Almôndegas" class="black">
+                    Almôndegas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Allan Vila</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        22
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-assado-rapido-2890"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/890/assado-rapido-120x120.jpg" alt="Assado Rápido"
+                        title="Assado Rápido" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-assado-rapido-2890" title="Assado Rápido" class="black">
+                    Assado Rápido </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        30
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-kafta-no-espeto-para-petisco-2662"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/662/kafta-no-espeto-120x120.jpg" alt="Kafta no Espeto para Petisco"
+                        title="Kafta no Espeto para Petisco" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-kafta-no-espeto-para-petisco-2662" title="Kafta no Espeto para Petisco" class="black">
+                    Kafta no Espeto para Petisco </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Itaci </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        28
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-bolinho-de-carne-2447"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/447/bolinho-de-carne-1-120x120.jpg" alt="Bolinho de Carne"
+                        title="Bolinho de Carne" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-bolinho-de-carne-2447" title="Bolinho de Carne" class="black">
+                    Bolinho de Carne </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Debora Vieira</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        29
+                    </div></div></div></div></div>                                    </div></section>            </div><div class="grid-lg-12 grid-sm-12 txt-center"><div class="font-serif pagination grid-sm-12 grid-lg-12"><div class=" "><div class="txt-center"><span class="pagination__grey-unactive txt-normal">primeira</span></div><div class="txt-center omega"><span class="pagination__grey-unactive txt-normal"><i class="fa fa-chevron-left mx25" aria-hidden="true"></i></span></div></div><div class=" items_pag  "><div><span class="black pagination__number txt-normal">1</span></div><div class="pl5">
+                                de
+                                <a class="black pagination__number txt-normal" href="/receitas/carnes?pagina=1">200</a></div></div><div ><div class="   txt-center"><a href="/receitas/carnes?pagina=2" rel="next" class="black txt-normal"><i class="fa fa-chevron-right mx25" aria-hidden="true"></i></a></div><div class="   txt-center"><a href="/receitas/carnes?pagina=200" class="black txt-normal">última</a></div></div></div></div></div></section></div><aside class=" sidebar grid-lg-4 grid-sm-12 omega printable--none txt-center"><div id="banner-300x250-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-area').addService(googletag.pubads()).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-area'); }); </script></div><div class="pt10"></div><div class="clear"></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/o-match-que-vigora" class="black" title="O Match que Vigora"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/200/pao-de-alho-com-queijo-camembert-300x168.jpeg" alt="O Match que Vigora"
+                    title="O Match que Vigora" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">O Match que Vigora</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/dia-dos-pais" class="black" title="Dia dos Pais"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/99/espetos-de-legumes-e-frango-1-300x168.jpeg" alt="Dia dos Pais"
+                    title="Dia dos Pais" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Dia dos Pais</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa?tg=receitas-classicas" class="black" title="Receitas Clássicas"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/422/baiao-de-dois-rapido-2-300x168.jpeg" alt="Receitas Clássicas"
+                    title="Receitas Clássicas" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas Clássicas</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="https://cybercook.com.br/receitas/receitas-de-inverno" class="black" title="Receitas de Inverno"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/213/dalgona-coffee-1-300x168.jpeg" alt="Receitas de Inverno"
+                    title="Receitas de Inverno" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas de Inverno</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/legumes-e-frutas-da-estacao" class="black" title="Frutas, Legumes e Verduras da Estação"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/940/mousse-de-maracuja-especial-3-300x168.jpeg" alt="Frutas, Legumes e Verduras da Estação"
+                    title="Frutas, Legumes e Verduras da Estação" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Frutas, Legumes e Verduras da Estação</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa" class="black" title="Gostinho de Casa"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/630/receita-de-bolo-de-cenoura-17-300x168.jpeg" alt="Gostinho de Casa"
+                    title="Gostinho de Casa" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Gostinho de Casa</h6></div></a></div><div class="clear"></div><div class="mt20 mb20"><div id="banner-300x250-2-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-2-area').addService(googletag.pubads()).setTargeting("position", "mid").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-2-area'); }); </script></div></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt10 swiper-container"><h6 class="pl10 green txt-medium mb10 font-serif txt-bold">Blog CyberCook</h6><div class="swiper-wrapper"><div class="swiper-slide"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/bawryel9jzdicvmlscfu9hkpiebc1karmibovsyc-320x200.jpeg" class="swiper-lazy"
+                        alt="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"> Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial </a></h3></div></div><div class="swiper-slide"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/161/biscoitos-amanteigados-9-320x200.jpeg" class="swiper-lazy"
+                        alt="Todas as dicas para fazer biscoito caseiro perfeito" title="Todas as dicas para fazer biscoito caseiro perfeito" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"> Todas as dicas para fazer biscoito caseiro perfeito </a></h3></div></div><div class="swiper-slide"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/0kremmr1yzfbdo8y8dg60ixtzujfbejk7yvnrw7h-320x200.jpeg" class="swiper-lazy"
+                        alt="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"> Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa </a></h3></div></div></div><div class="card-stack-button-prev fa fa-chevron-left white"></div><div class="card-stack-button-next fa fa-chevron-right white"></div></div><div class="pl10 pr10 grid-sm-12 grid-lg-12"><h6 class="txt-medium mt10 mb10 font-serif">Receitas novinhas </h6><div class="card--carousel__container swiper-container"><div class="swiper-wrapper"><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/carnes/receita-de-tempero-para-pernil-125131"><a title="Tempero para pernil" href="/receitas/carnes/receita-de-tempero-para-pernil-125131" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/990/pernil-assado-125x120.jpeg"
+                                  alt="Tempero para pernil"
+                                  title="Tempero para pernil"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/carnes/receita-de-tempero-para-pernil-125131" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Tempero para pernil">
+                             Tempero para pernil
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/carnes/receita-de-picadinho-suino-na-cerveja-125127"><a title="Picadinho suíno na cerveja " href="/receitas/carnes/receita-de-picadinho-suino-na-cerveja-125127" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/127/picadinho-suino-na-cerveja-125x120.jpeg"
+                                  alt="Picadinho suíno na cerveja "
+                                  title="Picadinho suíno na cerveja "
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/carnes/receita-de-picadinho-suino-na-cerveja-125127" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Picadinho suíno na cerveja ">
+                             Picadinho suíno na cerveja 
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/carnes/receita-de-pernil-assado-com-batatas-rusticas-125100"><a title="Pernil Assado com Batatas Rústicas" href="/receitas/carnes/receita-de-pernil-assado-com-batatas-rusticas-125100" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/100/pernil-assado-com-batatas-rusticas-1-125x120.jpeg"
+                                  alt="Pernil Assado com Batatas Rústicas"
+                                  title="Pernil Assado com Batatas Rústicas"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/carnes/receita-de-pernil-assado-com-batatas-rusticas-125100" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Pernil Assado com Batatas Rústicas">
+                             Pernil Assado com Batatas Rústicas
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/carnes/receita-de-pernil-na-panela-de-pressao-com-abacaxi-grelhado-125094"><a title="Pernil na Panela de Pressão com Abacaxi Grelhado" href="/receitas/carnes/receita-de-pernil-na-panela-de-pressao-com-abacaxi-grelhado-125094" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/94/pernil-na-pressao-com-abacaxi-grelhado-1-125x120.jpeg"
+                                  alt="Pernil na Panela de Pressão com Abacaxi Grelhado"
+                                  title="Pernil na Panela de Pressão com Abacaxi Grelhado"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/carnes/receita-de-pernil-na-panela-de-pressao-com-abacaxi-grelhado-125094" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Pernil na Panela de Pressão com Abacaxi Grelhado">
+                             Pernil na Panela de Pressão com Abacaxi Grelhado
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/carnes/receita-de-carne-seca-cremosa-na-moranga-125083"><a title="Carne seca cremosa na moranga" href="/receitas/carnes/receita-de-carne-seca-cremosa-na-moranga-125083" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/83/carne-seca-cremosa-na-moranga-2-125x120.jpeg"
+                                  alt="Carne seca cremosa na moranga"
+                                  title="Carne seca cremosa na moranga"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/carnes/receita-de-carne-seca-cremosa-na-moranga-125083" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Carne seca cremosa na moranga">
+                             Carne seca cremosa na moranga
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/carnes/receita-de-molho-de-laranja-para-tender-125059"><a title="Molho de Laranja para Tender" href="/receitas/carnes/receita-de-molho-de-laranja-para-tender-125059" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/59/molho-de-laranja-para-tender-125x120.jpeg"
+                                  alt="Molho de Laranja para Tender"
+                                  title="Molho de Laranja para Tender"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/carnes/receita-de-molho-de-laranja-para-tender-125059" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Molho de Laranja para Tender">
+                             Molho de Laranja para Tender
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div></div><div class="card-button-prev fa fa-chevron-left white"></div><div class="card-button-next fa fa-chevron-right white"></div></div></div><div class="mt20"><div id="banner-300x250-3-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-3-area').addService(googletag.pubads()).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-3-area'); }); </script></div></div></aside>            </div><div class="grid-lg-12 grid-sm-12 mt10 ads__catfish pt5"><i class="fa fa-close border--round ads__close bg--white"></i><div id="banner-728x90-3-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-3-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-3-area'); }); </script></div></div><footer class="footer grid-lg-12 grid-sm-12 mt50 mb20 pl20 pr20 font-serif "><div class="grid-lg-3 grid-sm-12"><div class="grid-sm-12 grid-lg-12 txt-center mt20 mb15"><a href="/" title="Cybercook"><img src="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" width="50" height="70" alt="Logo do Cybercook"
+                    title="Cybercook" /></a></div><div class="grid-sm-12 grid-lg-12 social centerFooterItens"><h4>Siga o CyberCook</h4><div class="grid-sm-12 grid-lg-12 socialIconsFooter centerFooterItens"><span><a href="https://twitter.com/cybercook" target="_blank" rel="noopener" title="Twitter"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_twitter.svg"
+                            alt="Rede social Twitter do Cybercook" title="Twitter" /></a><a href="https://pt-br.facebook.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Facebook"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_facebook.svg"
+                            alt="Rede social Facebook do Cybercook" title="Facebook" /></a><a href="https://www.instagram.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Instagram"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/instagram.svg"
+                            alt="Rede social Instagram do Cybercook" title="Instagram" /></a><a href="https://br.pinterest.com/cybercookbr/" target="_blank" rel="noopener" title="Pinterest"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_pinterest-social-logo.svg"
+                            alt="Rede social Pinterest do Cybercook" title="Pinterest" /></a><a href="https://www.youtube.com/c/CyberCookReceitasComoFazer/" target="_blank" rel="noopener"
+                        title="Youtube"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_youtube.svg"
+                            alt="Rede social Youtube do Cybercook" title="Youtube" /></a></span></div></div></div><hr class="hide-lg border--none py10 grid-sm-12 grid-lg-12" /><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Sobre nós</h4><ul class="footer__nav txt-medium"><li><a title="Fale com a gente" href="/fale-conosco">Fale com a gente</a></li><li><a title="Trabalhe conosco" href="/trabalhe-conosco">Trabalhe conosco</a></li><li><a title="Política de privacidade" href="/politica-de-privacidade/p">Política de privacidade</a></li><li><a title="Termos de uso" href="/termos-de-uso/p">Termos de uso</a></li><li><a title="Solicitação de dados pessoais" href="/solicitacao-de-dados-pessoais/p">Solicitação de dados pessoais</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Nossa seleção</h4><ul class="footer__nav txt-medium"><li><a title="Panqueca" href="/receitas/massas/receita-de-panqueca-1917">Panqueca</a></li><li><a title="Bolo de Mandioca Diet" href="/receitas/bolos/receita-de-bolo-de-mandioca-diet-71696">Bolo de Mandioca Diet</a></li><li><a title="Frango à Passarinho na Air Fryer" href="/receitas/aves/receita-de-frango-a-passarinho-na-air-fryer-122387">Frango à Passarinho na Air Fryer</a></li><li><a title="Receitas de até 30 minutos" href="/blog/pratos-rapidos-para-jantar-receitas-de-ate-30-minutos-2504">Receitas de até 30 minutos</a></li><li><a title="Pizza Low-Carb De Frigideira" href="/receitas/lanches/pizzas/receita-de-pizza-low-carb-de-frigideira-122752">Pizza Low-Carb De Frigideira</a></li><li><a title="Carne de Jaca Vegana" href="/receitas/carnes/receita-de-carne-de-jaca-vegana-122813">Carne de Jaca Vegana</a></li><li><a title="Receitas de Saladas e Bowls" href="/receitas/verao/?tg=verao-saladas-e-bowls">Receitas de Saladas e Bowls</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40 omega "><h4>Categorias</h4><ul class="footer__nav txt-medium"><li><a title="Saladas" href="/receitas/saladas">Saladas</a></li><li><a title="Legumes" href="/receitas/legumes">Legumes</a></li><li><a title="Carnes" href="/receitas/carne">Carnes</a></li><li><a title="Aves" href="/receitas/aves">Aves</a></li><li><a title="Massas" href="/receitas/massas">Massas</a></li><li><a title="Peixes e frutos do mar" href="/receitas/peixes-e-frutos-do-mar">Peixes e frutos do mar</a></li><li><a title="Doces" href="/receitas/doces">Doces</a></li></ul></nav><div class="grid-sm-12 grid-lg-12 txt-center txt-small"><a href="https://mercado.carrefour.com.br/?utm_source=cybercook&utm_medium=footer" title="Carrefour"
+            target="_blank" rel="noopener noreferrer"><img src="https://cybercook-assets.storage.googleapis.com/logos/uma-empresa-do-grupo-carrefour.svg"
+                alt="Uma empresa do grupo Carrefour" title="Carrefour" class="grid-sm-10 grid__offset-sm-1"
+                style="max-width:320px" width="250" height="40" /></a><p class="grid-sm-12 grid-lg-12 mt10 txt-small font-arial">Copyright &copy; 2022
+            e-Mídia Informações Ltda - CyberCook é uma propriedade e-Mídia.</p></div><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+        data-domain-script="723a9584-77b0-4e19-8757-3c497895e0b7"></script><script>
+        function OptanonWrapper() { }
+    </script></footer><script src="/js/main.js"></script><div class="hide flash-message pos-fixed grid-lg-5 grid-sm-12 grid__offset-lg-1 bg--white pb20"><i class="flash-message-close fa fa-times fr link" style="padding: 0.5em"></i><p class="grid-lg-10 grid-sm-10 grid__offset-1"></p></div><div class="backlight hide"></div><i class="flash-load hide fa fa-spinner fa-pulse fa-3x fa-fw orange"></i>            <script src="https://cybercook-assets.storage.googleapis.com/js/swiper.min.js"></script><script async src="/js/search.js"></script></div><div class="widesky"></div><div class="widesky"></div><div id="banner-160x600-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "left").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-area'); }); </script></div><div id="banner-160x600-2-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-2-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "right").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-2-area'); }); </script></div></body></html>

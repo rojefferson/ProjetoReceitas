@@ -1,0 +1,729 @@
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta content="pt-br" name="LANGUAGE" /><meta property="fb:app_id" content="2070469239688157"><title>As melhores receitas de Massas | CyberCook</title><meta name="description" content="Veja nossa seleção das melhores receitas de Massas que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! "><link rel="canonical" href="https://cybercook.com.br/receitas/massas"/><link rel="next" href="https://cybercook.com.br/receitas/massas?pagina=2"/><meta property="og:title" content="As melhores receitas de Massas | CyberCook" /><meta property="og:description" content="Veja nossa seleção das melhores receitas de Massas que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! " /><meta property="og:type" content="article" /><meta property="og:site_name" content="CyberCook" /><meta property="og:locale" content="pt_BR" /><meta property="og:image" content="https://img.cybercook.com.br/receitas/582/panquecas-2.jpeg" /><link rel="preconnect" href="https://storage.googleapis.com" crossorigin /><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin /><link rel="preconnect" href="https://cdn.ampproject.org" crossorigin /><link rel="preconnect" href="https://img.cybercook.com.br" /><link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" /><link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet"><link rel="stylesheet" href="/css/search.css"><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/swiper.min.css"><link rel="stylesheet" href="/css/recipe.css"><style>
+    .header__image--teamcook {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        min-height: 250px;
+    }
+
+    .header__image--teamcook #social-share {
+        bottom: 20px;
+        position: absolute;
+    }
+</style><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P23XW9L');</script><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/font-awesome.css"><link href="https://fonts.googleapis.com/css?family=Kadwa|Noto+Sans|Lato&display=swap" rel="stylesheet"><script type="application/ld+json">{ "@context":"https://schema.org", "@type":"ItemList", "itemListElement":[ { "@type": "ListItem", "position": "1", "url": "https://cybercook.com.br/receitas/massas/receita-de-panquecas-1582" },{ "@type": "ListItem", "position": "2", "url": "https://cybercook.com.br/receitas/massas/macarrao-alho-e-oleo-3886" },{ "@type": "ListItem", "position": "3", "url": "https://cybercook.com.br/receitas/massas/receita-de-panqueca-1917" },{ "@type": "ListItem", "position": "4", "url": "https://cybercook.com.br/receitas/massas/macarrao-de-panela-de-pressao-1620" },{ "@type": "ListItem", "position": "5", "url": "https://cybercook.com.br/receitas/massas/macarrao-na-panela-de-pressao-muito-rapido-13987" },{ "@type": "ListItem", "position": "6", "url": "https://cybercook.com.br/receitas/massas/lasanha-de-frango-14002" },{ "@type": "ListItem", "position": "7", "url": "https://cybercook.com.br/receitas/massas/panqueca-9854" },{ "@type": "ListItem", "position": "8", "url": "https://cybercook.com.br/receitas/massas/yakisoba-4155" },{ "@type": "ListItem", "position": "9", "url": "https://cybercook.com.br/receitas/massas/receita-de-como-fazer-nhoque-9598" },{ "@type": "ListItem", "position": "10", "url": "https://cybercook.com.br/receitas/massas/massa-para-crepe-no-palito-14063" },{ "@type": "ListItem", "position": "11", "url": "https://cybercook.com.br/receitas/massas/receita-de-como-fazer-macarrao-receita-basica-10995" },{ "@type": "ListItem", "position": "12", "url": "https://cybercook.com.br/receitas/massas/lasanha-16731" },{ "@type": "ListItem", "position": "13", "url": "https://cybercook.com.br/receitas/massas/panquecas-simples-e-rapida-16787" },{ "@type": "ListItem", "position": "14", "url": "https://cybercook.com.br/receitas/massas/caneloni-de-berinjela-11564" },{ "@type": "ListItem", "position": "15", "url": "https://cybercook.com.br/receitas/massas/panqueca-de-frango-1655" },{ "@type": "ListItem", "position": "16", "url": "https://cybercook.com.br/receitas/massas/receita-de-lasanha-a-bolonhesa-3876" },{ "@type": "ListItem", "position": "17", "url": "https://cybercook.com.br/receitas/massas/panqueca-de-ricota-com-espinafre-5421" },{ "@type": "ListItem", "position": "18", "url": "https://cybercook.com.br/receitas/massas/panqueca-de-carne-11612" },{ "@type": "ListItem", "position": "19", "url": "https://cybercook.com.br/receitas/massas/receita-de-macarrao-de-pizza-12463" },{ "@type": "ListItem", "position": "20", "url": "https://cybercook.com.br/receitas/massas/macarrao-ao-molho-branco-5952" },{ "@type": "ListItem", "position": "21", "url": "https://cybercook.com.br/receitas/massas/receita-de-macarrao-de-pressao-especial-4985" },{ "@type": "ListItem", "position": "22", "url": "https://cybercook.com.br/receitas/massas/como-fazer-panqueca-5424" },{ "@type": "ListItem", "position": "23", "url": "https://cybercook.com.br/receitas/massas/receita-de-espaguete-com-molho-de-calabresa-2577" },{ "@type": "ListItem", "position": "24", "url": "https://cybercook.com.br/receitas/massas/lasanha-ao-molho-branco-4107" },{ "@type": "ListItem", "position": "25", "url": "https://cybercook.com.br/receitas/massas/receita-de-lasanha-de-frango-de-microondas-11563" },{ "@type": "ListItem", "position": "26", "url": "https://cybercook.com.br/receitas/massas/yakisoba-tradicional-4995" },{ "@type": "ListItem", "position": "27", "url": "https://cybercook.com.br/receitas/massas/como-fazer-yakisoba-19416" },{ "@type": "ListItem", "position": "28", "url": "https://cybercook.com.br/receitas/massas/receita-de-espaguete-carbonara-813" },{ "@type": "ListItem", "position": "29", "url": "https://cybercook.com.br/receitas/massas/massa-de-panqueca-perfeita-16560" },{ "@type": "ListItem", "position": "30", "url": "https://cybercook.com.br/receitas/massas/panquecas-de-carne-ao-molho-de-requeijao-5419" },{ "@type": "ListItem", "position": "31", "url": "https://cybercook.com.br/receitas/massas/receita-de-macarrao-cremoso-ao-forno-15310" },{ "@type": "ListItem", "position": "32", "url": "https://cybercook.com.br/receitas/massas/nhoque-5409" },{ "@type": "ListItem", "position": "33", "url": "https://cybercook.com.br/receitas/massas/receita-de-lasanha-de-atum-12054" },{ "@type": "ListItem", "position": "34", "url": "https://cybercook.com.br/receitas/massas/macarronada-5634" },{ "@type": "ListItem", "position": "35", "url": "https://cybercook.com.br/receitas/massas/receita-de-panqueca-americana-cafe-da-manha-17445" },{ "@type": "ListItem", "position": "36", "url": "https://cybercook.com.br/receitas/massas/nhoque-de-mandioca-9105" },{ "@type": "ListItem", "position": "37", "url": "https://cybercook.com.br/receitas/massas/receita-de-lasanha-de-frango-com-molho-branco-2865" },{ "@type": "ListItem", "position": "38", "url": "https://cybercook.com.br/receitas/massas/receita-de-macarrao-com-atum-1684" },{ "@type": "ListItem", "position": "39", "url": "https://cybercook.com.br/receitas/massas/receita-de-lasanha-de-mortadela-89825" },{ "@type": "ListItem", "position": "40", "url": "https://cybercook.com.br/receitas/massas/panqueca-de-carne-com-pimentao-879" } ]}</script><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ googletag.cmd.push(function() {
+ // Interstitial
+ interstitial = googletag.defineOutOfPageSlot('/1762418/cybercook_interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL)
+ .setTargeting('position', 'interstitial');
+ if(interstitial) {
+ interstitial.addService(googletag.pubads());
+ }
+ googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+ //
+ var id = event.slot.getSlotId().getDomId();
+ if (id =='banner-120x60-area' && !event.isEmpty) {
+ let banner = document.querySelector('#banner-120x60-area')
+ banner.classList.remove('hide-lg')
+ banner.classList.remove('hide-sm')
+ }
+ if ((id == 'banner-1x1-2-area' && event.lineItemId != null) || (window.innerWidth < 1300)) {
+ var widesky = document.querySelector('#banner-160x600-area');
+ var widesky2 = document.querySelector('#banner-160x600-2-area');
+ if(widesky2 != null && widesky != null){
+ widesky.parentNode.removeChild(widesky);
+ widesky2.parentNode.removeChild(widesky2);
+ }
+ }
+ // Box recomenda
+ if (id == 'banner-360x200-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x200-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ if (id == 'banner-360x375-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x375-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ });
+ googletag.pubads().enableLazyLoad();
+ googletag.pubads().setTargeting('keyword', ["cat_massas"]);
+ googletag.pubads().enableAsyncRendering();
+ });
+</script><link rel="apple-touch-icon" sizes="57x57" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-180x180.png"><link rel="icon" type="image/png" sizes="192x192" href="https://cybercook-assets.storage.googleapis.com/favicon/android-icon-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-32x32.png"><link rel="icon" type="image/png" sizes="96x96" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-96x96.png"><link rel="icon" type="image/png" sizes="16x16" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-16x16.png"><meta name="msapplication-TileImage" content="https://cybercook-assets.storage.googleapis.com/ms-icon-144x144.png"><link rel="manifest" href="https://cybercook-assets.storage.googleapis.com/favicon/manifest.json"><meta name="theme-color" content="#1B785E"><meta name="msapplication-TileColor" content="#1B785E"><script async src="https://www.googletagmanager.com/gtag/js?id=UA-5891106-1"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5891106-1', { 'optimize_id': 'GTM-M2BZR4N'});
+</script><script src="/js/vendor.js"></script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P23XW9L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+ window.fbAsyncInit = function() {
+   FB.init({
+     appId      : '2070469239688157',
+     xfbml      : true,
+     version    : 'v3.2'
+   });
+   FB.AppEvents.logPageView();
+ };
+
+ (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script><div class="container bg--white" id="cc-container"><div class="ads--super super_superior txt-center"><div id="banner-728x90-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-area'); }); </script></div></div><div id="app-header"><app-topo logo="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" menu="{&quot;itens&quot;:&quot;[{\&quot;label\&quot;:\&quot;P\u00e1gina Inicial\&quot;,\&quot;url\&quot;:\&quot;\/\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;hide-lg\&quot;}},{\&quot;label\&quot;:\&quot;Receitas\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu--teamcook\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Tipos de prato\&quot;,\&quot;url\&quot;:\&quot;\&quot;},{\&quot;label\&quot;:\&quot;Saladas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/saladas\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;\&quot;}},{\&quot;label\&quot;:\&quot;Legumes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/legumes\&quot;},{\&quot;label\&quot;:\&quot;Carnes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/carnes\&quot;},{\&quot;label\&quot;:\&quot;Aves\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\&quot;},{\&quot;label\&quot;:\&quot;Massas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\&quot;},{\&quot;label\&quot;:\&quot;Peixes e frutos do mar\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/peixes-e-frutos-do-mar\&quot;},{\&quot;label\&quot;:\&quot;Doces\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\&quot;},{\&quot;label\&quot;:\&quot;Risotos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/risotos\&quot;},{\&quot;label\&quot;:\&quot;Bebidas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bebidas\&quot;},{\&quot;label\&quot;:\&quot;Molhos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/molhos\&quot;},{\&quot;label\&quot;:\&quot;Sopas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sopas\&quot;},{\&quot;label\&quot;:\&quot;Bolos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\&quot;},{\&quot;label\&quot;:\&quot;Lanches\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\&quot;},{\&quot;label\&quot;:\&quot;P\u00e3es\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/paes\&quot;},{\&quot;label\&quot;:\&quot;Aperitivos e antepastos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aperitivos-e-antepastos\&quot;},{\&quot;label\&quot;:\&quot;Acompanhamentos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/acompanhamentos\&quot;},{\&quot;label\&quot;:\&quot;Mais Receitas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\&quot;}]},{\&quot;label\&quot;:\&quot;Blog CyberCook\&quot;,\&quot;url\&quot;:\&quot;\/blog\&quot;},{\&quot;label\&quot;:\&quot;Receitas de Outono\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-de-outono?origem=menu\&quot;},{\&quot;label\&quot;:\&quot;V\u00eddeos\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Receitas com V\u00eddeo\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-com-video\&quot;},{\&quot;label\&quot;:\&quot;Nosso canal no YouTube \&quot;,\&quot;url\&quot;:\&quot;https:\/\/www.youtube.com\/c\/CyberCookReceitasComoFazer\/\&quot;}]},{\&quot;label\&quot;:\&quot;+Sugest\u00f5es\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Pizza\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/massa-de-pizza-527\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Cenoura\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/receita-de-bolo-de-cenoura-13975\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Chocolate\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-chocolate-molhadinho-12969\&quot;},{\&quot;label\&quot;:\&quot;Bolinho de Chuva\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/como-fazer-bolinho-de-chuva-13561\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Fub\u00e1\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-fuba-1677\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Milho\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-milho-1641\&quot;},{\&quot;label\&quot;:\&quot;Brigadeiros\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/brigadeiros\&quot;},{\&quot;label\&quot;:\&quot;Fricass\u00ea de Frango\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\/receita-de-fricasse-de-frango-14641\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Anivers\u00e1rio\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-aniversario-108462\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Banana\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-banana-13977\&quot;},{\&quot;label\&quot;:\&quot;Panquecas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\/receita-de-panquecas-1582\&quot;},{\&quot;label\&quot;:\&quot;Pudim de Leite Condensado\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/pudim-de-leite-condensado-8595\&quot;},{\&quot;label\&quot;:\&quot;Sobremesa\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sobremesa\&quot;},{\&quot;label\&quot;:\&quot;Torta de Liquidificador\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/torta-de-liquidificador-1857\&quot;},{\&quot;label\&quot;:\&quot;Cuscuz Paulista\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/cuscuz-paulista-9078\&quot;}]},{\&quot;label\&quot;:\&quot;Envie sua receita\&quot;,\&quot;url\&quot;:\&quot;\/cadastrar-receita\&quot;}]&quot;}"></app-topo></div><div class="recipe--scroll grid-sm-12 grid-lg-12" ><div class="content grid-lg-8 grid-sm-12"><section class="grid-lg-12"><header class="grid-sm-12 mb10"><section class="breadcrumb mt10 mb10 mr10 ml10 printable--none"><ul  id="crumbs"><li><a class="link black" href="/">Início</a> /
+        </li><li><a class="link black" href="/receitas">Receitas</a> /
+        </li><li class="l mr5"><span class="current txt-bold">Massas</span></li></ul></section><div class="header-search-filter mt20"><h1 class="txt-large desk-txt-large txt-center font-serif">Massas</h1><p class="font-serif txt-center txt-medium mb20">5054 receitas</p><div id="social-share"
+        class="grid-lg-12 grid-sm-12 pos-relative mb15"><app-social-share class="social-share-aligment" align="txt-right" pt="true" tt="true" fb="true" wa="true" /></div><div id="horizontal-scroll"><app-horizontal-scroll content="&lt;p&gt;Quem não gosta de &lt;strong&gt;massas&lt;/strong&gt;? Aqui estão as &lt;strong&gt;melhores receitas&lt;/strong&gt; de todos os &lt;strong&gt;tipos de massa&lt;/strong&gt; para você conhecer e experimentar. No &lt;strong&gt;CyberCook&lt;/strong&gt; você encontra &lt;strong&gt;como fazer massa&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://cybercook.com.br/receitas/molhos&quot;&gt;receitas para molhos&lt;/strong&gt; &lt;/a&gt;e tudo o que precisar para ter uma &lt;strong&gt;refeição&lt;/strong&gt; completa e deliciosa! Escolha sua &lt;strong&gt;receita com massa&lt;/strong&gt; e nos conte sua experiência!&nbsp;&lt;/p&gt;" /></div></div><style>
+@media (max-width: 1023px) {
+    #social-share {
+        padding-right: 8px;
+    }
+}
+
+#social-share .social-share-aligment {
+    justify-content: flex-end !important;
+}
+</style><h2 class="txt-center txt-normal"><b>As melhores receitas de massas</b></h2></header><div class="main grid-sm-12 grid-lg-12"><div class=""><section class="list grid-sm-12"><div
+        class="grid-sm-12 list-container  "><div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-panquecas-1582?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/582/panquecas-2-120x120.jpeg" alt="Panquecas"
+                        title="Panquecas" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-panquecas-1582?origem=massas" title="Panquecas" class="black">
+                    Panquecas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Reginaldo Barbosa</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        156
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/macarrao-alho-e-oleo-3886?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/886/macarrao-alho-e-oleo-3-120x120.jpeg" alt="Macarrão Alho e Óleo"
+                        title="Macarrão Alho e Óleo" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/macarrao-alho-e-oleo-3886?origem=massas" title="Macarrão Alho e Óleo" class="black">
+                    Macarrão Alho e Óleo </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Ayslan </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        117
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-panqueca-1917?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/917/receita-de-panqueca-120x120.jpg" alt="Receita de Panqueca"
+                        title="Receita de Panqueca" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-panqueca-1917?origem=massas" title="Receita de Panqueca" class="black">
+                    Receita de Panqueca </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Márcia Zoladz</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        109
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/macarrao-de-panela-de-pressao-1620?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/620/macarrao-de-panela-de-pressao-8-120x120.png" alt="Macarrão de Panela de Pressão"
+                        title="Macarrão de Panela de Pressão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/macarrao-de-panela-de-pressao-1620?origem=massas" title="Macarrão de Panela de Pressão" class="black">
+                    Macarrão de Panela de Pressão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Maria Tereza</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        103
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/macarrao-na-panela-de-pressao-muito-rapido-13987?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/124/macarrao-penne-de-pressao-com-atum-120x120.jpeg" alt="Macarrão na Panela de Pressão muito Rápido"
+                        title="Macarrão na Panela de Pressão muito Rápido" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/massas/macarrao-na-panela-de-pressao-muito-rapido-13987?origem=massas" title="Macarrão na Panela de Pressão muito Rápido" class="black">
+                    Macarrão na Panela de Pressão muito Rápido </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Adrielle Souza</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        105
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/lasanha-de-frango-14002?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/2/lasanha-de-frango-3-120x120.jpeg" alt="Lasanha de Frango"
+                        title="Lasanha de Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/lasanha-de-frango-14002?origem=massas" title="Lasanha de Frango" class="black">
+                    Lasanha de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Aldenôra Finizola</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        92
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/panqueca-9854?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/854/panqueca-4-120x120.jpeg" alt="Panqueca"
+                        title="Panqueca" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/panqueca-9854?origem=massas" title="Panqueca" class="black">
+                    Panqueca </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        79
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/yakisoba-4155?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/155/yakisoba-120x120.jpeg" alt="Yakisoba"
+                        title="Yakisoba" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/yakisoba-4155?origem=massas" title="Yakisoba" class="black">
+                    Yakisoba </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        68
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-como-fazer-nhoque-9598?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/598/como-fazer-nhoque-1-120x120.jpeg" alt="Como Fazer Nhoque"
+                        title="Como Fazer Nhoque" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-como-fazer-nhoque-9598?origem=massas" title="Como Fazer Nhoque" class="black">
+                    Como Fazer Nhoque </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Ana Maria</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        72
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/massa-para-crepe-no-palito-14063?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/63/massa-para-crepe-no-palito-2-120x120.jpeg" alt="Massa para Crepe no Palito"
+                        title="Massa para Crepe no Palito" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/massa-para-crepe-no-palito-14063?origem=massas" title="Massa para Crepe no Palito" class="black">
+                    Massa para Crepe no Palito </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Francis Resende</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        70
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-como-fazer-macarrao-receita-basica-10995?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/995/como-fazer-macarrao-receita-basica-2-120x120.jpeg" alt="Como fazer Macarrão - Receita Básica"
+                        title="Como fazer Macarrão - Receita Básica" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/massas/receita-de-como-fazer-macarrao-receita-basica-10995?origem=massas" title="Como fazer Macarrão - Receita Básica" class="black">
+                    Como fazer Macarrão   Receita Básica </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Antonio Roque</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        66
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/lasanha-16731?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/731/lasanha-3-120x120.jpeg" alt="Lasanha"
+                        title="Lasanha" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/lasanha-16731?origem=massas" title="Lasanha" class="black">
+                    Lasanha </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Alessandra Santos</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        59
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/panquecas-simples-e-rapida-16787?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/787/panquecas-simples-e-rapida-2-120x120.jpeg" alt="Panquecas Simples e Rápida"
+                        title="Panquecas Simples e Rápida" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/panquecas-simples-e-rapida-16787?origem=massas" title="Panquecas Simples e Rápida" class="black">
+                    Panquecas Simples e Rápida </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Regina Pires</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        27
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/caneloni-de-berinjela-11564?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/564/caneloni-de-berinjela-3-120x120.jpeg" alt="Caneloni de Berinjela"
+                        title="Caneloni de Berinjela" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/caneloni-de-berinjela-11564?origem=massas" title="Caneloni de Berinjela" class="black">
+                    Caneloni de Berinjela </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        47
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/panqueca-de-frango-1655?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/655/panqueca-de-frango-120x120.jpg" alt="Panqueca de Frango"
+                        title="Panqueca de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/panqueca-de-frango-1655?origem=massas" title="Panqueca de Frango" class="black">
+                    Panqueca de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Juliana Prati</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        52
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-lasanha-a-bolonhesa-3876?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/876/lasanha-bolonhesa-120x120.jpeg" alt="Lasanha à Bolonhesa "
+                        title="Lasanha à Bolonhesa " /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-lasanha-a-bolonhesa-3876?origem=massas" title="Lasanha à Bolonhesa " class="black">
+                    Lasanha à Bolonhesa  </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        41
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/panqueca-de-ricota-com-espinafre-5421?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/421/panqueca-de-ricota-com-espinafre-1-120x120.jpeg" alt="Panqueca de Ricota com Espinafre"
+                        title="Panqueca de Ricota com Espinafre" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/panqueca-de-ricota-com-espinafre-5421?origem=massas" title="Panqueca de Ricota com Espinafre" class="black">
+                    Panqueca de Ricota com Espinafre </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        39
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/panqueca-de-carne-11612?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/612/panqueca-de-carne-3-120x120.jpeg" alt="Panqueca de Carne"
+                        title="Panqueca de Carne" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/panqueca-de-carne-11612?origem=massas" title="Panqueca de Carne" class="black">
+                    Panqueca de Carne </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        39
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-macarrao-de-pizza-12463?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/463/macarrao-de-pizza-2-120x120.jpeg" alt="Macarrão de Pizza"
+                        title="Macarrão de Pizza" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-macarrao-de-pizza-12463?origem=massas" title="Macarrão de Pizza" class="black">
+                    Macarrão de Pizza </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        39
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/macarrao-ao-molho-branco-5952?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/952/macarrao-ao-molho-branco-120x120.jpeg" alt="Macarrão ao Molho Branco"
+                        title="Macarrão ao Molho Branco" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/macarrao-ao-molho-branco-5952?origem=massas" title="Macarrão ao Molho Branco" class="black">
+                    Macarrão ao Molho Branco </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Mariana Horn</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        29
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-macarrao-de-pressao-especial-4985?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/985/macarrao-de-pressao-especial-120x120.jpg" alt="Macarrão de Pressão Especial"
+                        title="Macarrão de Pressão Especial" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-macarrao-de-pressao-especial-4985?origem=massas" title="Macarrão de Pressão Especial" class="black">
+                    Macarrão de Pressão Especial </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        31
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/como-fazer-panqueca-5424?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/424/como-fazer-panqueca-1-120x120.jpeg" alt="Como Fazer Panqueca"
+                        title="Como Fazer Panqueca" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/como-fazer-panqueca-5424?origem=massas" title="Como Fazer Panqueca" class="black">
+                    Como Fazer Panqueca </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        30
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-espaguete-com-molho-de-calabresa-2577?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/577/espaguete-com-molho-de-calabresa-120x120.jpg" alt="Espaguete com Molho de Calabresa"
+                        title="Espaguete com Molho de Calabresa" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-espaguete-com-molho-de-calabresa-2577?origem=massas" title="Espaguete com Molho de Calabresa" class="black">
+                    Espaguete com Molho de Calabresa </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Thaís Leitoles</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        29
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/lasanha-ao-molho-branco-4107?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/107/lasanha-ao-molho-branco-1-120x120.jpg" alt="Lasanha ao Molho Branco"
+                        title="Lasanha ao Molho Branco" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/lasanha-ao-molho-branco-4107?origem=massas" title="Lasanha ao Molho Branco" class="black">
+                    Lasanha ao Molho Branco </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        25
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-lasanha-de-frango-de-microondas-11563?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/563/lasanha-de-frango-de-microondas-1-120x120.jpeg" alt="Lasanha de Frango de Microondas"
+                        title="Lasanha de Frango de Microondas" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-lasanha-de-frango-de-microondas-11563?origem=massas" title="Lasanha de Frango de Microondas" class="black">
+                    Lasanha de Frango de Microondas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        29
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/yakisoba-tradicional-4995?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/808/yakissoba-vegetariano-2-120x120.jpeg" alt="Yakisoba Tradicional"
+                        title="Yakisoba Tradicional" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/yakisoba-tradicional-4995?origem=massas" title="Yakisoba Tradicional" class="black">
+                    Yakisoba Tradicional </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Allan Vila</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        26
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/como-fazer-yakisoba-19416?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/416/como-fazer-yakisoba-1-120x120.jpeg" alt="Como Fazer Yakisoba"
+                        title="Como Fazer Yakisoba" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/como-fazer-yakisoba-19416?origem=massas" title="Como Fazer Yakisoba" class="black">
+                    Como Fazer Yakisoba </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Luiz Lapetina</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        9
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-espaguete-carbonara-813?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/813/espaguete-carbonara-120x120.jpeg" alt="Espaguete Carbonara"
+                        title="Espaguete Carbonara" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-espaguete-carbonara-813?origem=massas" title="Espaguete Carbonara" class="black">
+                    Espaguete Carbonara </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Fabiana Regina</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        12
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/massa-de-panqueca-perfeita-16560?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/560/massa-de-panqueca-perfeita-2-120x120.jpeg" alt="Massa de Panqueca Perfeita"
+                        title="Massa de Panqueca Perfeita" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/massa-de-panqueca-perfeita-16560?origem=massas" title="Massa de Panqueca Perfeita" class="black">
+                    Massa de Panqueca Perfeita </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Ide da Graça</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        31
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/panquecas-de-carne-ao-molho-de-requeijao-5419?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/419/panquecas-de-carne-ao-molho-de-requeijao-120x120.jpg" alt="Panquecas de Carne ao Molho de Requeijão"
+                        title="Panquecas de Carne ao Molho de Requeijão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/massas/panquecas-de-carne-ao-molho-de-requeijao-5419?origem=massas" title="Panquecas de Carne ao Molho de Requeijão" class="black">
+                    Panquecas de Carne ao Molho de Requeijão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        25
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-macarrao-cremoso-ao-forno-15310?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/310/macarrao-cremoso-ao-forno-7-120x120.jpeg" alt="Macarrão Cremoso ao Forno"
+                        title="Macarrão Cremoso ao Forno" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-macarrao-cremoso-ao-forno-15310?origem=massas" title="Macarrão Cremoso ao Forno" class="black">
+                    Macarrão Cremoso ao Forno </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Abençoada Jesus</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        21
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/nhoque-5409?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/409/receita-de-nhoque-de-batatas-120x120.jpg" alt="Nhoque"
+                        title="Nhoque" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/nhoque-5409?origem=massas" title="Nhoque" class="black">
+                    Nhoque </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        9
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-lasanha-de-atum-12054?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/54/lasanha-de-atum-3-120x120.jpeg" alt="Lasanha de Atum"
+                        title="Lasanha de Atum" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-lasanha-de-atum-12054?origem=massas" title="Lasanha de Atum" class="black">
+                    Lasanha de Atum </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        22
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/macarronada-5634?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/634/macarronada-3-120x120.jpeg" alt="Macarronada"
+                        title="Macarronada" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/macarronada-5634?origem=massas" title="Macarronada" class="black">
+                    Macarronada </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Virginia Lrada</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        21
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-panqueca-americana-cafe-da-manha-17445?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/445/panqueca-americana-cafe-da-manha-120x120.jpg" alt="Panqueca americana (café da manhã)"
+                        title="Panqueca americana (café da manhã)" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/massas/receita-de-panqueca-americana-cafe-da-manha-17445?origem=massas" title="Panqueca americana (café da manhã)" class="black">
+                    Panqueca americana (café da manhã) </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Luciana Lopez</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        28
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/nhoque-de-mandioca-9105?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/105/nhoque-de-mandioca-1-120x120.jpg" alt="Nhoque de Mandioca"
+                        title="Nhoque de Mandioca" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/nhoque-de-mandioca-9105?origem=massas" title="Nhoque de Mandioca" class="black">
+                    Nhoque de Mandioca </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        25
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-lasanha-de-frango-com-molho-branco-2865?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/107/lasanha-ao-molho-branco-1-120x120.jpg" alt="Lasanha de Frango com Molho Branco"
+                        title="Lasanha de Frango com Molho Branco" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-lasanha-de-frango-com-molho-branco-2865?origem=massas" title="Lasanha de Frango com Molho Branco" class="black">
+                    Lasanha de Frango com Molho Branco </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Zeli Cora</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        20
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-macarrao-com-atum-1684?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/684/macarrao-com-atum-2-120x120.jpeg" alt="Macarrão com Atum"
+                        title="Macarrão com Atum" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-macarrao-com-atum-1684?origem=massas" title="Macarrão com Atum" class="black">
+                    Macarrão com Atum </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Sheila A.</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        21
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/receita-de-lasanha-de-mortadela-89825?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/825/lasanha-de-mortadela-120x120.jpg" alt="Lasanha de Mortadela"
+                        title="Lasanha de Mortadela" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/receita-de-lasanha-de-mortadela-89825?origem=massas" title="Lasanha de Mortadela" class="black">
+                    Lasanha de Mortadela </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Adriano Novo</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        20
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/massas/panqueca-de-carne-com-pimentao-879?origem=massas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/879/panqueca-de-carne-com-pimentao-120x120.jpg" alt="Panqueca de Carne com Pimentão"
+                        title="Panqueca de Carne com Pimentão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/massas/panqueca-de-carne-com-pimentao-879?origem=massas" title="Panqueca de Carne com Pimentão" class="black">
+                    Panqueca de Carne com Pimentão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Maria Luiza</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        19
+                    </div></div></div></div></div>                                    </div></section>            </div><div class="grid-lg-12 grid-sm-12 txt-center"><div class="font-serif pagination grid-sm-12 grid-lg-12"><div class=" "><div class="txt-center"><span class="pagination__grey-unactive txt-normal">primeira</span></div><div class="txt-center omega"><span class="pagination__grey-unactive txt-normal"><i class="fa fa-chevron-left mx25" aria-hidden="true"></i></span></div></div><div class=" items_pag  "><div><span class="black pagination__number txt-normal">1</span></div><div class="pl5">
+                                de
+                                <a class="black pagination__number txt-normal" href="/receitas/massas?pagina=1">127</a></div></div><div ><div class="   txt-center"><a href="/receitas/massas?pagina=2" rel="next" class="black txt-normal"><i class="fa fa-chevron-right mx25" aria-hidden="true"></i></a></div><div class="   txt-center"><a href="/receitas/massas?pagina=127" class="black txt-normal">última</a></div></div></div></div></div></section></div><aside class=" sidebar grid-lg-4 grid-sm-12 omega printable--none txt-center"><div id="banner-300x250-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-area').addService(googletag.pubads()).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-area'); }); </script></div><div class="pt10"></div><div class="clear"></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/o-match-que-vigora" class="black" title="O Match que Vigora"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/200/pao-de-alho-com-queijo-camembert-300x168.jpeg" alt="O Match que Vigora"
+                    title="O Match que Vigora" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">O Match que Vigora</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/dia-dos-pais" class="black" title="Dia dos Pais"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/99/espetos-de-legumes-e-frango-1-300x168.jpeg" alt="Dia dos Pais"
+                    title="Dia dos Pais" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Dia dos Pais</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa?tg=receitas-classicas" class="black" title="Receitas Clássicas"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/422/baiao-de-dois-rapido-2-300x168.jpeg" alt="Receitas Clássicas"
+                    title="Receitas Clássicas" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas Clássicas</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="https://cybercook.com.br/receitas/receitas-de-inverno" class="black" title="Receitas de Inverno"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/213/dalgona-coffee-1-300x168.jpeg" alt="Receitas de Inverno"
+                    title="Receitas de Inverno" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas de Inverno</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/legumes-e-frutas-da-estacao" class="black" title="Frutas, Legumes e Verduras da Estação"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/940/mousse-de-maracuja-especial-3-300x168.jpeg" alt="Frutas, Legumes e Verduras da Estação"
+                    title="Frutas, Legumes e Verduras da Estação" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Frutas, Legumes e Verduras da Estação</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa" class="black" title="Gostinho de Casa"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/630/receita-de-bolo-de-cenoura-17-300x168.jpeg" alt="Gostinho de Casa"
+                    title="Gostinho de Casa" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Gostinho de Casa</h6></div></a></div><div class="clear"></div><div class="mt20 mb20"><div id="banner-300x250-2-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-2-area').addService(googletag.pubads()).setTargeting("position", "mid").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-2-area'); }); </script></div></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt10 swiper-container"><h6 class="pl10 green txt-medium mb10 font-serif txt-bold">Blog CyberCook</h6><div class="swiper-wrapper"><div class="swiper-slide"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/bawryel9jzdicvmlscfu9hkpiebc1karmibovsyc-320x200.jpeg" class="swiper-lazy"
+                        alt="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"> Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial </a></h3></div></div><div class="swiper-slide"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/161/biscoitos-amanteigados-9-320x200.jpeg" class="swiper-lazy"
+                        alt="Todas as dicas para fazer biscoito caseiro perfeito" title="Todas as dicas para fazer biscoito caseiro perfeito" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"> Todas as dicas para fazer biscoito caseiro perfeito </a></h3></div></div><div class="swiper-slide"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/0kremmr1yzfbdo8y8dg60ixtzujfbejk7yvnrw7h-320x200.jpeg" class="swiper-lazy"
+                        alt="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"> Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa </a></h3></div></div></div><div class="card-stack-button-prev fa fa-chevron-left white"></div><div class="card-stack-button-next fa fa-chevron-right white"></div></div><div class="pl10 pr10 grid-sm-12 grid-lg-12"><h6 class="txt-medium mt10 mb10 font-serif">Receitas novinhas </h6><div class="card--carousel__container swiper-container"><div class="swiper-wrapper"><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/massas/receita-de-nhoque-recheado-com-queijo-gouda-125201"><a title="Nhoque recheado com queijo gouda " href="/receitas/massas/receita-de-nhoque-recheado-com-queijo-gouda-125201" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/201/nhoque-recheado-com-queijo-gouda-125x120.jpeg"
+                                  alt="Nhoque recheado com queijo gouda "
+                                  title="Nhoque recheado com queijo gouda "
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/massas/receita-de-nhoque-recheado-com-queijo-gouda-125201" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Nhoque recheado com queijo gouda ">
+                             Nhoque recheado com queijo gouda 
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/massas/receita-de-mac-n-cheese-a-brasileira-125198"><a title="Mac N’ Cheese à Brasileira" href="/receitas/massas/receita-de-mac-n-cheese-a-brasileira-125198" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/122/macarrao-com-queijo-mac-and-cheese-2-125x120.jpeg"
+                                  alt="Mac N’ Cheese à Brasileira"
+                                  title="Mac N’ Cheese à Brasileira"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/massas/receita-de-mac-n-cheese-a-brasileira-125198" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Mac N’ Cheese à Brasileira">
+                             Mac N’ Cheese à Brasileira
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/massas/receita-de-macarrao-de-comitiva-125184"><a title="Macarrão de Comitiva" href="/receitas/massas/receita-de-macarrao-de-comitiva-125184" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/destaques/hpdex53n5qxxtpgdrricaaootarhaqqple8jtopi-125x120.jpeg"
+                                  alt="Macarrão de Comitiva"
+                                  title="Macarrão de Comitiva"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/massas/receita-de-macarrao-de-comitiva-125184" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Macarrão de Comitiva">
+                             Macarrão de Comitiva
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/massas/receita-de-crepioca-125155"><a title="Crepioca" href="/receitas/massas/receita-de-crepioca-125155" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/101/crepioca-1-125x120.jpeg"
+                                  alt="Crepioca"
+                                  title="Crepioca"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/massas/receita-de-crepioca-125155" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Crepioca">
+                             Crepioca
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/massas/receita-de-macarrao-de-panela-de-pressao-de-3-minutos-125013"><a title="Macarrão de Panela de Pressão de 3 minutos" href="/receitas/massas/receita-de-macarrao-de-panela-de-pressao-de-3-minutos-125013" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/13/macarrao-de-panela-de-pressao-de-3-minutos-125x120.jpeg"
+                                  alt="Macarrão de Panela de Pressão de 3 minutos"
+                                  title="Macarrão de Panela de Pressão de 3 minutos"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/massas/receita-de-macarrao-de-panela-de-pressao-de-3-minutos-125013" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Macarrão de Panela de Pressão de 3 minutos">
+                             Macarrão de Panela de Pressão de 3 minutos
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/massas/receita-de-torta-simples-de-sardinha-124984"><a title="Torta Simples de Sardinha" href="/receitas/massas/receita-de-torta-simples-de-sardinha-124984" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/880/bolo-de-batata-recheado-de-sardinha-125x120.jpg"
+                                  alt="Torta Simples de Sardinha"
+                                  title="Torta Simples de Sardinha"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/massas/receita-de-torta-simples-de-sardinha-124984" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Torta Simples de Sardinha">
+                             Torta Simples de Sardinha
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div></div><div class="card-button-prev fa fa-chevron-left white"></div><div class="card-button-next fa fa-chevron-right white"></div></div></div><div class="mt20"><div id="banner-300x250-3-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-3-area').addService(googletag.pubads()).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-3-area'); }); </script></div></div></aside>            </div><div class="grid-lg-12 grid-sm-12 mt10 ads__catfish pt5"><i class="fa fa-close border--round ads__close bg--white"></i><div id="banner-728x90-3-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-3-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-3-area'); }); </script></div></div><footer class="footer grid-lg-12 grid-sm-12 mt50 mb20 pl20 pr20 font-serif "><div class="grid-lg-3 grid-sm-12"><div class="grid-sm-12 grid-lg-12 txt-center mt20 mb15"><a href="/" title="Cybercook"><img src="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" width="50" height="70" alt="Logo do Cybercook"
+                    title="Cybercook" /></a></div><div class="grid-sm-12 grid-lg-12 social centerFooterItens"><h4>Siga o CyberCook</h4><div class="grid-sm-12 grid-lg-12 socialIconsFooter centerFooterItens"><span><a href="https://twitter.com/cybercook" target="_blank" rel="noopener" title="Twitter"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_twitter.svg"
+                            alt="Rede social Twitter do Cybercook" title="Twitter" /></a><a href="https://pt-br.facebook.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Facebook"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_facebook.svg"
+                            alt="Rede social Facebook do Cybercook" title="Facebook" /></a><a href="https://www.instagram.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Instagram"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/instagram.svg"
+                            alt="Rede social Instagram do Cybercook" title="Instagram" /></a><a href="https://br.pinterest.com/cybercookbr/" target="_blank" rel="noopener" title="Pinterest"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_pinterest-social-logo.svg"
+                            alt="Rede social Pinterest do Cybercook" title="Pinterest" /></a><a href="https://www.youtube.com/c/CyberCookReceitasComoFazer/" target="_blank" rel="noopener"
+                        title="Youtube"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_youtube.svg"
+                            alt="Rede social Youtube do Cybercook" title="Youtube" /></a></span></div></div></div><hr class="hide-lg border--none py10 grid-sm-12 grid-lg-12" /><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Sobre nós</h4><ul class="footer__nav txt-medium"><li><a title="Fale com a gente" href="/fale-conosco">Fale com a gente</a></li><li><a title="Trabalhe conosco" href="/trabalhe-conosco">Trabalhe conosco</a></li><li><a title="Política de privacidade" href="/politica-de-privacidade/p">Política de privacidade</a></li><li><a title="Termos de uso" href="/termos-de-uso/p">Termos de uso</a></li><li><a title="Solicitação de dados pessoais" href="/solicitacao-de-dados-pessoais/p">Solicitação de dados pessoais</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Nossa seleção</h4><ul class="footer__nav txt-medium"><li><a title="Panqueca" href="/receitas/massas/receita-de-panqueca-1917">Panqueca</a></li><li><a title="Bolo de Mandioca Diet" href="/receitas/bolos/receita-de-bolo-de-mandioca-diet-71696">Bolo de Mandioca Diet</a></li><li><a title="Frango à Passarinho na Air Fryer" href="/receitas/aves/receita-de-frango-a-passarinho-na-air-fryer-122387">Frango à Passarinho na Air Fryer</a></li><li><a title="Receitas de até 30 minutos" href="/blog/pratos-rapidos-para-jantar-receitas-de-ate-30-minutos-2504">Receitas de até 30 minutos</a></li><li><a title="Pizza Low-Carb De Frigideira" href="/receitas/lanches/pizzas/receita-de-pizza-low-carb-de-frigideira-122752">Pizza Low-Carb De Frigideira</a></li><li><a title="Carne de Jaca Vegana" href="/receitas/carnes/receita-de-carne-de-jaca-vegana-122813">Carne de Jaca Vegana</a></li><li><a title="Receitas de Saladas e Bowls" href="/receitas/verao/?tg=verao-saladas-e-bowls">Receitas de Saladas e Bowls</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40 omega "><h4>Categorias</h4><ul class="footer__nav txt-medium"><li><a title="Saladas" href="/receitas/saladas">Saladas</a></li><li><a title="Legumes" href="/receitas/legumes">Legumes</a></li><li><a title="Carnes" href="/receitas/carne">Carnes</a></li><li><a title="Aves" href="/receitas/aves">Aves</a></li><li><a title="Massas" href="/receitas/massas">Massas</a></li><li><a title="Peixes e frutos do mar" href="/receitas/peixes-e-frutos-do-mar">Peixes e frutos do mar</a></li><li><a title="Doces" href="/receitas/doces">Doces</a></li></ul></nav><div class="grid-sm-12 grid-lg-12 txt-center txt-small"><a href="https://mercado.carrefour.com.br/?utm_source=cybercook&utm_medium=footer" title="Carrefour"
+            target="_blank" rel="noopener noreferrer"><img src="https://cybercook-assets.storage.googleapis.com/logos/uma-empresa-do-grupo-carrefour.svg"
+                alt="Uma empresa do grupo Carrefour" title="Carrefour" class="grid-sm-10 grid__offset-sm-1"
+                style="max-width:320px" width="250" height="40" /></a><p class="grid-sm-12 grid-lg-12 mt10 txt-small font-arial">Copyright &copy; 2022
+            e-Mídia Informações Ltda - CyberCook é uma propriedade e-Mídia.</p></div><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+        data-domain-script="723a9584-77b0-4e19-8757-3c497895e0b7"></script><script>
+        function OptanonWrapper() { }
+    </script></footer><script src="/js/main.js"></script><div class="hide flash-message pos-fixed grid-lg-5 grid-sm-12 grid__offset-lg-1 bg--white pb20"><i class="flash-message-close fa fa-times fr link" style="padding: 0.5em"></i><p class="grid-lg-10 grid-sm-10 grid__offset-1"></p></div><div class="backlight hide"></div><i class="flash-load hide fa fa-spinner fa-pulse fa-3x fa-fw orange"></i>            <script src="https://cybercook-assets.storage.googleapis.com/js/swiper.min.js"></script><script async src="/js/search.js"></script></div><div class="widesky"></div><div class="widesky"></div><div id="banner-160x600-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "left").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-area'); }); </script></div><div id="banner-160x600-2-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-2-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "right").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-2-area'); }); </script></div></body></html>

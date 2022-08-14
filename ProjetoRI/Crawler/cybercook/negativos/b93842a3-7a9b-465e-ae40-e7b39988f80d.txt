@@ -1,0 +1,730 @@
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta content="pt-br" name="LANGUAGE" /><meta property="fb:app_id" content="2070469239688157"><title>As melhores Receitas com vídeo | CyberCook</title><meta name="description" content="Veja nossa seleção das melhores Receitas com vídeo que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! "><link rel="canonical" href="https://cybercook.com.br/receitas/receitas-com-video"/><link rel="next" href="https://cybercook.com.br/receitas/receitas-com-video?page=2"/><meta property="og:description" content="Veja nossa seleção das melhores Receitas com vídeo que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! " /><meta property="og:title" content="As melhores Receitas com vídeo | CyberCook" /><meta property="og:type" content="article" /><meta property="og:site_name" content="CyberCook" /><meta property="og:locale" content="pt_BR" /><meta property="og:image" content="https://img.cybercook.com.br/receitas/677/bolo-de-fuba-22.jpeg" /><link rel="preconnect" href="https://storage.googleapis.com" crossorigin /><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin /><link rel="preconnect" href="https://cdn.ampproject.org" crossorigin /><link rel="preconnect" href="https://img.cybercook.com.br" /><link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" /><link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet"><link rel="stylesheet" href="/css/search.css"><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/swiper.min.css"><link rel="stylesheet" href="/css/recipe.css"><style>
+        .header__image--teamcook {
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            min-height: 250px;
+        }
+
+        .header__image--teamcook #social-share {
+            bottom: 20px;
+            position: absolute;
+        }
+
+    </style><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P23XW9L');</script><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/font-awesome.css"><link href="https://fonts.googleapis.com/css?family=Kadwa|Noto+Sans|Lato&display=swap" rel="stylesheet"><script type="application/ld+json">{ "@context":"https://schema.org", "@type":"ItemList", "itemListElement":[ { "@type": "ListItem", "position": "1", "url": "https://cybercook.com.br/receitas/bolos/bolo-de-fuba-1677" },{ "@type": "ListItem", "position": "2", "url": "https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-cenoura-13975" },{ "@type": "ListItem", "position": "3", "url": "https://cybercook.com.br/receitas/bolos/pao-de-lo-8677" },{ "@type": "ListItem", "position": "4", "url": "https://cybercook.com.br/receitas/lanches/torta-de-frango-13972" },{ "@type": "ListItem", "position": "5", "url": "https://cybercook.com.br/receitas/doces/bolinho-de-chuva-1525" },{ "@type": "ListItem", "position": "6", "url": "https://cybercook.com.br/receitas/doces/pudim-de-pao-8922" },{ "@type": "ListItem", "position": "7", "url": "https://cybercook.com.br/receitas/doces/receita-de-mousse-de-chocolate-em-po-delicia-8761" },{ "@type": "ListItem", "position": "8", "url": "https://cybercook.com.br/receitas/paes/pao-de-queijo-3018" },{ "@type": "ListItem", "position": "9", "url": "https://cybercook.com.br/receitas/carnes/strogonoff-1730" },{ "@type": "ListItem", "position": "10", "url": "https://cybercook.com.br/receitas/doces/pudim-de-leite-condensado-8595" },{ "@type": "ListItem", "position": "11", "url": "https://cybercook.com.br/receitas/bolos/massa-de-pao-de-lo-13974" },{ "@type": "ListItem", "position": "12", "url": "https://cybercook.com.br/receitas/carnes/receita-de-escondidinho-maravilhoso-1757" },{ "@type": "ListItem", "position": "13", "url": "https://cybercook.com.br/receitas/doces/torta-de-bis-1511" },{ "@type": "ListItem", "position": "14", "url": "https://cybercook.com.br/receitas/saladas/salpicao-de-frango-1741" },{ "@type": "ListItem", "position": "15", "url": "https://cybercook.com.br/receitas/doces/torta-de-sorvete-1669" },{ "@type": "ListItem", "position": "16", "url": "https://cybercook.com.br/receitas/bolos/como-fazer-bolo-de-laranja-6247" },{ "@type": "ListItem", "position": "17", "url": "https://cybercook.com.br/receitas/lanches/receita-de-torta-de-liquidificador-548" },{ "@type": "ListItem", "position": "18", "url": "https://cybercook.com.br/receitas/acompanhamentos/camarao-na-moranga-4215" },{ "@type": "ListItem", "position": "19", "url": "https://cybercook.com.br/receitas/doces/torta-de-limao-1793" },{ "@type": "ListItem", "position": "20", "url": "https://cybercook.com.br/receitas/lanches/pastel-de-forno-facil-3021" },{ "@type": "ListItem", "position": "21", "url": "https://cybercook.com.br/receitas/bolos/bolo-pega-marido-16581" },{ "@type": "ListItem", "position": "22", "url": "https://cybercook.com.br/receitas/doces/bicho-de-pe-1448" },{ "@type": "ListItem", "position": "23", "url": "https://cybercook.com.br/receitas/doces/receita-de-brigadeirao-com-chocolate-granulado-1554" },{ "@type": "ListItem", "position": "24", "url": "https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-iogurte-fofo-de-liquidificador-13978" },{ "@type": "ListItem", "position": "25", "url": "https://cybercook.com.br/receitas/doces/biscoito-amanteigado-1589" },{ "@type": "ListItem", "position": "26", "url": "https://cybercook.com.br/receitas/doces/brigadeiro-de-microondas-11126" },{ "@type": "ListItem", "position": "27", "url": "https://cybercook.com.br/receitas/bolos/bolo-de-limao-facil-6856" },{ "@type": "ListItem", "position": "28", "url": "https://cybercook.com.br/receitas/doces/pudim-gelado-8720" },{ "@type": "ListItem", "position": "29", "url": "https://cybercook.com.br/receitas/acompanhamentos/sufle-de-chuchu-967" },{ "@type": "ListItem", "position": "30", "url": "https://cybercook.com.br/receitas/doces/gelatina-colorida-1642" },{ "@type": "ListItem", "position": "31", "url": "https://cybercook.com.br/receitas/doces/pave-de-limao-rapido-8887" },{ "@type": "ListItem", "position": "32", "url": "https://cybercook.com.br/receitas/bolos/bolo-de-chocolate-molhadinho-12969" },{ "@type": "ListItem", "position": "33", "url": "https://cybercook.com.br/receitas/lanches/empadao-de-frango-1660" },{ "@type": "ListItem", "position": "34", "url": "https://cybercook.com.br/receitas/doces/chantilly-7200" },{ "@type": "ListItem", "position": "35", "url": "https://cybercook.com.br/receitas/doces/receita-de-brigadeirao-decorado-facil-13976" },{ "@type": "ListItem", "position": "36", "url": "https://cybercook.com.br/receitas/risotos/risoto-de-frango-864" },{ "@type": "ListItem", "position": "37", "url": "https://cybercook.com.br/receitas/doces/mousse-de-maracuja-1478" },{ "@type": "ListItem", "position": "38", "url": "https://cybercook.com.br/receitas/aves/como-fazer-fricasse-de-frango-3949" },{ "@type": "ListItem", "position": "39", "url": "https://cybercook.com.br/receitas/legumes/creme-de-milho-9076" },{ "@type": "ListItem", "position": "40", "url": "https://cybercook.com.br/receitas/lanches/massa-de-pastel-16235" } ]}</script><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ googletag.cmd.push(function() {
+ // Interstitial
+ interstitial = googletag.defineOutOfPageSlot('/1762418/cybercook_interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL)
+ .setTargeting('position', 'interstitial');
+ if(interstitial) {
+ interstitial.addService(googletag.pubads());
+ }
+ googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+ //
+ var id = event.slot.getSlotId().getDomId();
+ if (id =='banner-120x60-area' && !event.isEmpty) {
+ let banner = document.querySelector('#banner-120x60-area')
+ banner.classList.remove('hide-lg')
+ banner.classList.remove('hide-sm')
+ }
+ if ((id == 'banner-1x1-2-area' && event.lineItemId != null) || (window.innerWidth < 1300)) {
+ var widesky = document.querySelector('#banner-160x600-area');
+ var widesky2 = document.querySelector('#banner-160x600-2-area');
+ if(widesky2 != null && widesky != null){
+ widesky.parentNode.removeChild(widesky);
+ widesky2.parentNode.removeChild(widesky2);
+ }
+ }
+ // Box recomenda
+ if (id == 'banner-360x200-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x200-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ if (id == 'banner-360x375-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x375-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ });
+ googletag.pubads().enableLazyLoad();
+ googletag.pubads().setTargeting('keyword', ["tag_receitas-com-video","tag_6297"]);
+ googletag.pubads().enableAsyncRendering();
+ });
+</script><link rel="apple-touch-icon" sizes="57x57" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-180x180.png"><link rel="icon" type="image/png" sizes="192x192" href="https://cybercook-assets.storage.googleapis.com/favicon/android-icon-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-32x32.png"><link rel="icon" type="image/png" sizes="96x96" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-96x96.png"><link rel="icon" type="image/png" sizes="16x16" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-16x16.png"><meta name="msapplication-TileImage" content="https://cybercook-assets.storage.googleapis.com/ms-icon-144x144.png"><link rel="manifest" href="https://cybercook-assets.storage.googleapis.com/favicon/manifest.json"><meta name="theme-color" content="#1B785E"><meta name="msapplication-TileColor" content="#1B785E"><script async src="https://www.googletagmanager.com/gtag/js?id=UA-5891106-1"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5891106-1', { 'optimize_id': 'GTM-M2BZR4N'});
+</script><script src="/js/vendor.js"></script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P23XW9L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+ window.fbAsyncInit = function() {
+   FB.init({
+     appId      : '2070469239688157',
+     xfbml      : true,
+     version    : 'v3.2'
+   });
+   FB.AppEvents.logPageView();
+ };
+
+ (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script><div class="container bg--white" id="cc-container"><div class="ads--super super_superior txt-center"><div id="banner-728x90-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-area'); }); </script></div></div><div id="app-header"><app-topo logo="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" menu="{&quot;itens&quot;:&quot;[{\&quot;label\&quot;:\&quot;P\u00e1gina Inicial\&quot;,\&quot;url\&quot;:\&quot;\/\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;hide-lg\&quot;}},{\&quot;label\&quot;:\&quot;Receitas\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu--teamcook\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Tipos de prato\&quot;,\&quot;url\&quot;:\&quot;\&quot;},{\&quot;label\&quot;:\&quot;Saladas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/saladas\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;\&quot;}},{\&quot;label\&quot;:\&quot;Legumes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/legumes\&quot;},{\&quot;label\&quot;:\&quot;Carnes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/carnes\&quot;},{\&quot;label\&quot;:\&quot;Aves\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\&quot;},{\&quot;label\&quot;:\&quot;Massas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\&quot;},{\&quot;label\&quot;:\&quot;Peixes e frutos do mar\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/peixes-e-frutos-do-mar\&quot;},{\&quot;label\&quot;:\&quot;Doces\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\&quot;},{\&quot;label\&quot;:\&quot;Risotos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/risotos\&quot;},{\&quot;label\&quot;:\&quot;Bebidas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bebidas\&quot;},{\&quot;label\&quot;:\&quot;Molhos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/molhos\&quot;},{\&quot;label\&quot;:\&quot;Sopas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sopas\&quot;},{\&quot;label\&quot;:\&quot;Bolos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\&quot;},{\&quot;label\&quot;:\&quot;Lanches\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\&quot;},{\&quot;label\&quot;:\&quot;P\u00e3es\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/paes\&quot;},{\&quot;label\&quot;:\&quot;Aperitivos e antepastos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aperitivos-e-antepastos\&quot;},{\&quot;label\&quot;:\&quot;Acompanhamentos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/acompanhamentos\&quot;},{\&quot;label\&quot;:\&quot;Mais Receitas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\&quot;}]},{\&quot;label\&quot;:\&quot;Blog CyberCook\&quot;,\&quot;url\&quot;:\&quot;\/blog\&quot;},{\&quot;label\&quot;:\&quot;Receitas de Outono\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-de-outono?origem=menu\&quot;},{\&quot;label\&quot;:\&quot;V\u00eddeos\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Receitas com V\u00eddeo\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-com-video\&quot;},{\&quot;label\&quot;:\&quot;Nosso canal no YouTube \&quot;,\&quot;url\&quot;:\&quot;https:\/\/www.youtube.com\/c\/CyberCookReceitasComoFazer\/\&quot;}]},{\&quot;label\&quot;:\&quot;+Sugest\u00f5es\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Pizza\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/massa-de-pizza-527\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Cenoura\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/receita-de-bolo-de-cenoura-13975\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Chocolate\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-chocolate-molhadinho-12969\&quot;},{\&quot;label\&quot;:\&quot;Bolinho de Chuva\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/como-fazer-bolinho-de-chuva-13561\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Fub\u00e1\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-fuba-1677\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Milho\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-milho-1641\&quot;},{\&quot;label\&quot;:\&quot;Brigadeiros\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/brigadeiros\&quot;},{\&quot;label\&quot;:\&quot;Fricass\u00ea de Frango\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\/receita-de-fricasse-de-frango-14641\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Anivers\u00e1rio\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-aniversario-108462\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Banana\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-banana-13977\&quot;},{\&quot;label\&quot;:\&quot;Panquecas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\/receita-de-panquecas-1582\&quot;},{\&quot;label\&quot;:\&quot;Pudim de Leite Condensado\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/pudim-de-leite-condensado-8595\&quot;},{\&quot;label\&quot;:\&quot;Sobremesa\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sobremesa\&quot;},{\&quot;label\&quot;:\&quot;Torta de Liquidificador\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/torta-de-liquidificador-1857\&quot;},{\&quot;label\&quot;:\&quot;Cuscuz Paulista\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/cuscuz-paulista-9078\&quot;}]},{\&quot;label\&quot;:\&quot;Envie sua receita\&quot;,\&quot;url\&quot;:\&quot;\/cadastrar-receita\&quot;}]&quot;}"></app-topo></div><div class="recipe--scroll grid-sm-12 grid-lg-12" ><div class="content grid-lg-8 grid-sm-12"><section class="grid-lg-12"><header class="grid-sm-12 mb10"><section class="breadcrumb mt10 mb10 mr10 ml10 printable--none"><ul  id="crumbs"><li><a class="link black" href="/">Início</a> /
+        </li><li><a class="link black" href="/receitas">Receitas</a> /
+        </li><li class="l mr5"><span class="current txt-bold">Receitas com vídeo</span></li></ul></section><div class="header-search-filter mt20"><h1 class="txt-large desk-txt-large txt-center font-serif">Receitas com vídeo</h1><p class="font-serif txt-center txt-medium mb20">755 receitas</p><div id="social-share"
+        class="grid-lg-12 grid-sm-12 pos-relative mb15"><app-social-share class="social-share-aligment" align="txt-right" pt="true" tt="true" fb="true" wa="true" /></div></div><style>
+@media (max-width: 1023px) {
+    #social-share {
+        padding-right: 8px;
+    }
+}
+
+#social-share .social-share-aligment {
+    justify-content: flex-end !important;
+}
+</style><h2 class="txt-center txt-normal"><b>As melhores receitas você encontra aqui no CyberCook</b></h2></header><div class="main grid-sm-12 grid-lg-12"><div class=""><section class="list grid-sm-12"><div
+        class="grid-sm-12 list-container  "><div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/bolo-de-fuba-1677?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/677/bolo-de-fuba-22-120x120.jpeg" alt="Bolo de Fubá"
+                        title="Bolo de Fubá" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/bolos/bolo-de-fuba-1677?origem=receitas-com-video" title="Bolo de Fubá" class="black">
+                    Bolo de Fubá </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Minas Kuyumjian</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        906
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/receita-de-bolo-de-cenoura-13975?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/975/bolo-de-cenoura-31-120x120.jpeg" alt="Receita de Bolo de Cenoura"
+                        title="Receita de Bolo de Cenoura" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/bolos/receita-de-bolo-de-cenoura-13975?origem=receitas-com-video" title="Receita de Bolo de Cenoura" class="black">
+                    Receita de Bolo de Cenoura </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Janaine Pina</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        630
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/pao-de-lo-8677?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/677/pao-de-lo-6-120x120.jpeg" alt="Pão de Ló"
+                        title="Pão de Ló" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/bolos/pao-de-lo-8677?origem=receitas-com-video" title="Pão de Ló" class="black">
+                    Pão de Ló </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        530
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/lanches/torta-de-frango-13972?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/972/torta-de-frango-de-liquidificador-120x120.jpg" alt="Torta de Frango"
+                        title="Torta de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/lanches/torta-de-frango-13972?origem=receitas-com-video" title="Torta de Frango" class="black">
+                    Torta de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Vera Stefanello</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        505
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/bolinho-de-chuva-1525?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/525/bolinho-de-chuva-120x120.jpg" alt="Bolinho de Chuva"
+                        title="Bolinho de Chuva" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/bolinho-de-chuva-1525?origem=receitas-com-video" title="Bolinho de Chuva" class="black">
+                    Bolinho de Chuva </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Suzi T.</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        481
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/pudim-de-pao-8922?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/922/pudim-de-pao-4-120x120.jpeg" alt="Pudim de Pão"
+                        title="Pudim de Pão" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/pudim-de-pao-8922?origem=receitas-com-video" title="Pudim de Pão" class="black">
+                    Pudim de Pão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Gislainy Evellin</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        460
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/receita-de-mousse-de-chocolate-em-po-delicia-8761?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/761/mousse-de-chocolate-em-po-delicia-2-120x120.jpeg" alt="Mousse de Chocolate em Pó - Delícia"
+                        title="Mousse de Chocolate em Pó - Delícia" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/doces/receita-de-mousse-de-chocolate-em-po-delicia-8761?origem=receitas-com-video" title="Mousse de Chocolate em Pó - Delícia" class="black">
+                    Mousse de Chocolate em Pó   Delícia </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Analice da Costa</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        407
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/paes/pao-de-queijo-3018?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/18/pao-de-queijo-12-120x120.jpeg" alt="Pão de Queijo"
+                        title="Pão de Queijo" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/paes/pao-de-queijo-3018?origem=receitas-com-video" title="Pão de Queijo" class="black">
+                    Pão de Queijo </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Thomas Mori</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        396
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/strogonoff-1730?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/730/strogonoff-1-120x120.jpg" alt="Strogonoff"
+                        title="Strogonoff" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/strogonoff-1730?origem=receitas-com-video" title="Strogonoff" class="black">
+                    Strogonoff </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Debora Vieira</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        363
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/pudim-de-leite-condensado-8595?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/595/pudim-de-leite-condensado-8-120x120.jpeg" alt="Pudim de Leite Condensado"
+                        title="Pudim de Leite Condensado" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/pudim-de-leite-condensado-8595?origem=receitas-com-video" title="Pudim de Leite Condensado" class="black">
+                    Pudim de Leite Condensado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Danielle Nascimento</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        375
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/massa-de-pao-de-lo-13974?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/974/massa-de-pao-de-lo-6-120x120.jpeg" alt="Massa de Pão de Ló"
+                        title="Massa de Pão de Ló" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/bolos/massa-de-pao-de-lo-13974?origem=receitas-com-video" title="Massa de Pão de Ló" class="black">
+                    Massa de Pão de Ló </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Carolina Entringer</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        331
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/carnes/receita-de-escondidinho-maravilhoso-1757?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/757/escondidinho-7-120x120.jpeg" alt="Escondidinho Maravilhoso"
+                        title="Escondidinho Maravilhoso" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/carnes/receita-de-escondidinho-maravilhoso-1757?origem=receitas-com-video" title="Escondidinho Maravilhoso" class="black">
+                    Escondidinho Maravilhoso </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Yara </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        295
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/torta-de-bis-1511?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/511/torta-de-bis-2-120x120.jpeg" alt="Torta de Bis"
+                        title="Torta de Bis" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/torta-de-bis-1511?origem=receitas-com-video" title="Torta de Bis" class="black">
+                    Torta de Bis </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Marcilene </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        300
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salpicao-de-frango-1741?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/741/salpicao-de-frango-4-120x120.jpeg" alt="Salpicão de Frango"
+                        title="Salpicão de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salpicao-de-frango-1741?origem=receitas-com-video" title="Salpicão de Frango" class="black">
+                    Salpicão de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Bell Rezende</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        179
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/torta-de-sorvete-1669?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/669/torta-de-sorvete-14-120x120.jpeg" alt="Torta de Sorvete"
+                        title="Torta de Sorvete" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/torta-de-sorvete-1669?origem=receitas-com-video" title="Torta de Sorvete" class="black">
+                    Torta de Sorvete </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Romilda G.</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        274
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/como-fazer-bolo-de-laranja-6247?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/247/como-fazer-bolo-de-laranja-10-120x120.jpeg" alt="Como fazer Bolo de Laranja"
+                        title="Como fazer Bolo de Laranja" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/bolos/como-fazer-bolo-de-laranja-6247?origem=receitas-com-video" title="Como fazer Bolo de Laranja" class="black">
+                    Como fazer Bolo de Laranja </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Itaci </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        270
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/lanches/receita-de-torta-de-liquidificador-548?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/537/torta-de-pizza-7-120x120.jpeg" alt="Receita de Torta de Liquidificador"
+                        title="Receita de Torta de Liquidificador" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/lanches/receita-de-torta-de-liquidificador-548?origem=receitas-com-video" title="Receita de Torta de Liquidificador" class="black">
+                    Receita de Torta de Liquidificador </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Benito Figueiró</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        228
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/acompanhamentos/camarao-na-moranga-4215?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/215/camarao-na-moranga-5-120x120.jpeg" alt="Camarão na Moranga"
+                        title="Camarão na Moranga" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/acompanhamentos/camarao-na-moranga-4215?origem=receitas-com-video" title="Camarão na Moranga" class="black">
+                    Camarão na Moranga </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        221
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/torta-de-limao-1793?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/793/torta-de-limao-120x120.jpg" alt="Torta de Limão"
+                        title="Torta de Limão" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/torta-de-limao-1793?origem=receitas-com-video" title="Torta de Limão" class="black">
+                    Torta de Limão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        213
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/lanches/pastel-de-forno-facil-3021?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/21/pastel-de-forno-facil-4-120x120.jpeg" alt="Pastel de Forno Fácil"
+                        title="Pastel de Forno Fácil" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/lanches/pastel-de-forno-facil-3021?origem=receitas-com-video" title="Pastel de Forno Fácil" class="black">
+                    Pastel de Forno Fácil </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Jeane Ribeiro</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        197
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/bolo-pega-marido-16581?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/581/bolo-pega-marido-120x120.jpg" alt="Bolo Pega Marido"
+                        title="Bolo Pega Marido" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/bolos/bolo-pega-marido-16581?origem=receitas-com-video" title="Bolo Pega Marido" class="black">
+                    Bolo Pega Marido </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Juliana Teixeira</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        224
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/bicho-de-pe-1448?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/448/bicho-de-pe-7-120x120.jpeg" alt="Bicho de Pé"
+                        title="Bicho de Pé" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/bicho-de-pe-1448?origem=receitas-com-video" title="Bicho de Pé" class="black">
+                    Bicho de Pé </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        193
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/receita-de-brigadeirao-com-chocolate-granulado-1554?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/554/brigadeirao-4-120x120.jpeg" alt="Brigadeirão com Chocolate Granulado"
+                        title="Brigadeirão com Chocolate Granulado" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/doces/receita-de-brigadeirao-com-chocolate-granulado-1554?origem=receitas-com-video" title="Brigadeirão com Chocolate Granulado" class="black">
+                    Brigadeirão com Chocolate Granulado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cláudia </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        190
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/receita-de-bolo-de-iogurte-fofo-de-liquidificador-13978?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/978/bolo-de-iogurte-fofissimo-de-liqueidificador-120x120.jpg" alt="Bolo de Iogurte Fofo de Liquidificador"
+                        title="Bolo de Iogurte Fofo de Liquidificador" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/bolos/receita-de-bolo-de-iogurte-fofo-de-liquidificador-13978?origem=receitas-com-video" title="Bolo de Iogurte Fofo de Liquidificador" class="black">
+                    Bolo de Iogurte Fofo de Liquidificador </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Alice Torres</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        196
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/biscoito-amanteigado-1589?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/589/biscoito-amanteigado-9-120x120.jpeg" alt="Biscoito Amanteigado"
+                        title="Biscoito Amanteigado" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/biscoito-amanteigado-1589?origem=receitas-com-video" title="Biscoito Amanteigado" class="black">
+                    Biscoito Amanteigado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Silvia Bastos</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        189
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/brigadeiro-de-microondas-11126?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/126/brigadeiro-de-microondas-7-120x120.jpg" alt="Brigadeiro de Microondas"
+                        title="Brigadeiro de Microondas" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/brigadeiro-de-microondas-11126?origem=receitas-com-video" title="Brigadeiro de Microondas" class="black">
+                    Brigadeiro de Microondas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        187
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/bolo-de-limao-facil-6856?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/856/bolo-de-limao-facil-7-120x120.jpeg" alt="Bolo de Limão Fácil"
+                        title="Bolo de Limão Fácil" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/bolos/bolo-de-limao-facil-6856?origem=receitas-com-video" title="Bolo de Limão Fácil" class="black">
+                    Bolo de Limão Fácil </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Flávia Rosolem</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        182
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/pudim-gelado-8720?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/720/pudim-gelado-9-120x120.jpeg" alt="Pudim Gelado"
+                        title="Pudim Gelado" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/pudim-gelado-8720?origem=receitas-com-video" title="Pudim Gelado" class="black">
+                    Pudim Gelado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        181
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/acompanhamentos/sufle-de-chuchu-967?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/967/sufle-de-chuchu-1-120x120.jpg" alt="Suflê de Chuchu"
+                        title="Suflê de Chuchu" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/acompanhamentos/sufle-de-chuchu-967?origem=receitas-com-video" title="Suflê de Chuchu" class="black">
+                    Suflê de Chuchu </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Alexandra Maria</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        159
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/gelatina-colorida-1642?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/642/gelatina-colorida-7-120x120.jpeg" alt="Gelatina Colorida"
+                        title="Gelatina Colorida" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/gelatina-colorida-1642?origem=receitas-com-video" title="Gelatina Colorida" class="black">
+                    Gelatina Colorida </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        169
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/pave-de-limao-rapido-8887?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/887/pave-de-limao-rapido-5-120x120.jpeg" alt="Pavê de Limão Rápido"
+                        title="Pavê de Limão Rápido" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/pave-de-limao-rapido-8887?origem=receitas-com-video" title="Pavê de Limão Rápido" class="black">
+                    Pavê de Limão Rápido </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Mariana Wanessa</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        164
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/bolos/bolo-de-chocolate-molhadinho-12969?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/969/bolo-de-chocolate-molhadinho-11-120x120.jpeg" alt="Bolo de Chocolate Molhadinho"
+                        title="Bolo de Chocolate Molhadinho" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/bolos/bolo-de-chocolate-molhadinho-12969?origem=receitas-com-video" title="Bolo de Chocolate Molhadinho" class="black">
+                    Bolo de Chocolate Molhadinho </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        150
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/lanches/empadao-de-frango-1660?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/660/empadao-de-frango-5-120x120.jpeg" alt="Empadão de Frango"
+                        title="Empadão de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/lanches/empadao-de-frango-1660?origem=receitas-com-video" title="Empadão de Frango" class="black">
+                    Empadão de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Debora Vieira</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        150
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/chantilly-7200?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/200/chantilly-1-120x120.jpg" alt="Chantilly"
+                        title="Chantilly" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/chantilly-7200?origem=receitas-com-video" title="Chantilly" class="black">
+                    Chantilly </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Itaci </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        155
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/receita-de-brigadeirao-decorado-facil-13976?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/976/brigadeirao-facil-120x120.jpg" alt="Brigadeirão Decorado Fácil"
+                        title="Brigadeirão Decorado Fácil" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/receita-de-brigadeirao-decorado-facil-13976?origem=receitas-com-video" title="Brigadeirão Decorado Fácil" class="black">
+                    Brigadeirão Decorado Fácil </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Angelica </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        154
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/risotos/risoto-de-frango-864?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/864/risoto-de-frango-9-120x120.jpeg" alt="Risoto de Frango"
+                        title="Risoto de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/risotos/risoto-de-frango-864?origem=receitas-com-video" title="Risoto de Frango" class="black">
+                    Risoto de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Allan Vila</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        137
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/doces/mousse-de-maracuja-1478?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/478/mousse-de-maracuja-6-120x120.jpeg" alt="Mousse de Maracujá"
+                        title="Mousse de Maracujá" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/doces/mousse-de-maracuja-1478?origem=receitas-com-video" title="Mousse de Maracujá" class="black">
+                    Mousse de Maracujá </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Michella Spiguel</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        144
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/como-fazer-fricasse-de-frango-3949?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/949/como-fazer-fricasse-de-frango-3-120x120.jpeg" alt="Como Fazer Fricassê de Frango"
+                        title="Como Fazer Fricassê de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/como-fazer-fricasse-de-frango-3949?origem=receitas-com-video" title="Como Fazer Fricassê de Frango" class="black">
+                    Como Fazer Fricassê de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        143
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/legumes/creme-de-milho-9076?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/76/creme-de-milho-120x120.jpeg" alt="Creme de Milho"
+                        title="Creme de Milho" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/legumes/creme-de-milho-9076?origem=receitas-com-video" title="Creme de Milho" class="black">
+                    Creme de Milho </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        127
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/lanches/massa-de-pastel-16235?origem=receitas-com-video"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/235/massa-de-pastel-3-120x120.jpeg" alt="Massa de Pastel"
+                        title="Massa de Pastel" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/lanches/massa-de-pastel-16235?origem=receitas-com-video" title="Massa de Pastel" class="black">
+                    Massa de Pastel </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Neri Diniz</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        136
+                    </div></div></div></div></div>                                    </div></section>      </div><div class="grid-lg-12 grid-sm-12 txt-center"><div class="font-serif pagination grid-sm-12 grid-lg-12"><div class=" "><div class="txt-center"><span class="pagination__grey-unactive txt-normal">primeira</span></div><div class="txt-center omega"><span class="pagination__grey-unactive txt-normal"><i class="fa fa-chevron-left mx25" aria-hidden="true"></i></span></div></div><div class=" items_pag  "><div><span class="black pagination__number txt-normal">1</span></div><div class="pl5">
+                                de
+                                <a class="black pagination__number txt-normal" href="/receitas/receitas-com-video?page=1">19</a></div></div><div ><div class="   txt-center"><a href="/receitas/receitas-com-video?page=2" rel="next" class="black txt-normal"><i class="fa fa-chevron-right mx25" aria-hidden="true"></i></a></div><div class="   txt-center"><a href="/receitas/receitas-com-video?page=19" class="black txt-normal">última</a></div></div></div></div></div></section></div><aside class=" sidebar grid-lg-4 grid-sm-12 omega printable--none txt-center"><div id="banner-300x250-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-area').addService(googletag.pubads()).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-area'); }); </script></div><div class="pt10"></div><div class="clear"></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/o-match-que-vigora" class="black" title="O Match que Vigora"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/200/pao-de-alho-com-queijo-camembert-300x168.jpeg" alt="O Match que Vigora"
+                    title="O Match que Vigora" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">O Match que Vigora</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/dia-dos-pais" class="black" title="Dia dos Pais"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/99/espetos-de-legumes-e-frango-1-300x168.jpeg" alt="Dia dos Pais"
+                    title="Dia dos Pais" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Dia dos Pais</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa?tg=receitas-classicas" class="black" title="Receitas Clássicas"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/422/baiao-de-dois-rapido-2-300x168.jpeg" alt="Receitas Clássicas"
+                    title="Receitas Clássicas" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas Clássicas</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="https://cybercook.com.br/receitas/receitas-de-inverno" class="black" title="Receitas de Inverno"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/213/dalgona-coffee-1-300x168.jpeg" alt="Receitas de Inverno"
+                    title="Receitas de Inverno" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas de Inverno</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/legumes-e-frutas-da-estacao" class="black" title="Frutas, Legumes e Verduras da Estação"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/940/mousse-de-maracuja-especial-3-300x168.jpeg" alt="Frutas, Legumes e Verduras da Estação"
+                    title="Frutas, Legumes e Verduras da Estação" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Frutas, Legumes e Verduras da Estação</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa" class="black" title="Gostinho de Casa"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/630/receita-de-bolo-de-cenoura-17-300x168.jpeg" alt="Gostinho de Casa"
+                    title="Gostinho de Casa" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Gostinho de Casa</h6></div></a></div><div class="clear"></div><div class="mt20 mb20"><div id="banner-300x250-2-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-2-area').addService(googletag.pubads()).setTargeting("position", "mid").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-2-area'); }); </script></div></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt10 swiper-container"><h6 class="pl10 green txt-medium mb10 font-serif txt-bold">Blog CyberCook</h6><div class="swiper-wrapper"><div class="swiper-slide"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/bawryel9jzdicvmlscfu9hkpiebc1karmibovsyc-320x200.jpeg" class="swiper-lazy"
+                        alt="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"> Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial </a></h3></div></div><div class="swiper-slide"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/161/biscoitos-amanteigados-9-320x200.jpeg" class="swiper-lazy"
+                        alt="Todas as dicas para fazer biscoito caseiro perfeito" title="Todas as dicas para fazer biscoito caseiro perfeito" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"> Todas as dicas para fazer biscoito caseiro perfeito </a></h3></div></div><div class="swiper-slide"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/0kremmr1yzfbdo8y8dg60ixtzujfbejk7yvnrw7h-320x200.jpeg" class="swiper-lazy"
+                        alt="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"> Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa </a></h3></div></div></div><div class="card-stack-button-prev fa fa-chevron-left white"></div><div class="card-stack-button-next fa fa-chevron-right white"></div></div><div class="pl10 pr10 grid-sm-12 grid-lg-12"><h6 class="txt-medium mt10 mb10 font-serif">Receitas novinhas </h6><div class="card--carousel__container swiper-container"><div class="swiper-wrapper"><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/acompanhamentos/receita-de-escondidinho-de-couve-flor-e-gorgonzola-125202"><a title="Escondidinho de couve-flor e gorgonzola" href="/receitas/acompanhamentos/receita-de-escondidinho-de-couve-flor-e-gorgonzola-125202" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/202/escondidinho-de-couve-flor-e-gorgonzola-125x120.jpeg"
+                                  alt="Escondidinho de couve-flor e gorgonzola"
+                                  title="Escondidinho de couve-flor e gorgonzola"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/acompanhamentos/receita-de-escondidinho-de-couve-flor-e-gorgonzola-125202" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Escondidinho de couve-flor e gorgonzola">
+                             Escondidinho de couve flor e gorgonzola
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/massas/receita-de-nhoque-recheado-com-queijo-gouda-125201"><a title="Nhoque recheado com queijo gouda " href="/receitas/massas/receita-de-nhoque-recheado-com-queijo-gouda-125201" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/201/nhoque-recheado-com-queijo-gouda-125x120.jpeg"
+                                  alt="Nhoque recheado com queijo gouda "
+                                  title="Nhoque recheado com queijo gouda "
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/massas/receita-de-nhoque-recheado-com-queijo-gouda-125201" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Nhoque recheado com queijo gouda ">
+                             Nhoque recheado com queijo gouda 
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/paes/receita-de-pao-de-alho-com-queijo-camembert-125200"><a title="Pão de alho com queijo camembert" href="/receitas/paes/receita-de-pao-de-alho-com-queijo-camembert-125200" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/200/pao-de-alho-com-queijo-camembert-125x120.jpeg"
+                                  alt="Pão de alho com queijo camembert"
+                                  title="Pão de alho com queijo camembert"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/paes/receita-de-pao-de-alho-com-queijo-camembert-125200" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Pão de alho com queijo camembert">
+                             Pão de alho com queijo camembert
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/doces/receita-de-bruaca-125199"><a title="Bruaca" href="/receitas/doces/receita-de-bruaca-125199" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/596/panqueca-simples-1-125x120.jpeg"
+                                  alt="Bruaca"
+                                  title="Bruaca"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/doces/receita-de-bruaca-125199" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Bruaca">
+                             Bruaca
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/massas/receita-de-mac-n-cheese-a-brasileira-125198"><a title="Mac N’ Cheese à Brasileira" href="/receitas/massas/receita-de-mac-n-cheese-a-brasileira-125198" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/122/macarrao-com-queijo-mac-and-cheese-2-125x120.jpeg"
+                                  alt="Mac N’ Cheese à Brasileira"
+                                  title="Mac N’ Cheese à Brasileira"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/massas/receita-de-mac-n-cheese-a-brasileira-125198" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Mac N’ Cheese à Brasileira">
+                             Mac N’ Cheese à Brasileira
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/doces/receita-de-torta-de-maca-na-taca-125194"><a title="Torta de Maçã na Taça Deliciosa" href="/receitas/doces/receita-de-torta-de-maca-na-taca-125194" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/194/torta-de-maca-na-taca-125x120.jpeg"
+                                  alt="Torta de Maçã na Taça Deliciosa"
+                                  title="Torta de Maçã na Taça Deliciosa"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/doces/receita-de-torta-de-maca-na-taca-125194" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Torta de Maçã na Taça Deliciosa">
+                             Torta de Maçã na Taça Deliciosa
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div></div><div class="card-button-prev fa fa-chevron-left white"></div><div class="card-button-next fa fa-chevron-right white"></div></div></div><div class="mt20"><div id="banner-300x250-3-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-3-area').addService(googletag.pubads()).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-3-area'); }); </script></div></div></aside>            </div><div class="grid-lg-12 grid-sm-12 mt10 ads__catfish pt5"><i class="fa fa-close border--round ads__close bg--white"></i><div id="banner-728x90-3-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-3-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-3-area'); }); </script></div></div><footer class="footer grid-lg-12 grid-sm-12 mt50 mb20 pl20 pr20 font-serif "><div class="grid-lg-3 grid-sm-12"><div class="grid-sm-12 grid-lg-12 txt-center mt20 mb15"><a href="/" title="Cybercook"><img src="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" width="50" height="70" alt="Logo do Cybercook"
+                    title="Cybercook" /></a></div><div class="grid-sm-12 grid-lg-12 social centerFooterItens"><h4>Siga o CyberCook</h4><div class="grid-sm-12 grid-lg-12 socialIconsFooter centerFooterItens"><span><a href="https://twitter.com/cybercook" target="_blank" rel="noopener" title="Twitter"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_twitter.svg"
+                            alt="Rede social Twitter do Cybercook" title="Twitter" /></a><a href="https://pt-br.facebook.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Facebook"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_facebook.svg"
+                            alt="Rede social Facebook do Cybercook" title="Facebook" /></a><a href="https://www.instagram.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Instagram"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/instagram.svg"
+                            alt="Rede social Instagram do Cybercook" title="Instagram" /></a><a href="https://br.pinterest.com/cybercookbr/" target="_blank" rel="noopener" title="Pinterest"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_pinterest-social-logo.svg"
+                            alt="Rede social Pinterest do Cybercook" title="Pinterest" /></a><a href="https://www.youtube.com/c/CyberCookReceitasComoFazer/" target="_blank" rel="noopener"
+                        title="Youtube"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_youtube.svg"
+                            alt="Rede social Youtube do Cybercook" title="Youtube" /></a></span></div></div></div><hr class="hide-lg border--none py10 grid-sm-12 grid-lg-12" /><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Sobre nós</h4><ul class="footer__nav txt-medium"><li><a title="Fale com a gente" href="/fale-conosco">Fale com a gente</a></li><li><a title="Trabalhe conosco" href="/trabalhe-conosco">Trabalhe conosco</a></li><li><a title="Política de privacidade" href="/politica-de-privacidade/p">Política de privacidade</a></li><li><a title="Termos de uso" href="/termos-de-uso/p">Termos de uso</a></li><li><a title="Solicitação de dados pessoais" href="/solicitacao-de-dados-pessoais/p">Solicitação de dados pessoais</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Nossa seleção</h4><ul class="footer__nav txt-medium"><li><a title="Panqueca" href="/receitas/massas/receita-de-panqueca-1917">Panqueca</a></li><li><a title="Bolo de Mandioca Diet" href="/receitas/bolos/receita-de-bolo-de-mandioca-diet-71696">Bolo de Mandioca Diet</a></li><li><a title="Frango à Passarinho na Air Fryer" href="/receitas/aves/receita-de-frango-a-passarinho-na-air-fryer-122387">Frango à Passarinho na Air Fryer</a></li><li><a title="Receitas de até 30 minutos" href="/blog/pratos-rapidos-para-jantar-receitas-de-ate-30-minutos-2504">Receitas de até 30 minutos</a></li><li><a title="Pizza Low-Carb De Frigideira" href="/receitas/lanches/pizzas/receita-de-pizza-low-carb-de-frigideira-122752">Pizza Low-Carb De Frigideira</a></li><li><a title="Carne de Jaca Vegana" href="/receitas/carnes/receita-de-carne-de-jaca-vegana-122813">Carne de Jaca Vegana</a></li><li><a title="Receitas de Saladas e Bowls" href="/receitas/verao/?tg=verao-saladas-e-bowls">Receitas de Saladas e Bowls</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40 omega "><h4>Categorias</h4><ul class="footer__nav txt-medium"><li><a title="Saladas" href="/receitas/saladas">Saladas</a></li><li><a title="Legumes" href="/receitas/legumes">Legumes</a></li><li><a title="Carnes" href="/receitas/carne">Carnes</a></li><li><a title="Aves" href="/receitas/aves">Aves</a></li><li><a title="Massas" href="/receitas/massas">Massas</a></li><li><a title="Peixes e frutos do mar" href="/receitas/peixes-e-frutos-do-mar">Peixes e frutos do mar</a></li><li><a title="Doces" href="/receitas/doces">Doces</a></li></ul></nav><div class="grid-sm-12 grid-lg-12 txt-center txt-small"><a href="https://mercado.carrefour.com.br/?utm_source=cybercook&utm_medium=footer" title="Carrefour"
+            target="_blank" rel="noopener noreferrer"><img src="https://cybercook-assets.storage.googleapis.com/logos/uma-empresa-do-grupo-carrefour.svg"
+                alt="Uma empresa do grupo Carrefour" title="Carrefour" class="grid-sm-10 grid__offset-sm-1"
+                style="max-width:320px" width="250" height="40" /></a><p class="grid-sm-12 grid-lg-12 mt10 txt-small font-arial">Copyright &copy; 2022
+            e-Mídia Informações Ltda - CyberCook é uma propriedade e-Mídia.</p></div><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+        data-domain-script="723a9584-77b0-4e19-8757-3c497895e0b7"></script><script>
+        function OptanonWrapper() { }
+    </script></footer><script src="/js/main.js"></script><div class="hide flash-message pos-fixed grid-lg-5 grid-sm-12 grid__offset-lg-1 bg--white pb20"><i class="flash-message-close fa fa-times fr link" style="padding: 0.5em"></i><p class="grid-lg-10 grid-sm-10 grid__offset-1"></p></div><div class="backlight hide"></div><i class="flash-load hide fa fa-spinner fa-pulse fa-3x fa-fw orange"></i>                <script src="https://cybercook-assets.storage.googleapis.com/js/swiper.min.js"></script><script async src="/js/search.js"></script></div><div class="widesky"></div><div class="widesky"></div><div id="banner-160x600-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "left").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-area'); }); </script></div><div id="banner-160x600-2-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-2-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "right").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-2-area'); }); </script></div></body></html>

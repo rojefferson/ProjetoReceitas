@@ -1,0 +1,729 @@
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta content="pt-br" name="LANGUAGE" /><meta property="fb:app_id" content="2070469239688157"><title>As melhores receitas de Saladas | CyberCook</title><meta name="description" content="Veja nossa seleção das melhores receitas de Saladas que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! "><link rel="canonical" href="https://cybercook.com.br/receitas/saladas"/><link rel="next" href="https://cybercook.com.br/receitas/saladas?pagina=2"/><meta property="og:title" content="As melhores receitas de Saladas | CyberCook" /><meta property="og:description" content="Veja nossa seleção das melhores receitas de Saladas que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! " /><meta property="og:type" content="article" /><meta property="og:site_name" content="CyberCook" /><meta property="og:locale" content="pt_BR" /><meta property="og:image" content="https://img.cybercook.com.br/receitas/741/salpicao-de-frango-4.jpeg" /><link rel="preconnect" href="https://storage.googleapis.com" crossorigin /><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin /><link rel="preconnect" href="https://cdn.ampproject.org" crossorigin /><link rel="preconnect" href="https://img.cybercook.com.br" /><link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" /><link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet"><link rel="stylesheet" href="/css/search.css"><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/swiper.min.css"><link rel="stylesheet" href="/css/recipe.css"><style>
+    .header__image--teamcook {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        min-height: 250px;
+    }
+
+    .header__image--teamcook #social-share {
+        bottom: 20px;
+        position: absolute;
+    }
+</style><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P23XW9L');</script><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/font-awesome.css"><link href="https://fonts.googleapis.com/css?family=Kadwa|Noto+Sans|Lato&display=swap" rel="stylesheet"><script type="application/ld+json">{ "@context":"https://schema.org", "@type":"ItemList", "itemListElement":[ { "@type": "ListItem", "position": "1", "url": "https://cybercook.com.br/receitas/saladas/salpicao-de-frango-1741" },{ "@type": "ListItem", "position": "2", "url": "https://cybercook.com.br/receitas/saladas/guacamole-228" },{ "@type": "ListItem", "position": "3", "url": "https://cybercook.com.br/receitas/saladas/salpicao-de-atum-12044" },{ "@type": "ListItem", "position": "4", "url": "https://cybercook.com.br/receitas/saladas/receita-de-salpicao-de-frango-defumado-e-presunto-1613" },{ "@type": "ListItem", "position": "5", "url": "https://cybercook.com.br/receitas/saladas/receita-de-tabule-delicioso-1012" },{ "@type": "ListItem", "position": "6", "url": "https://cybercook.com.br/receitas/saladas/salpicao-de-natal-10163" },{ "@type": "ListItem", "position": "7", "url": "https://cybercook.com.br/receitas/saladas/salpicao-delicia-10820" },{ "@type": "ListItem", "position": "8", "url": "https://cybercook.com.br/receitas/saladas/salada-de-berinjela-com-maca-10469" },{ "@type": "ListItem", "position": "9", "url": "https://cybercook.com.br/receitas/saladas/salada-de-macarrao-2542" },{ "@type": "ListItem", "position": "10", "url": "https://cybercook.com.br/receitas/saladas/salada-de-manga-com-camaroes-11411" },{ "@type": "ListItem", "position": "11", "url": "https://cybercook.com.br/receitas/saladas/salada-primavera-71" },{ "@type": "ListItem", "position": "12", "url": "https://cybercook.com.br/receitas/saladas/receita-de-salada-de-grao-de-bico-e-cenoura-12567" },{ "@type": "ListItem", "position": "13", "url": "https://cybercook.com.br/receitas/saladas/salada-de-bacalhau-158" },{ "@type": "ListItem", "position": "14", "url": "https://cybercook.com.br/receitas/saladas/salada-grega-14494" },{ "@type": "ListItem", "position": "15", "url": "https://cybercook.com.br/receitas/saladas/salpicao-simples-14009" },{ "@type": "ListItem", "position": "16", "url": "https://cybercook.com.br/receitas/saladas/rolinho-de-alface-facil-14487" },{ "@type": "ListItem", "position": "17", "url": "https://cybercook.com.br/receitas/saladas/salada-verde-de-microondas-11324" },{ "@type": "ListItem", "position": "18", "url": "https://cybercook.com.br/receitas/saladas/receita-de-salpicao-de-frango-tradicional-17336" },{ "@type": "ListItem", "position": "19", "url": "https://cybercook.com.br/receitas/saladas/salada-mista-de-folhas-8454" },{ "@type": "ListItem", "position": "20", "url": "https://cybercook.com.br/receitas/saladas/salpicao-de-natal-97719" },{ "@type": "ListItem", "position": "21", "url": "https://cybercook.com.br/receitas/saladas/receita-de-salada-colorida-de-legumes-8960" },{ "@type": "ListItem", "position": "22", "url": "https://cybercook.com.br/receitas/saladas/salada-de-frango-tropical-12092" },{ "@type": "ListItem", "position": "23", "url": "https://cybercook.com.br/receitas/saladas/salada-russa-525" },{ "@type": "ListItem", "position": "24", "url": "https://cybercook.com.br/receitas/saladas/salpicao-de-frango-com-batata-palha-9955" },{ "@type": "ListItem", "position": "25", "url": "https://cybercook.com.br/receitas/saladas/salada-de-feijao-branco-12156" },{ "@type": "ListItem", "position": "26", "url": "https://cybercook.com.br/receitas/saladas/salada-rapida-46461" },{ "@type": "ListItem", "position": "27", "url": "https://cybercook.com.br/receitas/saladas/antepasto-de-legumes-grelhados-7555" },{ "@type": "ListItem", "position": "28", "url": "https://cybercook.com.br/receitas/saladas/salada-de-beterraba-8452" },{ "@type": "ListItem", "position": "29", "url": "https://cybercook.com.br/receitas/saladas/salada-de-macarrao-parafuso-8456" },{ "@type": "ListItem", "position": "30", "url": "https://cybercook.com.br/receitas/saladas/receita-de-salada-colorida-913" },{ "@type": "ListItem", "position": "31", "url": "https://cybercook.com.br/receitas/saladas/salada-de-berinjela-14757" },{ "@type": "ListItem", "position": "32", "url": "https://cybercook.com.br/receitas/saladas/salada-de-agriao-e-pera-com-molho-asiatico-7207" },{ "@type": "ListItem", "position": "33", "url": "https://cybercook.com.br/receitas/saladas/salada-de-grao-de-bico-com-atum-251" },{ "@type": "ListItem", "position": "34", "url": "https://cybercook.com.br/receitas/saladas/salada-de-maionese-7147" },{ "@type": "ListItem", "position": "35", "url": "https://cybercook.com.br/receitas/saladas/receita-de-carpaccio-de-abacaxi-alface-e-atum-ao-molho-de-iogurte-12209" },{ "@type": "ListItem", "position": "36", "url": "https://cybercook.com.br/receitas/saladas/salada-caesar-de-agriao-12103" },{ "@type": "ListItem", "position": "37", "url": "https://cybercook.com.br/receitas/saladas/salada-com-frutas-141" },{ "@type": "ListItem", "position": "38", "url": "https://cybercook.com.br/receitas/saladas/salada-de-macarrao-com-presunto-359" },{ "@type": "ListItem", "position": "39", "url": "https://cybercook.com.br/receitas/saladas/insalata-fredda-de-fusilli-e-parma-12025" },{ "@type": "ListItem", "position": "40", "url": "https://cybercook.com.br/receitas/saladas/maionese-de-camarao-7315" } ]}</script><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ googletag.cmd.push(function() {
+ // Interstitial
+ interstitial = googletag.defineOutOfPageSlot('/1762418/cybercook_interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL)
+ .setTargeting('position', 'interstitial');
+ if(interstitial) {
+ interstitial.addService(googletag.pubads());
+ }
+ googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+ //
+ var id = event.slot.getSlotId().getDomId();
+ if (id =='banner-120x60-area' && !event.isEmpty) {
+ let banner = document.querySelector('#banner-120x60-area')
+ banner.classList.remove('hide-lg')
+ banner.classList.remove('hide-sm')
+ }
+ if ((id == 'banner-1x1-2-area' && event.lineItemId != null) || (window.innerWidth < 1300)) {
+ var widesky = document.querySelector('#banner-160x600-area');
+ var widesky2 = document.querySelector('#banner-160x600-2-area');
+ if(widesky2 != null && widesky != null){
+ widesky.parentNode.removeChild(widesky);
+ widesky2.parentNode.removeChild(widesky2);
+ }
+ }
+ // Box recomenda
+ if (id == 'banner-360x200-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x200-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ if (id == 'banner-360x375-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x375-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ });
+ googletag.pubads().enableLazyLoad();
+ googletag.pubads().setTargeting('keyword', ["cat_saladas"]);
+ googletag.pubads().enableAsyncRendering();
+ });
+</script><link rel="apple-touch-icon" sizes="57x57" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-180x180.png"><link rel="icon" type="image/png" sizes="192x192" href="https://cybercook-assets.storage.googleapis.com/favicon/android-icon-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-32x32.png"><link rel="icon" type="image/png" sizes="96x96" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-96x96.png"><link rel="icon" type="image/png" sizes="16x16" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-16x16.png"><meta name="msapplication-TileImage" content="https://cybercook-assets.storage.googleapis.com/ms-icon-144x144.png"><link rel="manifest" href="https://cybercook-assets.storage.googleapis.com/favicon/manifest.json"><meta name="theme-color" content="#1B785E"><meta name="msapplication-TileColor" content="#1B785E"><script async src="https://www.googletagmanager.com/gtag/js?id=UA-5891106-1"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5891106-1', { 'optimize_id': 'GTM-M2BZR4N'});
+</script><script src="/js/vendor.js"></script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P23XW9L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+ window.fbAsyncInit = function() {
+   FB.init({
+     appId      : '2070469239688157',
+     xfbml      : true,
+     version    : 'v3.2'
+   });
+   FB.AppEvents.logPageView();
+ };
+
+ (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script><div class="container bg--white" id="cc-container"><div class="ads--super super_superior txt-center"><div id="banner-728x90-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-area'); }); </script></div></div><div id="app-header"><app-topo logo="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" menu="{&quot;itens&quot;:&quot;[{\&quot;label\&quot;:\&quot;P\u00e1gina Inicial\&quot;,\&quot;url\&quot;:\&quot;\/\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;hide-lg\&quot;}},{\&quot;label\&quot;:\&quot;Receitas\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu--teamcook\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Tipos de prato\&quot;,\&quot;url\&quot;:\&quot;\&quot;},{\&quot;label\&quot;:\&quot;Saladas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/saladas\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;\&quot;}},{\&quot;label\&quot;:\&quot;Legumes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/legumes\&quot;},{\&quot;label\&quot;:\&quot;Carnes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/carnes\&quot;},{\&quot;label\&quot;:\&quot;Aves\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\&quot;},{\&quot;label\&quot;:\&quot;Massas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\&quot;},{\&quot;label\&quot;:\&quot;Peixes e frutos do mar\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/peixes-e-frutos-do-mar\&quot;},{\&quot;label\&quot;:\&quot;Doces\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\&quot;},{\&quot;label\&quot;:\&quot;Risotos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/risotos\&quot;},{\&quot;label\&quot;:\&quot;Bebidas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bebidas\&quot;},{\&quot;label\&quot;:\&quot;Molhos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/molhos\&quot;},{\&quot;label\&quot;:\&quot;Sopas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sopas\&quot;},{\&quot;label\&quot;:\&quot;Bolos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\&quot;},{\&quot;label\&quot;:\&quot;Lanches\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\&quot;},{\&quot;label\&quot;:\&quot;P\u00e3es\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/paes\&quot;},{\&quot;label\&quot;:\&quot;Aperitivos e antepastos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aperitivos-e-antepastos\&quot;},{\&quot;label\&quot;:\&quot;Acompanhamentos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/acompanhamentos\&quot;},{\&quot;label\&quot;:\&quot;Mais Receitas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\&quot;}]},{\&quot;label\&quot;:\&quot;Blog CyberCook\&quot;,\&quot;url\&quot;:\&quot;\/blog\&quot;},{\&quot;label\&quot;:\&quot;Receitas de Outono\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-de-outono?origem=menu\&quot;},{\&quot;label\&quot;:\&quot;V\u00eddeos\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Receitas com V\u00eddeo\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-com-video\&quot;},{\&quot;label\&quot;:\&quot;Nosso canal no YouTube \&quot;,\&quot;url\&quot;:\&quot;https:\/\/www.youtube.com\/c\/CyberCookReceitasComoFazer\/\&quot;}]},{\&quot;label\&quot;:\&quot;+Sugest\u00f5es\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Pizza\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/massa-de-pizza-527\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Cenoura\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/receita-de-bolo-de-cenoura-13975\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Chocolate\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-chocolate-molhadinho-12969\&quot;},{\&quot;label\&quot;:\&quot;Bolinho de Chuva\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/como-fazer-bolinho-de-chuva-13561\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Fub\u00e1\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-fuba-1677\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Milho\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-milho-1641\&quot;},{\&quot;label\&quot;:\&quot;Brigadeiros\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/brigadeiros\&quot;},{\&quot;label\&quot;:\&quot;Fricass\u00ea de Frango\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\/receita-de-fricasse-de-frango-14641\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Anivers\u00e1rio\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-aniversario-108462\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Banana\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-banana-13977\&quot;},{\&quot;label\&quot;:\&quot;Panquecas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\/receita-de-panquecas-1582\&quot;},{\&quot;label\&quot;:\&quot;Pudim de Leite Condensado\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/pudim-de-leite-condensado-8595\&quot;},{\&quot;label\&quot;:\&quot;Sobremesa\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sobremesa\&quot;},{\&quot;label\&quot;:\&quot;Torta de Liquidificador\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/torta-de-liquidificador-1857\&quot;},{\&quot;label\&quot;:\&quot;Cuscuz Paulista\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/cuscuz-paulista-9078\&quot;}]},{\&quot;label\&quot;:\&quot;Envie sua receita\&quot;,\&quot;url\&quot;:\&quot;\/cadastrar-receita\&quot;}]&quot;}"></app-topo></div><div class="recipe--scroll grid-sm-12 grid-lg-12" ><div class="content grid-lg-8 grid-sm-12"><section class="grid-lg-12"><header class="grid-sm-12 mb10"><section class="breadcrumb mt10 mb10 mr10 ml10 printable--none"><ul  id="crumbs"><li><a class="link black" href="/">Início</a> /
+        </li><li><a class="link black" href="/receitas">Receitas</a> /
+        </li><li class="l mr5"><span class="current txt-bold">Saladas</span></li></ul></section><div class="header-search-filter mt20"><h1 class="txt-large desk-txt-large txt-center font-serif">Saladas</h1><p class="font-serif txt-center txt-medium mb20">2485 receitas</p><div id="social-share"
+        class="grid-lg-12 grid-sm-12 pos-relative mb15"><app-social-share class="social-share-aligment" align="txt-right" pt="true" tt="true" fb="true" wa="true" /></div><div id="horizontal-scroll"><app-horizontal-scroll content="&lt;p&gt;Com diversos &lt;strong&gt;tipos de saladas&lt;/strong&gt;, o &lt;strong&gt;CyberCook&lt;/strong&gt; tem uma seleção especial para você! De &lt;strong&gt;saladas simples&lt;/strong&gt; a &lt;strong&gt;saladas tropicais&lt;/strong&gt;, aqui você encontra a &lt;strong&gt;receita&lt;/strong&gt; ideal para todo tipo de &lt;strong&gt;refeição&lt;/strong&gt;. Tenha todo dia uma nova &lt;strong&gt;salada saudável&lt;/strong&gt;, prática e gostosa para experimentar!&lt;/p&gt;" /></div></div><style>
+@media (max-width: 1023px) {
+    #social-share {
+        padding-right: 8px;
+    }
+}
+
+#social-share .social-share-aligment {
+    justify-content: flex-end !important;
+}
+</style><h2 class="txt-center txt-normal"><b>As melhores receitas de saladas</b></h2></header><div class="main grid-sm-12 grid-lg-12"><div class=""><section class="list grid-sm-12"><div
+        class="grid-sm-12 list-container  "><div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salpicao-de-frango-1741?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/741/salpicao-de-frango-4-120x120.jpeg" alt="Salpicão de Frango"
+                        title="Salpicão de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salpicao-de-frango-1741?origem=saladas" title="Salpicão de Frango" class="black">
+                    Salpicão de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Bell Rezende</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        179
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/guacamole-228?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/228/guacamole-12-120x120.jpeg" alt="Guacamole"
+                        title="Guacamole" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/guacamole-228?origem=saladas" title="Guacamole" class="black">
+                    Guacamole </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Miriam P.</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        70
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salpicao-de-atum-12044?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/44/salpicao-de-atum-3-120x120.jpeg" alt="Salpicão de Atum"
+                        title="Salpicão de Atum" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salpicao-de-atum-12044?origem=saladas" title="Salpicão de Atum" class="black">
+                    Salpicão de Atum </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        60
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/receita-de-salpicao-de-frango-defumado-e-presunto-1613?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/613/salpicao-de-frango-defumado-e-presunto-120x120.jpeg" alt="Salpicão de Frango Defumado e Presunto"
+                        title="Salpicão de Frango Defumado e Presunto" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/saladas/receita-de-salpicao-de-frango-defumado-e-presunto-1613?origem=saladas" title="Salpicão de Frango Defumado e Presunto" class="black">
+                    Salpicão de Frango Defumado e Presunto </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Iliane Brasileiro</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        59
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/receita-de-tabule-delicioso-1012?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/12/tabule-6-120x120.jpeg" alt="Receita de Tabule Delicioso"
+                        title="Receita de Tabule Delicioso" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/receita-de-tabule-delicioso-1012?origem=saladas" title="Receita de Tabule Delicioso" class="black">
+                    Receita de Tabule Delicioso </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        35
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salpicao-de-natal-10163?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/163/salpicao-de-natal-5-120x120.jpeg" alt="Salpicão de Natal"
+                        title="Salpicão de Natal" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salpicao-de-natal-10163?origem=saladas" title="Salpicão de Natal" class="black">
+                    Salpicão de Natal </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        40
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salpicao-delicia-10820?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/820/salpicao-delicia-1-120x120.jpeg" alt="Salpicão Delícia"
+                        title="Salpicão Delícia" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salpicao-delicia-10820?origem=saladas" title="Salpicão Delícia" class="black">
+                    Salpicão Delícia </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Paloma Tavares</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        39
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-berinjela-com-maca-10469?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/469/salada-de-berinjela-com-maca-1-120x120.jpeg" alt="Salada de Berinjela com Maçã"
+                        title="Salada de Berinjela com Maçã" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-berinjela-com-maca-10469?origem=saladas" title="Salada de Berinjela com Maçã" class="black">
+                    Salada de Berinjela com Maçã </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        30
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-macarrao-2542?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/542/salada-de-macarrao-120x120.jpeg" alt="Salada de Macarrão"
+                        title="Salada de Macarrão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-macarrao-2542?origem=saladas" title="Salada de Macarrão" class="black">
+                    Salada de Macarrão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        22
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-manga-com-camaroes-11411?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/411/salada-de-manga-com-camaroes-2-120x120.jpeg" alt="Salada de Manga com Camarões"
+                        title="Salada de Manga com Camarões" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-manga-com-camaroes-11411?origem=saladas" title="Salada de Manga com Camarões" class="black">
+                    Salada de Manga com Camarões </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        32
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-primavera-71?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/71/salada-primavera-6-120x120.jpeg" alt="Salada Primavera"
+                        title="Salada Primavera" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-primavera-71?origem=saladas" title="Salada Primavera" class="black">
+                    Salada Primavera </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        19
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/receita-de-salada-de-grao-de-bico-e-cenoura-12567?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/567/salada-de-grao-de-bico-e-cenoura-2-120x120.jpeg" alt="Salada de Grão-de-bico e Cenoura"
+                        title="Salada de Grão-de-bico e Cenoura" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/receita-de-salada-de-grao-de-bico-e-cenoura-12567?origem=saladas" title="Salada de Grão-de-bico e Cenoura" class="black">
+                    Salada de Grão de bico e Cenoura </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        22
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-bacalhau-158?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/158/salada-de-bacalhau-2-120x120.jpeg" alt="Salada de Bacalhau"
+                        title="Salada de Bacalhau" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-bacalhau-158?origem=saladas" title="Salada de Bacalhau" class="black">
+                    Salada de Bacalhau </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        20
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-grega-14494?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/494/salada-grega-6-120x120.jpeg" alt="Salada Grega"
+                        title="Salada Grega" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-grega-14494?origem=saladas" title="Salada Grega" class="black">
+                    Salada Grega </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por João Sena</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        19
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salpicao-simples-14009?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/9/salpicao-simples-120x120.jpg" alt="Salpicão Simples"
+                        title="Salpicão Simples" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salpicao-simples-14009?origem=saladas" title="Salpicão Simples" class="black">
+                    Salpicão Simples </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Daniela Cristina</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        17
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/rolinho-de-alface-facil-14487?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/487/rolinho-de-alface-facil-120x120.jpg" alt="Rolinho de Alface Fácil"
+                        title="Rolinho de Alface Fácil" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/rolinho-de-alface-facil-14487?origem=saladas" title="Rolinho de Alface Fácil" class="black">
+                    Rolinho de Alface Fácil </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Elisabete Marques</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        12
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-verde-de-microondas-11324?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/324/salada-verde-de-microondas-120x120.jpg" alt="Salada verde de microondas"
+                        title="Salada verde de microondas" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-verde-de-microondas-11324?origem=saladas" title="Salada verde de microondas" class="black">
+                    Salada verde de microondas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        19
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/receita-de-salpicao-de-frango-tradicional-17336?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/336/salpicao-de-frango-tradicional-120x120.jpeg" alt="Salpicão de Frango Tradicional"
+                        title="Salpicão de Frango Tradicional" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/receita-de-salpicao-de-frango-tradicional-17336?origem=saladas" title="Salpicão de Frango Tradicional" class="black">
+                    Salpicão de Frango Tradicional </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Lucia Monteiro</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        10
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-mista-de-folhas-8454?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/454/salada-mista-de-folhas-1-120x120.jpeg" alt="Salada Mista de Folhas"
+                        title="Salada Mista de Folhas" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-mista-de-folhas-8454?origem=saladas" title="Salada Mista de Folhas" class="black">
+                    Salada Mista de Folhas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        15
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salpicao-de-natal-97719?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/719/salpicao-de-natal-4-120x120.jpeg" alt="Salpicão de Natal"
+                        title="Salpicão de Natal" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salpicao-de-natal-97719?origem=saladas" title="Salpicão de Natal" class="black">
+                    Salpicão de Natal </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Loreta Mariana</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        4
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/receita-de-salada-colorida-de-legumes-8960?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/960/salada-colorida-de-legumes-2-120x120.jpeg" alt="Salada Colorida de Legumes"
+                        title="Salada Colorida de Legumes" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/receita-de-salada-colorida-de-legumes-8960?origem=saladas" title="Salada Colorida de Legumes" class="black">
+                    Salada Colorida de Legumes </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        13
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-frango-tropical-12092?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/92/salada-de-frango-tropical-120x120.jpg" alt="Salada de frango tropical"
+                        title="Salada de frango tropical" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-frango-tropical-12092?origem=saladas" title="Salada de frango tropical" class="black">
+                    Salada de frango tropical </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        17
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-russa-525?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/525/salada-russa-1-120x120.jpeg" alt="Salada Russa"
+                        title="Salada Russa" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-russa-525?origem=saladas" title="Salada Russa" class="black">
+                    Salada Russa </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Emil Lattmann</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        15
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salpicao-de-frango-com-batata-palha-9955?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/955/salpicao-de-frango-com-batata-palha-120x120.jpg" alt="Salpicão de Frango com Batata Palha"
+                        title="Salpicão de Frango com Batata Palha" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/saladas/salpicao-de-frango-com-batata-palha-9955?origem=saladas" title="Salpicão de Frango com Batata Palha" class="black">
+                    Salpicão de Frango com Batata Palha </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Eliane </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        13
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-feijao-branco-12156?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/156/salada-de-feijao-branco-2-120x120.jpeg" alt="Salada de Feijão Branco"
+                        title="Salada de Feijão Branco" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-feijao-branco-12156?origem=saladas" title="Salada de Feijão Branco" class="black">
+                    Salada de Feijão Branco </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        12
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-rapida-46461?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/461/salada-rapida-120x120.jpg" alt="Salada rápida"
+                        title="Salada rápida" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-rapida-46461?origem=saladas" title="Salada rápida" class="black">
+                    Salada rápida </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Ana Patricia</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        15
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/antepasto-de-legumes-grelhados-7555?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/555/antepasto-de-legumes-grelhados-120x120.jpg" alt="Antepasto de Legumes Grelhados"
+                        title="Antepasto de Legumes Grelhados" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/antepasto-de-legumes-grelhados-7555?origem=saladas" title="Antepasto de Legumes Grelhados" class="black">
+                    Antepasto de Legumes Grelhados </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        12
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-beterraba-8452?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/452/salada-de-beterraba-120x120.jpeg" alt="Salada de Beterraba"
+                        title="Salada de Beterraba" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-beterraba-8452?origem=saladas" title="Salada de Beterraba" class="black">
+                    Salada de Beterraba </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        11
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-macarrao-parafuso-8456?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/456/salada-de-macarrao-parafuso-120x120.jpg" alt="Salada de Macarrão Parafuso"
+                        title="Salada de Macarrão Parafuso" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-macarrao-parafuso-8456?origem=saladas" title="Salada de Macarrão Parafuso" class="black">
+                    Salada de Macarrão Parafuso </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        12
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/receita-de-salada-colorida-913?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/913/salada-colorida-ao-molho-de-iogurte-120x120.jpg" alt="Salada Colorida "
+                        title="Salada Colorida " /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/receita-de-salada-colorida-913?origem=saladas" title="Salada Colorida " class="black">
+                    Salada Colorida  </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Itaci </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        9
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-berinjela-14757?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/757/salada-de-berinjela-3-120x120.jpeg" alt="Salada de Berinjela"
+                        title="Salada de Berinjela" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-berinjela-14757?origem=saladas" title="Salada de Berinjela" class="black">
+                    Salada de Berinjela </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Zilma Almeida</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        10
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-agriao-e-pera-com-molho-asiatico-7207?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/207/salada-de-agriao-e-pera-com-molho-asiatico-1-120x120.jpeg" alt="Salada de Agrião e Pêra com Molho Asiático"
+                        title="Salada de Agrião e Pêra com Molho Asiático" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/saladas/salada-de-agriao-e-pera-com-molho-asiatico-7207?origem=saladas" title="Salada de Agrião e Pêra com Molho Asiático" class="black">
+                    Salada de Agrião e Pêra com Molho Asiático </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        10
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-grao-de-bico-com-atum-251?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/251/salada-de-grao-de-bico-com-atum-3-120x120.jpeg" alt="Salada de Grão de Bico com Atum"
+                        title="Salada de Grão de Bico com Atum" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-grao-de-bico-com-atum-251?origem=saladas" title="Salada de Grão de Bico com Atum" class="black">
+                    Salada de Grão de Bico com Atum </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Claudia </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        8
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-maionese-7147?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/147/salada-de-maionese-3-120x120.jpeg" alt="Salada de Maionese"
+                        title="Salada de Maionese" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-maionese-7147?origem=saladas" title="Salada de Maionese" class="black">
+                    Salada de Maionese </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        11
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/receita-de-carpaccio-de-abacaxi-alface-e-atum-ao-molho-de-iogurte-12209?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/209/carpaccio-de-abacaxi-alface-e-atum-ao-molho-de-iogurte-120x120.jpg" alt="Carpaccio de Abacaxi, Alface e Atum ao Molho de Iogurte"
+                        title="Carpaccio de Abacaxi, Alface e Atum ao Molho de Iogurte" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/saladas/receita-de-carpaccio-de-abacaxi-alface-e-atum-ao-molho-de-iogurte-12209?origem=saladas" title="Carpaccio de Abacaxi, Alface e Atum ao Molho de Iogurte" class="black">
+                    Carpaccio de Abacaxi, Alface e Atum ao Molho de Iogurte </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        9
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-caesar-de-agriao-12103?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/103/salada-caesar-de-agriao-1-120x120.jpeg" alt="Salada Caesar de Agrião"
+                        title="Salada Caesar de Agrião" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-caesar-de-agriao-12103?origem=saladas" title="Salada Caesar de Agrião" class="black">
+                    Salada Caesar de Agrião </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        11
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-com-frutas-141?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/141/salada-com-frutas-1-120x120.jpg" alt="Salada com Frutas"
+                        title="Salada com Frutas" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-com-frutas-141?origem=saladas" title="Salada com Frutas" class="black">
+                    Salada com Frutas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        9
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/salada-de-macarrao-com-presunto-359?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/359/salada-de-macarrao-com-presunto-120x120.jpg" alt="Salada de Macarrão com Presunto"
+                        title="Salada de Macarrão com Presunto" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/salada-de-macarrao-com-presunto-359?origem=saladas" title="Salada de Macarrão com Presunto" class="black">
+                    Salada de Macarrão com Presunto </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Leila Carvalho</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        11
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/insalata-fredda-de-fusilli-e-parma-12025?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/25/insalata-fredda-de-fusilli-e-parma-120x120.jpg" alt="Insalata Fredda de Fusilli e Parma"
+                        title="Insalata Fredda de Fusilli e Parma" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/insalata-fredda-de-fusilli-e-parma-12025?origem=saladas" title="Insalata Fredda de Fusilli e Parma" class="black">
+                    Insalata Fredda de Fusilli e Parma </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        8
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/saladas/maionese-de-camarao-7315?origem=saladas"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/315/maionese-de-camarao-120x120.jpg" alt="Maionese de Camarão"
+                        title="Maionese de Camarão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/saladas/maionese-de-camarao-7315?origem=saladas" title="Maionese de Camarão" class="black">
+                    Maionese de Camarão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        7
+                    </div></div></div></div></div>                                    </div></section>            </div><div class="grid-lg-12 grid-sm-12 txt-center"><div class="font-serif pagination grid-sm-12 grid-lg-12"><div class=" "><div class="txt-center"><span class="pagination__grey-unactive txt-normal">primeira</span></div><div class="txt-center omega"><span class="pagination__grey-unactive txt-normal"><i class="fa fa-chevron-left mx25" aria-hidden="true"></i></span></div></div><div class=" items_pag  "><div><span class="black pagination__number txt-normal">1</span></div><div class="pl5">
+                                de
+                                <a class="black pagination__number txt-normal" href="/receitas/saladas?pagina=1">63</a></div></div><div ><div class="   txt-center"><a href="/receitas/saladas?pagina=2" rel="next" class="black txt-normal"><i class="fa fa-chevron-right mx25" aria-hidden="true"></i></a></div><div class="   txt-center"><a href="/receitas/saladas?pagina=63" class="black txt-normal">última</a></div></div></div></div></div></section></div><aside class=" sidebar grid-lg-4 grid-sm-12 omega printable--none txt-center"><div id="banner-300x250-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-area').addService(googletag.pubads()).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-area'); }); </script></div><div class="pt10"></div><div class="clear"></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/o-match-que-vigora" class="black" title="O Match que Vigora"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/200/pao-de-alho-com-queijo-camembert-300x168.jpeg" alt="O Match que Vigora"
+                    title="O Match que Vigora" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">O Match que Vigora</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/dia-dos-pais" class="black" title="Dia dos Pais"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/99/espetos-de-legumes-e-frango-1-300x168.jpeg" alt="Dia dos Pais"
+                    title="Dia dos Pais" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Dia dos Pais</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa?tg=receitas-classicas" class="black" title="Receitas Clássicas"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/422/baiao-de-dois-rapido-2-300x168.jpeg" alt="Receitas Clássicas"
+                    title="Receitas Clássicas" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas Clássicas</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="https://cybercook.com.br/receitas/receitas-de-inverno" class="black" title="Receitas de Inverno"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/213/dalgona-coffee-1-300x168.jpeg" alt="Receitas de Inverno"
+                    title="Receitas de Inverno" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas de Inverno</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/legumes-e-frutas-da-estacao" class="black" title="Frutas, Legumes e Verduras da Estação"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/940/mousse-de-maracuja-especial-3-300x168.jpeg" alt="Frutas, Legumes e Verduras da Estação"
+                    title="Frutas, Legumes e Verduras da Estação" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Frutas, Legumes e Verduras da Estação</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa" class="black" title="Gostinho de Casa"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/630/receita-de-bolo-de-cenoura-17-300x168.jpeg" alt="Gostinho de Casa"
+                    title="Gostinho de Casa" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Gostinho de Casa</h6></div></a></div><div class="clear"></div><div class="mt20 mb20"><div id="banner-300x250-2-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-2-area').addService(googletag.pubads()).setTargeting("position", "mid").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-2-area'); }); </script></div></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt10 swiper-container"><h6 class="pl10 green txt-medium mb10 font-serif txt-bold">Blog CyberCook</h6><div class="swiper-wrapper"><div class="swiper-slide"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/bawryel9jzdicvmlscfu9hkpiebc1karmibovsyc-320x200.jpeg" class="swiper-lazy"
+                        alt="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"> Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial </a></h3></div></div><div class="swiper-slide"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/161/biscoitos-amanteigados-9-320x200.jpeg" class="swiper-lazy"
+                        alt="Todas as dicas para fazer biscoito caseiro perfeito" title="Todas as dicas para fazer biscoito caseiro perfeito" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"> Todas as dicas para fazer biscoito caseiro perfeito </a></h3></div></div><div class="swiper-slide"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/0kremmr1yzfbdo8y8dg60ixtzujfbejk7yvnrw7h-320x200.jpeg" class="swiper-lazy"
+                        alt="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"> Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa </a></h3></div></div></div><div class="card-stack-button-prev fa fa-chevron-left white"></div><div class="card-stack-button-next fa fa-chevron-right white"></div></div><div class="pl10 pr10 grid-sm-12 grid-lg-12"><h6 class="txt-medium mt10 mb10 font-serif">Receitas novinhas </h6><div class="card--carousel__container swiper-container"><div class="swiper-wrapper"><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/saladas/receita-de-salada-caprese-no-palito-125193"><a title="Salada Caprese no Palito" href="/receitas/saladas/receita-de-salada-caprese-no-palito-125193" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/193/salada-caprese-no-palito-125x120.jpeg"
+                                  alt="Salada Caprese no Palito"
+                                  title="Salada Caprese no Palito"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/saladas/receita-de-salada-caprese-no-palito-125193" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Salada Caprese no Palito">
+                             Salada Caprese no Palito
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/saladas/receita-de-repolho-assado-com-molho-de-mostarda-125167"><a title="Repolho Assado com Molho de Mostarda" href="/receitas/saladas/receita-de-repolho-assado-com-molho-de-mostarda-125167" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/167/repolho-assado-com-molho-de-mostarda-125x120.jpeg"
+                                  alt="Repolho Assado com Molho de Mostarda"
+                                  title="Repolho Assado com Molho de Mostarda"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/saladas/receita-de-repolho-assado-com-molho-de-mostarda-125167" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Repolho Assado com Molho de Mostarda">
+                             Repolho Assado com Molho de Mostarda
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/saladas/receita-de-salada-de-lentilha-com-pernil-desfiado-125118"><a title="Salada de Lentilha com Pernil Desfiado" href="/receitas/saladas/receita-de-salada-de-lentilha-com-pernil-desfiado-125118" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/118/salada-de-lentilha-com-pernil-desfiado-1-125x120.jpeg"
+                                  alt="Salada de Lentilha com Pernil Desfiado"
+                                  title="Salada de Lentilha com Pernil Desfiado"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/saladas/receita-de-salada-de-lentilha-com-pernil-desfiado-125118" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Salada de Lentilha com Pernil Desfiado">
+                             Salada de Lentilha com Pernil Desfiado
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/saladas/receita-de-cuscuz-de-camarao-125099"><a title="Cuscuz de Camarão" href="/receitas/saladas/receita-de-cuscuz-de-camarao-125099" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/99/cuscuz-de-camarao-3-125x120.jpeg"
+                                  alt="Cuscuz de Camarão"
+                                  title="Cuscuz de Camarão"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/saladas/receita-de-cuscuz-de-camarao-125099" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Cuscuz de Camarão">
+                             Cuscuz de Camarão
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/saladas/receita-de-salpicao-vegetariano-125092"><a title="Salpicão Vegetariano" href="/receitas/saladas/receita-de-salpicao-vegetariano-125092" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/92/salpicao-vegetariano-3-125x120.jpeg"
+                                  alt="Salpicão Vegetariano"
+                                  title="Salpicão Vegetariano"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/saladas/receita-de-salpicao-vegetariano-125092" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Salpicão Vegetariano">
+                             Salpicão Vegetariano
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/saladas/receita-de-vinagrete-de-abacaxi-124552"><a title="Vinagrete de Abacaxi" href="/receitas/saladas/receita-de-vinagrete-de-abacaxi-124552" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/552/vinagrete-de-abacaxi-125x120.png"
+                                  alt="Vinagrete de Abacaxi"
+                                  title="Vinagrete de Abacaxi"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/saladas/receita-de-vinagrete-de-abacaxi-124552" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Vinagrete de Abacaxi">
+                             Vinagrete de Abacaxi
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div></div><div class="card-button-prev fa fa-chevron-left white"></div><div class="card-button-next fa fa-chevron-right white"></div></div></div><div class="mt20"><div id="banner-300x250-3-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-3-area').addService(googletag.pubads()).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-3-area'); }); </script></div></div></aside>            </div><div class="grid-lg-12 grid-sm-12 mt10 ads__catfish pt5"><i class="fa fa-close border--round ads__close bg--white"></i><div id="banner-728x90-3-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-3-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-3-area'); }); </script></div></div><footer class="footer grid-lg-12 grid-sm-12 mt50 mb20 pl20 pr20 font-serif "><div class="grid-lg-3 grid-sm-12"><div class="grid-sm-12 grid-lg-12 txt-center mt20 mb15"><a href="/" title="Cybercook"><img src="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" width="50" height="70" alt="Logo do Cybercook"
+                    title="Cybercook" /></a></div><div class="grid-sm-12 grid-lg-12 social centerFooterItens"><h4>Siga o CyberCook</h4><div class="grid-sm-12 grid-lg-12 socialIconsFooter centerFooterItens"><span><a href="https://twitter.com/cybercook" target="_blank" rel="noopener" title="Twitter"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_twitter.svg"
+                            alt="Rede social Twitter do Cybercook" title="Twitter" /></a><a href="https://pt-br.facebook.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Facebook"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_facebook.svg"
+                            alt="Rede social Facebook do Cybercook" title="Facebook" /></a><a href="https://www.instagram.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Instagram"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/instagram.svg"
+                            alt="Rede social Instagram do Cybercook" title="Instagram" /></a><a href="https://br.pinterest.com/cybercookbr/" target="_blank" rel="noopener" title="Pinterest"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_pinterest-social-logo.svg"
+                            alt="Rede social Pinterest do Cybercook" title="Pinterest" /></a><a href="https://www.youtube.com/c/CyberCookReceitasComoFazer/" target="_blank" rel="noopener"
+                        title="Youtube"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_youtube.svg"
+                            alt="Rede social Youtube do Cybercook" title="Youtube" /></a></span></div></div></div><hr class="hide-lg border--none py10 grid-sm-12 grid-lg-12" /><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Sobre nós</h4><ul class="footer__nav txt-medium"><li><a title="Fale com a gente" href="/fale-conosco">Fale com a gente</a></li><li><a title="Trabalhe conosco" href="/trabalhe-conosco">Trabalhe conosco</a></li><li><a title="Política de privacidade" href="/politica-de-privacidade/p">Política de privacidade</a></li><li><a title="Termos de uso" href="/termos-de-uso/p">Termos de uso</a></li><li><a title="Solicitação de dados pessoais" href="/solicitacao-de-dados-pessoais/p">Solicitação de dados pessoais</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Nossa seleção</h4><ul class="footer__nav txt-medium"><li><a title="Panqueca" href="/receitas/massas/receita-de-panqueca-1917">Panqueca</a></li><li><a title="Bolo de Mandioca Diet" href="/receitas/bolos/receita-de-bolo-de-mandioca-diet-71696">Bolo de Mandioca Diet</a></li><li><a title="Frango à Passarinho na Air Fryer" href="/receitas/aves/receita-de-frango-a-passarinho-na-air-fryer-122387">Frango à Passarinho na Air Fryer</a></li><li><a title="Receitas de até 30 minutos" href="/blog/pratos-rapidos-para-jantar-receitas-de-ate-30-minutos-2504">Receitas de até 30 minutos</a></li><li><a title="Pizza Low-Carb De Frigideira" href="/receitas/lanches/pizzas/receita-de-pizza-low-carb-de-frigideira-122752">Pizza Low-Carb De Frigideira</a></li><li><a title="Carne de Jaca Vegana" href="/receitas/carnes/receita-de-carne-de-jaca-vegana-122813">Carne de Jaca Vegana</a></li><li><a title="Receitas de Saladas e Bowls" href="/receitas/verao/?tg=verao-saladas-e-bowls">Receitas de Saladas e Bowls</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40 omega "><h4>Categorias</h4><ul class="footer__nav txt-medium"><li><a title="Saladas" href="/receitas/saladas">Saladas</a></li><li><a title="Legumes" href="/receitas/legumes">Legumes</a></li><li><a title="Carnes" href="/receitas/carne">Carnes</a></li><li><a title="Aves" href="/receitas/aves">Aves</a></li><li><a title="Massas" href="/receitas/massas">Massas</a></li><li><a title="Peixes e frutos do mar" href="/receitas/peixes-e-frutos-do-mar">Peixes e frutos do mar</a></li><li><a title="Doces" href="/receitas/doces">Doces</a></li></ul></nav><div class="grid-sm-12 grid-lg-12 txt-center txt-small"><a href="https://mercado.carrefour.com.br/?utm_source=cybercook&utm_medium=footer" title="Carrefour"
+            target="_blank" rel="noopener noreferrer"><img src="https://cybercook-assets.storage.googleapis.com/logos/uma-empresa-do-grupo-carrefour.svg"
+                alt="Uma empresa do grupo Carrefour" title="Carrefour" class="grid-sm-10 grid__offset-sm-1"
+                style="max-width:320px" width="250" height="40" /></a><p class="grid-sm-12 grid-lg-12 mt10 txt-small font-arial">Copyright &copy; 2022
+            e-Mídia Informações Ltda - CyberCook é uma propriedade e-Mídia.</p></div><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+        data-domain-script="723a9584-77b0-4e19-8757-3c497895e0b7"></script><script>
+        function OptanonWrapper() { }
+    </script></footer><script src="/js/main.js"></script><div class="hide flash-message pos-fixed grid-lg-5 grid-sm-12 grid__offset-lg-1 bg--white pb20"><i class="flash-message-close fa fa-times fr link" style="padding: 0.5em"></i><p class="grid-lg-10 grid-sm-10 grid__offset-1"></p></div><div class="backlight hide"></div><i class="flash-load hide fa fa-spinner fa-pulse fa-3x fa-fw orange"></i>            <script src="https://cybercook-assets.storage.googleapis.com/js/swiper.min.js"></script><script async src="/js/search.js"></script></div><div class="widesky"></div><div class="widesky"></div><div id="banner-160x600-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "left").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-area'); }); </script></div><div id="banner-160x600-2-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-2-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "right").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-2-area'); }); </script></div></body></html>
