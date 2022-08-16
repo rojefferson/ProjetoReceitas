@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '34528',
+            cRay: '73a659944c61275b',
+            cHash: '7866e1bc266d832',
+            cUPMDTk: "\/receita\/138603-misto-quente-de-forno-a-minha-moda.html?__cf_chl_tk=pZHpgZrjI56No4YdKau24OAXrscnwEAhq0qADHesivg-1660445079-0-gaNycGzNB6U",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvMTM4NjAzLW1pc3RvLXF1ZW50ZS1kZS1mb3Juby1hLW1pbmhhLW1vZGEuaHRtbA==',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNS4xKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMzUuMC4yMzA5LjM3MiBTYWZhcmkvNTM3LjM2',
+                rm: 'R0VU',
+                d: 'LvY6fyMsmVfbmjTlOIAUS0+CeQxABph+eJJlxezWt8373hADfQNWv7DHowNYzXLacXh9uu6lbN/HF9RVmUlG8El1R3+MNJX90zRk74phHC12gz3FPNDvfXxWCGH7M1kt3LZBB25QhV4JMBLrPDhs5n0RIv5coHhUmU49I7TLWoVjfrMlmhNfmHtlR+f2VRoZV+u5CE+9QYImvjVC/1SnrjhnbnHv0kWNFp5FdQKrmxjTMIHZNau2NeBiIDLIpwcyustRbxUTWCqDlS9QFhEm6ysXmNJ9Vv6S0C3XOOOSxqT0oY1HlREwD+lwYgpfY4CpGYBUN65TwlvsJbaDxLQ58/6lAi8Oyl2Cb97tGQruskCHdnqpcthbxi8SqloCzZRJAo3MIUJIXtdkpSeN2EDrTf1Tm26GbxvNQTAy+WliVfcAeCcmBlqCR9jCClXx7wSRhYWN1mh/TW/l5N87C40g2NvyEUS5Yw+xdgyMlApxRMV7bNrTdrsWWqQgT7AaSVWVaj0HZtOhMSthoC69YlvNVruxRYH7fRnGMPykBpkWLcBecep94sjJmFtVztBXjrGbq2ewO0q4KGHGKKc/9MH/rO8dhFuTqhs9VfOWMOQ4bIankSP9uPyXc+1zmh3t4V8RtmSLoir4BhWBipbBsmjn1Q==',
+                t: 'MTY2MDQ0NTA3OS43MzMwMDA=',
+                m: 'F5gbgDHGBFTEJ1ykZQ/X9+J3zETdCtlyIgsWBzsNU4Q=',
+                i1: '2Qbh/ixWclmjWbcgn8HY/g==',
+                i2: 'A3X2ycQZzN2PGOs1vuVplg==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'JWeFZaDuIBckS7WHugnHJkRbnI0RKgITIAJo+TuTlCw=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a659944c61275b')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/138603-misto-quente-de-forno-a-minha-moda.html?__cf_chl_f_tk=pZHpgZrjI56No4YdKau24OAXrscnwEAhq0qADHesivg-1660445079-0-gaNycGzNB6U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="yCDxYDE6oqEevB6aNKlgRmst490IJibHbsmUdU5KFgs-1660445079-0-AbcD343MuJhnyQ6JWwjJ5Bbrw73zTlN2iIf5uwNYutJHughxekBpwMIh5zMQLm6m_VnYB87y7LGr6HUxKbvcjV7kifpsgWHZwyTQCfev-_w9Qy_JL41bzG7dSGqafTfZsQ-5n9h_GIK8UJDStA3dJh1RFRbWb0fyHJm9SZWo-xZIg-ye4VojNJz2_8CXF63ZCUk9jpvFNU1Ix8XEV8En-CC438APpQv80qNuqju88I9kv1Gl0MyWOkko4tlqbAQUczEoPTvm7-OAOyMfjZdpT9brHY5zV22vfllzMc0biena2dNvuooNRq3KLCqFjZZMp1GlzMPbTIIUgwvAEONPfYNKxrJNSgwfTosWH02LZdoxFgIGqwBLmROKr2JFGAkkjL3gVthIqM3CvOVF68TOsAALhGUAoz0xn9IcDRtCmA5P6L2GUX1QWblgKTLZDo-o2cHpZ4Emb4W87EthReY0VF77Oq46wt2JnGBtrVHOLOQsBn2fp6RyOln9lkNHKxuNkXXKDN1QaaPhpeH9SieKudq91SeuHYmuowlLqcPXhRp3eduTS0HF28KGXWcpzZzhdl3J_4msYvwazHBuQpbGZQArHQK_MZVAGoRGbBY7j4XdPB_wcmHgf551YIpCrZo3oIu88q1ZaKcjpI4mcFKAZYwDQZ0BRl_lEQ-3SyL1otuSpCyeDlBgk1E3U60mtB_97fXdPSGS3QG-vpUPepG1d0ZFZLbXQknNFEP_V_XV3ywAl9VC5T83Gns-pQrKxhWtZ0mvbODCVSQhLQniWwUW6W1czZYQIDcTF6zyF9QUEfduU-Z575HbcZa7cKgQbF3aiA" />
+            <input type="hidden" name="r" value="usu74Zr75eJc_f.TtmFiLFKkMzyEI6ZuFWwl2XtG1l8-1660445079-0-Ado8lr88TcVKU7mLtUROzK1ME09XXv0nO9LiVmKqN7FytIoD+R0Nwwyvk4UPurCkJn4Qiaw7XAEB8ZiSELgI2X7mM4TjQdwgVCwezQ6S45zB3vJR7QdxGkeNCw8aY5QF27kX/y7/IrWy428tUbK2v32t41qkWJa97VcDKe5Q6f/tdjOJyc9mNicko5VPkQGSKMf8CHSwg1WoG4/9LMivhXGoMKEOIBZQdIhcm8SeqRZc/VxU/HjZN4ya252ClGBV1wVdzqH4uG6OKJS4OMc+1O9GHwvfBQYYiHnV3CMIrSZWYUsa52ecW4CYncVvQoAydGJOcaV6pvuVE/Y1w38w5XZPgqPQsY3x+vv1ER4HwuoiA3xVJCkBu8VhbMB0KX28EGFlc9VLn835ilzBzpa6mNnISA7cu5Z2CP+P7qp7IB0tMdgG7z/QJU/6P81cdDhLm+uNlT3TUNmm0qgVSiUdOlvZzG4f1ov4VKPhJBOEzxhOGRjM8McsuTFJR0/k4EmTJa0h0Tz5MtfklYAcU6z3MvUlHB5ov5VI9X2KNWj2GPXD6sciUfuNbbBlfOHFSZ2CSk0DURIhMYiLJxVBuZkyJWC2OEgZvAKj9ZfpSLl3ql9QTuHSt8fi57HKun6WmnlHmUreXPjLAgKDuREMhGODyVjubVgG74rDI4F4EypnCNjKwi68Xf+PF4hIBk31qNGymsp22110J3CMowoLCNbWyL5SWQ6Ea7JaeAgZ0OS08qnrQKYCn1MmN7u+t+by167kruIotoYZ7uz5FMsuFfb1++whhujszzxupu3GNIIngR2ntn1T7IaT9aTTX4A+8WLGgj7nqH8xKCbnJVdyQKPeiTG6HTF9mLP6FE/2lzxlAw4rthtph70SkjFxlsZTpugrzdnASMN3rxHpUZCps40sOsplR88Iuu0XNvG3qh45sR78mFhXren54kAF5ndjs8T4wPwnboZImYPdQE1iV46BS88Xpo1DME3LyIcxMIGVDlcalbJTHHGKz5FFXR89yIGR4hjTRh5gyqpxJujHFH85rYAw9vtoItthHZ3I1V3DDww7H1AGzi9lgSLEBMNmiTuVO33f2AoJa7yp9D+lnn/QIKecYu/WZneQoSLcDmYXv9xW11KhDtig2Fkt4wfU7BYNs8jJVvIt+JyUIIGSxwpNrvDTzFsLUP9RKihihTwsx+24EI9t+Kj49+UUwUpRDh+eqJpCFUtQGboQQTUgJRqhsQFLAnlcZAZOphX5dBDt+LL9p0Diq9wqZXCn8bTrU6rGftYZvQ/qtFif3xAxf6cqJrOfR4O9D8sdrJapF6Pde3w5/hMPMaUf6aVNUKEXkcJ939zDe+5Hpx1W54VCfHsLaH5K5Jdu01Sw/t4C7R9xBmt+v7o5XYLqsg/yO69LaofVS+VEmaKqtrKcgQYh53Yre031ffXoZLPgenij70eKF5RO1ixgQzCuSpbSteciqBPUXCW9Zc/X/4FXAtjoLEguOKqNRVkJw7wFMDpemb2jgBsXfUyhGgQJJik9vXgnZwFIEDvPOVLmOYOrT7mtLzkMzKIQbM69ogG9bwJ3Ffrwsp3T+qIxyd1naxJ6wiTONHnX0yQ6FChBBWwQ7BTDvGW7uoCWVQCF/2OwtKQgQIKDzni1ZL/diUR7A67JeYCACDRY5W/1HK5UfyPPAW6CppH6kYImihV4JSWS6bHnKuSXrQl0HdaCBSRVSfX6IWNy6ruts+0RxYZOBVCJQIXdJzHG2r8OeMJrGEtcGvJYKhefqG1EpClWLN4WkpLLtinFZZo6IjN4TalSTwp5EGPOMMfGdwyT68iuaM3ZvmPWbRd8wlwnAfvs7/+DmCdeklW1I1kv6ShI4vv6B04l0hthIBiyT4ezI159/mw8HXaFkJWQ+dWL"/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a659944c61275b');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a659944c61275b';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/138603-misto-quente-de-forno-a-minha-moda.html?__cf_chl_rt_tk=pZHpgZrjI56No4YdKau24OAXrscnwEAhq0qADHesivg-1660445079-0-gaNycGzNB6U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a659944c61275b</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

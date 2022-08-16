@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '53315',
+            cRay: '73a65799df49275b',
+            cHash: 'd041b0f6afe83f3',
+            cUPMDTk: "\/receita\/8072-molho-branco-para-macarrao.html?__cf_chl_tk=zR826Nwnts1QgS6FSEuSCzV53k.oqiE_NR2F7t.Kd3s-1660444998-0-gaNycGzNB6U",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvODA3Mi1tb2xoby1icmFuY28tcGFyYS1tYWNhcnJhby5odG1s',
+                ra: 'TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfOF8yKSBBcHBsZVdlYktpdC81MzcuMTcgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMjQuMC4xMzA5LjAgU2FmYXJpLzUzNy4xNw==',
+                rm: 'R0VU',
+                d: '4SfZlRmua6wZtVC51T8Sxs9QFWlVcsORX7mLhtYqlLfNTNvwAbvt36RcSASAroF7Ee2L9nCrdVQPkPprcs14MVRY+fWHkG+jiPuqQSA9Q8fcOeE8viY9CrU9DH0bPCyQ0EZfetZMXs9Xs4qq/zJld2IJnS4Wq3dQzJZ1nm79pj+kTDH2vnIhKQZazuJ3byPxi4ELCoSJ0FhPU1qydQQIFti0MLPmPwuIntU2UllJGaQb168AFME0IQ3B3RnnkqUZM+SgfLg38ulq9pkXlNOIpHsnpZF0bhg98WTccsba9rk7mRPzsZzi8npCr4Z3P/wjOlER7m9Y9GhuyLzdwRvg2gCFm6/9dnoXWvo8ufXckZ7MtR+dqqBa4m1817IkkyEOHx30WheRQaSJPHfZt1sp9ICg4Lgq8GeaKFrXYx85KbawahpKDVhm6sFqHdHfQKvE3kACZ+Ynl5Tn9lt4OeR2w+JuEPxk8XMm1i2pjAm1ch5ZbO5dkcrIClZqXXkXFxW9UZs3E/5wRG1rPomj9R2mN+SvE/rDsZBCREqMbfg4DTx53cLVBof6py2CL4YTREYWmzB5or65cZvI7tSsP2hDZILl0kJWPGdeCxrdjf1LQSM4Zpwso+NBzGd6PQ7oRewga1lJNwvMgMsCQdqqQFxqZw==',
+                t: 'MTY2MDQ0NDk5OC43MDIwMDA=',
+                m: 'NofL9QvWgBolrB/+UvXTSAwmpf0iMHQ5BjNYqbssZNk=',
+                i1: 'wSD67XJKgudft/no0iy48A==',
+                i2: 'HOngd0GvcejNEHde1abQEw==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'gUpWJ9NM251Y96S6d5F066L8eIMUguyP7WOyd9Nt3cc=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a65799df49275b')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/8072-molho-branco-para-macarrao.html?__cf_chl_f_tk=zR826Nwnts1QgS6FSEuSCzV53k.oqiE_NR2F7t.Kd3s-1660444998-0-gaNycGzNB6U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="rzOkKmP2zggHYQtHjYBq.bKpDFwNVeZS0zz7DydDUag-1660444998-0-AVyttykJg93ZFlUSzNUXeEnBlilUvoRRpFHA8aY417Q8MIaJErtqcUYt3UZTScwg3mXCBD7AAmxG6l-vVm-qzPoQ4x4u7SLLuO1rA5zgZKuXU6el3PYyRDsUuTtoH4VdBdVdEj_kAJOeaXsWqOEx30Xae2zhKyuaxvHaDbta01gFhI4V_KnaFxtW4FwXnBw-YnvlarIzUF0bLg6a9jNirazUrMoYnbGkncwHohY9zwsN9KuTcUYxroZH8Q9nwplI3ytpRhxh3OxYdbnTMcJH4toeDsQDDX0_2Eqqtu89r6ydePYEu7Ij9W59YJZx9vDI-vfeALW_fAj5LNxITtNwqLKN0MSTUsapMpbYBVZ2fe8_03nYxx7q-LHpQY87YM2wjsrBFRsWQrvweOary9sZu9RYlXITI3GmuKiNDb1P9r3nwdu8M11daWq9vuDehTuAM9VeQSAxHNlJPSQmyp7DSK8svOXVtuwn5bAbj_OfutLvfzfDvQwIhC2c5wiJhw_DaQx73ZNkqRaH-rBgmEQ9yIKUaoqocEO5kL6rcFi-01dEwbXiGN2Q7BxxvKrrEsXHt4Xggf0SUlHIOmlP8WEkffkd5ApqMFsNygKGBT6s4przI-m12rGF-eA4rVZfNhl9K4uITZd7cJuwafjFzcSd3ey9I4zFiCWMvZfwUw0N4RDnh2ACzVKMH3ebu8sFokYF_E1VIWH-JuY_d0ymUlE3w_bbuv8TL95mPJDNxS580vpzvDvmcR5pf9qIpayYjSCpVIKTbmGCDSITJT8rVVR0Ck81zMkra1NkTyI19qt-muFK" />
+            <input type="hidden" name="r" value="sJT0zROJDUkaKXy4nfC.gfto1VOC66yuIs2nQZZ.Vmw-1660444998-0-Ab1+QBe6Y7WvL7fbKMyYD28FVaqs+kXs7Ue0kHSlJCpZwUqzFpY36/R+/lsbOPxgtjQUglOfR6PoHhsccgaQ6P/d/S2AJG/vLkc3M3IIilolwy9R4qcyoxvWztlf2aKp5cXeTT86g00y1kT0om2U1GUhOfbKs53kUwvvkqeU1/NXtgtXSyQxAC21tzupKGnULre4aLz+NmPGlzQCYfL8ZS66aL3FNGLsi35+myaKu56lADDCrbucUG+XIpm27jMyVZqn8pfkcEZfqlM4iiPd1xpFmuyNxbyAa3nmleZEEHGb7YYk+yymLOCKvRzHkdxKcQ9SeVGJxsrfMyIZsUOInNYPhbp+YSDAwYhDvDPO4Yv0t7dpvxL68HAiltOgryMv4L7SS1DEh6bnXy0m3Mjv+/Q0ItsHlRqbuKqKDDl5nhktih/8Cq2gSCJbiYKVggiBRU75+TDQiRj5P25QdA4bB8NzR2C3Fu+mml6gCuyhiGcPmTqPg7ZtF9hQJLEeBE1zf+fM0lZxsBWIjvYn4jhLYWPVdLPXdrbrks+yIT1zMwtYZOcEHC5ypKO96OOdJF5S5+TyHX5Nk/YVNelVkx5hdw1OOhLHLIjRvIb7qHEQF/69eCQ3Cw6abLmCc7PyKpWzRWLiZ5con2hXoPZ0zr45XcB1MZ3Gs29VxOMofYD9NaJX8xT6DNHxmGnOPgYAaXY2VtDoIRt1BTh4gSZud2gO+u5U4mv+LaDQ7zTZOnv8urxRjY8MUmLjcCMwRbD57QZ1blNO07XFNVdV/Y+GUFuAr5CzrrLHHOjfs7vRA/U999hMMN6neZr6hXlfjHkByJLmcAf+VKFS0IHQ3N1MC2KAMQiKQF5SrVhQ1ktb9+XPXMQBFrKHxf8F8sORv4Ne+pUHb8iEEMl5bzcjh56M2Ok/6SNK1ksipcDDNXB6YuMfQWi7+Z2ff0uzxOlQoAJ/5sK33QmsNQ+C0xLj3OagOEeg4UY06VR9dSWhb8ZOupDnM3blGuPabu5QWCJeOfNXAbUX4S/YsjmOha5kz/1Oq4e7webLAMfbdqcQyovHVK8a7qDwmyfL0fBe2al4hxO1yAhXRmPkFeHXPQ+dOVGz65Q7gZ0iMXkM8aYHbcxwnhSABH2FTfzXCpdwsuAnmZgHSJhWw0ufeWd446pINapI/+o6I0SDX/WKsojuPw9kE+ZZ6EdpJUPR9pAg7cBXbuIIU5mGiVpdEKrI/wnysJGQBkZ2j988wrfwUj1jJ44sf1rvKIOuxnVC76+a6EzdoizfoGgjSwueucBnzQxpX9mer6K73hc6UAjUZ66+D5oUFMmqWbpVzoNEkNbyctV5w8GLJH/Jv0gZXt3PIXIicea1uQcbmKl1yZNCMyufW7FGu9M9hjaj0SvxONXuEQDu0zibJGmRdzIWNEFIAyY7o0TU2rzE9f3WOd843GbBKYJZwliq0ufX1bTYVABc9jBO86PrvUAqkppBW6VTvV6WXkT7uAdWAXRncS5hECtN5+Vjk6eGcgWNt/W6mhM9y9AvQj7AdYwHAnOIcP2JeplQXYAsD+zm6XxrH7z+6fUTyVPMWJDbWBukZO8zQ0JSh8bS9QwXwN3j2L7KxegKRE95OHC0Yj4Taq5i/naNNJyzTikAneqm19x7RmeF4AmZC1vUMFV2mc3ZONTAFE2Qf7x+6JjdzWRM1Adt1/bNpLBx+nL66w9s7Z4YOlpY8omo5L9WOJW0GGn24e2WDY+3kAEicbaSMJOL608Vjo3UaGjqH8Ar4xNooxCT2KyKlLDijy85GRz2qTHoCId6wPNjgURY+VOXhDaB5oTBoh4PfaR4yy/Dhm4RNMvUt8ULS6rDHc9h89HizAussOIjTCIKzR0aReV/9BxgIXaXoEFnz0wy2APe3cXjJhSR"/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a65799df49275b');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a65799df49275b';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/8072-molho-branco-para-macarrao.html?__cf_chl_rt_tk=zR826Nwnts1QgS6FSEuSCzV53k.oqiE_NR2F7t.Kd3s-1660444998-0-gaNycGzNB6U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a65799df49275b</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

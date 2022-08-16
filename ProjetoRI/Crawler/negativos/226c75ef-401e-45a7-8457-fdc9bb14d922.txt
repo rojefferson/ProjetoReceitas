@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '88620',
+            cRay: '73a65f80ddfa275b',
+            cHash: '23f5b956fe07eeb',
+            cUPMDTk: "\/categorias\/1014-peixes-e-frutos-do-mar?__cf_chl_tk=5ZamERCNQ8Z15ZBg_22X7_C_cJ1PyQYAVZtICJ5HH.A-1660445322-0-gaNycGzNB6U",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL2NhdGVnb3JpYXMvMTAxNC1wZWl4ZXMtZS1mcnV0b3MtZG8tbWFy',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMjguMC4xNDY3LjAgU2FmYXJpLzUzNy4zNg==',
+                rm: 'R0VU',
+                d: '8vYLwvIbnEVqydeL2tyxTfwsXXQW4D2Um0t3ObtAI2E0mTm/hZp5hSUljgAEd1PfZt8pW5Rjn2ibNmRas6CqB8ldEY/92VW6WvtfVfbV9YpT7suWeP8YotQrmD5yJ11bDdu0I9zlaHN3sdoenzufZalApStYkreJ9/s0PyXahghu8ev13rrW6P4zg4NTQVEn1OeZ9rl3FDcAxjINBSIrYsYNOEyj1F3KJ0T2saK8/QjvKfQ2/LgW62OxF7zZpmvHYrZ2yHPbdKVQo1io+vZ0u/UZdvqKe33/MqjaHnvB+Lrz80D+gPyrvOVE5kQb2ubleuuXIIl838NpbWu/reC148pzz3BlCp5VA+zdfq2kiza1sWl6DQ9uwet7wJ/KxBOAgAspfJ5AuAPfnDsbF85jsxDvrAsB24x0koVUGe8dwxn+lBNYkjlgGX5y5OpP6n+Qd+OylhKOrPKICdavpImWyCAwVbhD/yJAu/Ogs0mhNefAp/aIGa8eirt3J+rB6Bd6ujlvhLlP0oBUeN8XYrFkY+lbQIpzzeNs32YpB2EtFYhqQ+mMi73/tehyFyAitYDHxYm+rkZfgm1mJe27JUmmoYqg3NzgQUcRI1yeVIeQiAaR0tldMrcuIFDsU0VzkaW3ONvEFIu9aP7Br5vUpIyVmg==',
+                t: 'MTY2MDQ0NTMyMi4zODAwMDA=',
+                m: 'CF5DNJ7DeQV4duAlWLS7nJb/ru4DUMNU4TPNzQ2ndVY=',
+                i1: 'BsJFUsvnbvBssV66faLDOw==',
+                i2: 'Dwr0iIQbs9sGm9p3gDi+IQ==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'EsPLs5oD/MWWgBC6NnOy1qT1EetKlQPv2yQb/ZKHMjk=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a65f80ddfa275b')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/categorias/1014-peixes-e-frutos-do-mar?__cf_chl_f_tk=5ZamERCNQ8Z15ZBg_22X7_C_cJ1PyQYAVZtICJ5HH.A-1660445322-0-gaNycGzNB6U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="2fFOrf7wTNeVDt.lmYRNSjMhcB8QW6PipvbLi8hReX4-1660445322-0-AQTM7K8RK0a8FTigpc0vfkhhFORdDI8vd-MCpeVGlw-pMBSs7BMidcauhOt_qjTdmyj_U0YCSoH6oZbf1K3OW6wHBoo7FxR7xMYGCsnbxm5qAHkOiioixJHw9j0VplS3kXnt2XOdiarCcuAfdhJtfK3lZ5iz0ltWZa2JlmEzl5m1x1c3V9rEac1l38CR40nqIAEmJEke0mDG6O_o3ZVhu77YXHRC9D__jMAPu9Awkr4qZGmbIzkfPwy-CAE_9DnAK_LiwKhFi7Qfb2G7rkKhAc690gByCPt7O5Rcaw1xO6XIG93JdQBPuDTnUZmagQF7duI4hq_KzAhzfqdqDz_eV7k1S3vQGMZYJtEtTfEV5EPULj9d4UfCBtglvC0wGaxc8srL7yc2z2rXSO2ZjQJuDSdKu-K-D0o1xx2ES8PMK4HLRJEKces95DxFe_MMogiJOtyKIyodSUx7mdsfGaKMe0MrlB9hF_6UnPGY1V_902Qiui44CGvlPrzys4aDtUjaRYSaqWYDs_l1pmHjVdhkyhvJrT79lFV3Io4NqwBTfakc6aMAVawiouPyQo5zfe5HlqIrfK_x_fjfhqxtXTX4ahyDJ7-jwXBUk79onVrillrLwEq5esGhpM9F5aRGfhBYTPZaYLGWGpWpsZqekguVFr_EDM-e8-w3Ez-zjdYvQJRqnqlRXAwVox-1jk2lP82oxdrHLHKco1q9p7167TqZ1HWq07CbAbXUFVmaVFxz-sgAq-OmstxOxoAUx0P0UItIAcOQC3mI_kSV-1nbZpbOF68" />
+            <input type="hidden" name="r" value="6FsJu6yOTbTwzKDtE4RMCR2rwLPzHn8RjgzrK8_1N.w-1660445322-0-AX+t3mrY2VcPzbsxpV4x2FDko3SN2H79U++VT5TOhcPbRL+Cw5d1dam4cRQ/2SDVVgsm6h4KbhCZ/bnPdX+guetgc+LzmUj9iWyLdjg+j6moEN+3iX+Mn9fJSM6G/VUW2cMKmc3RZgD6M3t5GjYzjkKw7tmiyIpvOAOYg8qzMihQ1/76y0wEKVZykMC2N/j8+gj85IlqDQ80UAX4xOAfVj29D5sFRCgg8s+LzDgd0s/5mD2hlIqCUS7nkH6vSAZeD7k5iN7iaXytLjpskU5i+6U71o6OGuuYLMHkF7crdDwo7agSvflbhGoE1Uc9e1EI4sFJ/5fCRQqm3j8Lnl4kBpV6aU5dsaJQd5GeGAV5lMTcaUzzkvmaylNtmSZkqfRMCwaLm6jSpeheE6lXlhPSTtl0xUWuQ2g+LfiXw4gzfL/Jd8u2WtqN64UmDgOhBdQ12yoC3XDneSmUP1y+in+dy6jnwPNZbRfpOIzspqwKhQBPSuZHhRSmt+r95W48h9MVn9UAPZV3SOj2RE0uXMHLFTcypXAntYA7K/jklkaFF+tBMccBL2O3Gf4HvOihizcGca86UYv6+xfkmsGaq/48Chz1npX/8gvxVO6qQSVH68fGmTsrA/YArc+GWGnAqFvyhveGiX8fjl6fbXjDHA9576voE3eHXRf3Kg2RmpT05rMEhxoOLtPREWXs9VZ196XlVch+s4V0ybl3Q409tMvCKzLA17INtyf/bVlxP0pSFvX74zQNwOs76b3invjsXRcV41Kdqr4VRkksr+P1nAVREfrNcbBswE2JAdeiuxuJIQ4pd0CVEsGAExTIwR9HpwPAAheBPNkvdA0KltZQTm7PG16hYyI/82Sju8gMHDjVoRniA3cql3mT3drwmRpukAzhVgnPvH3NXUK7cpFSdXaEEFNeFQQ1lJz8yrEcvTokSdoDwdOy6WY9paRBAIG8OxyJNHn317BYHBKWk5cju4OFdqfOY0vvZTPctiGgzGyNPgMElPpNxoAWfzxB7MMXDjZx+B5/nr2igKgCvHVhBKrn7PB+/i45AqwfPWyaQ5jC6jE1kgOfxIDU2ZZ4pqf0fn0AEXs+KA9OEPHOtT6ClqV71YbPdT9UG2rVNQUNVtZ3iOcx1txJKxuIYYHw/Cwj87ciSM2UpImQH1pPuRglVk8zfN2HlEqy5gOOEpcPn1/jYgb6rWaaUODCR2M81woxWlDM2yGSHGsbkp8fCADuy8vBg2J3ERjl5vN4bBb02atPlmVFwYrrU1nPUP3hhzbFdo31HkvWDrL6Us6G9nt7Ozu9AdKj3tGJAs7Ih/HlokvLjkqjjRTUaKxPVtN5u6VtCCKD2KVFyYAAfODQJQSoD4APDhUrAsnL33D43w9X5p7Pa59oCkMSirnTVZ+6D0qA89aXTUyf4Mfa+vyyH08pHwGVsphn7Mjk46MUuF5pmCYL4Zyh249r7cUq+Hqyje46Q4tRp+Ivbbomdzt3k610+lsshg3uoWo+yryrWvAB0ZLCklTSJKyQHNGVwP5DtOfWGwmh/+SydheYLFxQSFDiK0prBD58DwjikfSnkmz+TkX502HZAIIn4kp76IOR6cbXonZZCXeQRZ2FcwmpewtwTFW/DANl7WzJtL/MdxIoT243ETKEwY90j4jfh+kOtK3FPS5qlXKTNujAM7WidK6XO9+t14kjJEScS5S3FM2HD+7Gjcn+JY5VK/Ax/E4m/EU4R68L9fhGRJaStsZ4pBIpPbNEIPwcqqCu4d7FwWqhipJudmJNWG1c6qf3hbT9aEF2RLWuaIFuTRfBbPxDf4k8BvY0otGK8BVnWqIJQLxD1NKODW0oa0Bprv6H0LEEZM8cRiQS4/6G+JiyTpwaf51p+sKdBrGL1DISj+OUjwogLl5OjgQ2"/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a65f80ddfa275b');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a65f80ddfa275b';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/categorias\/1014-peixes-e-frutos-do-mar?__cf_chl_rt_tk=5ZamERCNQ8Z15ZBg_22X7_C_cJ1PyQYAVZtICJ5HH.A-1660445322-0-gaNycGzNB6U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a65f80ddfa275b</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

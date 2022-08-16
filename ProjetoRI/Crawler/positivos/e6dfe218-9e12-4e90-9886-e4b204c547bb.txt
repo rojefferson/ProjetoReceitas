@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '74561',
+            cRay: '73a65818eff2275d',
+            cHash: 'aecb6535683a445',
+            cUPMDTk: "\/receita\/83793-macarrao-com-requeijao.html?__cf_chl_tk=2qFgeIz8EDJ431BOZv_plxKj5ImRforPSNFh5WJsiqA-1660445019-0-gaNycGzNB6U",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvODM3OTMtbWFjYXJyYW8tY29tLXJlcXVlaWphby5odG1s',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjE0IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzI0LjAuMTI5Mi4wIFNhZmFyaS81MzcuMTQ=',
+                rm: 'R0VU',
+                d: 'Q1/ikmhI8zDLckofEZqgjezTIOJ3tfEL7paT0n2Vmgkk1CKftwwOIOYgi1fBCwV/lzrhf5pp5knfYAyQogMFpASqBAwSPUi21b0jgQnwHRpZYK1hViXpE4jdRA5GTrCa2AH/e3jJbsphEM7qpIwO7GtZY8Yowmen0TEVJbACkcfHs078S0HMFJ3fK5Y6TTsp+JCgRxUDzUZ5GjOnUh8j9Vlc0efj6av8d27o4FXcvZ76kugr5vxUVwaX7enfZXxnbTVFEYxYfFrl0NIjJ0ZxrU54ZKwKZ6BCAs2bWWYiCJWwulwQCFiyF2sLXcOVmdOb/oE8OnTpTYfpWvxguCJ2Lz7DspcVWytK1kAkIJYKagFOoxtwAkeKYyxNShB/8gpAJj+svLiFtOkOefI71n6eJTF7YIQdLaZE148DzFDpgeJTEl8PN2DtgcZKCfMmos81gMOeic+r4h6c6s0ZW46qXx7RCndpdbnigI1fRf54cLWReK9NQpT1s8Y1C4Y3RB2QaOSVv2wzn49iaDrKSQXJKEIyZu1nwePX5pcmlGbVb2g9kswa4DtwSphKzQdZ8cMyTcNM0ZnreYgLlwK4yaditxU785wkJeH3meleuRgmhVa3HnODJpejxwqZohSGuL9yTxPaZKQo3OWFGHT2JLyKvg==',
+                t: 'MTY2MDQ0NTAxOS4wMzAwMDA=',
+                m: 'reO/ESE9602f9MowUxpv19slURuJ8pFdG3Nej1vKeh0=',
+                i1: 'YVPn7+rBP7tt015f1ZIkgQ==',
+                i2: 'IA14HPOipIDndd2U4Uru1Q==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'O1AKm0UdWvDfzcIRHTtadgM2ORlYyfOrRYzNtM5h7ow=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a65818eff2275d')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/83793-macarrao-com-requeijao.html?__cf_chl_f_tk=2qFgeIz8EDJ431BOZv_plxKj5ImRforPSNFh5WJsiqA-1660445019-0-gaNycGzNB6U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="MepVVcp7sTSGHqLOoarmtNw_wpeZdSRMSsFPH3YM4RA-1660445019-0-AbmGOSqWDiaxPtdn-IubGZrW1Ips2rdvt5TRTjgraGfZcLzYkSou2PlqI8cHLJIl-Zd6MFAbtAIqITPjgyJKS8K3G9zjyA9RNSgGrBp09Vdslpges9avFUewjySuToEQ_YMzHWFLP19L5Ef84JuiltCIiqeC99rjK15DQUu8YVT3qxMMBqIoW7XVAjYO-edvFlXm_hHBjFbnPgJbnz04VVX5gOcPlo7_-Fku45kE8508hDStrY3vx07821_umJkix-BuRNHETW1_oy-Bwe04uzYRXMwNeA5J1Kvl0ECqLi1Zth0I3TNpdcoGrKqeElQx9fbDmCOqkOXnUhjEr0MZFZVuVQaBteo7s44T0MzKPK1gpYfChof6tLPIyQaaxSKnIJJWGbUyPHJ7bmjAK-5c-5h0y8WRhUH14HUTqR1BAtg0ar5LUeQAng6m2tu5WFeaAsyYdT2lSlnszUcJ_1_-bG3mtXJaSXq7wWUZZShzr3LWKp1n6GYna6idX1nh7D9acgauDjFMKonBZP2uH5kBhuU2eM9Pq4GaPQtTRF6ogGQTlczMbAxW1xsyarb-FjRngLzLitDe9eiUAiPbFDD_rH1RfFoZrOP6K2owL6rV4fELsNY9yBl7-K2nwEgiIhimaYd70pYQQfutqxGVmHvl3-fsffTSm1RttCJ8ENAoXg2clbAu3VZp_ZywvhuUsfrrMWs73hpZm85Cma3rJiyIhHDNJqCEpUdsVFvSiIBbHkNUhJd8ogEtrNbEoKfoMEjFMzoMZfyAusFf0-Z9Kx1pGf1NRX_sCGAd4tb6lIV0bALS" />
+            <input type="hidden" name="r" value="wpl2_AwqoD8IEU_04tgWPQx.2oDdAKFzsmCEWzzMd7A-1660445019-0-AVJ0gCooyLvGSWMRt+pqyNLniNNF2l1ChJ2CZ6+LWMoZuRXh54n7l0eW6sa/QM3OeVf5ZWf48i+ncF1jEKfwUlGVxRpUl7ZbpUQGFqMRWRjoJeIrMpKcqWge3maGBX0K3k6rhjdYwMjV6WH45tjo4l3dixbI44Z0G1rY/vKvwEQSyQ4wyz4fQqlWw5afzTfriF3Zd1xpGRe1w/vxju7N6PoVMYSq3ZCdiHFXAPbC8A+8ruLrbliFsRh1Ke+6AV3eABuPaLqKB1XXZ5Qm7lMuBtveubu4QkPBrvmhnVY1c4UU/AEn8TwWtdnQZo6/q6/8kQlX8+rLgo6BnDTgImWI+gAk6Sq3/Xt8Cqff3JJO2k9TfP+pEbwOwkUN/hzfr7hdXDboDC+vcmlYftJ9YC2mBYZShB7NKRIiKv4G5fH9g0Th90voQ3q34Q4JaOesKYHa6bMxDgzC9I+u7/RCVaisbbBGhoPrDKembiKz2d/F2TL5YcDpZQUyCuaTxh+lk7qomjJ/3k11In2jXVzlALlFc8heXeTk4JUWdt+CegjMZVeud+S2HG9eAHXxwFrE6Rv8r3pwa/VYJv1VDWheVVF0WsK++u7kYlVvyu6o3RTXeAhaV7N+A5nO82pUoLtF+rNQgASK8jiq0pJijU2W9sGbWsw0nd+CfgyB5Kph1Wxz6+uXgDf0rPm9RmJ7mrRz7fTTWwGsbS0kbYV+0PtURxXXRNXIp+xDCwoU4fTCd3LEGMJAvQPy34bjNIjk2RT6ZlHUtC84Bvkqhmq8o1evk2nBD2/x4KDLOUYIU3NFVCb+ZuBCjPtEaLDTqKze90L4kLJe4jFXRGlmNiTPlgTWi4qhuHpcDxh9rCvOZCRiOKS3egyn1whRH1+O4l+KkZGbL7bjcyro2wpDU1+irb5SR9a9/xIyBBAwvq1rpl6AP/nbd3/wOPqsbRfDO9FpkzlpVQxTM2WuiFhzNbzYw0pXYkQwx0ONu+vRK7AZNd2XgigkxQdKZQEVNodapdvXRRIeDXGURPofpZCU86adm11YFi82UNuo42nuH8w3DEsYn8i9T65uaBUReNbQ+clCEQPf0pu3RgXKK8HpFwWmi38tKpjTw9SvG4iMQROUndXQ3GuMkrLQnR2gVduKEyUbHA3moEleXiQL9+g4NuIvbImLwnMZ1xnrNPw0lE0DT6y1vWoW1SzRFcA3Sx1sE0aiBme74KEAmVE0/VqxBeE9TPm8mKlCn3pxAlP0pc+BVMRbqYdZs4DYuzhVBV0QhR/zq1KzzjQL1rKqAULaEZtNLJdn/XUdhqV4zz1KkVs19ww3n8qonhJmQ+x/0ll3IuNrHqEoyiiKf5sLvnYsKcwQGe3W3P+ENoMMtDHawGUgWwUPWV5Dq/FkLIXwrb+XPCBKhuve+xntv95/O0fQX35Tzb+IGDeIj/X2vmPCSWsedW49pSEXLiuRD03pEfEfsHTnFzSbDkkJjjHPJ1sb7NU3pUy56eBj7hciFm+ZBJrSe5F8IeL5H3WszR5Mz8mHlRF12qah1OG/NmB3Vml3dTn5gLrZe9XmPT33s6nYZqumIBMwwwjZrsJnI7MrcEKAe9/W+SCYWUhrfAseTmmsixFbPqBXef32N8oUuJG2nxjpAz3rmH2KrES9ddl7UJi1jkr9ZYhAXER2DSgr9vyD0roR2g48bLBHss7XXk1xQTuZ6V/9u+tBcDasw0rFPuJk4T/z/ezJqZgl8vVORU8kGERhdsNb75ACCigONA+NKXCRj8DaQmOFWpMsKPEfx0uS08zLbqhwYtH1luLAFx+A7KR1pyl+plUM7idOEShG4zZUun6Z+iKeeE1wUqk1u2/LfXyhEFZSjwnj1pnycpxGopPny1zIOBTHW2YV6bZyNnWCH1zv8U6OG/my"/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a65818eff2275d');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a65818eff2275d';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/83793-macarrao-com-requeijao.html?__cf_chl_rt_tk=2qFgeIz8EDJ431BOZv_plxKj5ImRforPSNFh5WJsiqA-1660445019-0-gaNycGzNB6U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a65818eff2275d</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,729 @@
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta content="pt-br" name="LANGUAGE" /><meta property="fb:app_id" content="2070469239688157"><title>As melhores receitas de Aves | CyberCook</title><meta name="description" content="Veja nossa seleção das melhores receitas de Aves que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! "><link rel="canonical" href="https://cybercook.com.br/receitas/aves"/><link rel="next" href="https://cybercook.com.br/receitas/aves?pagina=2"/><meta property="og:title" content="As melhores receitas de Aves | CyberCook" /><meta property="og:description" content="Veja nossa seleção das melhores receitas de Aves que agradam todos os gostos. Acesse já e confira estas e outras receitas, aqui na CyberCook! " /><meta property="og:type" content="article" /><meta property="og:site_name" content="CyberCook" /><meta property="og:locale" content="pt_BR" /><meta property="og:image" content="https://img.cybercook.com.br/imagens/receitas/728/strogonoff-de-frango-1.jpg" /><link rel="preconnect" href="https://storage.googleapis.com" crossorigin /><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin /><link rel="preconnect" href="https://cdn.ampproject.org" crossorigin /><link rel="preconnect" href="https://img.cybercook.com.br" /><link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" /><link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet"><link rel="stylesheet" href="/css/search.css"><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/swiper.min.css"><link rel="stylesheet" href="/css/recipe.css"><style>
+    .header__image--teamcook {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        min-height: 250px;
+    }
+
+    .header__image--teamcook #social-share {
+        bottom: 20px;
+        position: absolute;
+    }
+</style><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P23XW9L');</script><link rel="stylesheet" href="https://cybercook-assets.storage.googleapis.com/css/font-awesome.css"><link href="https://fonts.googleapis.com/css?family=Kadwa|Noto+Sans|Lato&display=swap" rel="stylesheet"><script type="application/ld+json">{ "@context":"https://schema.org", "@type":"ItemList", "itemListElement":[ { "@type": "ListItem", "position": "1", "url": "https://cybercook.com.br/receitas/aves/strogonoff-de-frango-e-maionese-12728" },{ "@type": "ListItem", "position": "2", "url": "https://cybercook.com.br/receitas/aves/como-fazer-fricasse-de-frango-3949" },{ "@type": "ListItem", "position": "3", "url": "https://cybercook.com.br/receitas/aves/peito-de-frango-na-pressao-sem-agua-13988" },{ "@type": "ListItem", "position": "4", "url": "https://cybercook.com.br/receitas/aves/como-fazer-strogonoff-14012" },{ "@type": "ListItem", "position": "5", "url": "https://cybercook.com.br/receitas/aves/frango-xadrez-786" },{ "@type": "ListItem", "position": "6", "url": "https://cybercook.com.br/receitas/aves/receita-de-fricasse-de-frango-14641" },{ "@type": "ListItem", "position": "7", "url": "https://cybercook.com.br/receitas/aves/strogonoff-de-frango-16644" },{ "@type": "ListItem", "position": "8", "url": "https://cybercook.com.br/receitas/aves/receita-de-estrogonofe-de-frango-delicioso-754" },{ "@type": "ListItem", "position": "9", "url": "https://cybercook.com.br/receitas/aves/receita-de-file-de-frango-na-sopa-de-cebola-3308" },{ "@type": "ListItem", "position": "10", "url": "https://cybercook.com.br/receitas/aves/receita-de-estrogonofe-leve-de-frango-14067" },{ "@type": "ListItem", "position": "11", "url": "https://cybercook.com.br/receitas/aves/receita-de-file-de-frango-requintado-facil-e-rapido-8870" },{ "@type": "ListItem", "position": "12", "url": "https://cybercook.com.br/receitas/aves/frango-cremoso-com-milho-4176" },{ "@type": "ListItem", "position": "13", "url": "https://cybercook.com.br/receitas/aves/receita-de-file-de-frango-com-molho-de-requeijao-3545" },{ "@type": "ListItem", "position": "14", "url": "https://cybercook.com.br/receitas/aves/receita-de-bobo-de-frango-1835" },{ "@type": "ListItem", "position": "15", "url": "https://cybercook.com.br/receitas/aves/receita-de-file-de-frango-enrolado-com-mussarela-e-bacon-7527" },{ "@type": "ListItem", "position": "16", "url": "https://cybercook.com.br/receitas/aves/receita-de-creme-de-frango-com-batatas-3281" },{ "@type": "ListItem", "position": "17", "url": "https://cybercook.com.br/receitas/aves/receita-de-fricasse-de-frango-completo-16395" },{ "@type": "ListItem", "position": "18", "url": "https://cybercook.com.br/receitas/aves/sanduiche-natural-de-frango-5971" },{ "@type": "ListItem", "position": "19", "url": "https://cybercook.com.br/receitas/aves/receita-de-frango-de-forno-crocante-9458" },{ "@type": "ListItem", "position": "20", "url": "https://cybercook.com.br/receitas/aves/escondidinho-de-frango-17102" },{ "@type": "ListItem", "position": "21", "url": "https://cybercook.com.br/receitas/aves/receita-de-frango-a-passarinho-na-air-fryer-122387" },{ "@type": "ListItem", "position": "22", "url": "https://cybercook.com.br/receitas/aves/frango-com-creme-de-milho-8855" },{ "@type": "ListItem", "position": "23", "url": "https://cybercook.com.br/receitas/aves/receita-de-galinhada-de-panela-de-pressao-59431" },{ "@type": "ListItem", "position": "24", "url": "https://cybercook.com.br/receitas/aves/receita-de-sobrecoxa-ao-molho-cremoso-91060" },{ "@type": "ListItem", "position": "25", "url": "https://cybercook.com.br/receitas/aves/receita-de-frango-ao-molho-de-maracuja-no-microondas-8383" },{ "@type": "ListItem", "position": "26", "url": "https://cybercook.com.br/receitas/aves/receita-de-frango-a-moda-indiana-1664" },{ "@type": "ListItem", "position": "27", "url": "https://cybercook.com.br/receitas/aves/receita-de-fricasse-de-frango-com-batata-palha-1810" },{ "@type": "ListItem", "position": "28", "url": "https://cybercook.com.br/receitas/aves/receita-de-file-de-frango-a-milanesa-859" },{ "@type": "ListItem", "position": "29", "url": "https://cybercook.com.br/receitas/aves/receita-de-frango-rapido-11288" },{ "@type": "ListItem", "position": "30", "url": "https://cybercook.com.br/receitas/aves/receita-de-maionese-de-frango-9885" },{ "@type": "ListItem", "position": "31", "url": "https://cybercook.com.br/receitas/aves/receita-de-almondegas-de-frango-881" },{ "@type": "ListItem", "position": "32", "url": "https://cybercook.com.br/receitas/aves/receita-de-frango-a-parmegiana-com-requeijao-15202" },{ "@type": "ListItem", "position": "33", "url": "https://cybercook.com.br/receitas/aves/receita-de-galetos-a-moda-indiana-14317" },{ "@type": "ListItem", "position": "34", "url": "https://cybercook.com.br/receitas/aves/receita-de-coxas-de-frango-crocantes-885" },{ "@type": "ListItem", "position": "35", "url": "https://cybercook.com.br/receitas/aves/fricasse-de-frango-gratinado-883" },{ "@type": "ListItem", "position": "36", "url": "https://cybercook.com.br/receitas/aves/gratinado-de-abobora-e-frango-111625" },{ "@type": "ListItem", "position": "37", "url": "https://cybercook.com.br/receitas/aves/receita-de-frango-assado-a-vinagrete-11637" },{ "@type": "ListItem", "position": "38", "url": "https://cybercook.com.br/receitas/aves/receita-de-estrogonofe-de-grao-de-bico-80226" },{ "@type": "ListItem", "position": "39", "url": "https://cybercook.com.br/receitas/aves/receita-de-file-de-frango-com-requeijao-4220" },{ "@type": "ListItem", "position": "40", "url": "https://cybercook.com.br/receitas/aves/receita-de-frango-alla-molicata-12265" } ]}</script><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ googletag.cmd.push(function() {
+ // Interstitial
+ interstitial = googletag.defineOutOfPageSlot('/1762418/cybercook_interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL)
+ .setTargeting('position', 'interstitial');
+ if(interstitial) {
+ interstitial.addService(googletag.pubads());
+ }
+ googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+ //
+ var id = event.slot.getSlotId().getDomId();
+ if (id =='banner-120x60-area' && !event.isEmpty) {
+ let banner = document.querySelector('#banner-120x60-area')
+ banner.classList.remove('hide-lg')
+ banner.classList.remove('hide-sm')
+ }
+ if ((id == 'banner-1x1-2-area' && event.lineItemId != null) || (window.innerWidth < 1300)) {
+ var widesky = document.querySelector('#banner-160x600-area');
+ var widesky2 = document.querySelector('#banner-160x600-2-area');
+ if(widesky2 != null && widesky != null){
+ widesky.parentNode.removeChild(widesky);
+ widesky2.parentNode.removeChild(widesky2);
+ }
+ }
+ // Box recomenda
+ if (id == 'banner-360x200-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x200-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ if (id == 'banner-360x375-area' && event.isEmpty) {
+ let banner = document.querySelector('#banner-360x375-area')
+ banner.parentNode.parentNode.parentNode.removeChild(banner.parentNode.parentNode)
+ }
+ });
+ googletag.pubads().enableLazyLoad();
+ googletag.pubads().setTargeting('keyword', ["cat_aves"]);
+ googletag.pubads().enableAsyncRendering();
+ });
+</script><link rel="apple-touch-icon" sizes="57x57" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://cybercook-assets.storage.googleapis.com/favicon/apple-icon-180x180.png"><link rel="icon" type="image/png" sizes="192x192" href="https://cybercook-assets.storage.googleapis.com/favicon/android-icon-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-32x32.png"><link rel="icon" type="image/png" sizes="96x96" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-96x96.png"><link rel="icon" type="image/png" sizes="16x16" href="https://cybercook-assets.storage.googleapis.com/favicon/favicon-16x16.png"><meta name="msapplication-TileImage" content="https://cybercook-assets.storage.googleapis.com/ms-icon-144x144.png"><link rel="manifest" href="https://cybercook-assets.storage.googleapis.com/favicon/manifest.json"><meta name="theme-color" content="#1B785E"><meta name="msapplication-TileColor" content="#1B785E"><script async src="https://www.googletagmanager.com/gtag/js?id=UA-5891106-1"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5891106-1', { 'optimize_id': 'GTM-M2BZR4N'});
+</script><script src="/js/vendor.js"></script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P23XW9L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+ window.fbAsyncInit = function() {
+   FB.init({
+     appId      : '2070469239688157',
+     xfbml      : true,
+     version    : 'v3.2'
+   });
+   FB.AppEvents.logPageView();
+ };
+
+ (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script><div class="container bg--white" id="cc-container"><div class="ads--super super_superior txt-center"><div id="banner-728x90-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-area'); }); </script></div></div><div id="app-header"><app-topo logo="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" menu="{&quot;itens&quot;:&quot;[{\&quot;label\&quot;:\&quot;P\u00e1gina Inicial\&quot;,\&quot;url\&quot;:\&quot;\/\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;hide-lg\&quot;}},{\&quot;label\&quot;:\&quot;Receitas\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu--teamcook\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Tipos de prato\&quot;,\&quot;url\&quot;:\&quot;\&quot;},{\&quot;label\&quot;:\&quot;Saladas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/saladas\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;\&quot;}},{\&quot;label\&quot;:\&quot;Legumes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/legumes\&quot;},{\&quot;label\&quot;:\&quot;Carnes\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/carnes\&quot;},{\&quot;label\&quot;:\&quot;Aves\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\&quot;},{\&quot;label\&quot;:\&quot;Massas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\&quot;},{\&quot;label\&quot;:\&quot;Peixes e frutos do mar\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/peixes-e-frutos-do-mar\&quot;},{\&quot;label\&quot;:\&quot;Doces\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\&quot;},{\&quot;label\&quot;:\&quot;Risotos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/risotos\&quot;},{\&quot;label\&quot;:\&quot;Bebidas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bebidas\&quot;},{\&quot;label\&quot;:\&quot;Molhos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/molhos\&quot;},{\&quot;label\&quot;:\&quot;Sopas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sopas\&quot;},{\&quot;label\&quot;:\&quot;Bolos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\&quot;},{\&quot;label\&quot;:\&quot;Lanches\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\&quot;},{\&quot;label\&quot;:\&quot;P\u00e3es\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/paes\&quot;},{\&quot;label\&quot;:\&quot;Aperitivos e antepastos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aperitivos-e-antepastos\&quot;},{\&quot;label\&quot;:\&quot;Acompanhamentos\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/acompanhamentos\&quot;},{\&quot;label\&quot;:\&quot;Mais Receitas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\&quot;}]},{\&quot;label\&quot;:\&quot;Blog CyberCook\&quot;,\&quot;url\&quot;:\&quot;\/blog\&quot;},{\&quot;label\&quot;:\&quot;Receitas de Outono\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-de-outono?origem=menu\&quot;},{\&quot;label\&quot;:\&quot;V\u00eddeos\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Receitas com V\u00eddeo\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/receitas-com-video\&quot;},{\&quot;label\&quot;:\&quot;Nosso canal no YouTube \&quot;,\&quot;url\&quot;:\&quot;https:\/\/www.youtube.com\/c\/CyberCookReceitasComoFazer\/\&quot;}]},{\&quot;label\&quot;:\&quot;+Sugest\u00f5es\&quot;,\&quot;url\&quot;:\&quot;\&quot;,\&quot;option\&quot;:{\&quot;hideOnScroll\&quot;:\&quot;0\&quot;,\&quot;id\&quot;:\&quot;\&quot;,\&quot;class\&quot;:\&quot;menu__submenu\&quot;},\&quot;children\&quot;:[{\&quot;label\&quot;:\&quot;Pizza\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/massa-de-pizza-527\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Cenoura\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/receita-de-bolo-de-cenoura-13975\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Chocolate\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-chocolate-molhadinho-12969\&quot;},{\&quot;label\&quot;:\&quot;Bolinho de Chuva\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/como-fazer-bolinho-de-chuva-13561\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Fub\u00e1\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-fuba-1677\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Milho\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-milho-1641\&quot;},{\&quot;label\&quot;:\&quot;Brigadeiros\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/brigadeiros\&quot;},{\&quot;label\&quot;:\&quot;Fricass\u00ea de Frango\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/aves\/receita-de-fricasse-de-frango-14641\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Anivers\u00e1rio\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-aniversario-108462\&quot;},{\&quot;label\&quot;:\&quot;Bolo de Banana\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/bolos\/bolo-de-banana-13977\&quot;},{\&quot;label\&quot;:\&quot;Panquecas\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/massas\/receita-de-panquecas-1582\&quot;},{\&quot;label\&quot;:\&quot;Pudim de Leite Condensado\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/doces\/pudim-de-leite-condensado-8595\&quot;},{\&quot;label\&quot;:\&quot;Sobremesa\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/sobremesa\&quot;},{\&quot;label\&quot;:\&quot;Torta de Liquidificador\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/torta-de-liquidificador-1857\&quot;},{\&quot;label\&quot;:\&quot;Cuscuz Paulista\&quot;,\&quot;url\&quot;:\&quot;\/receitas\/lanches\/cuscuz-paulista-9078\&quot;}]},{\&quot;label\&quot;:\&quot;Envie sua receita\&quot;,\&quot;url\&quot;:\&quot;\/cadastrar-receita\&quot;}]&quot;}"></app-topo></div><div class="recipe--scroll grid-sm-12 grid-lg-12" ><div class="content grid-lg-8 grid-sm-12"><section class="grid-lg-12"><header class="grid-sm-12 mb10"><section class="breadcrumb mt10 mb10 mr10 ml10 printable--none"><ul  id="crumbs"><li><a class="link black" href="/">Início</a> /
+        </li><li><a class="link black" href="/receitas">Receitas</a> /
+        </li><li class="l mr5"><span class="current txt-bold">Aves</span></li></ul></section><div class="header-search-filter mt20"><h1 class="txt-large desk-txt-large txt-center font-serif">Aves</h1><p class="font-serif txt-center txt-medium mb20">5826 receitas</p><div id="social-share"
+        class="grid-lg-12 grid-sm-12 pos-relative mb15"><app-social-share class="social-share-aligment" align="txt-right" pt="true" tt="true" fb="true" wa="true" /></div><div id="horizontal-scroll"><app-horizontal-scroll content="&lt;p&gt;Conheça ainda mais &lt;strong&gt;receitas&lt;/strong&gt; com essa carne tão versátil e fácil de preparar! Aqui você encontra receitas de &lt;strong&gt;frango frito&lt;/strong&gt;, &lt;strong&gt;frango à passarinha&lt;/strong&gt;, &lt;strong&gt;quiche de frango&lt;/strong&gt; e muito mais! Não precisa ter mais dúvidas de como fazer fricassê, o &lt;strong&gt;CyberCook&lt;/strong&gt; está pronto para te ajudar! Escolha sua receita e compartilha com a gente a sua experiência!&lt;/p&gt;" /></div></div><style>
+@media (max-width: 1023px) {
+    #social-share {
+        padding-right: 8px;
+    }
+}
+
+#social-share .social-share-aligment {
+    justify-content: flex-end !important;
+}
+</style><h2 class="txt-center txt-normal"><b>As melhores receitas de aves</b></h2></header><div class="main grid-sm-12 grid-lg-12"><div class=""><section class="list grid-sm-12"><div
+        class="grid-sm-12 list-container  "><div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/strogonoff-de-frango-e-maionese-12728?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/728/strogonoff-de-frango-1-120x120.jpg" alt="Strogonoff de Frango e Maionese"
+                        title="Strogonoff de Frango e Maionese" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/strogonoff-de-frango-e-maionese-12728?origem=aves" title="Strogonoff de Frango e Maionese" class="black">
+                    Strogonoff de Frango e Maionese </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        194
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/como-fazer-fricasse-de-frango-3949?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/949/como-fazer-fricasse-de-frango-3-120x120.jpeg" alt="Como Fazer Fricassê de Frango"
+                        title="Como Fazer Fricassê de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/como-fazer-fricasse-de-frango-3949?origem=aves" title="Como Fazer Fricassê de Frango" class="black">
+                    Como Fazer Fricassê de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        143
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/peito-de-frango-na-pressao-sem-agua-13988?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/988/peito-de-frango-na-pressao-sem-agua-3-120x120.jpeg" alt="Peito de Frango na Pressão sem Água"
+                        title="Peito de Frango na Pressão sem Água" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/aves/peito-de-frango-na-pressao-sem-agua-13988?origem=aves" title="Peito de Frango na Pressão sem Água" class="black">
+                    Peito de Frango na Pressão sem Água </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Celma Souza</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        120
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/como-fazer-strogonoff-14012?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/12/como-fazer-strogonoff-1-120x120.jpeg" alt="Como fazer Strogonoff"
+                        title="Como fazer Strogonoff" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/como-fazer-strogonoff-14012?origem=aves" title="Como fazer Strogonoff" class="black">
+                    Como fazer Strogonoff </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Emanuelle Brandão</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        77
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/frango-xadrez-786?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/786/frango-xadrez-6-120x120.jpeg" alt="Frango Xadrez"
+                        title="Frango Xadrez" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/frango-xadrez-786?origem=aves" title="Frango Xadrez" class="black">
+                    Frango Xadrez </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Marcio </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        70
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-fricasse-de-frango-14641?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/641/fricasse-de-frango-11-120x120.jpeg" alt="Fricassê de Frango"
+                        title="Fricassê de Frango" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-fricasse-de-frango-14641?origem=aves" title="Fricassê de Frango" class="black">
+                    Fricassê de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Luíza Carolina</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        93
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/strogonoff-de-frango-16644?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/644/strogonoff-de-frango-1-120x120.jpg" alt="Strogonoff de Frango"
+                        title="Strogonoff de Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/strogonoff-de-frango-16644?origem=aves" title="Strogonoff de Frango" class="black">
+                    Strogonoff de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Leticia Obo</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        92
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-estrogonofe-de-frango-delicioso-754?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/754/estrogonofe-de-frango-1-120x120.jpg" alt="Estrogonofe de Frango Delicioso"
+                        title="Estrogonofe de Frango Delicioso" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-estrogonofe-de-frango-delicioso-754?origem=aves" title="Estrogonofe de Frango Delicioso" class="black">
+                    Estrogonofe de Frango Delicioso </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Paula Chaves</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        63
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-file-de-frango-na-sopa-de-cebola-3308?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/308/file-de-frango-na-sopa-de-cebola-120x120.jpg" alt="Filé de Frango na Sopa de Cebola"
+                        title="Filé de Frango na Sopa de Cebola" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-file-de-frango-na-sopa-de-cebola-3308?origem=aves" title="Filé de Frango na Sopa de Cebola" class="black">
+                    Filé de Frango na Sopa de Cebola </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Danielle Fiss</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        52
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-estrogonofe-leve-de-frango-14067?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/67/estrogonofe-leve-de-frango-120x120.jpg" alt="Estrogonofe Leve de Frango"
+                        title="Estrogonofe Leve de Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-estrogonofe-leve-de-frango-14067?origem=aves" title="Estrogonofe Leve de Frango" class="black">
+                    Estrogonofe Leve de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Alessandra Cabral</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        45
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-file-de-frango-requintado-facil-e-rapido-8870?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/870/file-de-frango-requintado-facil-e-rapido-120x120.jpg" alt="Filé de Frango Requintado, Fácil e Rápido"
+                        title="Filé de Frango Requintado, Fácil e Rápido" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/aves/receita-de-file-de-frango-requintado-facil-e-rapido-8870?origem=aves" title="Filé de Frango Requintado, Fácil e Rápido" class="black">
+                    Filé de Frango Requintado, Fácil e Rápido </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        45
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/frango-cremoso-com-milho-4176?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/176/frango-cremoso-com-milho-1-120x120.jpg" alt="Frango Cremoso com Milho"
+                        title="Frango Cremoso com Milho" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/frango-cremoso-com-milho-4176?origem=aves" title="Frango Cremoso com Milho" class="black">
+                    Frango Cremoso com Milho </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        43
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-file-de-frango-com-molho-de-requeijao-3545?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/545/file-de-frango-com-molho-de-requeijao-2-120x120.jpeg" alt="Filé de Frango com Molho de Requeijão"
+                        title="Filé de Frango com Molho de Requeijão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/aves/receita-de-file-de-frango-com-molho-de-requeijao-3545?origem=aves" title="Filé de Frango com Molho de Requeijão" class="black">
+                    Filé de Frango com Molho de Requeijão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        33
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-bobo-de-frango-1835?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/835/bobo-de-frango-1-120x120.jpg" alt="Bobó de Frango"
+                        title="Bobó de Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-bobo-de-frango-1835?origem=aves" title="Bobó de Frango" class="black">
+                    Bobó de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Márcia </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        34
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-file-de-frango-enrolado-com-mussarela-e-bacon-7527?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/527/file-de-frango-enrolado-com-mussarela-e-bacon-6-120x120.jpeg" alt="Filé de Frango Enrolado com Mussarela e Bacon"
+                        title="Filé de Frango Enrolado com Mussarela e Bacon" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/aves/receita-de-file-de-frango-enrolado-com-mussarela-e-bacon-7527?origem=aves" title="Filé de Frango Enrolado com Mussarela e Bacon" class="black">
+                    Filé de Frango Enrolado com Mussarela e Bacon </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Daniela G.</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        40
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-creme-de-frango-com-batatas-3281?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/281/creme-de-frango-com-batatas-1-120x120.jpg" alt="Creme de Frango com Batatas"
+                        title="Creme de Frango com Batatas" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-creme-de-frango-com-batatas-3281?origem=aves" title="Creme de Frango com Batatas" class="black">
+                    Creme de Frango com Batatas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        25
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-fricasse-de-frango-completo-16395?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/395/fricasse-de-frango-completo-120x120.jpg" alt="Fricassé de Frango Completo"
+                        title="Fricassé de Frango Completo" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-fricasse-de-frango-completo-16395?origem=aves" title="Fricassé de Frango Completo" class="black">
+                    Fricassé de Frango Completo </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cintia Brizoti</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        20
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/sanduiche-natural-de-frango-5971?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/971/sanduiche-natural-de-frango-2-120x120.jpeg" alt="Sanduíche Natural de Frango"
+                        title="Sanduíche Natural de Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/sanduiche-natural-de-frango-5971?origem=aves" title="Sanduíche Natural de Frango" class="black">
+                    Sanduíche Natural de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        14
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-frango-de-forno-crocante-9458?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/458/frango-de-forno-crocante-2-120x120.jpeg" alt="Frango de Forno Crocante"
+                        title="Frango de Forno Crocante" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-frango-de-forno-crocante-9458?origem=aves" title="Frango de Forno Crocante" class="black">
+                    Frango de Forno Crocante </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        12
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/escondidinho-de-frango-17102?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/102/escondidinho-de-frango-9-120x120.jpeg" alt="Escondidinho de Frango"
+                        title="Escondidinho de Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/escondidinho-de-frango-17102?origem=aves" title="Escondidinho de Frango" class="black">
+                    Escondidinho de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Mariana Piacentini</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        23
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-frango-a-passarinho-na-air-fryer-122387?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/387/frango-a-passarinho-na-air-fryer-120x120.jpeg" alt="Frango à Passarinho na Air Fryer"
+                        title="Frango à Passarinho na Air Fryer" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-frango-a-passarinho-na-air-fryer-122387?origem=aves" title="Frango à Passarinho na Air Fryer" class="black">
+                    Frango à Passarinho na Air Fryer </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        2
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/frango-com-creme-de-milho-8855?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/855/frango-com-creme-de-milho-4-120x120.jpeg" alt="Frango com Creme de Milho"
+                        title="Frango com Creme de Milho" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/frango-com-creme-de-milho-8855?origem=aves" title="Frango com Creme de Milho" class="black">
+                    Frango com Creme de Milho </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        22
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-galinhada-de-panela-de-pressao-59431?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/431/galinhada-de-panela-de-pressao-120x120.jpeg" alt="Galinhada de Panela de Pressão"
+                        title="Galinhada de Panela de Pressão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-galinhada-de-panela-de-pressao-59431?origem=aves" title="Galinhada de Panela de Pressão" class="black">
+                    Galinhada de Panela de Pressão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Claudia Dias</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        5
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-sobrecoxa-ao-molho-cremoso-91060?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/60/sobrecoxa-ao-molho-cremoso-120x120.jpg" alt="Sobrecoxa ao molho cremoso"
+                        title="Sobrecoxa ao molho cremoso" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-sobrecoxa-ao-molho-cremoso-91060?origem=aves" title="Sobrecoxa ao molho cremoso" class="black">
+                    Sobrecoxa ao molho cremoso </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Irani Alves</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        8
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-frango-ao-molho-de-maracuja-no-microondas-8383?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/383/frango-ao-molho-de-maracuja-no-microondas-120x120.jpeg" alt="Frango ao Molho de Maracujá no Microondas"
+                        title="Frango ao Molho de Maracujá no Microondas" /><div class="card__flag"><i class="fa fa-play-circle"></i></div></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/aves/receita-de-frango-ao-molho-de-maracuja-no-microondas-8383?origem=aves" title="Frango ao Molho de Maracujá no Microondas" class="black">
+                    Frango ao Molho de Maracujá no Microondas </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        22
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-frango-a-moda-indiana-1664?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/664/frango-a-moda-indiana-120x120.jpg" alt="Frango à Moda Indiana"
+                        title="Frango à Moda Indiana" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-frango-a-moda-indiana-1664?origem=aves" title="Frango à Moda Indiana" class="black">
+                    Frango à Moda Indiana </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Claudete Drumond</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        20
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-fricasse-de-frango-com-batata-palha-1810?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/187/fricasse-de-atum-120x120.jpeg" alt="Fricassê de Frango com Batata Palha"
+                        title="Fricassê de Frango com Batata Palha" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-small"><a href="/receitas/aves/receita-de-fricasse-de-frango-com-batata-palha-1810?origem=aves" title="Fricassê de Frango com Batata Palha" class="black">
+                    Fricassê de Frango com Batata Palha </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Itaci </p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        21
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-file-de-frango-a-milanesa-859?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/859/file-de-frango-a-milanesa-120x120.jpeg" alt="Filé de Frango à Milanesa"
+                        title="Filé de Frango à Milanesa" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-file-de-frango-a-milanesa-859?origem=aves" title="Filé de Frango à Milanesa" class="black">
+                    Filé de Frango à Milanesa </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        18
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-frango-rapido-11288?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/288/frango-rapido-1-120x120.jpg" alt="Frango Rápido"
+                        title="Frango Rápido" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-frango-rapido-11288?origem=aves" title="Frango Rápido" class="black">
+                    Frango Rápido </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        21
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-maionese-de-frango-9885?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/885/maionese-de-frango-1-120x120.jpg" alt="Maionese de Frango"
+                        title="Maionese de Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-maionese-de-frango-9885?origem=aves" title="Maionese de Frango" class="black">
+                    Maionese de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Sandra Alcarria</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        18
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-almondegas-de-frango-881?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/881/almondegas-de-frango-2-120x120.jpeg" alt="Almôndegas de Frango"
+                        title="Almôndegas de Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-almondegas-de-frango-881?origem=aves" title="Almôndegas de Frango" class="black">
+                    Almôndegas de Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        14
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-frango-a-parmegiana-com-requeijao-15202?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/202/frango-a-parmegiana-3-120x120.jpeg" alt="Frango à Parmegiana com Requeijão"
+                        title="Frango à Parmegiana com Requeijão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-frango-a-parmegiana-com-requeijao-15202?origem=aves" title="Frango à Parmegiana com Requeijão" class="black">
+                    Frango à Parmegiana com Requeijão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Abençoada Jesus</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        24
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-galetos-a-moda-indiana-14317?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/317/galetos-a-moda-indiana-120x120.jpg" alt="Galetos à moda indiana"
+                        title="Galetos à moda indiana" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-galetos-a-moda-indiana-14317?origem=aves" title="Galetos à moda indiana" class="black">
+                    Galetos à moda indiana </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Rosa Maria</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        20
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-coxas-de-frango-crocantes-885?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/885/coxas-de-frango-crocantes-120x120.jpg" alt="Coxas de Frango Crocantes"
+                        title="Coxas de Frango Crocantes" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-coxas-de-frango-crocantes-885?origem=aves" title="Coxas de Frango Crocantes" class="black">
+                    Coxas de Frango Crocantes </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        18
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/fricasse-de-frango-gratinado-883?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/57/fricasse-de-frango-especial-1-120x120.jpeg" alt="Fricassê de Frango Gratinado"
+                        title="Fricassê de Frango Gratinado" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/fricasse-de-frango-gratinado-883?origem=aves" title="Fricassê de Frango Gratinado" class="black">
+                    Fricassê de Frango Gratinado </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Iliane Brasileiro</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        18
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/gratinado-de-abobora-e-frango-111625?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/625/gratinado-de-abobora-e-frango-1-120x120.jpg" alt="Gratinado de Abóbora e Frango"
+                        title="Gratinado de Abóbora e Frango" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/gratinado-de-abobora-e-frango-111625?origem=aves" title="Gratinado de Abóbora e Frango" class="black">
+                    Gratinado de Abóbora e Frango </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Abençoada Jesus</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        7
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-frango-assado-a-vinagrete-11637?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/637/frango-assado-a-vinagrete-120x120.jpg" alt="Frango Assado à Vinagrete"
+                        title="Frango Assado à Vinagrete" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-frango-assado-a-vinagrete-11637?origem=aves" title="Frango Assado à Vinagrete" class="black">
+                    Frango Assado à Vinagrete </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        18
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-estrogonofe-de-grao-de-bico-80226?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/226/estrogonofe-de-grao-de-bico-1-120x120.jpeg" alt="Estrogonofe de grão-de-bico"
+                        title="Estrogonofe de grão-de-bico" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-estrogonofe-de-grao-de-bico-80226?origem=aves" title="Estrogonofe de grão-de-bico" class="black">
+                    Estrogonofe de grão de bico </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Silvana Silveira</p><div class="mb10 card__score txt-small"><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        14
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-file-de-frango-com-requeijao-4220?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/220/file-de-frango-com-requeijao-1-120x120.jpg" alt="Filé de Frango com Requeijão"
+                        title="Filé de Frango com Requeijão" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-file-de-frango-com-requeijao-4220?origem=aves" title="Filé de Frango com Requeijão" class="black">
+                    Filé de Frango com Requeijão </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        15
+                    </div></div></div></div></div>                                                        <div class="border grid-sm-12 font-serif mb10
+    card--half-image
+    grid-lg-6
+    omega
+    mb20
+    "><div class="flex-b "><div class="black grid-lg-5 grid-sm-5"><a href="/receitas/aves/receita-de-frango-alla-molicata-12265?origem=aves"><div class="card--half-image__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/265/frango-alla-molicata-1-120x120.jpg" alt="Frango alla Molicata"
+                        title="Frango alla Molicata" /></div></a></div><div
+            class="mt10 card--half-image__title grid-sm-6 grid-lg-6 txt-center"><h3 class="txt-bold txt-normal"><a href="/receitas/aves/receita-de-frango-alla-molicata-12265?origem=aves" title="Frango alla Molicata" class="black">
+                    Frango alla Molicata </a></h3><p
+                class="mt10 grey--dark txt-small">
+                Por Cybercook</p><div class="mb10 card__score txt-small"><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star yellow"></i><i class="fa fa-star grey"></i><div class="grid-lg-4 grid__offset-1 txt-small grey--dark"><i class="fa fa-comment yellow"></i>
+                        16
+                    </div></div></div></div></div>                                    </div></section>            </div><div class="grid-lg-12 grid-sm-12 txt-center"><div class="font-serif pagination grid-sm-12 grid-lg-12"><div class=" "><div class="txt-center"><span class="pagination__grey-unactive txt-normal">primeira</span></div><div class="txt-center omega"><span class="pagination__grey-unactive txt-normal"><i class="fa fa-chevron-left mx25" aria-hidden="true"></i></span></div></div><div class=" items_pag  "><div><span class="black pagination__number txt-normal">1</span></div><div class="pl5">
+                                de
+                                <a class="black pagination__number txt-normal" href="/receitas/aves?pagina=1">146</a></div></div><div ><div class="   txt-center"><a href="/receitas/aves?pagina=2" rel="next" class="black txt-normal"><i class="fa fa-chevron-right mx25" aria-hidden="true"></i></a></div><div class="   txt-center"><a href="/receitas/aves?pagina=146" class="black txt-normal">última</a></div></div></div></div></div></section></div><aside class=" sidebar grid-lg-4 grid-sm-12 omega printable--none txt-center"><div id="banner-300x250-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-area').addService(googletag.pubads()).setTargeting("position", "top").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-area'); }); </script></div><div class="pt10"></div><div class="clear"></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/o-match-que-vigora" class="black" title="O Match que Vigora"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/200/pao-de-alho-com-queijo-camembert-300x168.jpeg" alt="O Match que Vigora"
+                    title="O Match que Vigora" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">O Match que Vigora</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/dia-dos-pais" class="black" title="Dia dos Pais"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/99/espetos-de-legumes-e-frango-1-300x168.jpeg" alt="Dia dos Pais"
+                    title="Dia dos Pais" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Dia dos Pais</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa?tg=receitas-classicas" class="black" title="Receitas Clássicas"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/422/baiao-de-dois-rapido-2-300x168.jpeg" alt="Receitas Clássicas"
+                    title="Receitas Clássicas" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas Clássicas</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="https://cybercook.com.br/receitas/receitas-de-inverno" class="black" title="Receitas de Inverno"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/213/dalgona-coffee-1-300x168.jpeg" alt="Receitas de Inverno"
+                    title="Receitas de Inverno" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Receitas de Inverno</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/legumes-e-frutas-da-estacao" class="black" title="Frutas, Legumes e Verduras da Estação"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/940/mousse-de-maracuja-especial-3-300x168.jpeg" alt="Frutas, Legumes e Verduras da Estação"
+                    title="Frutas, Legumes e Verduras da Estação" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Frutas, Legumes e Verduras da Estação</h6></div></a></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt25"><a href="/receitas/gostinho-de-casa" class="black" title="Gostinho de Casa"><div class="card--stack__image white" style=""><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                    data-pagespeed-lazy-src="https://img.cybercook.com.br/imagens/receitas/630/receita-de-bolo-de-cenoura-17-300x168.jpeg" alt="Gostinho de Casa"
+                    title="Gostinho de Casa" /></div><div class="grid-sm-11 grid-lg-12 grid__offset-sm-1 mt10"><h6 class="txt-medium txt-bold">Gostinho de Casa</h6></div></a></div><div class="clear"></div><div class="mt20 mb20"><div id="banner-300x250-2-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-2-area').addService(googletag.pubads()).setTargeting("position", "mid").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-2-area'); }); </script></div></div><div class="card--stack grid-lg-12 grid-sm-12 font-serif black mt10 swiper-container"><h6 class="pl10 green txt-medium mb10 font-serif txt-bold">Blog CyberCook</h6><div class="swiper-wrapper"><div class="swiper-slide"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/bawryel9jzdicvmlscfu9hkpiebc1karmibovsyc-320x200.jpeg" class="swiper-lazy"
+                        alt="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696" class="black" title="Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial"> Receitas para o Dia dos Pais: 30 opções para fazer um almoço super especial </a></h3></div></div><div class="swiper-slide"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/161/biscoitos-amanteigados-9-320x200.jpeg" class="swiper-lazy"
+                        alt="Todas as dicas para fazer biscoito caseiro perfeito" title="Todas as dicas para fazer biscoito caseiro perfeito" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/todas-as-dicas-para-fazer-biscoito-caseiro-perfeito-3695" class="black" title="Todas as dicas para fazer biscoito caseiro perfeito"> Todas as dicas para fazer biscoito caseiro perfeito </a></h3></div></div><div class="swiper-slide"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"><div class="card--stack__image white"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                        data-pagespeed-lazy-src="https://img.cybercook.com.br/foodiefeed/0kremmr1yzfbdo8y8dg60ixtzujfbejk7yvnrw7h-320x200.jpeg" class="swiper-lazy"
+                        alt="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa" /><div class="swiper-lazy-preloader"></div></div></a><div class="grid-sm-12 grid-lg-12 mt10"><h3 class="txt-medium txt-bold txt-center px20"><a href="/blog/arroz-com-brocolis-veja-todos-os-beneficios-dessa-mistura-deliciosa-3694" class="black" title="Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa"> Arroz com brócolis: veja todos os benefícios dessa mistura deliciosa </a></h3></div></div></div><div class="card-stack-button-prev fa fa-chevron-left white"></div><div class="card-stack-button-next fa fa-chevron-right white"></div></div><div class="pl10 pr10 grid-sm-12 grid-lg-12"><h6 class="txt-medium mt10 mb10 font-serif">Receitas novinhas </h6><div class="card--carousel__container swiper-container"><div class="swiper-wrapper"><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/aves/receita-de-frango-assado-recheado-com-farofa-de-miudos-125090"><a title="Frango Assado Recheado com Farofa de Miúdos" href="/receitas/aves/receita-de-frango-assado-recheado-com-farofa-de-miudos-125090" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/90/frango-assado-recheado-com-farofa-3-125x120.jpeg"
+                                  alt="Frango Assado Recheado com Farofa de Miúdos"
+                                  title="Frango Assado Recheado com Farofa de Miúdos"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/aves/receita-de-frango-assado-recheado-com-farofa-de-miudos-125090" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Frango Assado Recheado com Farofa de Miúdos">
+                             Frango Assado Recheado com Farofa de Miúdos
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/aves/receita-de-tempero-para-peru-125052"><a title="Tempero para Peru" href="/receitas/aves/receita-de-tempero-para-peru-125052" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/52/tempero-para-peru-125x120.jpeg"
+                                  alt="Tempero para Peru"
+                                  title="Tempero para Peru"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/aves/receita-de-tempero-para-peru-125052" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Tempero para Peru">
+                             Tempero para Peru
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/aves/receita-de-frango-assado-124945"><a title="Frango assado " href="/receitas/aves/receita-de-frango-assado-124945" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/802/frango-assado-com-batatas-1-125x120.jpeg"
+                                  alt="Frango assado "
+                                  title="Frango assado "
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/aves/receita-de-frango-assado-124945" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Frango assado ">
+                             Frango assado 
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/aves/receita-de-strogonoff-no-pao-italiano-124852"><a title="Strogonoff no Pão Italiano" href="/receitas/aves/receita-de-strogonoff-no-pao-italiano-124852" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/852/strogonoff-no-pao-italiano-125x120.jpeg"
+                                  alt="Strogonoff no Pão Italiano"
+                                  title="Strogonoff no Pão Italiano"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/aves/receita-de-strogonoff-no-pao-italiano-124852" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Strogonoff no Pão Italiano">
+                             Strogonoff no Pão Italiano
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/aves/receita-de-frango-frito-124792"><a title="Frango Frito" href="/receitas/aves/receita-de-frango-frito-124792" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/792/frango-frito-125x120.jpeg"
+                                  alt="Frango Frito"
+                                  title="Frango Frito"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/aves/receita-de-frango-frito-124792" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Frango Frito">
+                             Frango Frito
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div><div class="swiper-slide card--carousel mb10 mt10"
+                     data-vars-event-action="Receitas novinhas"
+                     data-vars-event-label="/receitas/aves/receita-de-file-de-frango-a-milanesa-na-air-fryer-com-pure-de-batata-124726"><a title="Filé de Frango à Milanesa na Air Fryer com Purê de Batata" href="/receitas/aves/receita-de-file-de-frango-a-milanesa-na-air-fryer-com-pure-de-batata-124726" class="card--carousel__image mb10 grid-sm-12 grid-lg-12"><img src="https://cybercook-assets.storage.googleapis.com/pixel.gif"
+                                  data-pagespeed-lazy-src="https://img.cybercook.com.br/receitas/726/file-de-frango-a-milanesa-na-air-fryer-com-pure-de-batata-1-125x120.jpeg"
+                                  alt="Filé de Frango à Milanesa na Air Fryer com Purê de Batata"
+                                  title="Filé de Frango à Milanesa na Air Fryer com Purê de Batata"
+                                  class="swiper-lazy" /><div class="swiper-lazy-preloader"></div></a><h6 class="card--carousel__title txt-left mt10 grid-sm-12 grid-lg-12 px10"><a href="/receitas/aves/receita-de-file-de-frango-a-milanesa-na-air-fryer-com-pure-de-batata-124726" class="mb5 grey--dark grid-lg-12 grid-sm-12" title="Filé de Frango à Milanesa na Air Fryer com Purê de Batata">
+                             Filé de Frango à Milanesa na Air Fryer com Purê de Batata
+                         </a></h6><div class="card--carousel__score txt-small mb5 pl10 "><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i><i
+                             class="fa fa-star white"></i></div><div class="card--valor grey--dark txt-small pl10 pb10 grid-sm-12"></div></div></div><div class="card-button-prev fa fa-chevron-left white"></div><div class="card-button-next fa fa-chevron-right white"></div></div></div><div class="mt20"><div id="banner-300x250-3-area" class="mr10 grid-sm-12"> <script> googletag.cmd.push(function() { googletag.defineSlot('/1762418/cybercook', [300, 250], 'banner-300x250-3-area').addService(googletag.pubads()).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-300x250-3-area'); }); </script></div></div></aside>            </div><div class="grid-lg-12 grid-sm-12 mt10 ads__catfish pt5"><i class="fa fa-close border--round ads__close bg--white"></i><div id="banner-728x90-3-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSize = googletag.sizeMapping().addSize([1024, 0], [728, 90]).addSize([0, 0], [[320, 100], [320, 50]]).build(); googletag.defineSlot('/1762418/cybercook', [728, 90], 'banner-728x90-3-area').addService(googletag.pubads()).defineSizeMapping(mappingSize).setTargeting("position", "bot").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-728x90-3-area'); }); </script></div></div><footer class="footer grid-lg-12 grid-sm-12 mt50 mb20 pl20 pr20 font-serif "><div class="grid-lg-3 grid-sm-12"><div class="grid-sm-12 grid-lg-12 txt-center mt20 mb15"><a href="/" title="Cybercook"><img src="https://cybercook-assets.storage.googleapis.com/logos/cybercook.svg" width="50" height="70" alt="Logo do Cybercook"
+                    title="Cybercook" /></a></div><div class="grid-sm-12 grid-lg-12 social centerFooterItens"><h4>Siga o CyberCook</h4><div class="grid-sm-12 grid-lg-12 socialIconsFooter centerFooterItens"><span><a href="https://twitter.com/cybercook" target="_blank" rel="noopener" title="Twitter"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_twitter.svg"
+                            alt="Rede social Twitter do Cybercook" title="Twitter" /></a><a href="https://pt-br.facebook.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Facebook"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_facebook.svg"
+                            alt="Rede social Facebook do Cybercook" title="Facebook" /></a><a href="https://www.instagram.com/cybercookoficial/" target="_blank" rel="noopener"
+                        title="Instagram"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/instagram.svg"
+                            alt="Rede social Instagram do Cybercook" title="Instagram" /></a><a href="https://br.pinterest.com/cybercookbr/" target="_blank" rel="noopener" title="Pinterest"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_pinterest-social-logo.svg"
+                            alt="Rede social Pinterest do Cybercook" title="Pinterest" /></a><a href="https://www.youtube.com/c/CyberCookReceitasComoFazer/" target="_blank" rel="noopener"
+                        title="Youtube"><img src="https://cybercook-assets.storage.googleapis.com/icons/social/icons_social_youtube.svg"
+                            alt="Rede social Youtube do Cybercook" title="Youtube" /></a></span></div></div></div><hr class="hide-lg border--none py10 grid-sm-12 grid-lg-12" /><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Sobre nós</h4><ul class="footer__nav txt-medium"><li><a title="Fale com a gente" href="/fale-conosco">Fale com a gente</a></li><li><a title="Trabalhe conosco" href="/trabalhe-conosco">Trabalhe conosco</a></li><li><a title="Política de privacidade" href="/politica-de-privacidade/p">Política de privacidade</a></li><li><a title="Termos de uso" href="/termos-de-uso/p">Termos de uso</a></li><li><a title="Solicitação de dados pessoais" href="/solicitacao-de-dados-pessoais/p">Solicitação de dados pessoais</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40  "><h4>Nossa seleção</h4><ul class="footer__nav txt-medium"><li><a title="Panqueca" href="/receitas/massas/receita-de-panqueca-1917">Panqueca</a></li><li><a title="Bolo de Mandioca Diet" href="/receitas/bolos/receita-de-bolo-de-mandioca-diet-71696">Bolo de Mandioca Diet</a></li><li><a title="Frango à Passarinho na Air Fryer" href="/receitas/aves/receita-de-frango-a-passarinho-na-air-fryer-122387">Frango à Passarinho na Air Fryer</a></li><li><a title="Receitas de até 30 minutos" href="/blog/pratos-rapidos-para-jantar-receitas-de-ate-30-minutos-2504">Receitas de até 30 minutos</a></li><li><a title="Pizza Low-Carb De Frigideira" href="/receitas/lanches/pizzas/receita-de-pizza-low-carb-de-frigideira-122752">Pizza Low-Carb De Frigideira</a></li><li><a title="Carne de Jaca Vegana" href="/receitas/carnes/receita-de-carne-de-jaca-vegana-122813">Carne de Jaca Vegana</a></li><li><a title="Receitas de Saladas e Bowls" href="/receitas/verao/?tg=verao-saladas-e-bowls">Receitas de Saladas e Bowls</a></li></ul></nav><nav class="centerFooterItens grid-sm-12 grid-lg-3 mb40 omega "><h4>Categorias</h4><ul class="footer__nav txt-medium"><li><a title="Saladas" href="/receitas/saladas">Saladas</a></li><li><a title="Legumes" href="/receitas/legumes">Legumes</a></li><li><a title="Carnes" href="/receitas/carne">Carnes</a></li><li><a title="Aves" href="/receitas/aves">Aves</a></li><li><a title="Massas" href="/receitas/massas">Massas</a></li><li><a title="Peixes e frutos do mar" href="/receitas/peixes-e-frutos-do-mar">Peixes e frutos do mar</a></li><li><a title="Doces" href="/receitas/doces">Doces</a></li></ul></nav><div class="grid-sm-12 grid-lg-12 txt-center txt-small"><a href="https://mercado.carrefour.com.br/?utm_source=cybercook&utm_medium=footer" title="Carrefour"
+            target="_blank" rel="noopener noreferrer"><img src="https://cybercook-assets.storage.googleapis.com/logos/uma-empresa-do-grupo-carrefour.svg"
+                alt="Uma empresa do grupo Carrefour" title="Carrefour" class="grid-sm-10 grid__offset-sm-1"
+                style="max-width:320px" width="250" height="40" /></a><p class="grid-sm-12 grid-lg-12 mt10 txt-small font-arial">Copyright &copy; 2022
+            e-Mídia Informações Ltda - CyberCook é uma propriedade e-Mídia.</p></div><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+        data-domain-script="723a9584-77b0-4e19-8757-3c497895e0b7"></script><script>
+        function OptanonWrapper() { }
+    </script></footer><script src="/js/main.js"></script><div class="hide flash-message pos-fixed grid-lg-5 grid-sm-12 grid__offset-lg-1 bg--white pb20"><i class="flash-message-close fa fa-times fr link" style="padding: 0.5em"></i><p class="grid-lg-10 grid-sm-10 grid__offset-1"></p></div><div class="backlight hide"></div><i class="flash-load hide fa fa-spinner fa-pulse fa-3x fa-fw orange"></i>            <script src="https://cybercook-assets.storage.googleapis.com/js/swiper.min.js"></script><script async src="/js/search.js"></script></div><div class="widesky"></div><div class="widesky"></div><div id="banner-160x600-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "left").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-area'); }); </script></div><div id="banner-160x600-2-area" class="txt-center"> <script> googletag.cmd.push(function() { var mappingSizeWidesky = googletag.sizeMapping().addSize([1024, 0], [160, 600]).build(); googletag.defineSlot('/1762418/cybercook', [160, 600], 'banner-160x600-2-area').addService(googletag.pubads()).defineSizeMapping(mappingSizeWidesky).setTargeting("position", "right").setCollapseEmptyDiv(true); googletag.enableServices(); googletag.display('banner-160x600-2-area'); }); </script></div></body></html>

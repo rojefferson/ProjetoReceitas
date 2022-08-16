@@ -62,7 +62,7 @@ def salvarArquivo(url,dominio,texto):
 
 def navegacao2(paginapai,pagina):
    
-    if paginapai == pagina or pagina == "#primary" or  len(bancoSite) > 1000 or existeUrl(pagina):
+    if paginapai == pagina or pagina == "#primary" or  len(bancoSite) > 100 or existeUrl(pagina):
         return 
 
     paginaText = decodeSite(pagina)
@@ -107,6 +107,3 @@ for site in config['Paginas']:
             navegacao2(site,subSite["href"])
     
     print(bancoSite)
-    
-    #salvarLista()
-

@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link media="all" href="https://www.comidaereceitas.com.br/wp-content/cache/autoptimize/css/autoptimize_bd8fded579893c858c8310d4f882a0ee.css" rel="stylesheet" /><title>Receitas - Comida e Receitas</title>
+<meta name="description" content="Aqui no Comida e Receitas você encontra milhares de receitas culinárias atualizadas diariamente, divididas em categorias, especiais, regionais, internacionais e muito mais!" />
+<link rel="canonical" href="https://www.comidaereceitas.com.br/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Receitas - Comida e Receitas" />
+<meta property="og:description" content="Aqui no Comida e Receitas você encontra milhares de receitas culinárias atualizadas diariamente, divididas em categorias, especiais, regionais, internacionais e muito mais!" />
+<meta property="og:url" content="https://www.comidaereceitas.com.br/" />
+<meta property="og:site_name" content="Comida e Receitas" />
+<meta property="article:publisher" content="https://www.facebook.com/comidaereceitas" />
+<meta property="article:modified_time" content="2022-08-13T11:07:00+00:00" />
+<meta property="og:image" content="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-1200x675-min.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="675" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@comidaereceitas" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.comidaereceitas.com.br/#organization","name":"Comida e Receitas","url":"https://www.comidaereceitas.com.br/","sameAs":["https://www.instagram.com/comidaereceitasoficial/","https://br.pinterest.com/comidaereceitas/","https://www.youtube.com/user/comidaereceitas","https://www.facebook.com/comidaereceitas","https://twitter.com/comidaereceitas"],"logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.comidaereceitas.com.br/#/schema/logo/image/","url":"https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-CeR-transp-512px.png","contentUrl":"https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-CeR-transp-512px.png","width":512,"height":512,"caption":"Comida e Receitas"},"image":{"@id":"https://www.comidaereceitas.com.br/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://www.comidaereceitas.com.br/#website","url":"https://www.comidaereceitas.com.br/","name":"Comida e Receitas","description":"Receitas para o dia a dia e grandes ocasiões","publisher":{"@id":"https://www.comidaereceitas.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.comidaereceitas.com.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.comidaereceitas.com.br/#primaryimage","url":"https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-1200x675-min.png","contentUrl":"https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-1200x675-min.png","width":1200,"height":675,"caption":"Logo Comida e Receitas"},{"@type":"WebPage","@id":"https://www.comidaereceitas.com.br/","url":"https://www.comidaereceitas.com.br/","name":"Receitas - Comida e Receitas","isPartOf":{"@id":"https://www.comidaereceitas.com.br/#website"},"about":{"@id":"https://www.comidaereceitas.com.br/#organization"},"primaryImageOfPage":{"@id":"https://www.comidaereceitas.com.br/#primaryimage"},"datePublished":"2019-07-29T20:16:36+00:00","dateModified":"2022-08-13T11:07:00+00:00","description":"Aqui no Comida e Receitas você encontra milhares de receitas culinárias atualizadas diariamente, divididas em categorias, especiais, regionais, internacionais e muito mais!","breadcrumb":{"@id":"https://www.comidaereceitas.com.br/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.comidaereceitas.com.br/"]}]},{"@type":"BreadcrumbList","@id":"https://www.comidaereceitas.com.br/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início"}]}]}</script>
+<link rel="alternate" type="application/rss+xml" title="Feed para Comida e Receitas &raquo;" href="https://www.comidaereceitas.com.br/feed" />
+<link rel="https://api.w.org/" href="https://www.comidaereceitas.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://www.comidaereceitas.com.br/wp-json/wp/v2/pages/102886" />
+<link rel="alternate" type="application/json+oembed" href="https://www.comidaereceitas.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.comidaereceitas.com.br%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.comidaereceitas.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.comidaereceitas.com.br%2F&#038;format=xml" />
+
+<script async crossorigin="anonymous" data-type="lazy" data-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9381876397958621"></script>
+
+
+<script async data-type="lazy" data-src="//securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+var aAreas=new Array("legumes-e-verduras","massas","molhos-e-cremes","saladas","salgados","sopas-e-caldos","sufles","tortas-salgadas","aves","carnes","crustaceos","peixes","arroz","microondas","ovos","paes-e-lanches","biscoitos-e-bolachas","bolos","doces-e-sobremesas","musses","paves","pudins","sorvetes","tortas-doces","bebidas-e-sucos","dicas","especiais","glossario","materias","regionais","internacionais","maquina-de-pao","fritadeira-sem-oleo");
+var nLen=aAreas.length;
+var sSite=document.location.protocol+"//www.comidaereceitas.com.br";
+var sAddress=document.location.href;
+var sCategoria="";
+for(var i=0; i<nLen; i++){
+  if (sAddress.indexOf("/"+aAreas[i]+"/") != -1){
+    sCategoria=aAreas[i];
+  };
+};    
+</script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+</script>
+<script>
+googletag.cmd.push(function() {
+
+var Arroba_Topo = googletag.sizeMapping().
+addSize([768, 0], [[336, 280], [300, 250]]). //tablet
+addSize([320, 0], [[300, 250], [320, 100]]). //mobile
+addSize([0, 0], [320, 50]). //other
+build();
+ 
+var Sky_Grande = googletag.sizeMapping().
+addSize([768, 0], [[300, 600], [160, 600], [300, 250], [250, 250]]). //tablet
+addSize([320, 0], [300, 250]). //mobile
+addSize([0, 0], [320, 50]). //other
+build();
+ 
+var SuperBanner = googletag.sizeMapping().
+addSize([768, 0], [728, 90]). //tablet
+addSize([0, 0], [320, 50]). //other
+build();
+
+googletag.defineSlot('/33497130/CR_Arroba_Topo_ROS', [[336, 280], [300, 250]], 'div-gpt-ad-1355869589195-1').defineSizeMapping(Arroba_Topo).addService(googletag.pubads());
+googletag.defineSlot('/33497130/CR_Sky_Grande_ROS', [[300, 600], [300, 250], [160, 600], [250, 250]], 'div-gpt-ad-1355869589195-6').defineSizeMapping(Sky_Grande).addService(googletag.pubads());
+//googletag.defineSlot('/33497130/CR_SuperBanner_ROS', [[728, 90], [320, 50]], 'div-gpt-ad-1355869589195-4').defineSizeMapping(SuperBanner).addService(googletag.pubads());
+googletag.defineSlot('/33497130/lojinha', [300, 600], 'div-gpt-ad-1614241349504-0').addService(googletag.pubads());
+googletag.defineSlot('/33497130/selo', [300, 90], 'div-gpt-ad-1614241349504-2').addService(googletag.pubads());
+googletag.defineSlot('/33497130/336x280-yt', [336, 280], 'div-gpt-ad-1614241349504-1').addService(googletag.pubads());
+if (sCategoria.length > 0) {googletag.pubads().setTargeting("CR-categ",sCategoria);}
+if (sAddress == sSite+"/" || sAddress == sSite+"/index.php") {googletag.pubads().setTargeting("CR-pagina","home");} else {googletag.pubads().setTargeting("CR-pagina","internas");}
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>
+
+<script data-type="lazy" data-src="data:text/javascript;base64,DQooZnVuY3Rpb24oaSxzLG8sZyxyLGEsbSl7aVsnR29vZ2xlQW5hbHl0aWNzT2JqZWN0J109cjtpW3JdPWlbcl18fGZ1bmN0aW9uKCl7KGlbcl0ucT1pW3JdLnF8fFtdKS5wdXNoKGFyZ3VtZW50cyl9LGlbcl0ubD0xKm5ldyBEYXRlKCk7YT1zLmNyZWF0ZUVsZW1lbnQobyksbT1zLmdldEVsZW1lbnRzQnlUYWdOYW1lKG8pWzBdO2EuYXN5bmM9MTthLnNyYz1nO20ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYSxtKX0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnLy93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vYW5hbHl0aWNzLmpzJywnZ2EnKTtnYSgnY3JlYXRlJywgJ1VBLTIwMjg3NDAtMjMnLCAnYXV0bycpO2dhKCdzZW5kJywgJ3BhZ2V2aWV3Jyk7DQo="></script>
+
+<script data-type="lazy" data-src="data:text/javascript;base64,KGZ1bmN0aW9uKHcsZCxzLGwsaSl7d1tsXT13W2xdfHxbXTt3W2xdLnB1c2goeydndG0uc3RhcnQnOg0KbmV3IERhdGUoKS5nZXRUaW1lKCksZXZlbnQ6J2d0bS5qcyd9KTt2YXIgZj1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdLA0Kaj1kLmNyZWF0ZUVsZW1lbnQocyksZGw9bCE9J2RhdGFMYXllcic/JyZsPScrbDonJztqLmFzeW5jPXRydWU7ai5zcmM9DQonaHR0cHM6Ly93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20vZ3RtLmpzP2lkPScraStkbDtmLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGosZik7DQp9KSh3aW5kb3csZG9jdW1lbnQsJ3NjcmlwdCcsJ2RhdGFMYXllcicsJ0dUTS1UTTg0VEozJyk7"></script>
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Comida e Receitas",
+  "url" : "https://www.comidaereceitas.com.br",
+  "logo": "https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-CeR-transp-512px.png",
+  "sameAs" : [ "https://www.facebook.com/comidaereceitas",
+    "https://twitter.com/comidaereceitas",
+  "https://www.youtube.com/comidaereceitas",
+  "https://www.pinterest.com/comidaereceitas"]
+}
+</script>
+<link rel="icon" href="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/cropped-logo-CeR-transp-512px-2-420x420.png" sizes="32x32" />
+<link rel="icon" href="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/cropped-logo-CeR-transp-512px-2-420x420.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/cropped-logo-CeR-transp-512px-2-420x420.png" />
+<meta name="msapplication-TileImage" content="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/cropped-logo-CeR-transp-512px-2-420x420.png" />
+</head>
+<body class="home page-template-default page page-id-102886 wp-custom-logo wp-embed-responsive post-image-aligned-center right-sidebar nav-below-header separate-containers fluid-header active-footer-widgets-0 nav-aligned-left header-aligned-left dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627" /><fefuncg type="table" tablevalues="0 0.49803921568627" /><fefuncb type="table" tablevalues="0 0.49803921568627" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0 1" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1" /><fefuncg type="table" tablevalues="0 0.27843137254902" /><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0" /><fefuncg type="table" tablevalues="0 0.64705882352941" /><fefuncb type="table" tablevalues="0 1" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1" /><fefuncg type="table" tablevalues="0 0.94901960784314" /><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745" /><fefuncg type="table" tablevalues="0 1" /><fefuncb type="table" tablevalues="0.44705882352941 0.4" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1" /><fefuncg type="table" tablevalues="0 0.66274509803922" /><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725" /><fefunca type="table" tablevalues="1 1" /></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TM84TJ3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=305492601008210&ev=PageView&noscript=1" /></noscript>
+<a class="screen-reader-text skip-link" href="#content" title="Pular para o conteúdo">Pular para o conteúdo</a> <header class="site-header" id="masthead" aria-label="Site" itemtype="https://schema.org/WPHeader" itemscope>
+<div class="inside-header grid-container grid-parent">
+<div class="site-logo">
+<a href="https://www.comidaereceitas.com.br/" title="Comida e Receitas" rel="home">
+<img class="header-image is-logo-image" alt="Comida e Receitas" src="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-v3.png" title="Comida e Receitas" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-v3.png 1x, https://www.comidaereceitas.com.br/wp-content/uploads/2019/07/logo-v3.png 2x" width="231" height="82" />
+</a>
+</div> </div>
+</header>
+<nav class="main-navigation sub-menu-right" id="site-navigation" aria-label="Primary" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+<div class="inside-navigation grid-container grid-parent">
+<div class="custom-search"><form method="get" class="search-form" action="https://www.comidaereceitas.com.br/">
+<label>
+<span class="screen-reader-text">Pesquisar por:</span>
+<input type="search" class="search-field" placeholder="Achar receitas" value="" name="s" title="Pesquisar por:">
+</label>
+<input type="submit" class="search-submit" value="Pesquisar"></form>
+</div> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<span class="gp-icon icon-menu-bars"><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewbox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Menu</span> </button>
+<div id="primary-menu" class="main-nav"><ul id="menu-top-menu" class="menu sf-menu"><li id="menu-item-102799" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-102799"><a href="/" aria-current="page">Início</a></li>
+<li id="menu-item-102801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102801"><a href="/receitas/dicas">Dicas</a></li>
+<li id="menu-item-102802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102802"><a href="/receitas/materias">Matérias</a></li>
+<li id="menu-item-102874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102874"><a href="/receitas/especiais">Especiais</a></li>
+<li id="menu-item-102875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102875"><a href="/receitas/regionais">Regionais</a></li>
+<li id="menu-item-102876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102876"><a href="/receitas/internacionais">Internacionais</a></li>
+</ul></div> </div>
+</nav>
+<div class="site grid-container container hfeed grid-parent" id="page">
+<div class="site-content" id="content">
+<div class="content-area grid-parent mobile-grid-100 grid-70 tablet-grid-70" id="primary">
+<main class="site-main" id="main">
+<article id="post-102886" class="post-102886 page type-page status-publish has-post-thumbnail" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<div class="entry-content" itemprop="text">
+<div class="home">
+<div class="hg8"><a class="homethumbs" href="/salgados/bolinho-de-lentilha-recheado.html" title="Bolinho de lentilha recheado"><img src="/wp-content/uploads/2019/11/bolinho_lentilha-250x167.jpg" alt="Bolinho de lentilha recheado"><span class="shadow"></span><span class="legenda f1">Bolinho de lentilha recheado</span></a></div><div class="hg4"><a class="homethumbs" href="/legumes-e-verduras/feijao-tropeiro-mineiro.html" title="Feijão tropeiro mineiro"><img src="/wp-content/uploads/2007/10/Feijao_tropeiro_mineiraaa-250x167.jpg" alt="Feijão tropeiro mineiro"><span class="shadow"></span><span class="legenda f3">Feijão tropeiro mineiro</span></a></div><div class="hg4"><a class="homethumbs" href="/pudins/pudim-de-ricota-com-mel.html" title="Pudim de ricota com mel"><img src="/wp-content/uploads/2020/04/pudim_ricota_mel-250x167.jpg" alt="Pudim de ricota com mel"><span class="shadow"></span><span class="legenda f3">Pudim de ricota com mel</span></a></div><div id="div-gpt-ad-1355869589195-1"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-1355869589195-1"); });</script></div><div class="hg6-2"><a class="homethumbs" href="/bolos/bolo-de-fuba-com-linguica-especial.html" title="Bolo de fubá com linguiça especial"><img src="/wp-content/uploads/2020/02/bolo_linguica-250x167.jpg" alt="Bolo de fubá com linguiça especial"><span class="shadow"></span><span class="legenda f2">Bolo de fubá com linguiça especial</span></a></div><div class="hg8"><a class="homethumbs" href="/doces-e-sobremesas/brigadeiro-de-pacoca-de-amendoim.html" title="Brigadeiro de paçoca  de amendoim"><img src="/wp-content/uploads/2019/09/brigadeiro_pacoca-250x167.jpg" alt="Brigadeiro de paçoca  de amendoim"><span class="shadow"></span><span class="legenda f1">Brigadeiro de paçoca de amendoim</span></a></div><div class="hg4"><a class="homethumbs" href="/arroz/arroz-caipira-na-panela-de-pressao.html" title="Arroz caipira na panela de pressão"><img src="/wp-content/uploads/2020/05/arroz_caipira_pressao-250x167.jpg" alt="Arroz caipira na panela de pressão"><span class="shadow"></span><span class="legenda f3">Arroz caipira na panela de pressão</span></a></div><div class="hg4"><a class="homethumbs" href="/paes-e-lanches/rabanada-recheada-com-queijo-camembert.html" title="Rabanada recheada com queijo Camembert"><img src="/wp-content/uploads/2019/12/rabanada_recheada-250x167.jpg" alt="Rabanada recheada com queijo Camembert"><span class="shadow"></span><span class="legenda f3">Rabanada recheada com queijo Camembert</span></a></div><div class="hg6-1"><a class="homethumbs" href="/paves/pave-divino-especial.html" title="Pavê divino especial"><img src="/wp-content/uploads/2016/09/pave_divino_especial-250x167.jpg" alt="Pavê divino especial"><span class="shadow"></span><span class="legenda f2">Pavê divino especial</span></a></div><div class="hg6-2"><a class="homethumbs" href="/microondas/bolinho-de-caneca-de-leite-ninho-com-maca.html" title="Bolinho de caneca de leite ninho com maçã"><img src="/wp-content/uploads/2020/05/bolo_maca_ninho-250x167.jpg" alt="Bolinho de caneca de leite ninho com maçã"><span class="shadow"></span><span class="legenda f2">Bolinho de caneca de leite ninho com maçã</span></a></div><div class="hg8"><a class="homethumbs" href="/carnes/bisteca-com-ervilha-e-batata.html" title="Bisteca com ervilha e batata"><img src="/wp-content/uploads/2014/10/bisteca_ervilha_batata-250x167.jpg" alt="Bisteca com ervilha e batata" loading="lazy"><span class="shadow"></span><span class="legenda f1">Bisteca com ervilha e batata</span></a></div><div class="hg4"><a class="homethumbs" href="/peixes/pataniscas-de-bacalhau-da-sara.html" title="Pataniscas de bacalhau da sara"><img src="/wp-content/uploads/2014/01/patanisca_bacalhau-250x167.jpg" alt="Pataniscas de bacalhau da sara" loading="lazy"><span class="shadow"></span><span class="legenda f3">Pataniscas de bacalhau da sara</span></a></div><div class="hg4"><a class="homethumbs" href="/aves/file-de-frango-crocante.html" title="Filé de frango crocante"><img src="/wp-content/uploads/2010/03/file_frango_crocante-250x167.jpg" alt="Filé de frango crocante" loading="lazy"><span class="shadow"></span><span class="legenda f3">Filé de frango crocante</span></a></div><div class="hg6-1"><a class="homethumbs" href="/crustaceos/frigideira-de-camarao.html" title="Frigideira de camarão"><img src="/wp-content/uploads/2010/02/Frigideira_camaraoo-250x167.jpg" alt="Frigideira de camarão" loading="lazy"><span class="shadow"></span><span class="legenda f2">Frigideira de camarão</span></a></div><div class="hg6-2"><a class="homethumbs" href="/legumes-e-verduras/couve-flor-assada-com-pesto-de-salsa.html" title="Couve-flor assada com pesto de salsa"><img src="/wp-content/uploads/2022/05/couve_assada-250x167.jpg" alt="Couve-flor assada com pesto de salsa" loading="lazy"><span class="shadow"></span><span class="legenda f2">Couve-flor assada com pesto de salsa</span></a></div><div class="hg8"><a class="homethumbs" href="/tortas-salgadas/torta-capixaba.html" title="Torta capixaba"><img src="/wp-content/uploads/2008/08/Torta_capixabaaa-250x167.jpg" alt="Torta capixaba" loading="lazy"><span class="shadow"></span><span class="legenda f1">Torta capixaba</span></a></div><div class="hg4"><a class="homethumbs" href="/molhos-e-cremes/dip-de-mandioquinha-com-gorgonzola.html" title="Dip de mandioquinha com gorgonzola"><img src="/wp-content/uploads/2015/02/dip_mandioca_gorgonzola-250x167.jpg" alt="Dip de mandioquinha com gorgonzola" loading="lazy"><span class="shadow"></span><span class="legenda f3">Dip de mandioquinha com gorgonzola</span></a></div><div class="hg4"><a class="homethumbs" href="/massas/conchiglione-recheado-de-atum-e-provolone.html" title="Conchiglione recheado de atum e provolone"><img src="/wp-content/uploads/2018/11/conchiglione_recheado-250x167.jpg" alt="Conchiglione recheado de atum e provolone" loading="lazy"><span class="shadow"></span><span class="legenda f3">Conchiglione recheado de atum e provolone</span></a></div><div class="hg6-1"><a class="homethumbs" href="/bebidas-e-sucos/sakerinha-de-uva-com-capim-santo.html" title="Sakerinha de uva com capim santo"><img src="/wp-content/uploads/2020/06/sakerinha_uva-250x167.jpg" alt="Sakerinha de uva com capim santo" loading="lazy"><span class="shadow"></span><span class="legenda f2">Sakerinha de uva com capim santo</span></a></div><div class="hg6-2"><a class="homethumbs" href="/sopas-e-caldos/sopa-de-tomate-e-batata.html" title="Sopa de tomate e batata"><img src="/wp-content/uploads/2008/09/sopa_batata-250x167.jpg" alt="Sopa de tomate e batata" loading="lazy"><span class="shadow"></span><span class="legenda f2">Sopa de tomate e batata</span></a></div><div class="hg8"><a class="homethumbs" href="/biscoitos-e-bolachas/biscoito-super-recheado.html" title="Biscoito super-recheado"><img src="/wp-content/uploads/2021/10/biscoito_recheado-250x167.jpg" alt="Biscoito super-recheado" loading="lazy"><span class="shadow"></span><span class="legenda f1">Biscoito super-recheado</span></a></div><div class="hg4"><a class="homethumbs" href="/ovos/waffle-com-ovos-fritos-e-bacon.html" title="Waffle com ovos fritos e bacon"><img src="/wp-content/uploads/2020/02/bacon_ovos-250x167.jpg" alt="Waffle com ovos fritos e bacon" loading="lazy"><span class="shadow"></span><span class="legenda f3">Waffle com ovos fritos e bacon</span></a></div><div class="hg4"><a class="homethumbs" href="/sufles/soufle-gelado-de-cappuccino.html" title="Souflê gelado de cappuccino"><img src="/wp-content/uploads/2016/05/soufle_gelado_capucino-250x167.jpg" alt="Souflê gelado de cappuccino" loading="lazy"><span class="shadow"></span><span class="legenda f3">Souflê gelado de cappuccino</span></a></div><div class="hg6-1"><a class="homethumbs" href="/musses/mousse-de-maracuja-saudavel.html" title="Mousse de maracujá saudável"><img src="/wp-content/uploads/2019/05/mousse_maracuja-250x167.jpg" alt="Mousse de maracujá saudável" loading="lazy"><span class="shadow"></span><span class="legenda f2">Mousse de maracujá saudável</span></a></div><div class="hg6-2"><a class="homethumbs" href="/sorvetes/frozen-de-frutas-vermelhas.html" title="Frozen de frutas vermelhas"><img src="/wp-content/uploads/2017/07/frozen_frutas_vermelhas-250x167.jpg" alt="Frozen de frutas vermelhas" loading="lazy"><span class="shadow"></span><span class="legenda f2">Frozen de frutas vermelhas</span></a></div>
+</div>
+<div id="cats" class="mb20"><h1 class="bg-bege f2 bold" style="margin-bottom:0">Receitas</h1>
+<ul class="ladoalado">
+<li class="b-azul f3">Geral</li>
+<li><a href="/receitas/bebes" class="b-azul catlinkhome" title="Receitas para bebês">Bebês</a></li>
+<li><a href="/receitas/legumes-e-verduras" class="b-azul catlinkhome" title="Receitas de Legumes e Verduras">Legumes e Verduras</a></li>
+<li><a href="/receitas/massas" class="b-azul catlinkhome" title="Receitas de Massas">Massas</a></li>
+<li><a href="/receitas/molhos-e-cremes" class="b-azul catlinkhome" title="Receitas de Molhos e Cremes">Molhos e Cremes</a></li>
+<li><a href="/receitas/saladas" class="b-azul catlinkhome" title="Receitas de Saladas">Saladas</a></li>
+<li><a href="/receitas/salgados" class="b-azul catlinkhome" title="Receitas de Salgados">Salgados</a></li>
+<li><a href="/receitas/sopas-e-caldos" class="b-azul catlinkhome" title="Receitas de Sopas e Caldos">Sopas e Caldos</a></li>
+<li><a href="/receitas/sufles" class="b-azul catlinkhome" title="Receitas de Sufles">Sufles</a></li>
+<li><a href="/receitas/tortas-salgadas" class="b-azul catlinkhome" title="Receitas de Tortas Salgadas">Tortas salgadas</a></li>
+<li class="b-ouro f3">Carnes</li>
+<li><a href="/receitas/aves" class="b-ouro catlinkhome" title="Receitas de Aves">Aves</a></li>
+<li><a href="/receitas/carnes" class="b-ouro catlinkhome" title="Receitas de Carnes">Carnes</a></li>
+<li><a href="/receitas/crustaceos" class="b-ouro catlinkhome" title="Recetias de Crustáceos">Crustáceos</a></li>
+<li><a href="/receitas/peixes" class="b-ouro catlinkhome" title="Receitas de Peixes">Peixes</a></li>
+<li class="b-verde f3">Pratos Rápidos</li>
+<li><a href="/receitas/arroz" class="b-verde catlinkhome" title="Receitas de Arroz">Arroz</a></li>
+<li><a href="/receitas/fritadeira-sem-oleo" class="b-verde catlinkhome" title="Receitas de Fritadeira sem óleo">Fritadeira sem óleo</a></li>
+<li><a href="/receitas/maquina-de-pao" class="b-verde catlinkhome" title="Receitas de Máquina de pão">Máquina de pão</a></li>
+<li><a href="/receitas/microondas" class="b-verde catlinkhome" title="Receitas de Microondas">Microondas</a></li>
+<li><a href="/receitas/ovos" class="b-verde catlinkhome" title="Receitas de Ovos">Ovos</a></li>
+<li><a href="/receitas/paes-e-lanches" class="b-verde catlinkhome" title="Receitas de Pães e Lanches">Pães e Lanches</a></li>
+<li class="b-rosa f3">Doces</li>
+<li><a href="/receitas/biscoitos-e-bolachas" class="b-rosa catlinkhome" title="Receitas de Biscoitos e Bolachas">Biscoitos e Bolachas</a></li>
+<li><a href="/receitas/bolos" class="b-rosa catlinkhome" title="Receitas de Bolos">Bolos</a></li>
+<li><a href="/receitas/doces-e-sobremesas" class="b-rosa catlinkhome" title="Receitas de Doces e Sobremesas">Doces e Sobremesas</a></li>
+<li><a href="/receitas/musses" class="b-rosa catlinkhome" title="Mousses">Musses</a></li>
+<li><a href="/receitas/paves" class="b-rosa catlinkhome" title="Receitas de Pavês">Pavês</a></li>
+<li><a href="/receitas/pudins" class="b-rosa catlinkhome" title="Receitas de Pudins">Pudins</a></li>
+<li><a href="/receitas/sorvetes" class="b-rosa catlinkhome" title="Receitas de Sorvetes">Sorvetes</a></li>
+<li><a href="/receitas/tortas-doces" class="b-rosa catlinkhome" title="Receitas de Tortas doces">Tortas doces</a></li>
+<li class="b-roxo f3">Drinks</li>
+<li><a href="/receitas/bebidas-e-sucos" class="b-roxo catlinkhome" title="Receitas de Bebidas e Sucos">Bebidas e Sucos</a></li>
+<li class="b-roxo f3">Outros</li>
+<li><a href="/informacoes/glossario.html" class="b-roxo catlinkhome" title="Glossário">Glossário</a></li>
+<li><a href="https://www.calcularpesoideal.com.br/" class="b-roxo catlinkhome" title="Calcular Peso Ideal" target="_blank" rel="noopener">Peso Ideal</a></li>
+<li><a href="https://comidaereceitas.blog.br/" class="b-roxo catlinkhome" title="Blog Comida e Receitas" target="_blank" rel="noopener">Blog</a></li>
+<li><a href="/tag/video" class="b-roxo catlinkhome" title="Receitas com vídeo">Vídeos</a></li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+</main>
+</div>
+<div class="widget-area sidebar is-right-sidebar grid-30 tablet-grid-30 grid-parent" id="right-sidebar">
+<div class="inside-right-sidebar">
+<aside id="custom_html-19" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1614241349504-0' style='width: 300px; height: 600px; margin:0 auto;'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1614241349504-0'); });
+		</script>
+</div></div></aside><aside id="custom_html-4" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1355869589195-6' class='no-print'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1355869589195-6'); });
+</script>
+</div></div></aside><aside id="widget_tptn_pop-3" class="widget inner-padding tptn_posts_list_widget"><h2 class="widget-title">Mais vistas recentes</h2><div class="tptn_posts_daily  tptn_posts_widget tptn_posts_widget3"><ul><li><a href="https://www.comidaereceitas.com.br/bebidas-e-sucos/moscow-mule-tradicional.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2022/02/moscou_mule-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Moscow Mule tradicional" title="Moscow Mule tradicional" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/bebidas-e-sucos/moscow-mule-tradicional.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Moscow Mule tradicional</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/legumes-e-verduras/feijao-tropeiro-tradicao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2020/05/feijao_tropeiro_tradicao-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Feijão tropeiro tradição" title="Feijão tropeiro tradição" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/legumes-e-verduras/feijao-tropeiro-tradicao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Feijão tropeiro tradição</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/carnes/moela-de-frango-na-pressao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2020/03/moela_pressao-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Moela de frango na pressão" title="Moela de frango na pressão" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/carnes/moela-de-frango-na-pressao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Moela de frango na pressão</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/legumes-e-verduras/repolho-refogado.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/Repolho_refogaaa-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Repolho refogado" title="Repolho refogado" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/Repolho_refogaaa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2008/05/Repolho_refogaaa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/legumes-e-verduras/repolho-refogado.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Repolho refogado</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/crustaceos/paella-de-frutos-do-mar.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2008/04/Paella_frutos_maree-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Paella de frutos do mar" title="Paella de frutos do mar" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2008/04/Paella_frutos_maree-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2008/04/Paella_frutos_maree.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/crustaceos/paella-de-frutos-do-mar.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Paella de frutos do mar</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/massas/espaguete-com-camarao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2011/01/Espaguete_camaraos-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Espaguete com camarão" title="Espaguete com camarão" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2011/01/Espaguete_camaraos-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2011/01/Espaguete_camaraos.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/massas/espaguete-com-camarao.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Espaguete com camarão</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/carnes/costelinha-de-porco-frita.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2009/01/Costelinha_porco_fritaa-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Costelinha de porco frita" title="Costelinha de porco frita" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2009/01/Costelinha_porco_fritaa-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2009/01/Costelinha_porco_fritaa.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/carnes/costelinha-de-porco-frita.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Costelinha de porco frita</span></a></span></li><li><a href="https://www.comidaereceitas.com.br/paes-e-lanches/pao-de-queijo-com-polvilho-azedo.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><img loading="lazy" width="250" height="167" src="https://www.comidaereceitas.com.br/wp-content/uploads/2008/06/Pao_queijo_polvilhooo-250x167.jpg" class="tptn_thumb tptn_featured thumbnail" alt="Pão de queijo com polvilho azedo" title="Pão de queijo com polvilho azedo" srcset="https://www.comidaereceitas.com.br/wp-content/uploads/2008/06/Pao_queijo_polvilhooo-250x167.jpg 250w, https://www.comidaereceitas.com.br/wp-content/uploads/2008/06/Pao_queijo_polvilhooo.jpg 420w" sizes="(max-width: 250px) 100vw, 250px" /></a><span class="tptn_after_thumb"><a href="https://www.comidaereceitas.com.br/paes-e-lanches/pao-de-queijo-com-polvilho-azedo.html" onclick="ga('send', 'event', 'Top', 'to '+this.href, 'from '+location.pathname);" class="tptn_link"><span class="tptn_title">Pão de queijo com polvilho azedo</span></a></span></li></ul><div class="tptn_clear"></div></div><br /></aside><aside id="widget-newsletter" class="widget inner-padding widget_block"><form action="https://sendy.comidaereceitas.com.br/sendy/subscribe" method="POST" accept-charset="utf-8">
+<p>Receba receitas por e-mail:</p>
+<p><input type="email" name="email" id="email" class="inputbox center" required placeholder="Insira seu e-mail"></p>
+<div style="display:none;"><label for="hp">HP</label><br><input type="text" name="hp" id="hp"></div>
+<input type="hidden" name="list" value="THo2Wj3B7qhj2A1m9X2wUg">
+<input type="hidden" name="subform" value="yes">
+<input type="submit" name="submit" id="submit" value="Assinar" class="button">
+</form></aside> </div>
+</div>
+</div>
+</div>
+<div class="site-footer footer-bar-active footer-bar-align-center">
+<footer class="site-info" aria-label="Site" itemtype="https://schema.org/WPFooter" itemscope>
+<div class="inside-site-info grid-container grid-parent">
+<div class="footer-bar">
+<aside id="custom_html-8" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><div id="social-media-icons">
+<a href="https://www.facebook.com/comidaereceitas" target="_blank" title="Facebook" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-facebook-4-32.png" class="social-icon" alt="Facebook" height="32" width="32" loading="lazy"></a>
+<a href="https://www.twitter.com/comidaereceitas" target="_blank" title="Twitter" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-twitter-4-32.png" class="social-icon" alt="Twitter" height="32" width="32" loading="lazy"></a>
+<a href="https://www.youtube.com/c/ComidaeReceitasTV?sub_confirmation=1" target="_blank" title="Youtube" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-youtube-9-32.png" class="social-icon" alt="Youtube" height="32" width="32" loading="lazy"></a>
+<a href="https://br.pinterest.com/comidaereceitas/" target="_blank" title="Pinterest" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-pinterest-4-32.png" class="social-icon" alt="Pinterest" height="32" width="32" loading="lazy"></a>
+<a href="https://www.instagram.com/comidaereceitasoficial/" target="_blank" title="Instagram" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-instagram-4-32.png" class="social-icon" alt="Instagram" height="32" width="32" loading="lazy"></a>
+<a href="mailto:info@comidaereceitas.com.br?subject=Contato" title="Contato" onclick="ga('send', 'event', 'Social bar', 'to '+this.href, 'from '+location.pathname);" rel="nofollow noopener"><img src="/imagens/social-media-icons/3a3a3a/iconmonstr-email-10-32.png" class="social-icon" alt="E-mail" height="32" width="32" loading="lazy"></a>
+</div></div></aside> </div>
+<div class="copyright-bar">
+&copy; 2007 - 2022 <a href="/">Comida e Receitas</a> </div>
+</div>
+</footer>
+</div>
+<script data-cfasync="false" type="text/javascript" id="clever-core">
+    /* <![CDATA[ */
+    (function (document, window) {
+        var a, c = document.createElement("script"), f = window.frameElement;
+        c.id = "CleverCoreLoader60697";
+        c.src = "//scripts.cleverwebserver.com/e598039f4c6732496509b03ffa20546c.js";
+        c.async = !0;
+        c.type = "text/javascript";
+        c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+        c.setAttribute("data-callback", "put-your-callback-macro-here");
+        try {
+            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+        } catch (e) {
+            a = !1;
+        }
+        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+        a.parentNode.insertBefore(c, a);
+    })(document, window);
+    /* ]]> */
+</script>
+<script>
+  function shr_click(width, height, shrurl) {
+      var leftPosition, topPosition;
+      leftPosition = (window.screen.width / 2) - ((width / 2) + 10);
+      topPosition = (window.screen.height / 2) - ((height / 2) + 50);
+      var windowFeatures = "status=no,height=" + height + ",width=" + width + ",resizable=yes,left=" + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY=" + topPosition + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no";
+      u=location.href;
+      t=document.title;
+      window.open(shrurl,'sharer', windowFeatures);
+      return false;
+  }
+
+  
+  var playYTDiv = document.getElementsByClassName('pL');
+  if (playYTDiv.length) {
+    playYTDiv[0].addEventListener('click', function(){
+      ga('send', 'event', 'Youtube', 'Play video', 'from '+location.pathname);
+    }, false);
+  }
+</script>
+<script id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><script id='kk-star-ratings-js-extra'>
+var kk_star_ratings = {"action":"kk-star-ratings","endpoint":"https:\/\/www.comidaereceitas.com.br\/wp-admin\/admin-ajax.php","nonce":"e90800b283"};
+</script>
+<script id='tptn_tracker-js-extra'>
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/www.comidaereceitas.com.br\/","top_ten_id":"102886","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"1609302121"};
+</script>
+<!--[if lte IE 11]>
+<script src='https://www.comidaereceitas.com.br/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.1.3' id='generate-classlist-js'></script>
+<![endif]-->
+<script id='generate-menu-js-extra'>
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script type="text/javascript" id="flying-scripts">const loadScriptsTimer=setTimeout(loadScripts,5000*1000);const userInteractionEvents=["mouseover","keydown","touchstart","touchmove","wheel"];userInteractionEvents.forEach(function(event){window.addEventListener(event,triggerScriptLoader,{passive:!0})});function triggerScriptLoader(){loadScripts();clearTimeout(loadScriptsTimer);userInteractionEvents.forEach(function(event){window.removeEventListener(event,triggerScriptLoader,{passive:!0})})}
+function loadScripts(){document.querySelectorAll("script[data-type='lazy']").forEach(function(elem){elem.setAttribute("src",elem.getAttribute("data-src"))})}</script>
+<script defer src="https://www.comidaereceitas.com.br/wp-content/cache/autoptimize/js/autoptimize_74dc564f4cdd7534e2189a44b5344f70.js"></script></body>
+</html>
+
+

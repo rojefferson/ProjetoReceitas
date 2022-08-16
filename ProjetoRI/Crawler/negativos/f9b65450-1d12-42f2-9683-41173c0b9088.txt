@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '6548',
+            cRay: '73a65ea49b83275d',
+            cHash: '1c567993c4073b2',
+            cUPMDTk: "\/categorias\/1000-bolos-e-tortas-doces?__cf_chl_tk=vXYxMLmxkmw0BMNxxiwCcpoR.h0i8m2CbkOW1lvICyE-1660445287-0-gaNycGzNB9E",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL2NhdGVnb3JpYXMvMTAwMC1ib2xvcy1lLXRvcnRhcy1kb2Nlcw==',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzMwLjAuMTU5OS4xNyBTYWZhcmkvNTM3LjM2',
+                rm: 'R0VU',
+                d: 'UCEN5+QjQfhMF+4iDu/PjvoBA1c4+GgYcBRtJNjciNrg2ABH6urrk3Gt7xjtCD2lba0hckrtmLvtYj2rg4ii/ATJ6KtP34yhgwNJldc43/0yGJIXlUwv1Pq/arLmHotQ4ZzVdXqGWPfOzXFecso/GdViDR72ujfd+T5O3phqq/I8+e+u7hRLXeg13Scp1VHAd6fjCJ9FIWaGhS50X68dQJ7gwb6YYa2K5AAxRCHE5BMNHG8CE6b4ED9wYBT8U6ifjQY5gUIUp2VkXrVkfLTz80zJ06rmZMe69PmtmtbvUrygH3mEOONwKMKMQosSNkyLhXwd9x3ma7i12bRnh0LnbTHzJV0of3ED4IUv0j1bNbVlOhE/GsD1EzDtwdmktMYhTlRtHOzpYCCwNmwl3h37U4LdvkmALuhz8GaxdoGrYkNhBGiyrCsf6rHOj812mj/dUSpRdVUn7KRZJslC/25JFByNoUiyaUaIa3VGLB27+yt4f+gsPYmnJ1RRrKIJ8V02/Dxjw6265wCsn4olxwN0PmB+Jv9UgiHdb5guAZZxRUVjcvQ3uXsU1MSOO3oRxESZCSLOEriyxb7xEZJpkyoyEXhNX7VUpJjeCFl2Mr2NbQHi9K2xe7Ox6fKHe1LQrQqckCa6eqqS2jmf1hk6N5wgcw==',
+                t: 'MTY2MDQ0NTI4Ny4xNDMwMDA=',
+                m: 'FqTj5pwRwzUNCrbb+pNZX3jmV7HRuci9aD+w/hF86kk=',
+                i1: 'F+JHQ8DXSJD+ApxRgXmHGA==',
+                i2: 'YElZBTilxhWBchRBAH4nuA==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'WeRgXhKMB2Wmzg2cY+MXnBbpTpPsj8q6piec/gaTSRI=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73a65ea49b83275d')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/categorias/1000-bolos-e-tortas-doces?__cf_chl_f_tk=vXYxMLmxkmw0BMNxxiwCcpoR.h0i8m2CbkOW1lvICyE-1660445287-0-gaNycGzNB9E" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="QGpXRSoDeCEs9i3UxRDNa7X4J4VUFIJY85wv9ypuMrM-1660445287-0-AQZKz6lKJUauWX2cYqUn-AGgIYbjS2rTmlIPBFmBuMnls8qV8ULpZ6mF5F9sZSqZ2oBhKr_dkA5YIFXY-G0nKJLCv1ndy0BW6Ai2lWjekZHogvXOuf_DiXKDzSEudTgIMrH3DTDgFcTL26AjPMjt-hWvJOnWcqiIH6oS0OL9dXMOUieE3kkSsMLiTEJ2dLpa-VpnemndYQLZhdvargvzMgydoyhFZ8VOb990y38uoAmAowi6Zq_heGohgnE888PPPkkW-okGIUq0QMDXDSwkcct9B4NmZySohfZgN5DfAUBGTvLZQliiCI49U3GyqyjSm5E_3YXahfA0bxPETU_knMWwcdtQYw3ZIqaupT8SLGBQ3DSvIC5-40ya6qSm4knTb8W4Eia70KI0LoPqO1JKDnql2jC-FfArD-RZGbivX1jPdSNeIW-1TnSL2UrGAPtdQYMaeVHwOnBmSGU9jAso5vnQz0Jm4F-jSAmVaUhH0Q3EQXspKbqwZitpzTx_76JbZXsm-0RLR6qslFg0lWmsiTsfx5QCPX5kD8d6QNYgjUYJ16HMHcaM1SP-B1_Jx-7jUM-DIUMwIxumG0l8Tc9XPFVw_hU-AesWZoZ4UPSqXn0YL_lazrCEQ-suDtYVtJ7RvohTf_w6VwB7wdFATU_vLw78j29aIUqjiFcam_NivRY550TlhgegJw1wonNPou5l8xv3LZri59mrzPEeImLzh31lf_tcEW4-_Vpw6Sbt8IaayPAxgRvU7oGNQgceXY7uou3t4RuPckidBnttCdmWB8w" />
+            <input type="hidden" name="r" value="hfKU1kQBIEu4ftp.vb8QthYp1wv2t1vi1zO2kH_eHDg-1660445287-0-AYQOvO6U6+gYDVBdt5K0jjGTl3OrRTEiiq2A4yMAVl66NnfkDp0S6MRPeJGKNF1wbM+GGPelWAd7ONMkGKoGRyL+19RY9v/E6f7/x4soa8rADOoD1Qh+fSZN0vZ9K6xXpLsROCTqPtvaemNKC6NCtd+yq15npkMCm2dSu2MnL/+grl3QBxmBHpdzNXlmIbRBwcAiD/oD26l4qo23uC7diqn68bnaQW79LgeQm8lqIYnaqX7rLy54A6EWv6qhesa/f50IgepfBTyuuisb9emJ9XnmtXM0oM414nokHsvTUO7Fm2wpal7+fy4Badk9Od94jMnQTJhBoHpyURAok+ubQ1aVZYqITjYFBQTCZ+aCLj6RvHh8zzZQLN5TNUCaEXHtXvwOGUgRxT5JJmrg6A8BThWfCrOiiwDQp6aTLvTq9gitACTsG1IpI6XXXN1BrbdEHkLWZrfSz3aQQr/pPFT0iXVGovwPFxsh+ls7+N5G3ZDDLikyiowJjATAfueKGB0vV2M2l3TCKZLeHe1A6hIB3a3AoytSv2ukEX7dT6k3wZnZzmk7aJuSWfjFAzDMQWE3lGcaejPDq9FNFvOQFl9Iw1txn23gu7pjjQ37VGT5KTKjxQ09D6TjpVxnuTy/pezZ3lqhzlRl1wXgxZtMeqlHdiCOgehQjQ05pVntnCZCy+w8Z44Y3UNGKr72zGuFWYKcaCjJ3h/66hDRAJHR7z4HO34Yffjo5ifnukGYpr9wnBPZeKiCu84gdAvGuVPKvI8MgIJwFD+0RsinOq+lFv6VhOp4xkvthuEUfcjD3KUNbOsSCx/Ovx/gt3M5kpRRudtyaJlCz6Xr3kvaL4GqJEItV1U56uY+GktTeS5CBczvzJhILCokZVCKkSZKLOMYI+VSXL+mR1VutDQ+FYlpK4lcGYbt9iXZk8zk8J20QTrqs1WejyRXDsdhDb2KgpKvcd/0MXL7pzpB6KTslT650I6DF+dGWGTqPPQ2aUwngQq37TLJ+GGyHp83Yi1Wcjhj6Z7UODZpxferP2u8e2pBgAhIGTPXUMuFgpcz6BUawP3+UA9JpGXEHSOoFpq6htAt8EIWKTQHTrUMoKY5tfgNGl018P9nociGP9iQpxo/Hsa+9Zm/NV+5Lob0VzvHducGW4GwfVCqMN8/yNO2mLr8uAjUHN/bk+47CUvSC3BaJtTU7htAtPgxlsrsdAQJC4kI8THoz8Qbf+0XwEfQm6+Hv8N8Bwjnfh89MNvvsW1g19lxwC6iTv+GI8P/bwqSvDL1H7dM89aZxdV6+dg5i4+1OsG7Q0nLBejwcHmmEGAYNKqcd80x4tpCfxfz5YnvA0tgxmwXBrmJZwWHP8epYnqZVJjy9sRRXd9UcbD0C3FqqnIfgBaW03gZ/fkXGK7vHYz6ZJPnR6nFXBDtS/GVgrLUnvSg/5s4VvjN4tuinNRdOHPeOVHZfHIanfzKN1QiEo7xgcWGDmHlRFTRdLDbLijCOBW83vR5rQUx9TlHY8xY3aD9nuClEdOyrKH58NJtmhSMIlzGu/2jY8MPDlr8BgH+3yifZik3wYCPwDfK12daYWXMtj+JHdUET+JNOF78pr5AOsRt8KV/aZ+TmpPniFdDmhycKn2aOkmWEElzrERk7D07G2uyu6moiZAo2p/bewvwxW0Z64mjY2t2Mpf5Tzvp8FvpCjI5aOR2ImLaF6rO+Hr3od9JO9vrCLic9Cj/J7mxyVyEGbRuKWaXtspFg5K3ZZUVIOsu8brlGfWt/7g/PXxqnRc/cTea/Ust76NWFzp2SuLfFUeweMmZ90Lo/sJI99lWX+RT5/BS9iyyFLbgR1M0vTfod6i+cHcArwh8gF5LDyN8S12fyN3pjwwGSXKJg3ZHJHyRsJQfmeXvcw6t4kMDbhNyA6d8HjKu+jkN3evkYDGheoUmLk/8Cyf/06oKEpXCpFU="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73a65ea49b83275d');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=73a65ea49b83275d';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/categorias\/1000-bolos-e-tortas-doces?__cf_chl_rt_tk=vXYxMLmxkmw0BMNxxiwCcpoR.h0i8m2CbkOW1lvICyE-1660445287-0-gaNycGzNB9E" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73a65ea49b83275d</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
