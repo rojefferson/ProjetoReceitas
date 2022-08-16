@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '8290',
+            cRay: '73ba50f68bfbe07c',
+            cHash: '968a2f0e6c92c1a',
+            cUPMDTk: "\/receita\/41516-bolo-de-banana-caramelada.html?__cf_chl_tk=OO6kUIIqJOFzqVTWz8mk.2BAzvCkISGsG5mKk079FlI-1660654442-0-gaNycGzNB6U",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvNDE1MTYtYm9sby1kZS1iYW5hbmEtY2FyYW1lbGFkYS5odG1s',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMjguMC4xNDY4LjAgU2FmYXJpLzUzNy4zNg==',
+                rm: 'R0VU',
+                d: 'RuY0SV2AlFq0P7AC/YgKxDbxNJ/xsaS19RWyRP+rSTsD5+elPJSJ+GqeDB+056Erh1oOx5kCozQc5B8NkrRtU0bms20TQClWsWYCEkuFTC6w3wknZEhdmeNj1+3mtFUsKOTOOmgxQ+1CDOaKw0tqmx2rv6QguKN7z72Na+ho2KRkZyp8uTIQXq6nxD1Goqjkf2VvV/8RcPnV5R2L4Wjotvd9HBHSJ95+RH333h0RU+GRgKygMrJRMMGLryPCO89+jk+uv37S+Mn4B5TZ78cnfoytiU+YCg4kOjV73SRfzOVOKJEGXVCpDwEfvYiNWJmOCZxSrI7T2b117rBcOl6BvZusxYn5+xoQHwBzjmc2H12WhUNXZAir66q+HgpRELQbgDqWX7zmO2Y0jV++xU0oCYVcDcRCPFzoJyM8szxxvSrmLYE7x3fCvj1HxLrJGPp2Ciz2y+/qnh4M9hiembQDxNZ/WdMtbBSnIaCpowOvxVr6+Anv89Kr46mUPT/CDRJBIR03i9fjsdOVTOmF3bkuSveqOY1boZLOf6cVGey+IkytgGtjOySUf3iHqQU5+7O7kWE89e89oV6Nj/UH3j1e6AWhslekc1+hja3Uvyqhy0VDL/b8Af7V1CsJI17xiAIu2hrgAF97nKcMbTzgb+gxrA==',
+                t: 'MTY2MDY1NDQ0Mi4xMDgwMDA=',
+                m: 'xjNtwDrde0nHIjENcXkTui89n1u6pS24YSR0ssKVY88=',
+                i1: 'Exqq0S3Z3hOWXXspxjgi0A==',
+                i2: 'NOXg2Wd14pazqmyiY4lDcA==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'JYjEUDAA3DJ/6QXLF7tCM8pOR8BUhPN55ojOn0aB9R4=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba50f68bfbe07c')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/41516-bolo-de-banana-caramelada.html?__cf_chl_f_tk=OO6kUIIqJOFzqVTWz8mk.2BAzvCkISGsG5mKk079FlI-1660654442-0-gaNycGzNB6U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="z3N_kE_R2SbgPes1NKy3tnKwUgYMG3ePTsX4SKcQSjY-1660654442-0-ASzMhhoIgab9W6BHMBGEjeu1N_9sj7Nxrd_U3QtJSp3jFr7m6PtFTp3FrjOXnvcT8TasVjJ8XUBovuSjEfa68XWa7v30DJmheMt_XnpoBR61go34-NDSp-STJ8lQk3RHH8bRThxbkAyoJwy5uPRA72NvrV5dXo4Qjvyucr-4No-tIWPEB5PKh3VEXOdYQt-DVhoTQFlVHHjyR_jtYaEXrdck5JRRvP_8n1xBL-EVW42xOQilD3rJo6H1jhusApfVVmm_dA7khLKMd0zB3dKaIIBH86bx74b1NKVzqa3r656ikjU1zMAH3b7wVqegIf-1dZZaTAuPKAz8d_WrW54FR99sReDUlapD0k32Eg9kBh8hRAbQJsxS-BO24YilbMqCeWwrpfO2l9dvWdoBv6OoKr54wmqRhAbAGVCysBoikRlnPk1-7uH1zetTEwAvPIPs-Fwpqrd0I3HeTcvXtbRPmDVa189-zOSQ_KjWOyapsQ7HEk1AktWSwI71akWF8A2IPZSg7IdqZoJpoj1avbyl089C9PsZr5HZYN75zzLYMR-MCbu705CV-rVB6k0LFCSLN91q3JKzd-p_ln2SyWrp-p--_4s_aoLqC2MSq-3m78lwbSQc82Sujg8qOsCZVNfcqG33lyJm_CbD1dB6DinUGjZ8IUP9jIDsWvatIqErZN38Ob7gIjn9abymH8V5M6AvsP4AQAvi4QYkRNwTBXhz_nLPeL9L-QCWGYt527bO0YdT-aasg7V1VE1I2w55rqf1ORT_fRdwlgxhDq7PHrrDl6g7NNy7Y8V5-BmEqqhtrjF8" />
+            <input type="hidden" name="r" value="O7Yq1HUyNNE3MGIyEyg1V8j.xgq9U7k8zXqHlw6XCPQ-1660654442-0-AfUWMnd3h/KTzqRwVz/VIgbz7ddaxGe4fB9iA6v9rE/EvM1vrbBzyOsqs3PeEr9UgOIL2FOe6MriYxFm7NhbYoDXV0t34A0NJGpESc2GjJzIE7JpAOk8ZxysWblgdPU5Of1dVgCJVol5EXYy9hcnQeJP23vEU5Vwb8i22HRdrqCr9XZGjQWY+wRu/fTKxvHyEqpyM9F8jJMVNb+JKcdwPfsOOiLjm4GKT1EL4YVHaFc0BJ/SJrDXJPDSRgnjue8B5GVmJiHJSEvSGmGQH+vYhhTzW8yEmWKO0P1hvWBCSxqjVeyNVZ9od1bV20xmj87y3JShlrDIxazOH5TKtly6C2fJl+S2pHX7hSSOtWZz926Czdd9mM8F4rtULTz658p6mEyed+Xu3C1NaOFrVj6t6fEANeZMkPkZXsJvBCchTu4x774wB8Qng2TTcYdupfzUsf4votHxaIUprgLQ5SHsbSgdIxnI/VTmES9HvbE+WWX48hh8GSJAAHnzrRWHu+d65JetGlKPalge1kjYj6VPoiNZcWQYOSFdzdhEdu4nS4CefmUCDx9xRRRRB1ZrixybY/sA2CsiN4hui4C2/bWFmOv7XrMdTdJT7Y5wQ9N5is5qoAHDv+QpMYfaI77BslG7IGiPgpjzNPEdtA4v21vgxvOWJJzFQVJOv3ISJBoo3aEaixPObCpxms0p8JC1mT12dN3uCC0n/XIC2Wlkc2HqvSDDXaMtEe16CsPStFLbTJRCezK+15wYLxzzkQIg6xlObR0OssdyX478UL5yUA59Kp1JLxNL9lIj0ob2TncSK291+Z2HF9Vg2u9VJhj4x5coCngVOQInTGq4NB1ugYHPYWjspwgx/1cT/1GGVSwjPThV7l2Xo+fb7QW/NeJBVaNZnXxfi0a2PsXMyJdgZmjzIKWqI06J7IwIsJDGWaBFBFS0R0388KH7U3rs6rsDwVIhKzT6VX5ZZHl1822TdtEkGjbTViWsrA7Ajva9GEzRKKJdmAALGhITsz5miO8iH+MvBgz3Z8+ROE/FttUP1xuym7ydYFgTrVRhjJwcBFcL6GsNWblbrJ0e+KU29YFKORYxt7XpjWiJogbzJf//L6oL2iyt68s2ta9wPjj5uP3IrJOensxUxgFbifNIEz8f/unnYxNq3TTEJeLp6oNumVnJCJFVIPJHSHwMqJIQqOEpyFHYm05TMP5fRZ2NXCMyAFokL2l73Ga/W/xxMXix2+FeqwcGO0LkDvTUH33tV37376udr8D6pd43lBngooHJ1PrIokywFk0/7iUNpMgwkIx0cT0yebUB/XhisgAS42fidL64rN5Va0ltGKvRrVQJ7evuCiBMGJmO9SeEAhe2o+M49PqCqpxzIossO8ScPyO4N/naNHAH51SXwhr9D9IAJpSuCNki/PxiUFoOvvyqDLn/kDtJpN2q20KD28LH+K/PvwXvPLCVBWF5vr14Rmv6FWKxWEfUIYo0eNnJhQRv5ahIpFf7B66UOVjg8Ml+d/seH3InXNC4PfNFhcjEjEiJwVKbqBaUCLuwmzXsgo9/Nnj+Ek0/VgM9F26q5czqYLFDmMa4N0zkN3C2FwOjh2jsbNKkmSQO9a7a96+1yjZIHILs9fGrH0qqER9ykzar6Mj/yCOpxGhgG6+d/fhUYTIACs9PUwJ9b/gtx28VHY5mZBXQT+/GGEPilA2LRHNAfSjKU52SZUJs8N+BknCw9PgAsh8owPGF9PDjLPVb92wash3cEKm6GDqw7ZPspCJ/jDY1AsVofovHayfWeG5JNpoCt/H6ZNMivIs6eHCWgV3/OlKvr7EBpXLxx5k7ccLwmMA8eQ7ddXc3+iudLuu1r0RAHquSmGOj6E8BLpZg6EIYDxUUJFkE9pRatCh2cAzJKbSjbCt6"/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba50f68bfbe07c');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba50f68bfbe07c';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/41516-bolo-de-banana-caramelada.html?__cf_chl_rt_tk=OO6kUIIqJOFzqVTWz8mk.2BAzvCkISGsG5mKk079FlI-1660654442-0-gaNycGzNB6U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba50f68bfbe07c</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
