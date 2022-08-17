@@ -22,7 +22,7 @@ dictPAth = dict()
 
 dictTFIDF = dict()
 
-dictPAth["positivo"] =  "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\ProjetoRI\\Crawler\\positivos"
+dictPAth["positivo"] =  "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\ProjetoRI\\Crawler\\positivos2"
 dictPAth["negativo"] = "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\ProjetoRI\\Crawler\\negativos"
 
 
@@ -86,7 +86,7 @@ for key in dictPAth:
         textoDict = dict()
         fullpath = os.path.join(dictPAth[key],file)
         textoDict = pegaTFPalavrasDoc(fullpath)
-        if key == "Positivo":
+        if key == "positivo":
             listaTFDicpositivo.append(textoDict)
         else:
             listaTFDicNegativo.append(textoDict)
@@ -103,24 +103,21 @@ def qtdOcorrencia(listaDic,palavra):
 
 
 def computaIDF(palavra,tipo):
-    qtdOcorrenciaPositiva = qtdOcorrencia(listaTFDicpositivo,palavra)
-    qtdOcorrenciaNegativa = qtdOcorrencia(listaTFDicNegativo,palavra)
+    if(tipo == "positivo"):
+        qtdOcorrenciaPositiva = qtdOcorrencia(listaTFDicpositivo,palavra)
+        if qtdOcorrenciaPositiva is None or qtdOcorrenciaPositiva == 0:
+            return 0
+        return  math.log10(200 / qtdOcorrenciaPositiva)
+    else:
+        qtdOcorrenciaNegativa = qtdOcorrencia(listaTFDicNegativo,palavra)
+        if qtdOcorrenciaNegativa is None or qtdOcorrenciaNegativa == 0:
+            return 0
+        return math.log10(200 / qtdOcorrenciaNegativa)
 
-    if (tipo == "positivo" and qtdOcorrenciaPositiva is None) or qtdOcorrenciaPositiva == 0:
-        return 0
-    
-    if (tipo == "negativo" and qtdOcorrenciaNegativa is None) or qtdOcorrenciaNegativa == 0 :
-        return 0
-
-    if tipo == "positivo":
-        return math.log10(200 / qtdOcorrenciaPositiva)
-    
-    return  math.log10(200 / qtdOcorrenciaNegativa)
-
-
-# print("etapa2")
+#print("etapa2")
 
 localPath  = "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\ProjetoRI\\Crawler\\teste"
+
 for file  in os.listdir(localPath):
     dicIdfPositivo = dict()
     dicIdfNegativo = dict()
@@ -138,12 +135,10 @@ for file  in os.listdir(localPath):
     posi =  dict(sorted(dicIdfPositivo.items(), key=lambda item: item[1]))
     nega =  dict(sorted(dicIdfNegativo.items(), key=lambda item: item[1]))
     
- 
-
-
-
-
-
+    print("positivo")
+    print(posi)
+    print("Negativo")
+    print(nega)
 
 
 

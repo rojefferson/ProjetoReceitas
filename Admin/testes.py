@@ -29,8 +29,8 @@ def decodeSite(url):
 def pegarDominio(url):
     return urlparse(url).netloc.split(".")[0]
 
-url = "https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-chocolate-1603?origem=bolos"
+url = "https://vovopalmirinha.com.br/bolo-vulcao/"
 
 siteTexto = decodeSite(url)
 
-salvarArquivo("cybercook",siteTexto)
+salvarArquivo("vovopalmirinha",siteTexto)

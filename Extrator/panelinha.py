@@ -13,7 +13,7 @@ import re
 import csv
 
 
-path = "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\Classificador\\globo"
+path = "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\Classificador\\panelinha"
 
 def criaCsvInformacoes(informacoes,path):
     with open(path, mode="w", encoding="utf-8") as csvfile:
@@ -28,10 +28,8 @@ for file in os.listdir(path):
     f = open(fullPaht, mode="r", encoding="utf-8")
     soup =  BeautifulSoup(f.read())
 
-    ingredientes = soup.find("ul",{"class":"content-unordered-list"}).get_text()
+    ingredientes = soup.find("div",{"class":"editor ng-star-inserted"}).get_text()
 
-    modoPreparo =  soup.find_all("div",{"class":"mc-column content-text active-extra-styles"})[5].get_text()
+    modoPreparo =  soup.find_all("div",{"class":"editor ng-star-inserted"})[2].get_text()
 
-    nomeReceita = soup.find_all("h1",{"class":"content-head__title"})[0].get_text()
-
-    print(nomeReceita)
+    nomeReceita = soup.find("h1").get_text()
