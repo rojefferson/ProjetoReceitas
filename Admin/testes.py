@@ -9,12 +9,12 @@ import os
 import json
 from urllib.parse import urlparse
 
-config = json.load(open(os.path.join(os.getcwd(),"config.json") ))
 
+pastaRaiz = "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\classificador"
 
 def salvarArquivo(dominio,texto):
     guid = str(uuid.uuid4())
-    path = os.path.join(config['PastaRaiz'],"Crawler",dominio)
+    path = os.path.join(pastaRaiz,dominio)
     f = open(os.path.join(path, guid + ".txt"), "w",encoding='utf-8')
     f.write(str(texto))
     f.close()
@@ -29,8 +29,8 @@ def decodeSite(url):
 def pegarDominio(url):
     return urlparse(url).netloc.split(".")[0]
 
-url = "https://vovopalmirinha.com.br/bolo-bem-casado/"
+url = "https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-chocolate-1603?origem=bolos"
 
 siteTexto = decodeSite(url)
 
-salvarArquivo(pegarDominio(url),siteTexto)
+salvarArquivo("cybercook",siteTexto)
