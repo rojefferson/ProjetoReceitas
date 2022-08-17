@@ -45,3 +45,6 @@ for file in os.listdir(path):
     criaCsvInformacoes(informacoes, "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\Classificador\\comidasereceitas\\" + file + ".csv")
 
     f.close()
+
+
+
