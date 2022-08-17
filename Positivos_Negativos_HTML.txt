@@ -1,0 +1,258 @@
+receitas.globo.com:
+	- Positivo:
+		- https://receitas.globo.com/bolo-de-banana-com-farinha-de-rosca.ghtml
+		- https://receitas.globo.com/regionais/tv-tribuna/vai-nessa/bolo-de-cenoura-com-cobertura-de-brigadeiro.ghtml
+		- https://receitas.globo.com/bolo-de-maca-com-canela-1.ghtml
+		- https://receitas.globo.com/bolo-tropical-de-banana.ghtml
+		- https://receitas.globo.com/bolo-de-banana-com-calda-de-caramelo-gnt.ghtml
+		- https://receitas.globo.com/bolo-de-batata-doce-com-coco.ghtml
+        - https://receitas.globo.com/bolo-de-milho-sem-lactose.ghtml
+        - https://receitas.globo.com/bolo-de-milho-com-goiabada.ghtml
+        - https://receitas.globo.com/bolo-de-milho-receita.ghtml
+        - https://receitas.globo.com/bolo-de-cenoura-com-ganache.ghtml
+	
+	- Negativos:
+		- https://receitas.globo.com/alimentacao-na-gravidez-veja-dicas-para-uma-gestacao-saudavel.ghtml
+		- https://receitas.globo.com/rio-gastronomia-8-aulas-sobre-cozinha-basica-na-edicao-2022.ghtml
+		- https://receitas.globo.com/tipos-de-prato/aves/
+		- https://receitas.globo.com/tipos-de-prato/tortas-e-bolos/
+		- https://receitas.globo.com/whey-protein-entenda-para-que-serve-e-descubra-beneficios.ghtml
+		- https://receitas.globo.com/tipos-de-prato/bebidas/
+		- https://receitas.globo.com/tipos-de-prato/doces-e-sobremesas/
+		- https://receitas.globo.com/ocasioes/inverno/
+		- https://receitas.globo.com/tipos-de-prato/carnes/
+		- https://receitas.globo.com/tipos-de-prato/paes-e-salgados/
+
+
+https://vovopalmirinha.com.br:
+    - Positivo:
+        - https://vovopalmirinha.com.br/bolo-bem-casado/
+        - https://vovopalmirinha.com.br/bolo-de-limao/
+        - https://vovopalmirinha.com.br/bolo-casadinho/
+        - https://vovopalmirinha.com.br/bolo-red-velvet/
+        - https://vovopalmirinha.com.br/bolo-de-pacoca/
+        - https://vovopalmirinha.com.br/bolo-com-creme-de-laranja/
+        - https://vovopalmirinha.com.br/bolo-de-creme-branco-com-ganache/
+        - https://vovopalmirinha.com.br/bolo-musse-de-limao/
+        - https://vovopalmirinha.com.br/bolo-vulcao/
+        - https://vovopalmirinha.com.br/bolo-de-brigadeiro/
+    
+    - Negativos:
+        - https://vovopalmirinha.com.br/receitas/receitas/carnes/
+        - https://vovopalmirinha.com.br/receitas/receitas/doces/
+        - https://vovopalmirinha.com.br/vovo-palmirinha/
+        - https://vovopalmirinha.com.br/receitas/dicas-da-vovo/
+        - https://vovopalmirinha.com.br/contato/
+        - https://vovopalmirinha.com.br/envie-sua-receita/
+        - https://vovopalmirinha.com.br/receitas/receitas/massas/
+        - https://vovopalmirinha.com.br/receitas/receitas/lanches/
+        - https://vovopalmirinha.com.br/receitas/receitas/peixes/
+        - https://vovopalmirinha.com.br/receitas/receitas/aves/
+
+
+https://cybercook.com.br:
+    - Positivo:
+        - https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-chocolate-1603?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/bolo-de-fuba-1677?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-cenoura-13975?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/bolo-de-milho-1641?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/receita-de-bolo-engorda-marido-13973?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/bolo-de-cenoura-com-cobertura-de-chocolate-1759?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-chocolate-sem-ovos-8249?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/como-fazer-bolo-de-banana-1591?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-chocolate-de-liquidificador-facil-1549?origem=bolos
+        - https://cybercook.com.br/receitas/bolos/receita-de-bolo-de-laranja-com-casca-delicioso-1650?origem=bolos
+    
+    - Negativos:
+        - https://cybercook.com.br/receitas/o-match-que-vigora
+        - https://cybercook.com.br/receitas/receitas-de-inverno
+        - https://cybercook.com.br/receitas/legumes-e-frutas-da-estacao
+        - https://cybercook.com.br/receitas/gostinho-de-casa
+        - https://cybercook.com.br/receitas/gostinho-de-casa?tg=receitas-classicas
+        - https://cybercook.com.br/blog
+        - https://cybercook.com.br/receitas/receitas-de-outono?origem=menu
+        - https://cybercook.com.br/blog/receitas-para-o-dia-dos-pais-30-opcoes-para-fazer-um-almoco-super-especial-3696
+        - https://cybercook.com.br/receitas/saladas
+        - https://cybercook.com.br/receitas/carnes
+
+
+https://www.comidaereceitas.com.br:
+    - Positivo:
+        - https://www.comidaereceitas.com.br/bolos/bolo-caseiro.html
+        - https://www.comidaereceitas.com.br/bolos/bolo-cremoso-de-chocolate.html
+        - https://www.comidaereceitas.com.br/bolos/bolo-de-banana-recheado.html
+        - https://www.comidaereceitas.com.br/bolos/bolo-de-batata-doce-simples.html
+        - https://www.comidaereceitas.com.br/bolos/bolo-de-cenoura-com-cobertura-de-chocolate.html
+        - https://www.comidaereceitas.com.br/bolos/bolo-de-cenoura-diet.html
+        - https://www.comidaereceitas.com.br/bolos/bolo-de-cenoura-molhadinho.html
+        - https://www.comidaereceitas.com.br/microondas/bolo-de-chocolate.html
+        - https://www.comidaereceitas.com.br/bolos/bolo-de-chocolate-com-brigadeiro.html
+        - https://www.comidaereceitas.com.br/bolos/bolo-de-cenoura-com-cobertura-de-chocolate.html
+
+    - Negativos:
+        - https://www.comidaereceitas.com.br/receitas/dicas
+        - https://www.comidaereceitas.com.br/receitas/materias
+        - https://www.comidaereceitas.com.br/receitas/especiais
+        - https://www.comidaereceitas.com.br/receitas/regionais
+        - https://www.comidaereceitas.com.br/receitas/internacionais
+        - https://www.comidaereceitas.com.br/internacionais/estados-unidos.html
+        - https://www.comidaereceitas.com.br/materias/como-controlar-o-colesterol-alto-em-criancas-com-lanches-saudaveis.html
+        - https://www.comidaereceitas.com.br/materias/cinco-truques-para-uma-boa-churrascada-em-casa.html
+        - https://www.comidaereceitas.com.br/especiais/dia-das-bruxas-halloween.html
+        - https://www.comidaereceitas.com.br/internacionais/japao.html
+
+
+https://www.panelinha.com.br:
+    - Positivo:
+        - https://www.panelinha.com.br/receita/bolo-de-curau-cremoso
+        - https://www.panelinha.com.br/receita/bolo-de-caneca-cuscuz-com-coco
+        - https://www.panelinha.com.br/receita/bolo-de-pacoca
+        - https://www.panelinha.com.br/receita/bolo-ingles-com-frutas
+        - https://www.panelinha.com.br/receita/bolo-ingles-classico-pound-cake
+        - https://www.panelinha.com.br/receita/banana-bread-crocante-de-aveia
+        - https://www.panelinha.com.br/receita/bolo-fuba-cremoso
+        - https://www.panelinha.com.br/receita/bolo-crepe-com-geleia
+        - https://www.panelinha.com.br/receita/bolo-chocolate-coco-na-caneca
+        - https://www.panelinha.com.br/receita/blondie
+
+    - Negativos
+        - https://www.panelinha.com.br/home/marmita-de-chef
+        - https://www.escolapanelinha.com.br/senac/
+        - https://www.panelinha.com.br/loja
+        - https://www.panelinha.com.br/home/marmita-de-chef
+        - https://www.panelinha.com.br/blog
+        - https://www.panelinha.com.br/blog/pitadas
+        - https://www.panelinha.com.br/blog/cozinha-de-estar
+        - https://www.panelinha.com.br/blog/vida-real
+        - https://www.panelinha.com.br/loja/livros-rita-lobo
+        - https://www.panelinha.com.br/loja/colecoes-acervo-panelinha
+
+
+https://receitaculinaria.com.br:
+    - Positivo
+        - https://receitaculinaria.com.br/nao-faca-bolo-de-chocolate-antes-de-ver-esse-video-massa-fofinha-e-molhadinha-receitas-de-pai/
+        - https://receitaculinaria.com.br/nao-faca-bolo-de-fuba-antes-de-ver-esse-video-sem-batedeira-i-sem-liquidificador/
+        - https://receitaculinaria.com.br/o-bolo-de-cenoura-que-voce-vai-fazer-toda-semana-super-fofinho-i-super-facil-i-receitas-de-pai/
+        - https://receitaculinaria.com.br/coloque-isso-no-seu-bolo-e-se-surpreenda-com-o-sabor/
+        - https://receitaculinaria.com.br/procurando-pelo-bolo-de-chocolate-perfeito-bolo-de-chocolate-com-cafe-i-receitas-de-pai/
+        - https://receitaculinaria.com.br/agora-voce-pode-fazer-bolo-so-assim-ja-sai-do-forno-pronto-bolo-cocada-cremosa-i-receitas-de-pai/
+        - https://receitaculinaria.com.br/faca-essa-receita-pra-criancada-bolo-dia-das-criancas/
+        - https://receitaculinaria.com.br/o-melhor-bolo-de-chocolate-com-morangos-super-recheado-e-feito-direto-na-forma/
+        - https://receitaculinaria.com.br/so-faco-bolo-de-banana-assim-agora-i-fofinho-e-delicioso-i-receitas-de-pai/
+        - https://receitaculinaria.com.br/esse-bolo-e-incrivelmente-delicioso-sem-forno-sem-batedeira-e-sem-assar/
+
+    - Negativos:
+        - https://receitaculinaria.com.br/fitness-low-carb/
+        - https://receitaculinaria.com.br/light-diet/
+        - https://receitaculinaria.com.br/sem-gluten-sem-lactose/
+        - https://receitaculinaria.com.br/veganas-vegetarianas/
+        - https://receitaculinaria.com.br/bolos-tortas/
+        - https://receitaculinaria.com.br/carnes-aves/
+        - https://receitaculinaria.com.br/massas-pizzas/
+        - https://receitaculinaria.com.br/lanches-salgados/
+        - https://receitaculinaria.com.br/arroz-risoto/
+        - https://receitaculinaria.com.br/peixes-frutos-do-mar/
+
+
+https://www.receitasnestle.com.br/
+    - Positivo:
+        - https://www.receitasnestle.com.br/receitas/bolo-de-cenoura-com-cobertura-de-brigadeiro
+        - https://www.receitasnestle.com.br/receitas/bolo-trufa-de-chocolate
+        - https://www.receitasnestle.com.br/receitas/bolo-de-rapadura
+        - https://www.receitasnestle.com.br/receitas/bolo-de-fuba
+        - https://www.receitasnestle.com.br/receitas/bolo-de-chocolate-com-brigadeiro
+        - https://www.receitasnestle.com.br/receitas/bolo-de-chocolate-com-calda-bolo-peteleco
+        - https://www.receitasnestle.com.br/receitas/bolo-de-macaxeira
+        - https://www.receitasnestle.com.br/receitas/bolo-vulcao-de-brigadeiro
+        - https://www.receitasnestle.com.br/receitas/bolo-frape
+        - https://www.receitasnestle.com.br/receitas/bolo-nescafe
+
+    - Negativos:
+        - https://www.receitasnestle.com.br/aulas-on-line
+        - https://www.receitasnestle.com.br/blog
+        - https://www.receitasnestle.com.br/cardapio-semanal/semana-1
+        - https://www.receitasnestle.com.br/nossas-receitas
+        - https://www.receitasnestle.com.br/foodlists
+        - https://www.receitasnestle.com.br/dicas
+        - https://www.receitasnestle.com.br/cozinhando-com-criancas
+        - https://www.receitasnestle.com.br/categorias/receitas-do-consumidor
+        - https://www.receitasnestle.com.br/dia-dia
+        - https://www.receitasnestle.com.br/maggi
+
+
+https://www.receiteria.com.br
+    - Positivo:
+        - https://www.receiteria.com.br/receita/bolo-2-brigadeiros/
+        - https://www.receiteria.com.br/receita/naked-cake-chocolatudo-de-halloween/
+        - https://www.receiteria.com.br/receita/bolo-de-cenoura-de-halloween/
+        - https://www.receiteria.com.br/receita/bolo-vegano-de-halloween/
+        - https://www.receiteria.com.br/receita/bolo-de-abobora-e-chocolate-de-halloween/
+        - https://www.receiteria.com.br/receita/bolo-de-chai/
+        - https://www.receiteria.com.br/receita/bolo-de-abobora-com-coco-de-halloween/
+        - https://www.receiteria.com.br/receita/naked-cake-de-baunilha-com-chocolate-branco/
+        - https://www.receiteria.com.br/receita/bolo-red-velvet-de-halloween/
+        - https://www.receiteria.com.br/receita/bolo-de-batata-doce/
+
+    - Negativos:
+        - https://www.receiteria.com.br/receitas-faceis/
+        - https://www.receiteria.com.br/receitas-rapidas/
+        - https://www.receiteria.com.br/receitas-fit/
+        - https://www.receiteria.com.br/receitas-para-jantar/
+        - https://www.receiteria.com.br/massas/
+        - https://www.receiteria.com.br/entradas-e-petiscos/
+        - https://www.receiteria.com.br/bolos/
+        - https://www.receiteria.com.br/carnes/
+        - https://www.receiteria.com.br/peixes-e-frutos-do-mar/
+        - https://www.receiteria.com.br/sopas-e-caldos/
+
+
+https://br.recepedia.com/
+    - Positivo:
+        - https://br.recepedia.com/receita/bolo/233458-bolo-fofo-da-imaria/
+        - https://br.recepedia.com/receita/bolo/232308-bolo-de-cenoura-com-chocolate-vegano/
+        - https://br.recepedia.com/receita/bolo/231115-bolo-piscina-de-cenoura-com-danette/
+        - https://br.recepedia.com/receita/bolo/231114-bolo-de-caneca-cremoso/
+        - https://br.recepedia.com/receita/bolo/217726-bolo-de-laranja-fofinho/
+        - https://br.recepedia.com/receita/bolo/216800-bolo-de-cenoura-com-canela/
+        - https://br.recepedia.com/receita/bolo/216798-bolo-de-abacaxi/
+        - https://br.recepedia.com/receita/bolo/216125-bolo-de-limao-verde/
+        - https://br.recepedia.com/receita/bolo/215968-bolo-simples/
+        - https://br.recepedia.com/receita/bolo/215964-bolo-de-chocolate-de-aniversario/
+
+    - Negativos:
+        - https://br.recepedia.com/livros-de-culinaria/
+        - https://br.recepedia.com/artigos/dicas-de-receitas/
+        - https://br.recepedia.com/artigos/dicas-de-cozinha/
+        - https://br.recepedia.com/artigos/ocasioes-e-momentos/
+        - https://br.recepedia.com/artigos/dieta-e-nutrio/
+        - https://br.recepedia.com/artigos/curiosidades-culinarias/
+        - https://br.recepedia.com/hellmanns/receitas/
+        - https://br.recepedia.com/seara/lanches/
+        - https://br.recepedia.com/rap10/inicio/
+        - https://br.recepedia.com/pullman/lanches/
+
+
+https://www.tudogostoso.com.br
+    - Positivo:
+        - https://www.tudogostoso.com.br/receita/109535-bolo-de-maca-de-liquidificador-o-melhor-do-mundo.html
+        - https://www.tudogostoso.com.br/receita/3004-bolo-de-fuba-com-goiabada.html
+        - https://www.tudogostoso.com.br/receita/10782-bolo-de-brigadeiro.html
+        - https://www.tudogostoso.com.br/receita/41516-bolo-de-banana-caramelada.html
+        - https://www.tudogostoso.com.br/receita/94018-bolo-de-milho-cremoso.html
+        - https://www.tudogostoso.com.br/receita/85429-bolo-de-laranja-de-liquidificador.html
+        - https://www.tudogostoso.com.br/receita/78068-bolo-de-maca-com-canela.html
+        - https://www.tudogostoso.com.br/receita/2313-bolo-gelado.html
+        - https://www.tudogostoso.com.br/receita/59066-bolo-de-cenoura-com-calda-de-chocolate-que-derrete-na-boca.html
+        - https://www.tudogostoso.com.br/receita/1650-bolo-de-milho.html
+
+    - Negativos:
+        - https://blog.tudogostoso.com.br/dicas-de-cozinha/12-estrategias-para-economizar-nas-compras-de-mercado-e-reduzir-os-gastos/
+        - https://blog.tudogostoso.com.br/dicas-de-cozinha/10-alimentos-que-voce-nunca-deve-colocar-no-micro-ondas/
+        - https://blog.tudogostoso.com.br/dicas-de-cozinha/como-organizar-a-geladeira-do-jeito-certo-entenda-a-funcao-e-a-temperatura-de-cada-compartimento/
+        - https://blog.tudogostoso.com.br/cardapios/fricasse-nao-e-so-com-frango-veja-10-receitas-de-fricasse-com-outros-recheios/
+        - https://blog.tudogostoso.com.br/dicas-de-cozinha/truque-para-saber-a-temperatura-do-forno-sem-termometro-vai-transformar-o-seu-jeito-de-cozinhar/
+        - https://blog.tudogostoso.com.br/dicas-de-cozinha/voce-joga-a-casca-do-abacaxi-fora-pare-agora-mesmo-e-descubra-receitas-faceis-e-economicas/
+        - https://blog.tudogostoso.com.br
+        - https://www.tudogostoso.com.br/quem-somos
+        - https://www.tudogostoso.com.br/privacidade
+        - https://www.tudogostoso.com.br/categorias
