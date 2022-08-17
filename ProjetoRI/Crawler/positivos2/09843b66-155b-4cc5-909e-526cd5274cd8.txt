@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '66986',
+            cRay: '73ba500cbc74275d',
+            cHash: 'd78d4427b777c14',
+            cUPMDTk: "\/receita\/109535-bolo-de-maca-de-liquidificador-o-melhor-do-mundo.html?__cf_chl_tk=bpObAhxK0DZqLOjZRwkNlPnuUjWHEXSzk7BWDcLlMQ4-1660654404-0-gaNycGzNB70",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvMTA5NTM1LWJvbG8tZGUtbWFjYS1kZS1saXF1aWRpZmljYWRvci1vLW1lbGhvci1kby1tdW5kby5odG1s',
+                ra: 'TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNDEuMC4yMjI3LjAgU2FmYXJpLzUzNy4zNg==',
+                rm: 'R0VU',
+                d: 'PUuQOoKD54X0hCEJUMRGLILwf/zY7iwOdBeQLbk9ND2wVoDPzpmJT78ffEBHH1IKroq2cAyTQ41a+Q9ieRin+V9Zadukmn8r4wSSDu7AL89YgW3cHlSnrNPUpKszQlY/axWvpA3zWtK+Fes/EFpH4T3ygOczq0Z29neWJlt6TWI8LK79sv50ILxlYhaSJqMyOKzmnGYOyxsx5b4isYwzCxvkbaCtBavg7CpYatZLHxxM+jA4geO52QvxlielJW3ICr5plDJbMVi1osMeqRu92ayumOBSuTopWPJ807IcFFvrzP7oaGTK/lzob8jAtxneAFhbxyS34etvgxBKxvWQtsa79FP2Djhu9iGcxeMeaPgQUTVY5X7hmSUG3vBA4HJyBbdVZA3bSAxiCemn8lQZMJ6vWzBB2Vq9UDrZLRxGOEB7UXa7UmiJcYCjzi76tnpZUE29KpmmD2ylfzZSHtIUP4/EfuVY3aROwcgbSHs/N0LmXho5eKInerjb/Ou0CmUxf3XYSbxb34uFWqGNesPjqKNcNwNd0p6KthXyaSfXUcS/f6IlvI/oKwb3MsblHh5oOGShHVQ4VLv5Y8zY0OdpbqatQ/E/AKZrdpI4WhBBD045n+yC7nKLMzBw4RuBRejJLD5MDHS4r0bwwD3DrV6UrA==',
+                t: 'MTY2MDY1NDQwNC42MDcwMDA=',
+                m: 'DeBKYMv4akWw+1VztTltFtnzdB9DLlyCLNkK+f/MwPE=',
+                i1: 'g7az4qJCz1dh3dVXCQZM0A==',
+                i2: 'aVZXrnq+mOYV3x71CBcT3w==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: '03EKvqOovXVNfQIJsXy+XB/glpZkRIELG2S+OsztPfU=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba500cbc74275d')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/109535-bolo-de-maca-de-liquidificador-o-melhor-do-mundo.html?__cf_chl_f_tk=bpObAhxK0DZqLOjZRwkNlPnuUjWHEXSzk7BWDcLlMQ4-1660654404-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="Xmq1XyZQpdosvqAsbGp.MA7HnJWRifiKYBQRhRs.SQo-1660654404-0-Aehs7FBMBK6cD-gmJIXL50D6blOw5wNAsIN_MddFq2MTgemtp6PWN5T3A5YP_szfUF3JEMHypQXL7mDnKN32yiaFNRS7nMfIiLVtvDNWJO4TJLeUmSZdmIGMqkb8ek6EDs4bfXGpBz7dR0QMykgZvdK4e6acHEEJtvUruJ9pPWjTJUnENHeeP4J98uMp-VkEojCet0RMotsktb4YKOI137Ab06gmLBFtvbLbhsoEqe6a-dI9dMncsV75OhO_rT5jWFc9ry0WtEBpt3aBKaxOrIpj0DiyYwSq60XQe1i-WPcAMYikigvfk-AgMUM_TWazgF-iRJ8jY0d0kUi_sPuX1j1jZn3hnayNuwDE3kJXHf8fjhK13uhqY4R898BADXdajmaw1JWJltiZiy2-tNmbtDjBc9mXZuHfL4McdlvzbUaVQqu_vifgeczWGdRYSIR-AYMh3AZHmFcQBj9buQPFK59CUKs_O6WhUGY2Or1WZsVyEdGhSYbJ-G4IsSUn5XW8IEDJwCuo9O67uVjIoCnXeGFkIz16vAt30ocDN76aUO1k-FM2FeeyYsmVW5rp1Otc3OzbsnxUyBXR3i22aynb_v9rOYSHemjwgrpw4SCTSiIlgEh2H_YcNtsRLn9sRVONp7x0-JvjFiuzN_l-4sfmBv-Aku4aEQ4AzAAdFgGhCy7Lh9WaJkXbfVfHxFtNqE9ULqMeI3m05cm14oyw2QaiKuuSwa5-qFUthKMtVYfFCdr-PM5_Cf-k3c7uNG8gIcNYjCsMkRXcfGMCfbsSbiqwnb8So_wgB1FREwoqwrrYw4d5d__OhtU6iSD6WMKw58JzrXxyIT8uOKwgqJWWhBJQM9_0Ne2GGr-ggoW_hVMqrgi_" />
+            <input type="hidden" name="r" value="QJk9UUPH60kWwNq..lpVTA2eNhnF9mCodjwvaYgVOP4-1660654404-0-AYQnG8aQUO149AyEMKONP4VDjeJyKkg8FU8Q7Z/hpY5/w4rhTjv5ASfuCGiv4GzxDd7YmtGbhJMcGvFo8mgQ7ZQCxL+dp0WgVXLTVabBt/Alxj6gXDPgKMxZ2HqgfelgQjeTFqErvQfkg6J3ooAglzQI8K6EF08bLRQbK5/K43BGp6B7gRhOldpXq2WzN2rtNl7+W1LkLXt9qgW8tlRzRycu7CwmI6PmCeqXuVNUvaBKIY2EbFM8piRIPB/kSuUUcK2B6nu0sF4LjfVqge4t9clkZAJ0GnNWrWr630JwgNgpJFBXIg+2IV31Psr2YupuDrgWC6XYBHaLEYF1iADPFXokBn9eoBd0IBBGHElqALaJB9lbEvYvSSfzwukJVuua6eVIh+LhWbRQyO3+zSFiMg+RdOWrfUTkmBT4puKs2uFZRcnsI5ZWS+SFD+xd/znL2ZvY9/1VFw9/1tIwrJYkBatSTT/SDWn64Inj5ugutz+37umBe/CAKcQ8E90yqzHHHO4CFkr3QmOX9Zyr/X5jJBSUXHJOALXnVGCSMc6SVcAwZsM3TTZ005pBy9qzM52vhsJTAdq2NKGozMTJL6gRC2vluyCzNreMx7ECUtmXLkYLuaCOOZfhe3Y5TNuLI3WQQbmVb8KRnfZBdlAVN8KykfxQ/XdkJz+MCuNrc/EE1xSWuKB0cRuHSVHhOBhyyECt4FPqD0hT18B0aepqZZuxTfXiv3W6i1J83zDAPWI+wow2r7hmswdt/HcY6CV/dWRm8rKIzQRDcI4jmd4JV/SlHFQRCy836UYnYis3j+kQA/tOKk5293nD1jCZwbkqtAXTS9DKsiuLu8ba10nYA88lljQUON/aCOLzzfeNYlhJKf5f5tVj0QIDkYqLdqgytxGgVEudiVU6nQx2aSFBKy9Fcm5PawSqIG8uRpFV40ohvnN5GnYOid/+XicyIz5cgrnFBlx2VMQkIxGPd8ZcaufBLwOR1h2FJ8zvQ0Abncknf4wgfKwukUxgSPj+Z94M2Mf/vVpW6MkT12N89Rvs0lXH/uKQLCP9rDpO5aaoL18vxtpkLGyrOELZAj90SgaLY7rVE+naYKGd23TbC4cJumxGuewhK+0TsLAzzwCXrGWtMoEGA93PJqkdaRYP5IT1nh+0iq3FKne0DYE6NIttv4hy95LQMHdvyRDjuIt/jUdyHwvkuUnWrvsFmWtNLfsOPP+qsvGB3P4osY6sHlXQLYqn2AaqkjkQtMPARm0spR+WPhOv/eVsVEfZ3Paldbex2fq45lzvMhrKy3PWjsnZuhag0I954aSnYk3wQC+DmhQZMIl21EQ/t8x7imc0rhFRwjM78yvhCNcndxcpP7MomLmSnFO9GfhTjmbilrbVyj/r/J6YHhctXPYk1Me+etf3+ATDp3E+x/IQO2hzob8dOXb9zaqAfp1kEuISpg4p2/vtN+68D1UhVUxCnTWPr5QKfXJlCdx/0eXTFrUa5jN/qAFyLZlVaWntJ9Wv9/ybPu2XGf1cffOWW11lvW9V0takmIREKSQcMiYrytioKl1eSk+OHEY/wYUTn0wrLmZYKRD2MkOdFa/q8gKS+kKBPbIWaZrecDCzh6GkDrBcWcTli0Hxac2Oi+nxMnJqlxzqrUWtnrp4xBnsbptGTrxhOz1plY7SZgI1ZiBGcHg7jmM5HoBJeEv7sLXQPLjkUKBmxwcykYsIUyDkqya8GgsjqCbohb3XFfP7t0HcXwE/ZdttRVVEtuN1JlUAELoUfpqZAWlezjmVQhJ5DfKIL0U/Nl2VmY44f3UEUgeWOpSUhRKSLVbwT/LNoYbTyC461fncMD9TLzpcDuOvV3IXPxEGxKu00YIaYn/x/ZJXXUHJ3Eb6dbA0mclW0X79cF6g8wi/B9+cWK1mvQx98HiON8Gn3JJGAKRo/Q=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba500cbc74275d');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba500cbc74275d';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/109535-bolo-de-maca-de-liquidificador-o-melhor-do-mundo.html?__cf_chl_rt_tk=bpObAhxK0DZqLOjZRwkNlPnuUjWHEXSzk7BWDcLlMQ4-1660654404-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba500cbc74275d</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '30717',
+            cRay: '73ba5078dc4a2745',
+            cHash: '820aea33b125e5c',
+            cUPMDTk: "\/receita\/3004-bolo-de-fuba-com-goiabada.html?__cf_chl_tk=mMUwAlschhH79qN6a.aAod7QjLDfCUqPi5g4O.tBTWo-1660654421-0-gaNycGzNB6U",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvMzAwNC1ib2xvLWRlLWZ1YmEtY29tLWdvaWFiYWRhLmh0bWw=',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNS4xKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMjcuMC4xNDUzLjkzIFNhZmFyaS81MzcuMzY=',
+                rm: 'R0VU',
+                d: 'NUQ6UmiPcIk+wz//dBbwFf7Wx0PlPbO6H+Y9Yw5hS3+16ykbjSxHA4Qw/5/ua+1naJSP5eB77ysVvm5shkzY7w9vKK+baZDq/3oaBcqB1JAhEEjOKtNfAohOUMSdd/TmW0/AjA+BmbxyNxpN6T6f/MErPQ5eWVLm3Uc07v3SsFjDCswsd8XdXL+d5fibe7m0OYaCiV8qmePRiwyIi98tzpjklN/PTpKMb7dx5zdFuFA/yT+Yf+xZq2cecyWiAQbNKMccZE+zqgArJSlmL7n+6Q9Taz2BHH36B6ltlLbb1FfW407BHFoUldZecMOpF+lnVPyJCTVDeLScftaZooG5YATf3eAfTUHbDjoBqP7zc/x1G5nS32vwMabwqloHqyU3Jjmx1QZnXpATEWY2gIatxxVC3iMM1UcPs1XNxH+eEtCFAOp95YlinR0PCOZNzl5rbyYKf5fe/saBywjnGE9to2WhKdnMJ3bgeX0OC+Mh9YHhANckOKfm26DpCDBHUwVuv+fcg69Zf1XJJPLEm+HOZW/kRhaiYhdMa5nbYDxtedSnG5PLoVr3WZrzuFFXPERoyFlgF6XUsMgD8jXAaQ2baITeq106umHkPBhDHt2uiVRGNUVKzo98GpQ0lN/zD/c7ry7REasstwbCm8AJGPOtQw==',
+                t: 'MTY2MDY1NDQyMS45MDEwMDA=',
+                m: '+SFuLsclMl0Wa6Og6XDXsS0xxsWXl3YRV15TR0JiGPY=',
+                i1: 'CWjegjjoLZTfcqezKO850g==',
+                i2: 'JYsr591Tu+uvjTSjo4U+xQ==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'AS3YBrvbKsQRmGKk/O+tFUV1MsoCx4aoTxgPZ36wR0o=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba5078dc4a2745')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/3004-bolo-de-fuba-com-goiabada.html?__cf_chl_f_tk=mMUwAlschhH79qN6a.aAod7QjLDfCUqPi5g4O.tBTWo-1660654421-0-gaNycGzNB6U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="3pb02QubPoLo3QwrZiFRSzvtO57g1UPXys37tT8dGmQ-1660654421-0-AXWV-FWQhzd7DRkrTTGMXvHD9Di7QkLWW9fJwP5wMEyljGGK4TsmErdHhdo7oemnNWNXvCyhZ9LwGdlGQXwCxqn1I0zaMldPuvbXyS8jBO3OlbsU4lz3cw_P4RbbgQYX2IFI1qpB3qU9i6Dgsj-1GoNDdDcCcjGJGoPvkaKRrQ3EcR1iW6D6B4RRRT3HenhDndNPcRNj42_WcCPDnjO0fofqjlSCqQcvTBijf6DWLc8Ji8RoL3KPImfQru1BnvJVq_lLx3bCXsrgzsFgaomZoXTcfTfLfqZci4XNWunUC981NohRIJaErKFdrt6hF4aRB5_r3RA5GauZGKRNbKJktvaNyvKV9MT_U0CAMnAGt01P1L86BQZxaKNz3tgnoklane7owxLAVfZe4HmWLnD1Bv3rr-t47qgeB3f4-ATmST_JQwI1RjtvYmf2GZkkqarQr95tNxAK4MsJg-6Z35If4M_ifDf2BK2Tk55JLA1FglKmwPg_wpxy1UXVMawZs53A0lVRaeDvF5zpndUND2HZPEjStmLt6xN1ldp4brY1OiGOoln2Mc9LnKdAxEO4pGxwr6DBlCwDHG7BVwhkwWhOD6axpdkfIpig7MZVbF8wflgUnYTKlQ5lGPAxTaqoqKrl8XS5nZnUmZ8gh7JKUmDwHYFkgM1iEw-K7alFXHzA2ixeDzpsF1DXXXlJVVjWhLY09ubOGqdk2Pt_eWGxQlXDlrifZQVZwpSNRkTZ6Duw3CqUR6Kcahp8CQBxoljm_wBo280TFsB3PywseY-g-cNiHG0NT4psao9J2_2fHd4-sY2b" />
+            <input type="hidden" name="r" value="r7dUKFeMQktk73fQOTv2r_khTRPY7IMaUvTH.hWbm3Y-1660654421-0-AdRTKtm/6V+uULYMzs2aInqFh9TaaeEOkCmACS5HKvd9vQ0EIrHm7MzQzl6Ts4BTrQFqpGeABdRpFfL6mYx56mDfRtf+B8qKhl3+ycPuc49qf4jqq8DUSu3QlG4bBa5DKigqI9Zsa3CMEvQ27NU/YdBaILKdk+NU5hqYnnWTc/o6upvNywuPTpmfZapgTAYEcJJqX1ugdFYVUdOYMpaI4Nui2vKot+4RFAdhda0E9+xlfbS9gn16K9iuqbpBEB5/Qz0w/nf8pDNcfOiiquWyBWvcJrd8Wjpyh8DvZom2flQJE8K6YEug8oRlLd5YVAm7SCF0AhUOTtHaVbRuqiWHH8e+/j4vNLE3WI2vIBzluRh0JklISfEMFHRExOLJppRHqt3kpdCeo/iFH8O1mxVj4hYSAiK0XouN2Vf2r+4xwxW08NTz84LYUrE8cz0O2yIVEG1NXE/lJC72HSO2WJYPQIF63l8rffclw3PCYbLFODyItSltx93duM+coolLxvOt3su37R2GmMVi9AwJJ8ibzXXhozJXK7IJw7p9KuROAhOvz1GzjAhFhbGVjlt8LQ9eCB0BLN5F3cadOEWfmfCw6JJnORZ7HOK0EDEy8LLQbHPpSNR9tMuXXBsEnGzq6iMjJJoqzmd9uMtZ0LCvQUuwHCtrUrkQooMZLVLMokqvUdx4QGxUk486BfSGO3u7XeMuGdZ9k/UjDZZkGXTMQDB5eSnThPwPsJvKVXlSicnA+2tJgLpcYo2NJF5202aiwpGxSJnmAsEzQgdVPUGzIDMpzHovlY7/TO55vvHpVRK+/Ya5ZKb+WxqNL3BPEtX/RWNA4QIoONx5vhJv9xklBJfK3qcOEHF0UjNtdsRIoet6n5WB09F1ISAKf0blMzaikyLlSJYwKZ66rJKYgEYQpY0ZJca5PA73Q/7OGOdsjBOQ8De/lQEV8hAOmcKgoyUgY9Nv0MsJsFftxD+pkp+t0x0mnjNR0G5atf1aiPpXayeNS1qmMMYbn6wOts5yAF03cooO/HdDVecs7o9E3FVIA6+A9b/amq/1fLwkjUReoTF//86QO9LBuP0cRuMFiLHjDTM7wrd4scXl5Ek7kMvtSW+lBZnkbW2cBvzw064J5DLXmutuTGWqDs1BKSL9lLCv4PTKU6PRLIRuft6/laHUKN2gDsaTKETaqyHTdqDfLqCpmGszrnNUkscOpT/DrGZvKuVEMfMaqYZeR8aNRTmOnpzfdwfq8/4Imowg6tH1hjvUJA5yQGD/dSf+c9tjHuxX7Zp0g9rhQjZFdj9liQYTM6BLc/TIWar6QDrG6jaBd/AmS1jcsIDILdmewdvcCLdmWWiOCMV3g69YsCSg3cR87t4TAW0/23bVZvqSlge+CFMCEL5EstVTX+GcTB5M4XmezKSC1jceUGOqEfeyZ4xGdUg1JCM4SWfNjpHlmjB/C/4FcKPFrj33lpEiKepVvBN6s++rYvdKDu4eCpbc7d8XfVettE5duf3r5xiQWdU5GJmZ0PWboYWXQ80X+nGb8hFyZy0AMdZ9Jpzz+i5nIRfEkRlK64kfr0UpnpFPOaAXeHt1hag+vsNuH3gTgbDPI3DcVy3JAz8/x7McMIRUrVPvDjJ40P1a6Mjo5y+FUhN/eBTH16ybvq1zsMe+KS8v9u1XwJIxlD5ws63C5n38t3MHqjaVNAKuRZp+ch/Xz6zeYMcFK0sO2lPM6DFqOPyrU1E5fouxwAlQ8WcFtn09Dq3WZIQhkCjBO2HjgO9bIhakDXJH7TgqJ4dIIgkFB/mxLw4/GdzAY4oK/5QmCz1ES6JwT57ORGBmA0iVxd7cVxOzlWjiGAxp2T0nifJsTv63G9MenJET8h2mF2b0ca9h9LCcfSIg9rXZeJ59a3gSqnPAnWLn4102"/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba5078dc4a2745');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba5078dc4a2745';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/3004-bolo-de-fuba-com-goiabada.html?__cf_chl_rt_tk=mMUwAlschhH79qN6a.aAod7QjLDfCUqPi5g4O.tBTWo-1660654421-0-gaNycGzNB6U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba5078dc4a2745</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
