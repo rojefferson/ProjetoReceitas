@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '76868',
+            cRay: '73ba5173ff032743',
+            cHash: 'fe72762330c2753',
+            cUPMDTk: "\/receita\/85429-bolo-de-laranja-de-liquidificador.html?__cf_chl_tk=nyyLdCLGtbESmb0QCrnZ.tiOaM4TLGhfHWDyGKw1w9g-1660654462-0-gaNycGzNB70",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvODU0MjktYm9sby1kZS1sYXJhbmphLWRlLWxpcXVpZGlmaWNhZG9yLmh0bWw=',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNS4xKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMzUuMC4zMzE5LjEwMiBTYWZhcmkvNTM3LjM2',
+                rm: 'R0VU',
+                d: 'b6mcm6dC5Q4yk3GLLfziIhi3NUG2XRtt+ydD7Nftu3/0SLRDIyOSuGncysTuC3dAXttnkD4gKIda0cP54LwWd40vmSabdsUj/zbss63ocZ20JDyl65clMvhdSIy6+k60ki1v/pF6R131O9dT4UnxG5776BHAPcnqsX+BkAxmVTjKeskWezAgABdVRbfK+mKq9lUxGIY5DaN6CNoQerQq7tG0fbmDVIPtiqnn50BluUh8KjWmjA6JxdaERr88nu0eixk8R4aa0kqIPh4uPqfqfSUtTWQcr5YiJUppG1hKSrSRbm4E97VFyw6ndrWYINxA1zGUWHiz3PwUdlvJnRLs194CckaIElqLkihzey7M9IVTzx3TvH2jZjwmzY/U/u3qqPjEiROpMFSJPtB+zSUGDol54yLUnEUiOepDh01Ex4HzIRSYEX6qKVXOWj78pzJiPN97J+PONs8U3BFrbfOutmpYxbmz1FH14umdNrDwgwt39uz6MfYhSPbS8NKLJJhHkYiAwdnEJTRTop5Dm3tDmZ6hfVtoiUn6Fh+q8lTlUUKCCw8D35eX+kPs2SDRHd81VjNhSqbl8rp+UmwCuwsU/ryKbdicpqP0PCT24Nn1L+1foESjOkHNbztawqmn2tnBP4VHW3vpiusV+96bWCpyYA==',
+                t: 'MTY2MDY1NDQ2Mi4wODIwMDA=',
+                m: 'SCXoacZerDfEE1ckg0M5oHxazaPMRys+eqJ6WI7ofbA=',
+                i1: 'uOj+X6nk8PERj6y6I+x3Qg==',
+                i2: '77I1UvBkKrY03x/nthui0A==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'jSAZkXOTaVAxgJ+GIAWLnzzM2DAT/i8ZN9h2ys02o/o=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba5173ff032743')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/85429-bolo-de-laranja-de-liquidificador.html?__cf_chl_f_tk=nyyLdCLGtbESmb0QCrnZ.tiOaM4TLGhfHWDyGKw1w9g-1660654462-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="EiIXKPrcpcvb8Z5_2AaBWC9xUjZzZbiMOVaZRisg1LE-1660654462-0-AU8LPKbAF_z-aaHhmeewhW2oNbHPv8NLkO65z6S_sbPm6ZhHu6a7tNhBxGz4xRGgyagj_EknRorRi2IsVjuITGtiguCQOxOdBba-ut-4myDkPRKtRb-H_yCOJgZCBh0jYmP-YsMJ2-LABlFd9xm1hlgUt9oUcerJzT5Os6fwweEYnGZJ7wRzUtlJRBudgSTAZxh9dUPh41W8bICR5pjlS1b_uzG3iaV9ODWp2KaE_RG50VuyRZgeKDIpnnLgiIryCXtf7khSjHE1zvxfD3wjk5C6Aag1u2RpkF3o_hpbkwvYfOd9lc3EFSjo0W8bxaaemHZKyNGk5AqINiU9ttMmY9O5fMvfkqnFLLF4R7qXafTBCFMIYC_CYAJMzqMSaODa4LQ4odOc65fWE2HyhYJnHYb5yqiwQew0V4-NKdxB3uWM4pqFIbv_wqVPvLrU2h4fF1MzA15fnOuid88PuAfkgTHavAfIozAGVHkai9A4WKkR_zDj6BfpudYM2KA1pm2h_odPsMHHSamHl4Jo1By1D1mHQ_YS7O8r_hv_oqgOXOkOQlTbb9rVIylVP8ROnCO4d2md87VTCdMX5D20GTa0nxjoBpnUvSssDHNAB1brh-ItLEWYFhCRbwAaU_6msKLaXDDLEd972K9WFj9bNKt27EaTZnoRETM8ZgQ_1dFp409m5QAk7196nNjoBMEyBbAUxX-r-DnTw8hLGZZYbx6_hyQGSShz4Cs7WKeW0KTWT1VvjywEweHc13O9kRBIOCunLj_Rt4kFe0DXEms65oYE9DJzYZsal4DhGf2efL0wJXej_QegL67l2M_raDyjtAHmpg" />
+            <input type="hidden" name="r" value="LkboQv9L2pmM.ufn4mUmmU2qYudxnrJpydpagXrvG9k-1660654462-0-AQOQY4nWbljqpLacfipKHg9KHYlbjPN/NUwMg9vZgUb0am5+TKi6ZMEgfDuhdOV64AEivAdbAxE1mhb/DkydfUGDAgzXOrwxy87nfcHS8ok7+kckGyp1IMBcx4xWYoDFcFpd8082FDM/h8RQBvxB60gki3HBdbQu7ekuCuXJD1lk5b26mpRDn3Xi0IWcAZG5mygZaS7rg6sJ9gkf4mk5v4HX94FszEcr46qiuYAh7s311eCBG/DgFyXnqtZomrM3OtwFnd5ygnqMPZE1+vyv+6mbBN2W7ac0h/nR8lbMsaD1R4p96lnfTTIe+t7metD2luSDjYO55kPqhaRMBvlN6ntWcjNrvxU/CnDTi/9uO+68WcpGAgJR2pnZdYNfgePFivRk/5NPN7zqQ+QM+eMm6PgUuSAIoMYmejn2xf7qZYvnJh1UFU8gI560tIHPc7s3wewScbvviRP6ZnPrv1ftW9NAJOObjG0AfbmaPz1ZbBiR9ozN5b+mBV4F93P0M3F1235xH48X6hZwsxGb/GYq10PCIvGnH529GX+hFJGwfZstgIXm6T7bMI2arT5vLBZOb+rsUgbzOvBj46hKBZNAFXMGiUn4qpXhAxk4xha91KMgd7RDN0TvMZFc5OSwZd66PZ00MbgoMNI4jYkrqMVpw8GS+NruMTtMPSSuVv0jvIjYzF9clXWku/N+yn++SDbwXly7sGAli/1YuD1EK2DZfAitlym8xAv7LFAp64IbF0+RZN1pNcXcYCE804Wgujmcg6qrcxPeovzNOb2RPb+CcWgh8LlcZ1I3xjtj1fc6U8YImSlKdc844E+smghvalIoIoiUXGkrxewnvOyCJXnpFdFkHPhra2XypjZ/igvmW5GajmJBr0+5/04Gh9hbvJ/3jrthCCmuf6koUTqHUdRd/Ve+/dDSAvt5BnCkGZ4TYsFo22h3Rex73+r4X3WHY0iDuUQM9S2Y/uOANzBBNBuqK2k4RZSIMoqX6zZkxlVldauoFYVUjVfcLPQzRQDF28Zq0bl4Gbrrm4OcbuCdOPd4NHHGlFVYIAufBiN3sKi7gedN7a9NILWcDClePaH5vULzuOfcf7csVdAOkIRCQSRdPV4V6GMy1zGBWYGuO7FayJutinpp6KS+7eG6SNy7ZwRj+TzEVhE6IbQMI76uIFxt3Cr+TkZFE9UtDnjC6+qITTLr+slWj6XvQ6GFfmefPbqCBLXJ0aOsYPFobqkjZ1YtPjkKqWj9n7No36SxH6QHJrnUH4sT5AgQkAer3z/0g2wVknvVR7zH+ULUPMbwruVhsr+h4d6/qNWHBHstC0nxtH1jSqfaJ3rmzJqGG7Ec+IDZfI50UgVitxR51zIZEG7tcMnUjmDMWyed4ptifFTZ3h6VBuTwzI8YQk52wCGHJOKjKDmYFLDYlgWjUZ2cJeLASV3XowpetEz+dZ8l9oyqvW/MHu+DHZ9NwIRFfYb9OibiifQ/PqYgRbtBs+Vn25HmY9J0duDyMBMs3kAF/PrbAMtuS+Atwt96+FqplAFZ6ZwSU+PViseWz+8T4H9SMdE8Jwt3JbT9qb11D1WIhwvqFfJbdc+hRT7sgQXGIQNwJ6a0os+i03dZdrCPI8oRZ5cPOqfacML+pMxgLo55hTpZljg6uns1Ml3SRuwHm6Ma0tzrf8q/263c/ctpO/9IqlZAMfKipTJz2hwr5VzGirC8ptlNovx2FXhAsOxJ434BB5lfn1JNdPyuYARuR4+Wj93GT1tzT/Ia0qZtI00nrpEOGNiyKw53PHCx4u5w4HcFyuZHAud8WQ5pmB/0/3gHLSaqMRayq03LxfxsGosiK6RmdYMQq2UbraTEH0RPAu3/G/7IUyj+8stphuAavB2Pf2ZbCKecy2kQDWCFpjQDHHEIQ4VXmR17d2Dj5agu8unGti0WZg=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba5173ff032743');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba5173ff032743';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/85429-bolo-de-laranja-de-liquidificador.html?__cf_chl_rt_tk=nyyLdCLGtbESmb0QCrnZ.tiOaM4TLGhfHWDyGKw1w9g-1660654462-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba5173ff032743</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

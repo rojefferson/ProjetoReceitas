@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '94261',
+            cRay: '73ba51ad3a57e084',
+            cHash: 'ba0098bf7dba789',
+            cUPMDTk: "\/receita\/78068-bolo-de-maca-com-canela.html?__cf_chl_tk=IUPtW21UuUvbJWoo5DqT0fOuQXLEEqsTouHU0bH8G0M-1660654471-0-gaNycGzNB70",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvNzgwNjgtYm9sby1kZS1tYWNhLWNvbS1jYW5lbGEuaHRtbA==',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzI3LjAuMTQ1My45MyBTYWZhcmkvNTM3LjM2',
+                rm: 'R0VU',
+                d: 'XnrHYwkJ/x1g/TbmouPqQd1HuIPFyY33QZq/7t9HmwhUe+EDmUQ5sQSdnGfS4P4oj/jdWmVpflrIQc4LvsglhZm2vpOcukOhpE1UuEHrvLQv95YBnnZxWoZzmip50sNgZmPMXzE42aDmAWyLhShlaDr+aDYCVJo5GtnupmQVUnp01GEHXmRpnLKVqyq9V4qtlSoHXIHLadeBTtt1H1qNQW5IethKIlJZvpolj4zcPpITRsNmHqvHqovr64+/zQH5iN7z1ftkMtMibWXllGOKpTYGR/G5aKSrGMbweAlLvK503S5uT8oYVTSEGJ8OBRFwaVWwuFYJ0JuVenPHcycyu///39RlBr4R7KVTf/y7+GyA5yxxsOgh0adr9LTH3YAViGEEuE5wx7WCu5kvDciJBsToOhXCM7iS4+bC+b29xQ3hhKeWDQQx6C6gmk2oESFt7aDnh3tnNOe/CY0W5v8pO/L6nE8PRbj30FvFZEDyKiV1ngTnPRmi3ukpbPhIFfIh3b8LyWvk18WH+qa2X8qPzFk57O7Sh2EWdno6Kla9mhF9C0BgsId+nIh65aEBR9qyJxS2BItHpWfNFpEo/zK0j/MSs2D8VahnkYbc1vf7Ka1ySK8g/7rUjm8J6B5rd5f1ucabfIu1m6ceR6CzspP7gA==',
+                t: 'MTY2MDY1NDQ3MS4yNDYwMDA=',
+                m: 'ANmopUi5xAvNXi3TY4XZV7SXKyXyYYlnQTMZqIzXbm8=',
+                i1: 'QEwx6QZQuCgc6IN+noMM1w==',
+                i2: 'oeAfYhnVkmvz2d+qJ7CrTg==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'Xeyg7na5K9O9JqSeiFcMqGV0UwSE1TD+AhexarkG6pc=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba51ad3a57e084')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/78068-bolo-de-maca-com-canela.html?__cf_chl_f_tk=IUPtW21UuUvbJWoo5DqT0fOuQXLEEqsTouHU0bH8G0M-1660654471-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="izQ84mIbmAnyJHc4TVO8l9cil8FWE4a_oAZv3_CLHJk-1660654471-0-AVRCex_-a1nqatvxR-Cz9owIMxnQ-C3nHMW6kBtKAz-BZ7JXzE4G1RSVz5uimorxJS_UEpNKXSAUWhyVpnVG7afbv4LJTwLWT0r3VU6u28gg_I1Lr80kzcnq8zutXQ7kwjj0gBVn0VpDrZWDYNTu2tsS02TSNIxze9Tvo13Qy-X7y6gA2p18SCOcvrSyxMMxzMA9hqFKQuScwFEc9I5AfgGfkcb85YJ1T3yhZnwYa6tAXu49NZVcnJ1U7RVCnLffikVispK8gQy6AdBp7xf7mp2swtYPCYo47qwOX5SX8Tl3mBagJfQbPax5UbfMegBpuY9NzhixgODVIMjfPAgMuGI-8o0r5o6KqqQPQExE2WZx2Itymgj6xqFhWjHgjAhpe4suUE0arblFirCFrusmJych6bFrouBrli3SvnhCMa62SpbjaRccaIKEj8pwf1ZUJ_RMZtOkPQRDJHIYfgBk_4CBUE2N8VTBpg4BYhOBGtctBxSBHvsNczDGwAfPaN0mixQPXX186dBLT9731ZrvW6N9FQDwcPPUbD0YVY-laxo5j4TqpfHgXe8--Vd86DcNK51LI84QmTFppa352Ud_sBM5k9I9Ezej9kQWm09tM-dYm2nTEXRc6BbuNs_bHmmgAwunrdukEviDtayInncM7rmvGs3xnentAmmF5q6shK9OPyYQTBVujv4fmWsPs8wnV98gx1zm3aAsAZmZopFr44gj_qtVqi6gBDsaBovLwGIabLPS658RZiHb2beNSzkewDWgQoeypbdJeN-DhvlJaYtnQobsPrKGRMKs3J9rny5h" />
+            <input type="hidden" name="r" value="AiGrUS5zIQ9yrAzs1.YjTNTZgfNNysS8DkP44pGkvY4-1660654471-0-AdwhUB4UoUqoED+AuyzHVKOIWurLRUQSN+3wooNURBgyHnit4sZpu9w9q3ide9elG5W7NucpLwVIhhkWNs+AXUfAyJGhKDvYFIzDStGxZ1htJ0NAJZKDoNzySzfUWOzPrmzmIXu79qzai5f3Sr6nPb7aTemcHraWLD2d7Lgvm3dr1PWRX7CoiOYopLFp/OWpMPRzsJPrsGwZA3eM0T0/1WeayYLG37jmt5wF46eY/5/0DxirXpMNfENnAbn+W7umpDkgSsBxcPyJPkSrc8TW2UHO+nlmV86OPpGwAaGhA3GIZMLOsz1VNRjnNeRbFfTSUIvRZjuueM0ZQ9V1t4/CWWmRT5RJVEDqcyMwg7cZwnc+a+/BIBm/2kxnH70y/URougoi0JTtIT7YeLZb9PU3pqZc1p5QhJLyQRyFIKn3rB7gc0yDc2GeG67r4ZeMfk+XhSlEby/Bs5zNgCU9OyDiM+jNWSNHGNZHl6CIHjmlgbLvJhpSwGFx0vrEaKP+ynEO5qShK1oYYmt9uUqqNt0NS2yhZSslMsN90g7KxcNgfQNRRHFpFvUbFex5jOpgMnaf1KuXVbOZy/B01yPRNenbM93hYFnJH6T6uXHGGxcGIe3Spbuk3enZ+GPKWBE97VQqNmx72VC/patTxbCkhlbIiTfF1uDbedOiz7RZZlqPSEcEYE/R2mjnEe6Dc4no0QjvyDad3paqP52jbJEfOkecq7YlRtxgRqge8Yll6IWNqicAWKbOxtSD3SAWpPCC6S0dikmUgmqhhR88xEXoZCMeXwU5Xt9PVp8AG1v1bHfAGIIUVLVSSySlh5XAA+gTX/UhX9k6RmXBuCNDRuvgaaZbgSPTztYlAljJYNwJtB40hxWop4uKtwakDLT/kVxvLsBKRxcot40+MWc+/tzZD5qvu36FsWLqrDcqeirw3eR7apF55f9hziU+X96zzvOy/hV+ufkZm9iOBAUsvKPNeg1WvexyBfnZPxOCq2ONiagdx/UX1//Sb5UPCQfAK6Tj2N7Q4k1uTTto3zrtcUu2wpsXoeckMa8HPvPzVRINTzGZeNmOINtR7jOXDh21HxRbnaezE8eD136FtCzxEcUxte9ag+xFI0X3F+gZw4Qp+3g8ljQl9rY9KNlPiKHksGKZicyURaUSXy3nbQVS4CyVMNzCSsuwI82rp76URVu6OFPEFNtiu/VwyJQSC+BvL2JQrBDQqthAQ5IpL+fSn4GiChuUju+PjgWIAvZhBZmx4IEB/Pj/8sd7x/fM0dkjuDUWSy2daCTxNUCBm/bzvohl6jmKcYNEiMq/j+SvX/kW0LeoyWxysHjOdlws5ngWUbW+veCVXdGViyruiJQuoTmqjyk6wNdgIYTvWU/2K+fcZ7cx06z3BvPSLePDcohyi0kjnYBU9XGo5+zMMecker2Ay5H+5iGVcOaV9Fhvq1Cwzyf86O4mzGPBpYUYGHtmQRQgQlEY+Vet5HiQcKGT+B2rU3rnaWAC1f/RRtuTBJpRxLFHI82NN+nsRca0WH/yyFW7DmaNpKhklEZwKxeOUhBHXODWP8k4gcIE0p8ytYY17Z8kQP/qAl1yFwsuLE7NNQWPTCuMl1lIJhklH1ZKIgJv3TRx2cG6FoaGixxSiZtdx+EE0YElJV9oJNTpMsyyH8RkO4ziZKW9NI7vr6+hCL5OlJEA63IsTrCnkdsXPso99/U3tBqD3LTMNItLF85Q/nXBYdcOW5I01Dc7pOlWldjz8UqWBLThQM6eIpIR7uPlcUdqwyyaAGqnBqbk++Xq8ej/BhRo0U1Br+YErMtVkNpcLJ7GKeC310pic1GdPXhuryHzTT8JEE6kM1yRMYlpfTvpsuW602LaqGsx6J9gn/e0cUpD+HIumY9CakXa6AhYmDVQCNzaYR5dfGtNNRnGnXmFIoe//w=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba51ad3a57e084');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba51ad3a57e084';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/78068-bolo-de-maca-com-canela.html?__cf_chl_rt_tk=IUPtW21UuUvbJWoo5DqT0fOuQXLEEqsTouHU0bH8G0M-1660654471-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba51ad3a57e084</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

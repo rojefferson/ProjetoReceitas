@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '12601',
+            cRay: '73ba51e4ef36e07c',
+            cHash: '5a119df55ecf3af',
+            cUPMDTk: "\/receita\/2313-bolo-gelado.html?__cf_chl_tk=fq9d25avXUSfK68yIUxSlhYKfmX_Ze1Jp3UYK8tXSCo-1660654480-0-gaNycGzNB70",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvMjMxMy1ib2xvLWdlbGFkby5odG1s',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzI5LjAuMTU0Ny4yIFNhZmFyaS81MzcuMzY=',
+                rm: 'R0VU',
+                d: 'IHZD7qPhETXBrLpk57zWJrv+uX+sNC5LHj6YhEn9hN5QqLANVoPJu25uerYSCih6I9xO1RDJK8xzC2zp4KPNJHMWwDfDlZ/uCClEUuCOt8Jxe6x+O5WR0wnvkEnUAIeSn9RJe4n4cYxw2Yave0XV7fJ1LqgZmAhEbRAFoF1t2614LhCAH6j5oGzqsbsXdNxdcF+ecoBA9kZX5eLPOs+W6C456L5s8tb4JyshbtTDWYGzJP+MM/ShjdF0EPtWEAqXhV+uPcOnGq0wRU3v/OxLrk2Y2bMZj0Mz2Az7jRgDFV4KgXzwSkHmksRNEO4CT7GgzH/seLg75YLqdTQrhCEPOsmRuTpBSyHMvfJwWqYNpNXat9oRzu5mzrlrobpI4Wt6dRRaARiB+I/93MO9c8fT6kzWs5JtDujsjJgavfrnkk2hPlgCuAa8RVkfx+Xd/WoSMi3/0jPtGfTGKHmC9kM/KzShLyAt4/TdloVtllzzIBuFJ1MCEdoLDao9MiY1Als2PScRDuGAKohzqvSULYRYut+8gzg3SeYQsVb0kAF+WNtQAWmCE8GQigLQg5Kp9yL52b5Nr4bGmW4q7BA6lUzSsWZ5oY4PvN9kNPR0itXTANSgB63CjLoILAlPyDR2SbeQpswnJgSbUfUj0tDJYq6rXw==',
+                t: 'MTY2MDY1NDQ4MC4xNTEwMDA=',
+                m: 'mi/NYzy+t80DpeobutirvqzSjAqNAoaaQlG4RPuXtqE=',
+                i1: 'oyxtrkhXg4/i+DBUKN6hTg==',
+                i2: 'XodPHJEldeaGGtcgNf+7eg==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'GNTrT69U71AQY02BZNE6Jjx4COW1Ji+v0j0wnYAPmH0=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba51e4ef36e07c')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/2313-bolo-gelado.html?__cf_chl_f_tk=fq9d25avXUSfK68yIUxSlhYKfmX_Ze1Jp3UYK8tXSCo-1660654480-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="zKyP1ofBSpgnddgst6OyyEVDaNXayqPRmyNXwrgkmHg-1660654480-0-ATl-TQr0DDeA8aqm7wL7RMfCD-0wPK13VTreeYWSamZIYBhv6KCLpYWTI5KW2yD0Rvh6l0CYSi-ltWjJMbzuRQZn9qCtY-GpggdTCMZRW5aoHzxXfMnm2bPxLzSeuojHCMytRSMyUl0tpc_2fbQXI-c-2u1FwSPybCu8KoykF53evFnmSH2xPbvOFKhihGvk1KVa-fY-ZaEmsYnklppUrosar0tPWEErcPTl_j1PAxoA_20Ex8In60YLq7VEMXFYbnp_5mkfPhFRC1hNs4_SMa10O32ed8lhrSbDXjzIMOwJqXZDMM-zMeAnbyf1BTu6p9PK4hoz5RBuut6KTNq40m5LN6161kDblFZmF92s_gpV93YYSCfyS8_WIoTGLeCbwsVUBWUiSK_k4wQy4xwui2q3S6-UEBrus9A8aIPCGniBl0J6ebu8ycGj1zBua_etyWs2pOhSVxOqXviO8RAgyQq3ifMMi4uThuRYmfm1o2VVOrfvTGN01ldcHCq9ITvfAZ_m-iblxzSMLO3iSEu3HDeoheBjis2XIKLYQp-5B4I58AmgBaF8yyOFYSMigwT8sYzbUjlmUJa0OZr6WlNsy9HqfFF-2Ix2j9wi8B1-OgW5ayb7aa7fTs2xHceZS85yvhn9gJlDXrK9LiW6hy6j87eupmZM-HSH3JEsl_w9nEvuXZz9HOvuDTyXQpjBrb2R1obeXcbzmjrOtHtC17NM5g49UQhmDGcP-nPHMGfW7Cv9N4hna--DpKu9KKeQ-pklvA" />
+            <input type="hidden" name="r" value="xLV4U51QZkZz9wE3GHaDnPFCdN4B9BGVX4EvN..Y8Xo-1660654480-0-AV8Fh6GEql9mSN3ABUJS2r2BsGOlcsBvgrNsMW585lsDMwozkBFXluDtr3hIS6DFU62uu1dPnrz7PE91eLmeBR7QZN/luVlFy+G6Rr/Ahq57vTGZXiMWkT8wnZyg69chubRASjTVjFvYn2BqxM8xqs5Fr8dOywLaN/rUjLi3kGOmqOFUBTyHLDTroAToNvpUllVcwNbGfk2hpDjWuIoFV7J8zlC5AFTOLi2yjmBF+mgCHHeiEiEB+QMeq2jQRwq5Q1uznEz8yYiNpOWWywxOYBXRcCDFPd3ABxqlcqihdNQgL50c39lX8eFkdxMss7i6eIIbx7fpR3RhA0sI1QJP6tyJJ8AlTcXWRcQqWeO2f5a9EEwJBHMwoWX8M1RimUGkyy6QcpYTsk6V8wWS/lU1cDkwf2NBrXPX5LfK0LiBlLxJrl2/GHMsJYlmjdy6yAm4lBWhkLkZbRbnWt7YBIvi6kNAeiU2gacUBADtB5umEf6+DKmcX40TyrVl2z6OmPSP0+B9DBjNSyKa2mq3x+9s4Oh7zHLoe5EuPYL4xZIKV4S/xnavvoDc6uzj35hF2oX1Bwjd8bZa3JD3tdVELRIoRmd08guhanGIaUEDqIqJ0lWRXXOSiUCmcpWTOXCC4wZYHP6EuUI+EsLdG5cai1jUnb7EzS1NTgb3A9yNIDhx9WGdXf71Ulu0JPQQbnYFVuXhaRu+UHkdWqxRdNvwvDG0WzfXJmHNtDXr+fNi+WJKqG5h7+VqhbKMm2ToT6FtEZYsbTVMARbR35qjfup9q1nPbYY0WzpEy5nwtIN/kq9FL7UeB7jl9oYAZN3vgfGO0rvzbNeCleWWQiXUn/EZaeokadDLmpv21R2NocRFVNUMPCwHAizT77yXlSsleQi5KdFrk4ac16MsCsl2KRlfEoYpai7NyhQ31wejsTCa2fa9okEN3HN7Caudu5xEBGVYY2HTmTjakhx7YGGAB+bV+ytvxCy6fuRuOdyTOykyEMQcux72+zMcIc0hSkRGJRF07UfQRZ3ZzDuSyHMrD/QKgmaWDEKjT0HaszBVyCaSlgWempwlNOE3oSWH9XrDGE2D4ZGYrCp7zatC4/wIsAbmRw5e2IrzfApCooeCmFyrtSmRYAyTg7knK4UfNXYZFNO8PbVuBQtEN699gEuQvHQLTa4KOuo+YP7jfBS0pFs0FMNsLrU7bdicSLaxag40DuTKsCA2VVsoO/x9nMuUbMzEycEUzdhFQqLMDz8fqQOA6LTqBKaRNvGMQN9Mk5PpS08I++EHqgNpM5TPIcatYwTtOSz3pDS+gB8MyipowbX554uXUI8FOCej1HnJsPmxQU8Hwq86symCmEULl9b0yxCidtDOT2TwUyxNnnQXyp2IzWA3UQTMySVIYcG6hOcED52i+UhAkTouKQNX6gGAVJo0o3k/LMGNEvP//Yzn/HfykxFoZzdn/LKQV3TJYKunxzsbB9Y2oMvY9Aw1YyXfobbY4MxgOGTZIih46iGMJjJxgMZkpmiErrjWkRjGrqFgGGUy53EAn1dRcG0KE5Rsy2nojeB3jPnZ1JFAFSrpA1OcyAPrv0cEZiJULeOIBrlTexY2p+SVlOzv6EZN59Wdrgs7vMopTaJAMDme6X9vxkCriOBGwp5O+5VHamZW7++fJnMjk69KD9ZKHZFuLCogKMIhTABgmOWVgzEnY2Wmz5/thGAWykoLPNVn5RoaGJNSEy9XzuvQShOxGzi/NybQWu8ysx1quvn51zMRGpr7/WEvpetsJZGDVjdp/x71ASnuBhkNBvrK0PwLDgEtcZbiQt/4N1UGZNoclQGYQ1hFQBjxmS5vBm9t8uLSfjsotGa6CVsKIpbmWftkikpuK5+ylmsIjLJtojEuEYWTLGPZ0BzdMu/iJWQW0OwgifjLucYwgb98tH/w+w=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba51e4ef36e07c');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba51e4ef36e07c';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/2313-bolo-gelado.html?__cf_chl_rt_tk=fq9d25avXUSfK68yIUxSlhYKfmX_Ze1Jp3UYK8tXSCo-1660654480-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba51e4ef36e07c</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

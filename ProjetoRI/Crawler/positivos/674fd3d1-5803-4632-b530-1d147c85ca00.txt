@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '54755',
+            cRay: '73ba5225ac42cf9e',
+            cHash: 'bb9054e85b1a338',
+            cUPMDTk: "\/receita\/59066-bolo-de-cenoura-com-calda-de-chocolate-que-derrete-na-boca.html?__cf_chl_tk=05urfuTocLO7UZ8rFaO7FRsxpZ_f.ibWE_sr7fk4aYQ-1660654490-0-gaNycGzNB70",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvNTkwNjYtYm9sby1kZS1jZW5vdXJhLWNvbS1jYWxkYS1kZS1jaG9jb2xhdGUtcXVlLWRlcnJldGUtbmEtYm9jYS5odG1s',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzI3LjAuMTQ1My45MyBTYWZhcmkvNTM3LjM2',
+                rm: 'R0VU',
+                d: 'JgP1D500HD1HM39SiDE0Nhnsu5cNm5hc+aACYs1UD6IOr6IH0d36pQJVnJ83DJS6jDHKdHilIbblZgHTRDIeRgBGFdVMb9pCc2zW5mWflIzop9k9lwBOQMXPi+Nuy9i3W+iLvsaswNscvGR9aqTY3h8akvxOmL9rjG90Y1sandxi0bWxugLNgQ6OsoQiediteOGNOu4fqjkF1dyYCSUp0rnlcbr1d6jJMxdBDw7m+icOJORUDexAlmDNL2R7IeNs5TDdE3Qomu/hQmEubog4c+d6d8I/PwjRnu5fi5Xzoc9xz+VOtPUtxyTGiOMmG/4dJPGWOewxC8d5zVNNG+1Mp6vlzu8nfj0HnYsh1eTquvuYUcEA43OyQsfhWGwHh2ZuP1Z/JPJCA9M8vpEfeLf+Ab3qZrxrH3lIhtuLTE23oXXLq49gIkcqUI+gLNhhkIXUCjjnhfZ9VLXRlHfqMvq+o8h4577XeoRvJ8Pg2Q3KBv1S9oDqdlUChka7BnbcUZJr73zVAI2PKO4A1bFVGjokONpsojy1QrGa5g8qvUnGXkir9XdcLfSZlySpHXyLwKDjsOlHbqlV107RCbjIm3Hl/ToWDtI08NiBLauTP7amqJ6Rms0XJso53nQ4uv4rhDkCdlXyEGXOOwmHZNwo/afVmA==',
+                t: 'MTY2MDY1NDQ5MC41MjQwMDA=',
+                m: 'gyxhpcfnfRWhHQzs+4tYniaYYGrbfcTQPZ/E0vapce4=',
+                i1: 'm/Egs6BXXlnfiRp2vW66SQ==',
+                i2: 'goyzet77jgP/ncYq6pyR/g==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: '5g809+q5pujW4INuq7eSgVB4y2nzDpIHdClp1y24nvI=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba5225ac42cf9e')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/59066-bolo-de-cenoura-com-calda-de-chocolate-que-derrete-na-boca.html?__cf_chl_f_tk=05urfuTocLO7UZ8rFaO7FRsxpZ_f.ibWE_sr7fk4aYQ-1660654490-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="HaUtslv6xlXXziA47sre8TSuYZcbzL3Wy5nDRA6unM0-1660654490-0-AY7GBjkZ4-IT1fcNYsQBl9d7zKbIBLGHm9U7-o9sOPUwuanGD3gxPIJsaP9eRaxYAvHEmEzZGFYmokCHm09625hgRl5rQB9cAZn1eXolXifEd_G1azSz6DNpw5QzhtO2tuyCw9KNvb55FqJazb_nlfRCWB4V4BwbEHlNlFEAHdeNKyA_sksxEn_tFS5_rj2CjWMRdsU7A0785tmYt9FCQEZB8yEeDinxg-5JYx1G49PVYb7oP_NcgWTt422m3StVCxXgn-Sem2M4MKyAOBjExQ2G_YjWTuaNgL93wMPPxMaEPuFcgiRQ6FamJpGumEhHqEKdfLT9vAX6HnTIAzv-HQj6BWvcJOxFDO7Nfah8S0Jhf7ZC92gOVYcPIlkSrP8sjQiCjfO7Fo7gQghF7TY80qwoJgbw3HdwKJJRlqkB4kVsuYYZ7k38FUWIYKDmCG8rr37XA5NyeZsw6XvuEIyUHVFIZOTNbLph2nGPtk44FWrs5yXsRJQpe39wYG65tK9HUMDU18lD7LDKiUsSNcAPBMVCX7dPUkneu0gP-JCMYVX0v6dYhzISOtR9wi0-jCci7Qc2T4WUEV6pCrbyT5UITTrLZoKlaKbwQn3xm1QvedMTFpYgDD6SORpsyWSNBrPiROmsOqSEkQoEGtqF4NGTWgTBiKYmM8wd2YZfTEhWSvEi96fEtZZ-6FTzbPnbcqfoXKycrfBLFH68IRBOObLkuQt71c2TjqQeqYmDb8suZ4hHJ5Svk489b3wyZoIv4LNchzv9O3aohsgA_J0CwKIncN_gokxSWVxRWV_pWdR_MaX994GQi9gD1j9KgmOsrdh82ndnXTnq2qF8Zi1pQpp4KVPM7NkdcWWyGBk8xzez0MmOTuaM31D693Gi5WIWy3aOPg" />
+            <input type="hidden" name="r" value="b0w7uJGeIjceZd1eO6hRMNoJZ.9Ijwa.B0fn6JD8b4g-1660654490-0-AdkivqrZL8Yd/NSOL9jgYlpGEw01w4o1uCNUIh1NOXU6o8zqht8skZmLocJyLD7me2TZIX6Lyzzjm3U1oFNNWmBFfTRsaa8kXeStlhhCmIYRRUQs5YMiCcCdfRzoCvXIZttXEkt9PifKezmiQh4gTONgkRpN6xSMg1gvgKLPqfZjXmFxkNXOTUeqiMRPovoQZq9aH1tpRoa8IpHeSc/aLyvXHL8NNqGQpxD7OLrMhEIScn/ovrzd90d8z06fK3210K5Kd10Mg1bjlKy1BqjY8Tznh3yzElKDSynLy9568Kxz3f/dlgb8y9uIF3z8B9wsZhpPYsl4Lk2sYMSr3JV/RM2HDOoXJ/BwWsWjv6gMdPcSlI/qiWhgwF3p1AAqqtht7oU83l1aq95OanhGxkEIWZiqeeSDD5WlMEu1Mb3H0ALaxhfi0XDORbLTn+w8ppa7lDpKOi/L/CeyHC+xt4qGlN61bnbxjY9W8Kf/ZqqgN8gSigjvRov2v6jH5QwCHeou7g9SzC47DoWUwUAXnezbYerYP55FQkMFNITBJW7RSnbO/EbMZtZ5RGFm34nVqSWLJbjDVMF6nSYFMKR4RYsGmqGSxNtdpDb2pwbWD/5GEvLe5lKTkO2gdD4p+89t8esAf2ZnSINtXB0b/2ppeyNMxm35gmY3XyyCSt+aiGor866ErOKvsNbXPwn/8vB//05g2uuPIjL8hoi9tyitrkwI1PIebqvthAuJ1HGxuU89nyhEHKoDidIJs5OH+z5x+asu0vvNnS3ZwVaX+RrS/dTF2YkrqA9Q2XzkYrZa/h8mpqIzlchv+N3dEUBCn9R3+KWbw926QwuSt3gbBmBAIdrIdnvt0CTEF5pABxY5p/CD3v81Dheg+XZGjsesluP4y4auk9HrflmL+SQ5Jc72yhl4OdkQAfzm1a7EaHUxMyR8K3DP2Oc80APJeRB+p8uhAd47Lgqk3vlCV24bbb9oDItH3iXe30a65XP9J7XA+oDhjIC/ilEqS0mohS1gPoARGYAOOjGrC+kIR3M+rbDA7x7+jQmdCVpVeMEdWsiqXsbzwqZXiQldmZfIKiIZ8o1mmIf/S/QaeJNcwxu4Fs+QNlX0Laf1gZ0MJhvOvUJCtlvIdLA+268v8KW78Thm6jQjkOjxqb8phnfy+dT1wo9uruKwI4EXgrVAQDPSjbgEeHsA1Ort0Oq38Bez1WxPF/vc18HvtRrB3rQsxWOxrgE8Ghp9ln1Yg9QAXgpDANcTZ3dxgYBPXgq9hkowNTCXXEj+Pc/pl4DohpXULboFjBumBVYrkMKMD80+ZnPoc22Zmn02pz6Wa4gdWEb4PrggemXWH4eFPJVJ6zO5HC1Zb/al27EjBItNMv//AkdTdvaTAqWLAroSLUTuX6TSL/9s3hwHmTi8FgnNtxyuk8cMbx/fr2uSSyBR2CSDvg+LwfD1tiVfccAuV110eHMN9jk5zl34Kyk/B1bCNiBkcn36vjkelDEX/wlexHYdoHCrou37U1Lv8Yat8i6V6LB49YxyaX55f+0PfiDSFObBJIZFGnrlEFfGfFPKJ4eWsxzErZcgLuA5zAyLR2NPCwZ1TAmqdhuR8GCJAqzlbYNZyPRaWeqEY65PoXPhEQHvxVejQhisi3/CpqK6WkgvvJrmCzmsXTcLswkBh8ssXlXV/UV1FjScD4m6nnliY3SqRPQ1kdGMnwbBiaVZuza7vXvDKDm9CH4w4CCRDvpMSNpQCkfhoE3hl+YSv0dzzS6TcNpMMsWlneCAgtyqkExLTkXfwVjG6w3p9B+R3yUWfqN6ROSr4yW2EkJVjoWdM/Op5N+Vh1mxuaO11KqrOtdzHKxYhAJtzqfO5KSwpcBlUfS5WuCi7DXc3lIatoiTtHzP/nEqbD04ErmoR7zunmBTLJesmzpaIT7gZeQaDA=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba5225ac42cf9e');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba5225ac42cf9e';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/59066-bolo-de-cenoura-com-calda-de-chocolate-que-derrete-na-boca.html?__cf_chl_rt_tk=05urfuTocLO7UZ8rFaO7FRsxpZ_f.ibWE_sr7fk4aYQ-1660654490-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba5225ac42cf9e</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '32722',
+            cRay: '73ba5138fc22274f',
+            cHash: '80e2d7805b3911d',
+            cUPMDTk: "\/receita\/94018-bolo-de-milho-cremoso.html?__cf_chl_tk=No4oISmtzy9tvcAFXSwMrTJo2z7BEE3JsV6agBpy_8I-1660654452-0-gaNycGzNB70",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvOTQwMTgtYm9sby1kZS1taWxoby1jcmVtb3NvLmh0bWw=',
+                ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNC4wOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzM3LjAuMjA0OS4wIFNhZmFyaS81MzcuMzY=',
+                rm: 'R0VU',
+                d: 'g7KGDe9S2itGO24qzDoRtDfpunuEyHmmwKI2LuenMWgyNlQjxAayt5zTEb71essTJSaQ27uJQmvHyVgPkd+vnNYjBjqV5booxTKL0946SCyjVC60u9joKtNzx1Fjb6Mo/EHxb6uhf3R9tUWJ7AX7QanIKPxr4aHGZxT1aGSYS+mn+I/6GGKW1yd6DsfZ0e7BLiv7Ot8/6CxENsJQ9p0v1Gam9ND8lHboZ6soUd85iP2DMWqhDymaXWNa0U5pFa1Wp1i2dJI1JHwIRCZV5RgNNSTLQ5RtJg/FODYfFRoS9rW2OP5oNcPLfRb+C2r/5vlzKCH9ciVt6nmadXKjxie8mWELlkTBOhX+J9k1EVKpp8VJYyKDsR+pykcYY445NU2hP/J+pdUoT2zYHeOyTff+5WuzAVTpaVclu6e2LV/ATdhpFrCdzwAyIsXR+NDKE4DVtDR9fZ/AqKKAbh5Wbru8NoO1AHUWXAOXTqprprag6XE/N4IVAD4oOQ8VoDzSEtEzQk2SyZt74YYyy4R73AwDfnBkvyC+aYq8IN4EMeMcNUV87+YSlRGuiYq9e1mWQkI0wVSvzdsIVmgppmCw99pK5ZUWN8rqJW3diPY3TLWkCLVUPNnzi2u1F8VP7IxpAWp1VlknOJOoN/ZcSHd3RZdAZw==',
+                t: 'MTY2MDY1NDQ1Mi42NDUwMDA=',
+                m: 'x16gbS//sBpAVd9gzIor92O7gb2tMgUqksd4W9YHVZo=',
+                i1: 'UN8GUe/rREm4rtVep7974w==',
+                i2: 'Q4LrM3d9HMQSVToFD9JTgg==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'YX0PWBT9RrePfoW8OMtmJ9noxmbPIRg+NSge3XJkwk0=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba5138fc22274f')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/94018-bolo-de-milho-cremoso.html?__cf_chl_f_tk=No4oISmtzy9tvcAFXSwMrTJo2z7BEE3JsV6agBpy_8I-1660654452-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="4Fy3HxvAJRxCyxqlUuH08GwyjdWhRjjzsb8Df4zwtRQ-1660654452-0-AR00SfWuF9m0TNm4Qszbjk9LrEFQNM2eBdZL-d_9hNCHen6EzJ0UXIVlq3amgw24eieaQo54QJYFEN0Y3d1Iu8D0I30L7rKYac-sNn81fR_YgkJfOyYVVHPIBTL50rxv-M8ThmLzvA3ojSMRSu8XHeYobNAoOJAEGSIIH7d6D2GGKw4LAxZPESh4ka1T0NNOXo-mZig-isnvzWVOxN74UZl5_675Su7VXxwjrNvZ1XjFGYNjQ52w7OC-3NP4Jufr5gqgV_PZEywQ2aKHT7vHGjloohSMfkmyaJI7esvpkq6dD0q_tEHmqUnxWAy3ed0WOK8bjW_64FU4n0NGJP0FUCXQCAN1sLXzGbmCjFmCzyuy4aa68kouyOgdh5vZEQ9ILZRf-jaz__nkfJM86autFQllqqH1MzAZkbVg3G8ISRK25fFwvtwXRm455ZboPUlN6F8iULH2spNLNLDnjRp-YXxgZ2pWI7dME0vkSemSEFhA9wNW3bZrYvjJgYshljvm3O9pkUdiassosuf99gfnkOCg8p-sJt0VU2RZI7bq0XPI8j0mYH6o1ba2YSdtrf1tPoMLDQkQp0jeOL3W7F3yFnqPZUbBALUSFrOZxA8ArdLBWYza8ohCqXT0-pQ6hYrZuztn_THYOP0A0biaqUrpok3XwfFQZdIL6IVfbrL8WKhQI4n1H1h2ttOErr6ZU3UJeOunuBaCJ0UKZ52xuT8jVfXs8ShIWIUchyQ4W5Gv3tFFnslMa0b2HQl2uouP7iDFFQCYTGhlJNFKxf7gt0ttvO4" />
+            <input type="hidden" name="r" value="99OqBiRAQrT6wP9NZ6B__hFTh.q3jYxfdTxvOT_jmhM-1660654452-0-Ae4QA00B8ksEu5pUqNjnOA12i5nXovJ1h9cvk8y2Kf445cj3u8zrSwXMD0yEKTVr4yUWfnjX6jluZtpGBSXiT0clj4Ua164q43eVemDDZiOJUssoAVaQ9jEh4MzTbq8v4X0fAU+vA+GxApBAj9N0oA52lzTOkIiVyQij53vjfXYsGutVuZe+bxOMPASLUPbMFCm/9YHyJH5Kx8KFVw9PpwMB1lN0HOfd4+8E3wm2IXN8BzTU2hs9p2ME5D5b2F0IKFc2QupmmM4VHWkGhp+2AGpPT3eu2pGOAfXylgRPQdmW63g363iwHtURnGpgHx2+gmyPp/H4Y0wOeDlRAnbZn3cnwhFht12nsekfuuGc+5SJtmp0ZU4Kzd/AankOKKz/3ycCfElARpAdgRMiX+O9iCQi/ac+ULFlB37iquVRm1YD0b+FjfXjpJ/03YGfu6dZHFAKBZTn+Y9GJH5PoIJ0TvR+bSwat8l9l0VxH4Yl009iYcG1BGlUUVyXsrPjLOJCArz87zJLE7cTk1vrK0hJg6B1LK48unupuXN9irVAeptnDLN4hZ4N+rfMib1ntanq81vtzrOjRTgbrN8ju2tBy4cQlcSDqxpOqIL3i66ZgB/e2Yr+DXYrU/5bE4u7gAhnpc+Tdq7filQKpUI3ZnZAnrhdXnVSkZL0rcn2E12cSYqSkxofsNl7WQk1JbKa6jiTk9nau6z71G9OLx2UDIjYMSC4A4I2QF4aMlT4vrGW1ZdMjovVxpubt1y4WKY9+Pnxip7EEv7TqHTFZHA8rdg1q2Qa4RKsJTpxpKeUkyJp1URMDMPFYRND7pgOISXSBVT+pzmmZv0R8EaNiUWujh1xeA+tVH3y9hfdPQ43uXuMYfgpVVIUaWdR20jHlzabONwC80jSZ6Z3EDfOrugtZRdB5pP7zJoG9pgv7rj5UuQSqcxCGPQSHVR4HXwoQjbfZIlEnUC5kqLtCvaL0DRailQgbyJIgeDjGM3ozJhBe4DOsPnc3o257bxr1PMvRot6Llqj197g7wiJNExlutYE4Yct0mLiI2ir29q5z8/gzaKmIBIQz04HDdEOpbYmNl0zuMgl4Y8MECa9g15+hd1DnlPHrGWFqkQ1N5HKulO4Vde4C3gWpgwg1J288waHiWPsfkbE8kf8Du7VerdWsc/esxxrtWNj6wfNEhEdN60KkmsvGoJinBFguNxUght4pkq80qe+5+2J0tNVzxGMe9xOfAa5Jmu+AwXbWcX1jYawRXVlIKy+Urrza8tsKFtfnlFzw3dqtP8rGjLxlgPu5TkLZ6IRnmN5yi1JxDk3UYcDqK5RKlYNCcnTYgJ/kmBXLHAv29ZSB3jjdBnh6OI/M6ikRg2y8MtQ1Std1n7Fdl+tZb17NIp6poOANEb86hWSqK52gYAsV8QnZnTbuXz4Ed3l10oGSRN9BNi5iQDORnCN9uucwrtgrFCUFyv/epqX+1fgCMcBdLbW9RRgpfPkt2hgrDWPdsN5Q/MViMlof2YF/vPzEQ9G+kN1DtAZeeuQSkpVq4YtIe7e8XHUsHq3cguoT2091oejSXvJ2EelPnk3cC3BDBXvHRHN8omsvFJVMJaPqoGg/BRYEZGgBOMbLCcGPcdtsHuju9p9/LiB+rXFHLGF2PxE3HvljAP8UXDLC6HoKaHS7PpSCZpyfj4XKG4lv0j/ww5tqY+XPdLLUJ6lrQ9LjzR2HGPETnqjMK9D34TgSV3G981Qx8qaza4q7dptWUxf+SEChD9yeuWc/1y4VEtFrxrgTvCWP2ixZNyfxVhPgMQxTh+1yG5KgXCCt27CcuzMU7FRXU+0N1Gyi2s+7EUpkAOhMybXxbqbgY5Kt9jp4pzToNRRnO9zrCaRecVl5g5kMV4JebYBZLSjr0F5PUkkkbWuuTeq9jaHlwXNsGaXFnzn7w=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba5138fc22274f');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba5138fc22274f';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/94018-bolo-de-milho-cremoso.html?__cf_chl_rt_tk=No4oISmtzy9tvcAFXSwMrTJo2z7BEE3JsV6agBpy_8I-1660654452-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba5138fc22274f</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

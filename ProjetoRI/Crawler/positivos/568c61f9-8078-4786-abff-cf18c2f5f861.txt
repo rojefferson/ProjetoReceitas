@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="/cdn-cgi/styles/cf-errors.css" rel="stylesheet" />
+    
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '11650',
+            cRay: '73ba50c31c60e07c',
+            cHash: '5ec109529d247fa',
+            cUPMDTk: "\/receita\/10782-bolo-de-brigadeiro.html?__cf_chl_tk=xIRV4OqIiZiVAdwbCcr6f8vUSxBLF.fdv9Wgqh0gKMI-1660654433-0-gaNycGzNB70",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 3,
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cudHVkb2dvc3Rvc28uY29tLmJyL3JlY2VpdGEvMTA3ODItYm9sby1kZS1icmlnYWRlaXJvLmh0bWw=',
+                ra: 'TW96aWxsYS81LjAgKFgxMTsgT3BlbkJTRCBpMzg2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMzYuMC4xOTg1LjEyNSBTYWZhcmkvNTM3LjM2',
+                rm: 'R0VU',
+                d: 'okQc1ZUJWtQLE1Qkl1AeYxSY6AdNTaosapRJTCmAIMatkLQ1yKrpmFLQBq45t5+UBX2O7g4JMxrTrcYHlhS9EZ2+lEr0jZONoz1LD2fMwYycUX2D/MdZn3J1x/ClN3Q7Hh04s26bLT90tAfKKVOhvVzSh0ZwJJnAEcoZYSsqcpYNr6gBafX3ZjbI54EevXfbm4ilBrHKcB3DGi6Jx/0qx0+x+AJ7RyOPqpJQPq/RiHpBsy8dNAviVqcd11P+Nhpe7MyIUYVBwI2jJaABFO0logHOKJ7o1JpPxz8g6aF8Woke2/QowXLniEnh0+InkvnjdIPS8EYDGtBYgwd28SyRpdJQm9zNjO7vWxxQSNFbgtqIFwp8tmL4sjsSapxd0AOsh5mOwsP7OUrf7ljK8EDpV+4o5lRn07fXSCtSb24NQlTconx4Q2e/LaZQ37TuUBzBpNlpuWuXN7bkzIXln+njsjJQLwHTdn3BC6ghKlCP2UjPz0WHjC4e3Fy8fjBmFIz4ga/9A5uFeioi2ekuUd0s6JwBd5X4f9S/iIhxjA7pv4SKOuq6GLqvs3FCtgdqlqkJJBEOl6gQDER7tGsNrc3b1G3mMWrLoSa1pl/WCzNtRFVKovU4beWfPrS0GoFvq2pW7eld6UgO1pOMxsf66NvPaw==',
+                t: 'MTY2MDY1NDQzMy43OTcwMDA=',
+                m: 'CyuXjDLvNcSfmY/mftjDa8FOjAH0EE5Dz9eULhYDCkk=',
+                i1: 'BK6Y9j4wB2uimQLu+Ta6DA==',
+                i2: 'KY+oOEPtnvZF/5Ks8m6KWg==',
+                zh: 'D91afCvG1lM3CBhVcYg8nVQ0iaem+qqO9QvfTjq2BzM=',
+                uh: 'Oq+MfSEBu6r2MG/ZYyUlF+UFk3AM7IS8xptdBdsAJoU=',
+                hh: 'f8Kg976ueFVTzD+TrfBVsoZAnmAnHh7V1ZAXE7fXwxo=',
+            }
+        }
+        window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+</script>
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)" />
+            www.tudogostoso.com.br
+        </h1>
+        <h2 class="h2" id="cf-challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="cf-challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="cf-challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=73ba50c31c60e07c')"></div>
+        <div id="cf-challenge-body-text" class="core-msg spacer">
+            www.tudogostoso.com.br needs to review the security of your connection before
+            proceeding.
+        </div>
+        <form id="challenge-form" action="/receita/10782-bolo-de-brigadeiro.html?__cf_chl_f_tk=xIRV4OqIiZiVAdwbCcr6f8vUSxBLF.fdv9Wgqh0gKMI-1660654433-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="xNIp85LvLtJHDSvk3wShWtlRrEH65DlRoOdgPmNfRao-1660654433-0-ASAnsZ9Eb-kZ9HGk_in1tgAkpV9CDXCEW6uhDHwINRMZQvMUCUHjonDlhCuyukD7DjyonMvcpOvmxiYoeqgl-wcSHBnVvD1YfSrw5IWjEsbZgCwhkeRH3K03tLCOENWmLrolwtLFfbamDYfDmiKkgCiZUVqX4aevLQ7x1VCQSu3xx7YBKNPeL4IWDBJnu0ehM66rfgVAW_pNFT9Z5Yugk2DV5xBqV1AvTdaoycwqaxo32DH8cHcKT5PkdljfXwS6eJuFdElKXFenSnpBXq_y3cjoOjescwpaTT_l0TlPXZY3lUwckwSw1gSAlXT4tWPBZ0CTivnqmgK_bacGWrrTq3W_zWbX7wp651nGUhwMqIo6l5luB3DDPRs5LsaD3sBiHIAnmOvswuYQ--IWQuerqi6LVXF4cDhqsxAhoBNSuRSnfKvG-eaym-G18-7TtZs48IExDEioguF2ZouhdDPU3nVRyFuslks8OeFuT_lbBHqb3jU6HXod4LFx0LU_wsTluNV_GFNDyDZLchnJuOgWEi5uxUbMoCsKwHnJ1AFu7HpYEtHUXE6mghAyjRL38tYII7w_CRslDRunt3aQuRFFhWB55AdFFNwffGRRdSdlKIPq6yPi4r-yhAu1WNNcpbhyByCEJnq19cRb33OLPTMp4PsS1xfa2yOXvMV2jR-sDzTq-dtLfcJbq2qq0xyBBq3U8o0CHdr9LlUF7LWR8qZiDMSe0w7oYn0u6kDgIg4oqSoT-o9UgVfoPzNDJGH0RjYqOtptoUG6j9DeKw5edYvolmU" />
+            <input type="hidden" name="r" value="zdSN2rgH1VT9GLMHaSSFBfL7nevdxz9CRJfC0ZpAYNM-1660654433-0-AeN7/u+cZwvxRtLBCdXObL1oAQ/AqfoetQRvCvjtGmGMLi3CTB+aV5AKIYAR98IB9+JtCFVVoGOTA9+Po8WCKdH8AHsDnrs4MBqKzC4xa/1WfX20aLg/fuUacPMgGZ3ZFX/MD/dhsSJNFqLgMZnCtJO7AU59ey5nUapiNKvujsZ6AfZUl412gW+v9qTs//1Quuvdd77NnuG6Efg6GC+4/3bT8OeLMoKl5eTdtiETOJ6oYdXOL4kOsuLRmkWptfaZp/5K2gDNUp2T+fo1DyeEoE7brYDfcjMFo6i3RPu5HyQ3fTY5Hvt4dDz7h3XH64eKBy4xa0aiqK1J7QjqNw9+dfYiyk0hwGze3W6khRgNOmjRdGvaQkgGckQe8GEdiiWI/HD/WiddYwv1ctXlVgUgcrrEYSCzmlSVK1x5xwAFcUiUEb3nYYE0/tcU99MMBmHRKg0Y9moq/YoaJnV/Ob/rJTJ1Ji/06wOS19oo+gqI9VXGhjbsuuEh8x8dGFRf84bLItG4RKsRKe38RejfUuBl0/KpMAYezOllR4XusozG+WdjATK3/RjOYcX1W51k+kcigrhPIIECBOIPaGejR2j+yWdlLVW9egX1ZeivQ4xzibxII+Kx6tKBtXtIqk5yqn8vEe0EHJemq2Vd4sk07qa3PxGfmjeQ6FOFNfo7VpGBcoGoPnDWbk+XqdUycKGQDPlpEOAOy8rDy05HD8/22rpsA5Ze02oBSJ63IZ97iBU+V3zyRvRPYdv/grjD3dJvdCUlFuJQerknPOJc39rHGiRreY7MXdRq6vdpvFXfrwAT1be4Yeidtsq9AXH93/EmDLCCs1xqiQ+cYEHFIRVadcsyvOjnc2c0PMTI+27jLWH1Taqvtf6CLpHgmSJVFnBvVFHf+jSHa/wF6BxwY9kOikOszMl2NREmaObZk2EL9TlUHj+SaGSUaHg6bZVD84evoCc6HA9Ql6hUTavUk9n5AyTJLiau43CkvP3Tfe+3rNhretbwgAjbBAwClaQhin5OLJ39Uvl2NR11OjjHokMK7YF5tOvPlyyTqo1VvfuiTu8r7NXfDadEu/tRefsCwbE6nSOfkkwlTz6RQE7SE4FFJv4ZlBxgl0wpOZk55xi52Nx5v6yiQHnZF5aHbP00XguffB1M4JXa+UdQqZtZPpAI6iqRWy5yq3xeZJne1LPdBafIWd99XK/hTJhhduoIBQDPRDYiC6MoHtNMO5v98mmv2DeIzaq4tMzDLxdU+oyIUEQ3FS4CwzKL1BIyhLpxBWA5qP9EBDiMtMTZMzmoUKXDY7vbuRucCdEs2spVHvq8Wttarw3ATXWnYf0XsCC5pOER53ryZewN0d28ETAf9CBWw6+Ba7VVrh8TBD8MixTISYFp4dhifUHQu49dOatyVhyFG51uF3GTZiYoPEKYSrzr/psCYOTlEVfbDLChHTh3I6x/5kvRc9J0U6/zBdAgnUx2Sph5mbCSnl8KB00tUQFdgtX3Byt4mh+6+/my5QW3ZiaDzo2hJukRPVFCi4TKmb9I+Az13spjCpaEyF43bF45R6/Y3qL9o8p3AI+uMTbMlx6pvFQTzhEJpJKkgzhVhFViNJ1Z26iw+OIEONDVrz825ieUcFJ12Pyb3WRJ6+tW0ftO5DGyJ2t5rrfKSXugr5BnNJg8vi6S3S/VZBOR2YXxVSJip2wEenvZ6vA4v+CIv8XrD3OdgqgAH22WYYMdWmW1u3Y7PGRaQP6Z+FVLg1F3qPE62ztblA7fIlSInidQiLVBzUdtZtwb7BQrMZVmukaGj7lykNhHUpZj1jvRWp/UoaV9GT5GiXBCcjUg6BvkHa/Q963yF1uY89u2iYmA7IriJySdouFBfq+vd9X+oJifLHz2mzTqws4aQanat5DauarKM1O2B9NfzjKsySq0CYmq5BKrRQ=="/>
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=73ba50c31c60e07c');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=73ba50c31c60e07c';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/receita\/10782-bolo-de-brigadeiro.html?__cf_chl_rt_tk=xIRV4OqIiZiVAdwbCcr6f8vUSxBLF.fdv9Wgqh0gKMI-1660654433-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>73ba50c31c60e07c</code></div>
+            </div>
+            <div class="text-center">
+                Performance &amp; security by
+                <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
