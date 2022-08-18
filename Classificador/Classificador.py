@@ -1,4 +1,5 @@
 from base64 import decode
+from operator import neg
 import os
 import json
 from bs4 import BeautifulSoup
@@ -22,8 +23,8 @@ dictPAth = dict()
 
 dictTFIDF = dict()
 
-dictPAth["positivo"] =  "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\ProjetoRI\\Crawler\\positivos2"
-dictPAth["negativo"] = "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\ProjetoRI\\Crawler\\negativos"
+dictPAth["positivo"] =  "C:\\Users\\Igorm\\Desktop\\ProjetoReceitas\\ProjetoRI\\Crawler\\positivos2"
+dictPAth["negativo"] = "C:\\Users\\Igorm\\Desktop\\ProjetoReceitas\\ProjetoRI\\Crawler\\negativos"
 
 
 for key in dictPAth: 
@@ -116,7 +117,7 @@ def computaIDF(palavra,tipo):
 
 #print("etapa2")
 
-localPath  = "C:\\Users\\jefferson-pc\\Documents\\ProjetoReceitas\\ProjetoRI\\Crawler\\teste"
+localPath  = "C:\\Users\\Igorm\\Desktop\\ProjetoReceitas\\ProjetoRI\\Crawler\\teste"
 
 for file  in os.listdir(localPath):
     dicIdfPositivo = dict()
@@ -134,21 +135,36 @@ for file  in os.listdir(localPath):
     tf =  dict(sorted(dicTf.items(), key=lambda item: item[1]))
     posi =  dict(sorted(dicIdfPositivo.items(), key=lambda item: item[1]))
     nega =  dict(sorted(dicIdfNegativo.items(), key=lambda item: item[1]))
-    
-    print("positivo")
-    print(posi)
-    print("Negativo")
-    print(nega)
 
+print("idf positivo")
+print(posi)
+print("idf Negativo")
+print(nega)
 
+listOfValuesPosi = posi.values()
+listOfValuesNeg = nega.values()
+listOfValuesTf = tf.values()
 
+listOfValuesPosi = list(listOfValuesPosi)
+listOfValuesNeg = list(listOfValuesNeg)
+listOfValuesTf = list(listOfValuesTf)
 
+print("Matriz IDF positivos")
+print(listOfValuesPosi)
+print("Matriz IDF Negativo")
+print(listOfValuesNeg)
 
+numerosX = listOfValuesPosi
+numerosY = listOfValuesNeg
+numerosQ = listOfValuesTf
 
-    
+tf_idfposi= []
+tf_idf2neg= []
 
-        
-    
-    
-        
+print("tf-idf positivo")
+tf_idfposi = [x*y for x, y in zip(numerosX, numerosQ)]
+print(tf_idfposi)
 
+print("tf-idf Negativo")
+tf_idfneg = [x*y for x, y in zip(numerosY, numerosQ)]
+print(tf_idfneg)
