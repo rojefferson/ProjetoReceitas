@@ -131,10 +131,11 @@ for file  in os.listdir(localPath):
         if dicIdfNegativo.get(key) is  None:
             dicIdfNegativo[key] = computaIDF(key,"negativo")
     
-    
+    #ordenar tf e idf
     tf =  dict(sorted(dicTf.items(), key=lambda item: item[1]))
     posi =  dict(sorted(dicIdfPositivo.items(), key=lambda item: item[1]))
     nega =  dict(sorted(dicIdfNegativo.items(), key=lambda item: item[1]))
+
 
 print("idf positivo")
 print(posi)
