@@ -2,6 +2,10 @@ Crawler  :
 pip install requests 
 pip install bs4
 
+# Vídeo de apresentação completo:
+
+### https://youtu.be/0pLGJ0Chrcc
+### https://drive.google.com/file/d/1nANyXgxAkCy0qXkBYjp1HWbA5zRPlb1E/view?usp=sharing
 
 Teste  : 
 pip install fake_useragent
